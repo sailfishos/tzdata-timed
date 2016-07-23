@@ -190,3 +190,6 @@ EC	-0054-08936	Pacific/Galapagos	Galapagos Islands
 # MCC=425, Palestinian National Authority (PS)
 PS	+3130+03428	Asia/Gaza	Gaza Strip
 PS	+313200+0350542	Asia/Hebron	West Bank
+
+# MCC=537, Papua New Guinea
+PG	-0930+14710	Pacific/Port_Moresby	Papua New Guinea (most areas)
