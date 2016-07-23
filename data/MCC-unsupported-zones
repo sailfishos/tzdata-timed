@@ -12,6 +12,7 @@
 # work in GU, unless timed is able to use the MNCs of the operators:
 # 032, 033, 140, 370 for MCC 310, and 250 for MCC 311.
 ^31..*GU
+^31..*MP
 
 # Bermuda (BM) has some networks that use the MCC 310 of US, remove
 # lines with US MCC and BM. Setting time based on MCC 310 only will
@@ -21,11 +22,11 @@
 
 # Kosovo is mentioned with the non-standard country code RKS,
 # which does not exist in zone.tab, making it useless for timed
-# Networks operating in RKS use country codes from Slovenia (SI) 293,
-# and Monaco (MC). RKS, SI, and MC are on the same time zone
+# Networks operating in XK use country codes from Slovenia (SI) 293,
+# and Monaco (MC). XK, SI, and MC are on the same time zone
 # CET (UTC+1)/CEST (UTC+2), so setting time based on SI or MC should
 # work.
-RKS
+XK
 
 # Remove networks Isle of Man (IM), Jersey (JE), Guernsey (GG) using
 # the MCC 234 of Britain (GB). IM, JE, GG, and GB share the time zone
