@@ -1,7 +1,7 @@
 Name:       tzdata-timed
 
 Summary:    Data files for the time daemon, timed
-Version:    2016f
+Version:    2017b
 Release:    1
 Group:      System/System Control
 License:    Public Domain
