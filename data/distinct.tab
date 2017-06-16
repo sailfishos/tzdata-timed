@@ -192,3 +192,6 @@ PS	+313200+0350542	Asia/Hebron	West Bank
 
 # MCC=537, Papua New Guinea
 PG	-0930+14710	Pacific/Port_Moresby	Papua New Guinea (most areas)
+
+# MCC=280, Cyprus
+CY	   +3510+03322	Asia/Nicosia	Cyprus (most areas)
