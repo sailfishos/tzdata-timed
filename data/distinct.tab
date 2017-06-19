@@ -31,8 +31,7 @@ CD -1140+02728 Africa/Lubumbashi east Dem. Rep. of Congo
 RU	+5545+03735	Europe/Moscow	Moscow+00 - west Russia
 
 RU	+5443+02030	Europe/Kaliningrad	Moscow-01 - Kaliningrad
-#                       see above   Moscow+00
-#                       there is no Moscow+01 anymore
+RU	+5312+05009	Europe/Samara	Moscow+01 - Samara, Udmurtia
 RU	+5651+06036	Asia/Yekaterinburg	Moscow+02 - Urals
 RU	+5500+07324	Asia/Omsk	Moscow+03 - west Siberia
 RU	+5601+09250	Asia/Krasnoyarsk	Moscow+04 - Yenisei River
@@ -40,7 +39,7 @@ RU	+5216+10420	Asia/Irkutsk	Moscow+05 - Lake Baikal
 RU	+6200+12940	Asia/Yakutsk	Moscow+06 - Lena River
 RU	+4310+13156	Asia/Vladivostok	Moscow+07 - Amur River
 RU	+5934+15048	Asia/Magadan	Moscow+08 - Magadan
-#                       there is no Moscow+09 anymore
+RU	+5301+15839	Asia/Kamchatka	Moscow+09 - Kamchatka
 
 # MCC=268 Portugal (PT)
 # Has 3 Olson names, but Madeira is using mainland time
@@ -48,7 +47,7 @@ RU	+5934+15048	Asia/Magadan	Moscow+08 - Magadan
 PT	+3843-00908	Europe/Lisbon	mainland
 PT	+3744-02540	Atlantic/Azores	Azores
 
-# MCC=290, Greenlang (luckily not using Denmark MCC)
+# MCC=290, Greenland (luckily not using Denmark MCC)
 # Four different Olson names, the capital is Nuuk(Godthab)
 GL	+6411-05144	America/Godthab	most locations
 GL	+7646-01840	America/Danmarkshavn	east coast, north of Scoresbysund
@@ -179,7 +178,7 @@ BR	-0846-06354	America/Porto_Velho	Rondonia
 BR	-0351-03225	America/Noronha	Atlantic islands
 BR	-2027-05437	America/Campo_Grande	Mato Grosso do Sul
 
-# MCC=730, Chilie (CL), 2 distinct Olson names
+# MCC=730, Chile (CL), 2 distinct Olson names
 CL	-3327-07040	America/Santiago	most locations
 CL	-2709-10926	Pacific/Easter	Easter Island & Sala y Gomez
 
@@ -193,3 +192,6 @@ PS	+313200+0350542	Asia/Hebron	West Bank
 
 # MCC=537, Papua New Guinea
 PG	-0930+14710	Pacific/Port_Moresby	Papua New Guinea (most areas)
+
+# MCC=280, Cyprus
+CY	   +3510+03322	Asia/Nicosia	Cyprus (most areas)

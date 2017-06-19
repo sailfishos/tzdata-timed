@@ -1,12 +1,12 @@
 Name:       tzdata-timed
 
 Summary:    Data files for the time daemon, timed
-Version:    2016f
+Version:    2017b
 Release:    1
 Group:      System/System Control
 License:    Public Domain
 BuildArch:  noarch
-URL:        https://github.com/nemomobile/tzdata-timed
+URL:        https://git.merproject.org/mer-core/tzdata-timed
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   tzdata
 

@@ -39,12 +39,12 @@ fi
 TMPFILE1=`mktemp`
 TMPFILE2=`mktemp`
 
-# Fetch all lines that begin with either | or |====,
+# Fetch all lines that begin with either | or |===,
 # remove MCC codes 001 (test network) & 901 (international networks)
-grep -e "^|\|^====" $1 | grep -v "^|-\||}" \
+grep -e "^|\|^===" $1 | grep -v "^|-\||}" \
     | grep -v "^|[[:space:]]*001\|^|[[:space:]]*901" > $TMPFILE1
 
-# Remove wiki table controls, |, ||, [[, ]], ====, Replace " - " with ,
+# Remove wiki table controls, |, ||, [[, ]], ===, Replace " - " with ,
 cat $TMPFILE1 | sed 's/^|[[:space:]]*//' | sed 's/[[:space:]]*||[[:space:]]*/,/g' \
     | sed 's/^=*[[:space:]]*\[\[//' | sed 's/]*[[:space:]]*-[[:space:]]*/,/' \
     | sed 's/[[:space:]]=*$//' | sed 's/\[\[//g' | sed 's/\]\]//g' > $TMPFILE2
