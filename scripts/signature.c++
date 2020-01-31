@@ -94,6 +94,7 @@ string process_tz(const char *base, const char *timezone)
   tm.tm_hour = 12 ;
   tm.tm_min = 34 ; // 12:34 1st of January GMT
   tm.tm_sec = 0 ;
+  tm.tm_isdst = 0 ;
 
   time_t begin = mktime(&tm) ;
 
