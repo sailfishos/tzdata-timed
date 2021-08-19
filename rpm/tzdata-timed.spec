@@ -3,10 +3,9 @@ Name:       tzdata-timed
 Summary:    Data files for the time daemon, timed
 Version:    2017b
 Release:    1
-Group:      System/System Control
 License:    Public Domain
 BuildArch:  noarch
-URL:        https://git.merproject.org/mer-core/tzdata-timed
+URL:        https://github.com/sailfishos/tzdata-timed
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   tzdata
 
