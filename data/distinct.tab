@@ -49,7 +49,7 @@ PT	+3744-02540	Atlantic/Azores	Azores
 
 # MCC=290, Greenland (luckily not using Denmark MCC)
 # Four different Olson names, the capital is Nuuk(Godthab)
-GL	+6411-05144	America/Godthab	most locations
+GL	+6411-05144	America/Nuuk	most locations
 GL	+7646-01840	America/Danmarkshavn	east coast, north of Scoresbysund
 GL	+7029-02158	America/Scoresbysund	Scoresbysund / Ittoqqortoormiit
 GL	+7634-06847	America/Thule	Thule / Pituffik
