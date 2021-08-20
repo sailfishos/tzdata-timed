@@ -11,7 +11,6 @@ the files
 
   iso8601    Custom ISO 8016 time zones in the same format
              as the time zone files in [TZDATA DIR]
-  yearistype Executable to check year type, see man zic
 
 Options:
   -h         Print this message"
@@ -44,7 +43,6 @@ src_dir=$1
 build_dir=$2
 
 zic=/usr/sbin/zic
-yearistype=$build_dir/yearistype
 output=$build_dir/zones-without-links
 
 if [ ! -x $zic ]; then
@@ -52,14 +50,9 @@ if [ ! -x $zic ]; then
     exit 1
 fi
 
-if [ ! -x $yearistype ]; then
-    echo "${0##*/}: $yearistype does not exist or is not executable"
-    exit 1
-fi
-
 rm -rf $output && mkdir -p $output
 
-zic_cmd="$zic -L /dev/null -y $yearistype "
+zic_cmd="$zic -L /dev/null "
 
 input="$src_dir/africa $src_dir/antarctica $src_dir/asia $src_dir/australasia $src_dir/europe $src_dir/northamerica $src_dir/southamerica"
 input="$input $build_dir/iso8601"

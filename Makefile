@@ -26,16 +26,11 @@ iso8601zones: createdirs
 tzsources: createdirs
 	tar -C $(SRC_DIR) -xzf $(lastword $(wildcard $(TZDB_DIR)/tzdata*.tar.gz))
 
-# Copy the yearistype.sh script from upstream tz database to build dir.
-yearistype: tzsources
-	cp $(SRC_DIR)/yearistype.sh $(BUILD_DIR)/yearistype
-	chmod a+x $(BUILD_DIR)/yearistype
-
 # Build the tz database without links (aliases between timezones),
 # and with custom ISO 8601 zones, exclude zones defined in etcetera,
 # factory, systemv, backward solar87, solar88, solar89.
 # Create a list of time zones without links, store in file zone.list.
-list-zones-without-links: tzsources iso8601zones yearistype
+list-zones-without-links: tzsources iso8601zones
 	$(SCRIPTS_DIR)/zone-list.sh $(SRC_DIR) $(BUILD_DIR) > $(BUILD_DIR)/zone.list
 
 # Build the complete tz database with links, and add custom ISO 8601 zones
@@ -43,7 +38,7 @@ list-zones-without-links: tzsources iso8601zones yearistype
 # Calculate md5 sums for the time zones, store in file md5sums
 # Calculate custom signatures for the time zones with the signature program,
 # store in file signatures.
-process-zones: tzsources signature iso8601zones yearistype
+process-zones: tzsources signature iso8601zones
 	$(SCRIPTS_DIR)/zone-generate.sh $(SRC_DIR) $(BUILD_DIR)
 
 # Create a list of all time zone main names and aliases (if any). See

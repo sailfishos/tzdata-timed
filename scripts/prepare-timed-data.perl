@@ -361,7 +361,7 @@ sub find_major_and_minor_zones
     my $minor_xy = [] ;
     $major->{$xy} = $major_xy ;
     $minor->{$xy} = $minor_xy ;
-    print "processing multy zone country $xy ... " ;
+    print "processing multi zone country $xy ... " ;
     my $known_sig = {} ;
     my $processed = {} ;
     # first ckeck, that major zones differ
@@ -369,6 +369,7 @@ sub find_major_and_minor_zones
     for my $z (@$list1)
     {
       my $tz = $z->{tz} ;
+      die "No signature for $tz" unless exists $signatures->{$tz} ;
       my $sig = $signatures->{$tz} ;
       die "$tz is the same as ".$known_sig->{$sig} if exists $known_sig->{$sig} ;
       $known_sig->{$sig} = $tz ;
