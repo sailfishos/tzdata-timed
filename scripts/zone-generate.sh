@@ -16,7 +16,6 @@ the files
 
   iso8601    Custom ISO 8601 time zones in the same format
              as the time zone files in [TZDATA DIR]
-  yearistype Executable to check year type, see man zic
   signatures Executable to calculate custom digital
              signatures for time zones in the compiled tz
              database
@@ -49,7 +48,6 @@ build_dir=$2
 zic=/usr/sbin/zic
 
 # Input
-yearistype=$build_dir/yearistype
 signature=$build_dir/signature
 leapseconds=$source_dir/leapseconds
 iso8601=$build_dir/iso8601
@@ -65,13 +63,8 @@ if [ ! -x $zic ]; then
     exit 1
 fi
 
-if [ ! -x $yearistype ]; then
-    echo "${0##*/}: $yearistype does not exist or is not executable"
-    exit 1
-fi
-
 if [ ! -x $signature ]; then
-    echo "${0##*/}: $yearistype does not exist or is not executable"
+    echo "${0##*/}: $signature does not exist or is not executable"
     exit 1
 fi
 
@@ -84,14 +77,14 @@ rm -rf $output $signatures $md5sum && mkdir -p $output
 
 input="$source_dir/africa $source_dir/antarctica $source_dir/asia $source_dir/australasia $source_dir/europe $source_dir/northamerica $source_dir/southamerica"
 input="$input $iso8601"
-input="$input $source_dir/etcetera $source_dir/factory $source_dir/systemv $source_dir/backward"
+input="$input $source_dir/etcetera $source_dir/factory $source_dir/backward"
 #input="$input $source_dir/solar87 $source_dir/solar88 $source_dir/solar89"
 
 for i in $input ; do
   echo "Processing '$i'"
-  $zic -d $output -L /dev/null -y $yearistype $i 2> $build_dir/stderr
-  $zic -d $output/posix -L /dev/null -y $yearistype $i 2>> $build_dir/stderr
-  $zic -d $output/right -L $leapseconds -y $yearistype $i 2>> $build_dir/stderr
+  $zic -d $output -L /dev/null $i 2> $build_dir/stderr
+  $zic -d $output/posix -L /dev/null $i 2>> $build_dir/stderr
+  $zic -d $output/right -L $leapseconds $i 2>> $build_dir/stderr
   cat $build_dir/stderr | grep -v "time zone abbreviation differs from POSIX standard" >&2 || true
 done
 $zic -d $output -p America/New_York

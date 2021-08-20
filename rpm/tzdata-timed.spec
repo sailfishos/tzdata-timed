@@ -1,7 +1,7 @@
 Name:       tzdata-timed
 
 Summary:    Data files for the time daemon, timed
-Version:    2017b
+Version:    2021a
 Release:    1
 License:    Public Domain
 BuildArch:  noarch
