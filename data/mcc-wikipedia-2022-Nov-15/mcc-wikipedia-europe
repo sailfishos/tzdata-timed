@@ -1,0 +1,2390 @@
+{{Short description|none}}
+This list contains the [[mobile country code]]s (MCC) and [[mobile network code]]s (MNC) for networks with country codes between 200 and 299, inclusive. This range covers [[List of mobile network operators of Europe|Europe]], as well as: the Asian parts of the [[#Russian Federation - RU|Russian Federation]] and [[#Turkey - TR|Turkey]]; [[#Georgia - GE|Georgia]]; [[#Armenia - AM|Armenia]]; [[#Greenland (Kingdom of Denmark) - GL|Greenland]]; the Azores and Madeira as parts of [[#Portugal - PT|Portugal]]; and the Canary Islands as part of [[#Spain - ES|Spain]].
+
+== National operators ==
+{{Compact ToC|name=Countries and territories|center=yes|o=O|q=Q|v=V|w=W|x=X|y=Y|z=Z}}
+
+=== A ===
+==== [[Abkhazia]] – GE-AB ====
+{| {{MNC}}
+|-
+| 289 || 67 ||  Aquafon || Aquafon JSC || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 || MCC is not listed by ITU;<ref name=itu_ob_1117/> LTE band 20<ref name=gsa_lte/>
+|-
+| 289 || 88 ||  A-Mobile || A-Mobile LLSC || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 || MCC is not listed by ITU<ref name=itu_ob_1117/>
+|}
+
+==== [[Albania]] – AL ====
+{| {{MNC}}
+|-
+| 276 || 01 || ONE || [[One Telecommunications]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600 || Former Telekom Albania<ref name=gsa_lte/><ref name=itu_ob_1224/>
+|-
+| 276 || 02 || Vodafone || [[Vodafone Albania]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600 || <ref name=gsa_lte/>
+|-
+| 276 || 03 || ALBtelecom || [[Albtelecom]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || Former Eagle Mobile<ref name=gsa_lte/><ref name=itu_ob_1224/>
+|-
+| 276 || 04 || Plus Communication || [[Plus Communication]] || Not operational || GSM 900 / GSM 1800 / UMTS 2100 || <ref name=mwlive/> Shut down Jan 2018;<ref name=halberd/> MNC withdrawn<ref name=itu_ob_1224/>
+|}
+
+==== [[Andorra]] – AD ====
+{| {{MNC}}
+|-
+| 213 || 03 || Som, Mobiland || [[Andorra Telecom]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G || LTE band 20; former Servei de Telecommunicacions d'Andorra<ref name=gsa_lte/><ref name=halberd/><ref name=gsa_hspa/><ref>{{cite web |title=Andorra |url=http://maps.mobileworldlive.com/network.php?cid=2&cname=Andorra |publisher=GSMA |accessdate=25 April 2014}}</ref>
+|}
+
+==== [[Armenia]] – AM ====
+{| {{MNC}}
+|-
+| 283 || 01 || [[Beeline (telecommunications)|Beeline]] || [[Veon Armenia CJSC]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 450 / LTE 1800 || <ref name=gsa_lte/>
+|-
+| 283 || 04 || Karabakh Telecom || Karabakh Telecom || Operational || GSM 900 / UMTS 900 ||
+|-
+| 283 || 05 || VivaCell-MTS || K Telecom CJSC || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600 ||
+|-
+| 283 || 10 || [[Ucom]] || Ucom LLC || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 || Former Orange
+|}
+
+==== [[Austria]] – AT ====
+{| {{MNC}}
+|-
+| 232 || 01 || A1.net || [[:de:Telekom Austria|A1 Telekom Austria]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 || former A1 / Mobilkom / PTA <ref name=gsma_austria>{{cite web |title=Austria |url=http://maps.mobileworldlive.com/network.php?cid=3&cname=Austria |publisher=GSMA |accessdate=25 April 2014}}</ref><ref>{{cite web |url=http://www.a1.net/newsroom/2014/01/a1-startet-lte-800-high-speed-mobilfunknetz-am-stadtrand-und-im-landlichen-bereich/ |title=A1 startet LTE 800 High-Speed Mobilfunknetz am Stadtrand und im ländlichen Bereich |publisher=[[mobilkom Austria|A1]] |language=German |accessdate=25 April 2014}}</ref>
+|-
+| 232 || 02 || || A1 Telekom Austria || Reserved || ||
+|-
+| 232 || 03 || [[Magenta Telekom|Magenta]] || T-Mobile Austria GmbH || Operational || GSM 900 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500 || former Max.Mobil, T-Mobile; national roaming agreement with 232-10: uses Hutchison Drei UMTS where no own coverage<ref name=gsma_austria/>
+|-
+| 232 || 04 || Magenta || T-Mobile Austria GmbH || Unknown || Unknown || former T-Mobile<ref name=itu_ob_1019/>
+|-
+| 232 || 05 || 3 || Hutchison Drei Austria || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 || owned by Hutchison Drei Austria / former [[:de:Orange Austria|Orange Austria]] / One / Connect;<ref name=gsma_austria/> GSM 900 / LTE 900 rarely used
+|-
+| 232 || 06 || Orange AT || Orange Austria GmbH || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1019/><ref name=itu_ob_1078/><ref name=authority_at/>
+|-
+| 232 || 07 || [[Aldi Talk|Hofer Telekom]] || T-Mobile Austria || Operational || MVNO || former [[:de:Telering|tele.ring]]<ref name=telering_history_derstandard/><ref name=magenta_press_release/>
+|-
+| 232 || 08 || Lycamobile || [[LycaMobile|Lycamobile Austria]] || Operational || MVNO ||
+|-
+| 232 || 09 || Tele2Mobil || A1 Telekom Austria || Operational || MVNO || division bought from [[:de:Tele2#Österreich|Tele2]] by A1 Telekom Austria; customers "moved" to bob (232-11)
+|-
+| 232 || 10 || 3 || [[:de:Hutchison Drei Austria|Hutchison Drei Austria]] || Operational || UMTS 2100 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 || national roaming agreement with 232-03: uses T-Mobile GSM where no own coverage
+|-
+| 232 || 11 || [[:de:Bob (Mobilfunk)|bob]] || A1 Telekom Austria || Operational || MVNO || brand of A1 Telekom Austria
+|-
+| 232 || 12 || [[:de:Yesss|yesss!]] || A1 Telekom Austria || Operational || MVNO || owned by A1 Telekom Austria / one-way national roaming agreement with 232-05
+|-
+| 232 || 13 || Magenta || T-Mobile Austria GmbH || Operational || MVNO || Former [[:de:UPC Austria|UPC Austria]]
+|-
+| 232 || 14 || || Hutchison Drei Austria || Reserved || Unknown ||
+|-
+| 232 || 15 || Vectone Mobile || Mundio Mobile Austria || Operational || MVNO || former Barablu Mobile Austria, uses A1<ref>{{cite web |url=https://www.mvnodynamics.com/mvno-companies/austria-mvno-companies/ |title=Austria MVNO, MVNA/E Complete List |accessdate=2016-03-31 |url-status=dead |archiveurl=https://web.archive.org/web/20160412115803/https://www.mvnodynamics.com/mvno-companies/austria-mvno-companies/ |archivedate=12 April 2016 |df=dmy-all }}</ref>
+|-
+| 232 || 16 || || Hutchison Drei Austria || Reserved || Unknown ||
+|-
+| 232 || 17 || spusu || [https://www.massresponse.com MASS Response Service GmbH] || Operational || MVNO || <ref name=authority_at/>
+|-
+| 232 || 18 || || smartspace GmbH || Unknown || MVNO || <ref name=authority_at/>
+|-
+| 232 || 19 || || Hutchison Drei Austria || Unknown || Unknown || Former [[Tele2#Austria|Tele2 Telecommunication GmbH]]<ref name=authority_at/>
+|-
+| 232 || 20 || m:tel || [[MTEL Austrija GmbH]] || Operational || MVNO || By [[Telekom Srbija|Serbian Telecom]]<ref name=itu_ob_1078/>
+|-
+| 232 || 21 || || [https://www.salzburg-ag.at/ Salzburg AG für Energie, Verkehr und Telekommunikation] || Unknown || Unknown || <ref name=authority_at/>
+|-
+| 232 || 22 || || [http://www.plintron.com/ Plintron Austria Limited] || Unknown || MVNO || <ref name=authority_at/>
+|-
+| 232 || 23 || Magenta || T-Mobile Austria GmbH || Not operational || Unknown || former T-Mobile; MNC withdrawn<ref name=authority_at/>
+|-
+| 232 || 24 || || Smartel Services GmbH || Not operational || Unknown || MNC withdrawn<ref name=authority_at/>
+|-
+| 232 || 25 || ||  Holding Graz Kommunale Dienstleistungen GmbH || Unknown || Unknown || <ref name=authority_at/>
+|-
+| 232 || 26 || || [[:de:Liwest|LIWEST Kabelmedien GmbH]] || Unknown || Unknown || <ref name=authority_at/>
+|-
+| 232 || 27 || || TISMI B.V. || Unknown || Unknown || <ref name=authority_at/>
+|-
+| 232 || 91 || GSM-R A || [[Austrian Federal Railways|ÖBB]] || Operational || GSM-R || railways communication
+|-
+| 232 || 92 || ArgoNET || [http://www.argonet.at ArgoNET GmbH] || Operational || CDMA450 / LTE450 || machine to machine communication for critical infrastructure <ref name=authority_at/>
+|}
+
+=== B ===
+==== [[Belarus]] – BY ====
+{| {{MNC}}
+|-
+| 257 || 01 || A1 || [[A1 Belarus]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 || Former velcom; LTE via beCloud
+|-
+| 257 || 02 || MTS || [[Mobile TeleSystems]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 || LTE via beCloud
+|-
+| 257 || 03 || DIALLOG || BelCel || Not operational || CDMA 450 || Closed on 21 January 2014<ref>{{cite web|url=http://www.diallog.by/press/news/id_893/|archive-url=https://web.archive.org/web/20140209081149/http://diallog.by/press/news/id_893/|archive-date=9 February 2014|date=23 January 2014|title=Постановление|accessdate=23 October 2017}}</ref>
+|-
+| 257 || 04 || life:) || Belarusian Telecommunications Network || Operational || GSM 900 / GSM 1800 / UMTS 2100 || Former BeST; LTE via beCloud
+|-
+| 257 || 05 || byfly || Beltelecom || Not operational || WiMAX 3500 || <ref name=itu_ob_1019/> Closed on 1 May 2017<ref>{{cite web|url=http://www.byfly.by/news/02-05-2017-%C2%ABbeltelekom%C2%BB-zakryvaet-kommercheskoe-predostavlenie-uslugi-%C2%ABdostup-v-set-internet-na/|title="Белтелеком" закрывает коммерческое предоставление услуги "Доступ в сеть Интернет на базе технологии WiMAX"|trans-title="Beltecom" discontinues Internet access through WiMAX|language=ru|date=2 May 2017|accessdate=23 October 2017}}</ref>
+|-
+| 257 || 06 || beCloud || Belorussian Cloud Technologies || Operational || LTE 800 / LTE 1800 / LTE 2600 || Former Yota Bel;<ref name=itu_ob_1039/> wholesale network used by MTS,<ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2015/12/22/mts-belarus-4g-network-goes-live-in-minsk/ |title=MTS Belarus' 4G network goes live in Minsk |publisher=TeleGeography |date=2015-12-22 |accessdate=2015-12-22}}</ref> life:), and A1
+|}
+
+==== [[Belgium]] – BE ====
+{| {{MNC}}
+|-
+| 206 || 00|| [[Proximus]] || Belgacom Mobile || Not operational || Unknown || <ref name=itu_ob_1079/> MNC withdrawn<ref name=itu_ob_1142/>
+|-
+| 206 || 01 || [[Proximus]] || Belgacom Mobile || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 2100 / 5G 3500 ||
+|-
+| 206 || 02 || || [[Infrabel]] || Operational || GSM-R || <ref name=itu_ob_1051/>
+|-
+| 206 || 03 || [[Citymesh Connect]] || Citymesh NV || Operational || LTE 2600 / LTE 3500 || MVNO and private network<ref name=itu_ob_1210/>
+|-
+| 206 || 04 || MWingz || [[Proximus]]/[[Orange Belgium]] || Planned || Unknown|| Shared Proximus/Orange Belgium<ref name=itu_ob_1237/>
+|-
+| 206 || 05 || [[Telenet (Belgium)|Telenet]] || Telenet|| Operational || MVNO || Using Base's Network
+|-
+| 206 || 06 || [[Lycamobile]] || Lycamobile sprl || Operational || MVNO || <ref name=itu_ob_1051/> Using Telenet
+|-
+| 206 || 07 || Vectone Mobile || Mundio Mobile Belgium nv || Reserved || MVNO || <ref name=itu_ob_1051/>
+|-
+| 206 || 08 || [[VOO]] || {{ill|Nethys|fr}} || Operational || MVNO || <ref name=itu_ob_1142/><ref name=authority_be/>
+|-
+| 206 || 09 || [[Voxbone]] || Voxbone mobile || Not operational || MVNO || MNC withdrawn<ref name=authority_be/>
+|-
+| 206 || 10 || [[Orange Belgium]] || Orange S.A. || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || Former [[Mobistar]]<ref name=gsa_lte/><ref name=mwlive/>
+|-
+| 206 || 11 || L-mobi || [https://l-mobimobile.be/?lang=en L-Mobi Mobile] || Not operational || MVNO || <ref name=itu_ob_1210/> MNC withdrawn<ref name=authority_be/>
+|-
+| 206 || 15 || || Elephant Talk Communications Schweiz GmbH || Not operational || Unknown || MNC withdrawn <ref name=itu_ob_1051/><ref name=itu_ob_1056/>
+|-
+| 206 || 16 || || NextGen Mobile Ltd. || Not operational || Unknown || MNC withdrawn<ref name=authority_be/>
+|-
+| 206 || 20 || [[Base (mobile telephony provider)|Base]] || [[Telenet (Belgium)|Telenet]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 ||
+|-
+| 206 || 22 || Febo.mobi || [https://febotele.com/ FEBO Telecom] || Not operational || MVNO || <ref name=itu_ob_1210/> MNC withdrawn<ref name=authority_be/>
+|-
+| 206 || 25 || || Dense Air Belgium SPRL || Unknown || TD-LTE 2600 || Former Voyacom<ref name=mwlive/><ref name=itu_ob_1142/><ref name=authority_be/>
+|-
+| 206 || 28 || || [[Belgacom ICS|BICS]] || Unknown || Unknown || <ref name=itu_ob_1142/>
+|-
+| 206 || 29 || || TISMI || Not operational || MVNO || <ref name=itu_ob_1210/> MNC withdrawn<ref name=authority_be/>
+|-
+| 206 || 30 || Mobile Vikings || Unleashed NV || Operational || MVNO || <ref name=itu_ob_1142/> Uses Proximus network
+|-
+| 206 || 33 || || Ericsson NV || Not operational || Unknown || Test network<ref name=itu_ob_1142/><ref name=authority_be/>
+|-
+| 206 || 34 || || Dense Air Belgium SPRL || Unknown || Unknown || <ref name=itu_ob_1237/>
+|-
+| 206 || 40 || JOIN || JOIN Experience (Belgium) || Not operational || MVNO || <ref name=itu_ob_1065/> MNC withdrawn<ref name=itu_ob_1164/>
+|-
+| 206 || 50 || || [http://www.ipnexia.com/ IP Nexia] || Not operational || MVNO || <ref name=itu_ob_1142/> MNC withdrawn<ref name=authority_be/>
+|-
+| 206 || 71 || || test || Not operational || Unknown || Test network; MNC withdrawn<ref name=authority_be/>
+|-
+| 206 || 72 || || test || Not operational || Unknown || Test network; MNC withdrawn<ref name=authority_be/>
+|-
+| 206 || 73 || || test || Not operational || Unknown || Test network; MNC withdrawn<ref name=authority_be/>
+|-
+| 206 || 74 || || test || Not operational || Unknown || Test network; MNC withdrawn<ref name=authority_be/>
+|-
+| 206 || 99 || || [https://www.ebo-enterprises.com/?lang=en e-BO Enterprises] || Not operational || LTE? || <ref name=itu_ob_1210/> MNC withdrawn<ref name=authority_be/>
+|-
+| 270 || 77 || || Proximus Luxembourg S.A. || Unknown || Unknown || Uses Luxembourg MCC<ref name=itu_ob_1210/>
+|-
+| 270 || 99 || || Orange Communications Luxembourg S.A. || Unknown || Unknown || Uses Luxembourg MCC<ref name=itu_ob_1211/>
+|}
+
+==== [[Bosnia and Herzegovina]] – BA ====
+{| {{MNC}}
+|-
+| 218 || 03 || [[HT-ERONET]] || [[Hrvatski Telekom|Public Enterprise Croatian Telecom Ltd.]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE ||
+|-
+| 218 || 05 || [[M-tel (Bosnia and Herzegovina)|m:tel ]]  || [[Telekom Srpske|RS Telecommunications JSC Banja Luka]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE || GSM-MS1, Mobilna Srpske, Mobi's
+|-
+| 218 || 90 || [[BH Mobile]] || [[BH Telecom]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE || GSMBiH
+|}
+
+==== [[Bulgaria]] – BG ====
+{| {{MNC}}
+|-
+| 284 || 01 || A1 BG || [[Mtel (Bulgaria)|A1 Bulgaria]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / 5G 3500 || Former Citron, Mobiltel, M-Tel
+|-
+| 284 || 03 || Vivacom || [[Bulgarian Telecommunications Company|BTC]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / 5G 1800 / 5G 2100 || Former [[Vivatel]]
+|-
+| 284 || 05 || Yettel || [[Yettel Bulgaria]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100 / 5G 3500 || Former [[Globul]],<ref>{{cite web |title=Bulgaria |url=http://maps.mobileworldlive.com/network.php?cid=2&cname=Bulgaria |publisher=GSMA |accessdate=29 April 2014}}</ref> Telenor
+|-
+| 284 || 07 || НКЖИ ||НАЦИОНАЛНА КОМПАНИЯ ЖЕЛЕЗОПЪТНА ИНФРАСТРУКТУРА || Operational || GSM-R || (The Bulgarian) National Railway Infrastructure Company
+|-
+| 284 || 09 || || COMPATEL LIMITED || Not operational || Unknown || MNC withdrawn<ref name=authority_bg/>
+|-
+| 284 || 11 || || [[Bulsatcom]] || Operational || LTE 1800 ||
+|-
+| 284 || 13 || Ти.ком || Ti.com JSC || Operational || LTE 1800 || Former [[Max Telecom]]
+|}
+
+=== C ===
+==== [[Croatia]] – HR ====
+{| {{MNC}}
+|-
+| 219 || 01 || HT HR || [[T-Hrvatski Telekom]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 2100 / 5G 3500 / 5G 26000 || Former CRONET,
+HTmobile<ref name="gsa_lte"/><ref name=halberd/>
+|-
+| 219 || 02 || || [[Telemach]] || Operational || GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600 / 5G 3500 || Former [[Tele2#Croatia|Tele2]]<ref name=gsa_umts900/><ref name=halberd/>
+|-
+| 219 || 04 || || NTH Mobile d.o.o. || Unknown || MVNO || <ref name=authority_hr/>
+|-
+| 219 || 10 || A1 HR || [[A1 Hrvatska]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 700 / 5G 3500 || Former Vipnet<ref name="gsa_lte"/>
+|-
+| 219 || 12 || || [http://www.telefocus.hr/ TELE FOCUS d.o.o.] || Unknown || MVNO || <ref name=authority_hr/>
+|-
+| 219 || 20 || T-Mobile HR || [[T-Hrvatski Telekom]] || Unknown || Unknown || <ref name=authority_hr/>
+|}
+
+==== [[Cyprus]] – CY ====
+{| {{MNC}}
+|-
+| 280 || 01 || [[Vodafone#Europe|Cytamobile-Vodafone]] || [[CYTA|Cyprus Telecommunications Authority]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 700 / 5G 3500 ||
+|-
+| 280 || 02 || [[Vodafone#Europe|Cytamobile-Vodafone]] || [[CYTA|Cyprus Telecommunications Authority]] || Unknown || Unknown || <ref name=itu_ob_1173/>
+|-
+| 280 || 10 || Epic || [[Monaco Telecom]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 || Former [[MTN Group|MTN]]<ref name=halberd/>
+|-
+| 280 || 20 || PrimeTel || [[PrimeTel PLC]] || Operational || UMTS 2100 / LTE 900 / LTE 1800 || Originally MVNO, MNO since 2015. Uses Epic for 2G/3G roaming.
+|-
+| 280 || 22 || lemontel || Lemontel Ltd || Operational || MVNO || <ref name=itu_ob_1019/>
+|-
+| 280 || 23 || Vectone Mobile || Mundio Mobile Cyprus Ltd. || Not operational || MVNO || <ref name=itu_ob_1078/> MNC withdrawn<ref name=itu_ob_1173/>
+|}
+
+==== [[Czech Republic]] – CZ ====
+{| {{MNC}}
+|-
+| 230 || 01 || T-Mobile || [[T-Mobile Czech Republic]] || Operational || GSM 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 2100 || Former Paegas; UMTS shut down Nov 2021<ref name="O2_T CZ">{{cite web |url=https://www.commsupdate.com/articles/2021/12/03/t-mobile-o2-switch-off-czech-3g-networks/ |title=T-Mobile, O2 switch off Czech 3G networks |publisher=TeleGeography |date=2021-12-03 |access-date=2021-12-06}}</ref>
+|-
+| 230 || 02 || O<sub>2</sub> || [[O2 Czech Republic]] || Operational || GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600 / TD-LTE 2600 / 5G 3500 || Former Eurotel;<ref name="gsa_lte1800_101213"/> CDMA 450 shut down June 2019;<ref name="O2 Cat4 CZ 2">{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2017/07/27/o2-czech-republic-uses-additional-frequencies-to-boost-4g-lte-speeds-in-prague/ |title=O2 Czech Republic uses additional frequencies to boost 4G LTE speeds in Prague |website=www.telegeography.com |date=2017-07-27 |accessdate=2019-04-05}}</ref><ref name=itu_ob_1202/><ref name=halberd/> UMTS shut down Nov 2021<ref name="O2_T CZ"/>
+|-
+| 230 || 03 || Vodafone || [[Vodafone Czech Republic]] || Operational || GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 1800 / 5G 2100 || Former Oskar;<ref name=gsa_lte/> UMTS shut down Mar 2021<ref name="O2_T CZ"/>
+|-
+| 230 || 04 ||  || [http://www.nordictelecom.cz/ Nordic Telecom s.r.o.] || Operational || MVNO / LTE 410 || Former U:fon, Air Telecom;<ref name=authority_cz/> CDMA 410&nbsp;MHz shut down Dec 2017;<ref>{{cite web|url=https://www.cnews.cz/nordic-telecom-slibuje-bezdratovy-lte-internet-s-kvalitou-optiky/|title=Nordic Telecom slibuje bezdrátový internet s kvalitou optiky|website=www.cnews.cz}}</ref> LTE 410 for public safety services<ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2019/04/17/nokia-nordic-telecom-launch-mcc-ready-lte-network-in-the-410mhz-430mhz-band/ |title=Nokia, Nordic Telecom launch MCC-ready LTE network in the 410MHz-430MHz band |website=www.telegeography.com |date=2019-04-17 |accessdate=2019-04-18}}</ref><ref name=itu_ob_1202/>
+|-
+| 230 || 05 ||  || [http://www.poda.cz/ PODA a.s.] || Operational || TD-LTE 3700 || Former TRAVEL TELEKOMMUNIKATION;<ref name=itu_ob_1080/><ref name=itu_ob_1132/> fixed wireless<ref name=halberd/>
+|-
+| 230 || 06 ||  || Nordic Telecom 5G a.s. || Operational || TD-LTE 3700 || Former OSNO TELECOMUNICATION<ref name=itu_ob_1161/>
+|-
+| 230 || 07 || T-Mobile || [[T-Mobile#Czech Republic|T-Mobile Czech Republic]] || Operational || LTE 800 || Former ASTELNET<ref name=itu_ob_1092/><ref name=itu_ob_1202/>
+|-
+| 230 || 08 ||  || Compatel s.r.o. || Unknown || Unknown || <ref name=itu_ob_1019/>
+|-
+| 230 || 09 || Unimobile || Uniphone, s.r.o. || Unknown || MVNO || Former Vectone/Mundio<ref name=itu_ob_1080/><ref name=itu_ob_1161/><ref name=itu_ob_1226/>
+|-
+| 230 || 98 ||  || Správa železniční dopravní cesty, s.o. || Operational || GSM-R 900 || railways communication<ref name=itu_ob_1202/>
+|-
+| 230 || 99 || Vodafone || [[Vodafone Czech Republic]]  || Not operational || GSM 1800 || R&D Centre at FEE, [[Czech Technical University in Prague|CTU]] (educational, experimental); licence expired Jul 2012<ref name=authority_cz/>
+|}
+
+=== D ===
+==== [[Denmark]] ([[Kingdom of Denmark]]) – DK ====
+{| {{MNC}}
+|-
+| 238 || 01 || TDC || [[TDC A/S]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || <ref name=gsa_lte/>
+|-
+| 238 || 02 || [[Telenor]] || [[Telenor Denmark]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 || Former Sonofon; UMTS 2100 shutdown 2021, UMTS 900  to shut down 2022<ref name="Telenor 2100MHz DK">{{cite web |url=https://www.commsupdate.com/articles/2022/02/09/telenor-denmark-launching-5g-sa-in-2022-shutting-umts-2100-by-year-end/ |title=Telenor Denmark launching 5G SA in 2022, shutting UMTS-2100 by year-end |publisher=TeleGeography |date=2022-02-09 |access-date=2022-02-12}}</ref>
+|-
+| 238 || 03 || || Syniverse Technologies || Unknown || Unknown || Former End2End / MIGway A/S / MACH Connectivity<ref name=aendringsliste_dk/><ref name=authority_dk/>
+|-
+| 238 || 04 || || Nexcon.io ApS || Unknown || Unknown || Former NextGen Mobile Ltd T/A CardBoardFish<ref name=itu_ob_1161/><ref name=authority_dk/>
+|-
+| 238 || 05 || TetraNet || Dansk Beredskabskommunikation A/S || Operational || TETRA || Former ApS KBUS 38 nr. 4418; owned by [[Motorola Solutions]]<ref name=itu_ob_1153/>
+|-
+| 238 || 06 || [[Hutchison 3G|3]] || Hi3G Denmark ApS || Operational || UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 700 / 5G 1800 / 5G 3500 ||
+|-
+| 238 || 07 || Vectone Mobile || Mundio Mobile (Denmark) Limited || Not operational || MVNO || Former Barablu;<ref name=aendringsliste_dk>{{cite web |title=Ændringsliste MNC-koder i Danmark |url=https://erhvervsstyrelsen.dk/sites/default/files/media/aendringsliste_mnc.pdf |publisher=Erhvervsstyrelsen |date=27 January 2015 |accessdate=11 February 2015}}</ref> MNC withdrawn <ref name=itu_ob_1153/>
+|-
+| 238 || 08 || [[Voxbone]] || Voxbone mobile || Operational || MVNO || Former Nordisk Mobiltelefon<ref name=aendringsliste_dk/>
+|-
+| 238 || 09 || SINE || Dansk Beredskabskommunikation A/S || Operational || TETRA || Owned by [[Motorola Solutions]]<ref name=itu_ob_1153/>
+|-
+| 238 || 10 || TDC || [[TDC A/S]] || Operational || Unknown || Test network
+|-
+| 238 || 11 || SINE || Dansk Beredskabskommunikation A/S || Operational || TETRA || Test network<ref name=itu_ob_1096/>
+|-
+| 238 || 12 || [[Lycamobile]] || Lycamobile Denmark Ltd || Operational || MVNO ||
+|-
+| 238 || 13 || || Compatel Limited || Unknown || Unknown || <ref name=aendringsliste_dk/>
+|-
+| 238 || 14 || || Monty UK Global Limited || Unknown || Unknown || <ref name=itu_ob_1112/>
+|-
+| 238 || 15 || [[Net 1]] || Cibicom || Operational || LTE 450 || <ref name=itu_ob_1069/><ref>{{cite web |url=https://www.commsupdate.com/articles/2020/06/17/ice-group-sells-net-1-denmark-to-cibicom/ |title=Ice Group sells Net 1 Denmark to Cibicom |publisher=TeleGeography |date=2020-06-17 |accessdate=2020-06-17}}</ref><ref name=aendringsliste_dk/>
+|-
+| 238 || 16 || || Tismi B.V. || Unknown || Unknown || <ref name=itu_ob_1075/><ref name=aendringsliste_dk/>
+|-
+| 238 || 17 || || Gotanet AB || Unknown || Unknown || Former Naka AG<ref name=itu_ob_1080/><ref name=itu_ob_1143/><ref name=itu_ob_1183/>
+|-
+| 238 || 18 || || Cubic Telecom || Unknown || Unknown || <ref name=itu_ob_1104/>
+|-
+| 238 || 20 || [[Telia Company|Telia]] || Telia || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 ||
+|-
+| 238 || 23 || GSM-R DK || Banedanmark || Operational || GSM-R || <ref name=itu_ob_1153/>
+|-
+| 238 || 25 || [http://www.viahub.net/ Viahub] || SMS Provider Corp. || Unknown || MVNO || <ref name=itu_ob_1116/>
+|-
+| 238 || 28 || || LINK Mobile A/S || Unknown || Unknown || Former CoolTEL ApS<ref name=aendringsliste_dk/><ref name=itu_ob_1153/>
+|-
+| 238 || 30 || || Interactive digital media GmbH || Unknown || Unknown || Former Telia<ref name=aendringsliste_dk/>
+|-
+| 238 || 40 || || [[Ericsson]] Danmark A/S || Not operational || Unknown || Test network; former Sense Communications Denmark A/S;<ref name=aendringsliste_dk/> MNC withdrawn<ref name=authority_dk/>
+|-
+| 238 || 42 || Wavely || Greenwave Mobile IoT ApS || Operational || MVNO || Former Brandtel ApS, Tel42 ApS<ref name=itu_ob_1105/><ref name=authority_dk/><ref name=itu_ob_1140/>
+|-
+| 238 || 43 || || MobiWeb Limited || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1050/><ref name=itu_ob_1116/><ref name=aendringsliste_dk/>
+|-
+| 238 || 66 || || TT-Netværket P/S || Operational || GSM 900 / GSM 1800 / UMTS 900 / LTE 800 / LTE 1800 || Former Telia, now shared network Telia/Telenor<ref name=gsa_lte/><ref name=aendringsliste_dk/>
+|-
+| 238 || 73 || Onomondo || [[Onomondo]] ApS || Operational || MVNO || <ref name=itu_ob_1137/>
+|-
+| 238 || 77 || [[Telenor]] || [[Telenor Denmark]] || Not operational || GSM 900 / GSM 1800 || Former Tele2; MNC withdrawn<ref name=itu_ob_1242/>
+|-
+| 238 || 88 || || Cobira ApS || Unknown || Unknown || <ref name=itu_ob_1220/>
+|-
+| 238 || 96 || [[Telia Company|Telia]] || Telia Danmark || Unknown || Unknown || Test network<ref name=itu_ob_1176/><ref name=authority_dk/>
+|}
+
+=== E ===
+==== [[Estonia]] – EE ====
+{| {{MNC}}
+|-
+| 248 || 01 || Telia || [[Telia Eesti]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G || Former [[EMT (mobile operator)|EMT]]<ref name=gsa_lte/>
+|-
+| 248 || 02 || [[Elisa (company)|Elisa]] || Elisa Eesti || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || <ref name=gsa_lte/>
+|-
+| 248 || 03 || [[Tele2#Estonia|Tele2]] || Tele2 Eesti || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 || <ref name=gsa_lte/><ref name=halberd/>
+|-
+| 248 || 04 || Top Connect || OY Top Connect || Operational || MVNO ||
+|-
+| 248 || 05 || CSC Telecom || CSC Telecom Estonia OÜ || Operational || MVNO || Former AS Bravocom Mobiil<ref name=itu_ob_1101/><ref name=itu_ob_1185/>
+|-
+| 248 || 06 ||  || Progroup Holding || Not operational || UMTS 2100 || MNC withdrawn<ref name=itu_ob_1101/>
+|-
+| 248 || 07 || Kou || Televõrgu AS || Not operational || CDMA2000 450 || Acquired by [[Tele 2#Estonia|Tele 2]] in 2012; shut down in January 2016<ref name=itu_ob_1019/><ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2015/12/01/tele2-estonia-closing-cdma-450-network-in-january/ |title=Tele2 Estonia closing CDMA-450 network in January |publisher=TeleGeography |date=1 December 2015 |accessdate=29 February 2016}}</ref>
+|-
+| 248 || 08 || VIVEX || VIVEX OU || Not operational || MVNO || MNC withdrawn<ref name=itu_ob_1133/>
+|-
+| 248 || 09 || || Bravo Telecom || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1047/><ref name=itu_ob_1101/>
+|-
+| 248 || 10 || || Telcotrade OÜ || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1078/><ref name=itu_ob_1101/>
+|-
+| 248 || 11 || || [http://www.ray-storm.net/ UAB Raystorm] Eesti filiaal || Unknown || Unknown || <ref name=itu_ob_1148/>
+|-
+| 248 || 12 || || Ntel Solutions OÜ || Unknown || Unknown || <ref name=itu_ob_1155/>
+|-
+| 248 || 13 || || Telia Eesti AS || Unknown || Unknown || <ref name=itu_ob_1155/>
+|-
+| 248 || 14 || || Estonian Crafts OÜ || Unknown || Unknown || <ref name=itu_ob_1155/>
+|-
+| 248 || 15 || || Premium Net International S.R.L. Eesti filiaal || Not operational || Unknown || <ref name=itu_ob_1160/> MNC withdrawn<ref name=itu_ob_1184/>
+|-
+| 248 || 16 || dzinga || SmartTel Plus OÜ || Operational || MVNO || <ref name=itu_ob_1166/>
+|-
+| 248 || 17 || || Baltergo OÜ || Unknown || Unknown || <ref name=itu_ob_1190/>
+|-
+| 248 || 18 || || Cloud Communications OÜ || Unknown || Unknown || <ref name=itu_ob_1196/>
+|-
+| 248 || 19 || || OkTelecom OÜ || Unknown || Unknown || <ref name=itu_ob_1206/>
+|-
+| 248 || 20 || || [http://dott.ee/ DOTT Telecom OÜ] || Operational || MVNO || <ref name=itu_ob_1210/>
+|-
+| 248 || 21 || || Tismi B.V. || Unknown || Unknown || <ref name=itu_ob_1211/>
+|-
+| 248 || 22 || || M2MConnect OÜ || Unknown || Unknown || <ref name=itu_ob_1225/>
+|-
+| 248 || 24 || || [http://novametro.eu/ Novametro OÜ] || Unknown || MVNO || <ref name=itu_ob_1238/>
+|-
+| 248 || 25 || || Eurofed OÜ || Unknown || Unknown || <ref name=itu_ob_1238/>
+|-
+| 248 || 26 || || [https://decisiontele.com/ IT-Decision Telecom OÜ] || Operational || MVNO || <ref name=itu_ob_1246/>
+|-
+| 248 || 28 || || Nord Connect OÜ || Unknown || Unknown || <ref name=itu_ob_1251/>
+|-
+| 248 || 71 || || Siseministeerium (Ministry of Interior) || Unknown || Unknown || <ref name=itu_ob_1019/>
+|}
+
+=== F ===
+==== [[Faroe Islands]] ([[Kingdom of Denmark]]) – FO ====
+{| {{MNC}}
+|-
+| 288 || 01 || [[Føroya Tele]] || [[Føroya Tele]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 || <ref name=gsma_faroe_islands>{{cite web |title=Faroe Islands |url=http://maps.mobileworldlive.com/network.php?cid=46&cname=Faroe%20Islands |publisher=GSMA |accessdate=13 May 2014}}</ref>
+|-
+| 288 || 02 || [[Hey (company)|Hey]] || Nema || Operational || GSM 900 / UMTS 2100 / LTE 1800 || Former Kall,<ref name=gsma_faroe_islands/> also uses MCC 274 MNC 02 (Iceland)<ref name=itu_ob_1056/>
+|-
+| 288 || 03 || TOSA || Tosa Sp/F || Not operational || GSM 900 / UMTS 2100 / LTE 1800|| Former Edge Mobile;<ref name=itu_ob_1019/><ref name=itu_ob_1161/> MNC withdrawn<ref name=itu_ob_1252/>
+|}
+
+==== [[Finland]] – FI ====
+{| {{MNC}}
+|-
+| 244 || 03 || DNA || [[DNA Oy]] || Operational  || GSM 1800 || Former Telia
+|-
+| 244 || 04 || DNA || [[DNA Oy]] || Unknown || Unknown || Former Aina Oyj<ref name=itu_ob_1096/>
+|-
+| 244 || 05 || Elisa || [[Elisa Oyj]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 3500 || Former Radiolinja
+|-
+| 244 || 06 || Elisa || [[Elisa Oyj]] || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1096/><ref name=authority_fi/>
+|-
+| 244 || 07 || [[Nokia]] || [[Nokia Networks|Nokia Solutions and Networks Oy]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600 / TD-LTE 2600  || Test network in Espoo Leppävaara and Nokia HQ<ref name=itu_ob_1096/>
+|-
+| 244 || 08 || [[Nokia]] || [[Nokia Networks|Nokia Solutions and Networks Oy]] || Unknown || GSM 1800 / UMTS 2100 || <ref name=itu_ob_1096/>
+|-
+| 244 || 09 || || [[Nokia Networks|Nokia Solutions and Networks Oy]] || Unknown || GSM 900 || Former Finnet Group<ref name=itu_ob_871/><ref name=itu_ob_1096/>
+|-
+| 244 || 10 || || Traficom || Unknown || Unknown || Former TDC Oy Finland<ref name=itu_ob_1096/><ref name=authority_fi/>
+|-
+| 244 || 11 || || Traficom || Unknown || Unknown || Former Vectone Mobile<ref name=itu_ob_1096/><ref name=authority_fi/>
+|-
+| 244 || 12 || DNA || [[DNA Oy]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 ||
+|-
+| 244 || 13 || DNA || [[DNA Oy]] || Not operational || GSM 900 / GSM 1800 ||
+|-
+| 244 || 14 || Ålcom || Ålands Telekommunikation Ab || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 || Former Ålands Mobiltelefon (ÅMT); coverage only in [[Åland]]<ref name=gsa_lte/>
+|-
+| 244 || 15 || || Telit Wireless Solutions GmbH || Unknown || Unknown || Former educational network of Satakunta University of Applied Sciences<ref name=itu_ob_1096/><ref name=authority_fi/>
+|-
+| 244 || 16 || || [https://www.digita.fi/en/ Digita Oy] || Unknown || Unknown || Former [[Tele2]]<ref name=itu_ob_1019/><ref name=itu_ob_1096/><ref name=authority_fi/>
+|-
+| 244 || 17 || || Liikennevirasto || Operational || GSM-R || [[Finnish Transport Agency]]<ref name=itu_ob_1096/><ref name=anacom_gsm_r/>
+|-
+| 244 || 19 || || [[:fi:Nettia|Nettia Oy]] || Operational || MVNO || <ref name=authority_fi/>
+|-
+| 244 || 20 || || [[Elisa Oyj]] || Unknown || Unknown || Former Telia<ref name=authority_fi/>
+|-
+| 244 || 21 || [[Elisa Oyj|Elisa-]] [[Saunalahti]] || [[Elisa Oyj]] || Operational || MVNO || Internal [[MVNO]]-code of [[Elisa Oyj]]. Former Saunalahti Group Oyj
+|-
+| 244 || 22 || || EXFO Oy || Not operational || Unknown || Former NetHawk Oyj;<ref name=itu_ob_1096/> MNC withdrawn<ref name=authority_fi/>
+|-
+| 244 || 23 || || EXFO Oy || Not operational || Unknown || Former NetHawk Oyj;<ref name=itu_ob_1096/> MNC withdrawn<ref name=authority_fi/>
+|-
+| 244 || 24 || || Nord Connect UAB || Unknown || Unknown || Former [[Tampere University of Technology]] foundation<ref name=itu_ob_1096/><ref name=authority_fi/>
+|-
+| 244 || 25 || || [[Fortum|Fortum Power and Heat Oy]] || Unknown || Unknown || Former Datame Oy CDMA<ref name=authority_fi/>
+|-
+| 244 || 26 || Compatel || Compatel Ltd || Operational || MVNO || <ref name=itu_ob_1096/>
+|-
+| 244 || 27 || || Teknologian tutkimuskeskus VTT Oy || Not operational || LTE 450 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 / 5G mmWave|| [[VTT Technical Research Centre of Finland]];<ref name=itu_ob_1096/> MNC withdrawn<ref name=authority_fi/>
+|-
+| 244 || 28 || || Teknologian tutkimuskeskus VTT Oy || Not operational || Unknown || [[VTT Technical Research Centre of Finland]]; MNC withdrawn<ref name=authority_fi/>
+|-
+| 244 || 29 || || Teknologian tutkimuskeskus VTT Oy || Not operational || Unknown || Former SCNL Truphone,<ref name=itu_ob_1019/><ref name=itu_ob_1096/> [[VTT Technical Research Centre of Finland]]; MNC withdrawn<ref name=authority_fi/>
+|-
+| 244 || 30 || || Teknologian tutkimuskeskus VTT Oy || Not operational || Unknown || Former Mundio Mobile Oy, [[VTT Technical Research Centre of Finland]]; MNC withdrawn<ref name=authority_fi/>
+|-
+| 244 || 31 || || Teknologian tutkimuskeskus VTT Oy || Not operational || Unknown || Former Ukko Mobile Oy, [[VTT Technical Research Centre of Finland]]; MNC withdrawn<ref name=authority_fi/>
+|-
+| 244 || 32 || [[Voxbone]] || [[Voxbone|Voxbone SA]] || Operational || MVNO || <ref name=itu_ob_1096/>
+|-
+| 244 || 33 || [[VIRVE]] || Suomen Turvallisuusverkko Oy || Operational || TETRA || Finnish authorities radio network<ref name=authority_fi/>
+|-
+| 244 || 34 || Bittium Wireless || [[Bittium (company)|Bittium Wireless Oy]] || Operational || MVNO || <ref name=itu_ob_1096/>
+|-
+| 244 || 35 ||  || [[Edzcom]] Oy || Operational || LTE 450 / TD-LTE 2600 || Former Ukkoverkot; data-only network<ref name=gsa_lte/>
+|-
+| 244 || 36 || [[Telia Company|Telia]] / DNA || Telia Finland Oyj / Suomen Yhteisverkko Oy || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 || Joint mobile network in Northern and Eastern Finland areas
+|-
+| 244 || 37 || Tismi || [http://www.tismi.com/ Tismi BV] || Operational || MVNO || <ref name=itu_ob_1096/>
+|-
+| 244 || 38 ||  || [[Nokia Networks|Nokia Solutions and Networks Oy]] || Unknown || Unknown || Test network<ref name=itu_ob_1096/>
+|-
+| 244 || 39 ||  || [[Nokia Networks|Nokia Solutions and Networks Oy]] || Not operational || Unknown || Test network;<ref name=itu_ob_1096/> MNC withdrawn<ref name=authority_fi/>
+|-
+| 244 || 40 ||  || [[Nokia Networks|Nokia Solutions and Networks Oy]] || Unknown || Unknown || Test network;<ref name=itu_ob_1096/>
+|-
+| 244 || 41 ||  || [[Nokia Networks|Nokia Solutions and Networks Oy]] || Not operational || Unknown || Test network<ref name=itu_ob_1096/> MNC withdrawn<ref name=authority_fi/>
+|-
+| 244 || 42 ||  || SMS Provider Corp. || Unknown || Unknown || <ref name=authority_fi/>
+|-
+| 244 || 43 ||  || Telavox AB / Telavox Oy || Unknown || Unknown || <ref name=authority_fi/>
+|-
+| 244 || 44 ||  || [[Turku University of Applied Sciences|Turun ammattikorkeakoulu Oy]] || Not operational || Unknown || MNC withdrawn<ref name=authority_fi/>
+|-
+| 244 || 45 ||  || Suomen Turvallisuusverkko Oy || Unknown || Unknown || Public safety network<ref name=authority_fi/>
+|-
+| 244 || 46 ||  || Suomen Turvallisuusverkko Oy || Unknown || Unknown || Public safety network<ref name=authority_fi/>
+|-
+| 244 || 47 ||  || Suomen Turvallisuusverkko Oy || Unknown || Unknown || Public safety network<ref name=authority_fi/>
+|-
+| 244 || 50 ||  || [[Aalto University|Aalto-korkeakoulusäätiö sr]] || Not operational || Unknown || MNC withdrawn<ref name=authority_fi/><ref name=aalto_nextg/>
+|-
+| 244 || 51 ||  || [[Aalto University|Aalto-korkeakoulusäätiö sr]] || Not operational || [[Narrowband IoT|NB-IoT]] 700 || MNC withdrawn<ref name=authority_fi/><ref name=aalto_nextg/>
+|-
+| 244 || 52 ||  || [[Aalto University|Aalto-korkeakoulusäätiö sr]] || Not operational || 5G 3500 || MNC withdrawn<ref name=authority_fi/><ref name=aalto_nextg/>
+|-
+| 244 || 53 ||  || [[Aalto University|Aalto-korkeakoulusäätiö sr]] || Not operational || Unknown || MNC withdrawn<ref name=authority_fi/><ref name=aalto_nextg/>
+|-
+| 244 || 54 ||  || [[Aalto University|Aalto-korkeakoulusäätiö sr]] || Not operational || Unknown || MNC withdrawn<ref name=authority_fi/><ref name=aalto_nextg/>
+|-
+| 244 || 55 ||  || [[Aalto University|Aalto-korkeakoulusäätiö sr]] || Not operational || Unknown || MNC withdrawn<ref name=authority_fi/><ref name=aalto_nextg/>
+|-
+| 244 || 56 ||  || [[Aalto University|Aalto-korkeakoulusäätiö sr]] || Not operational || Unknown || MNC withdrawn<ref name=authority_fi/><ref name=aalto_nextg/>
+|-
+| 244 || 57 ||  || [[Aalto University|Aalto-korkeakoulusäätiö sr]] || Not operational || Unknown || MNC withdrawn<ref name=authority_fi/><ref name=aalto_nextg/>
+|-
+| 244 || 58 ||  || [[Aalto University|Aalto-korkeakoulusäätiö sr]] || Not operational || Unknown || MNC withdrawn<ref name=authority_fi/><ref name=aalto_nextg/>
+|-
+| 244 || 59 ||  || [[Aalto University|Aalto-korkeakoulusäätiö sr]] || Not operational || Unknown || MNC withdrawn<ref name=authority_fi/><ref name=aalto_nextg/>
+|-
+| 244 || 91 || [[Telia Company|Telia]] || Telia Finland Oyj || Operational || GSM 900 / GSM 1800 / UMTS 900 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 || Former Sonera
+|-
+| 244 || 92 || [[Sonera]] || TeliaSonera Finland Oyj || Not operational || Unknown || <ref name=itu_ob_1096/> MNC withdrawn<ref name=authority_fi/>
+|-
+| 244 || 95 || || [[Radiation and Nuclear Safety Authority|Säteilyturvakeskus]] || Unknown || Unknown || <ref name=authority_fi/>
+|-
+| 244 || 99 || || Oy L M Ericsson Ab || Not operational || Unknown || MNC withdrawn<ref name=authority_fi/>
+|}
+
+==== [[France]] – FR ====
+{| {{MNC}}
+|-
+| 208 || 01 || [[Orange S.A.|Orange]] || [[Orange S.A.]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500 || <ref name=gsa_lte/><ref name=halberd/>
+|-
+| 208 || 02 || Orange || [[Orange S.A.]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500 || ''Zones Blanches''<ref name=authority_fr/><ref name=halberd/>
+|-
+| 208 || 03 || MobiquiThings || MobiquiThings || Operational || MVNO ||
+|-
+| 208 || 04 || [[:fr:Sisteer|Sisteer]] || Societe d'ingenierie systeme telecom et reseaux || Operational ||  MVNO ||
+|-
+| 208 || 05 ||  || [[Globalstar]] Europe || Operational || Satellite ||
+|-
+| 208 || 06 ||  || [[Globalstar]] Europe || Operational || Satellite ||
+|-
+| 208 || 07 ||  || [[Globalstar]] Europe || Operational || Satellite ||
+|-
+| 208 || 08 || [[SFR]] || [[Altice (company)|Altice]] || Operational || MVNO || Former [[:fr:Completel|Completel]]<ref name=itu_ob_1087/><ref name=authority_fr/>
+|-
+| 208 || 09 || [[SFR]] || [[Altice (company)|Altice]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500 || is launched for SFR outbound roaming services<ref name=gsa_lte/><ref name=halberd/>
+|-
+| 208 || 10 || [[SFR]] || [[Altice (company)|Altice]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500 || MNC also used in Monaco<ref name=itu_ob_1108/><ref name=gsa_lte/><ref name=halberd/>
+|-
+| 208 || 11 || [[SFR]] || [[Altice (company)|Altice]] || Operational || UMTS 2100 || [[Femtocell]]s
+|-
+| 208 || 12 || [[Truphone]] || Truphone France || Operational || MVNO || Former Hewlett-Packard France<ref name=itu_ob_1087/><ref name=itu_ob_1146/><ref name=itu_ob_1243/>
+|-
+| 208 || 13 || [[SFR]] || [[Altice (company)|Altice]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 || ''Zones Blanches'' <ref name=authority_fr/><ref name=halberd/>
+|-
+| 208 || 14 || [[SNCF Réseau]] || [[SNCF Réseau]]  || Operational || [[GSM-R]] ||
+|-
+| 208 || 15 || [[Free (ISP)|Free]] || [[Free Mobile]] || Operational || UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600 / 5G 700 / 5G 3500 || Principal Network<ref name=gsa_lte/><ref name=authority_fr/><ref name=halberd/>
+|-
+| 208 || 16 || [[Free (ISP)|Free]] || [[Free Mobile]] || Operational || LTE 700 / LTE 1800 / LTE 2600 || <ref name=gsa_lte/><ref name=authority_fr/><ref name=itu_ob_1087/><ref name=halberd/>
+|-
+| 208 || 17 || LEGOS || Local Exchange Global Operation Services || Unknown || Unknown || <ref name=itu_ob_1087/><ref name=authority_fr/>
+|-
+| 208 || 18 || [[Voxbone]] || Voxbone mobile || Not operational || MVNO || <ref name=itu_ob_1087/> MNC withdrawn<ref name=itu_ob_1146/>
+|-
+| 208 || 19 || || [[Haute-Garonne]] numérique || Operational || LTE || Former [http://www.altitudeinfrastructure.fr/ Altitude Infrastructure];<ref name=itu_ob_1146/><ref name=itu_ob_1243/> fixed wireless
+|-
+| 208 || 20 || Bouygues || [[Bouygues Telecom]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500 || MNC also used in Monaco<ref name=itu_ob_1108/><ref name=gsa_lte/><ref name="gsa_lte1800_101213"/><ref name=halberd/>
+|-
+| 208 || 21 || Bouygues || [[Bouygues Telecom]] || Unknown || GSM 900 / GSM 1800 / UMTS 2100 / UMTS 900 ||
+|-
+| 208 || 22 || Transatel Mobile || [[Transatel]] || Unknown || MVNO || [[MVNE]] Uses Orange
+|-
+| 208 || 23 || || Syndicat mixte ouvert [[Charente]] Numérique || Operational || TD-LTE || Former Omea Telecom (bought by SFR in 2014);<ref name=itu_ob_1146/><ref name=itu_ob_1162/> fixed wireless
+|-
+| 208 || 24 || Sierra Wireless || [[Sierra Wireless]] || Operational || MVNO || Former MobiquiThings<ref>{{cite web|url=https://www.sierrawireless.com/company/newsroom/pressreleases/2015/09/09-02-2015-sierra_wireless_completes_acquisition_of_mobiquithings/ |title=Sierra Wireless completes acquisition of MobiquiThings |publisher=sierrawireless.com |date= |accessdate=2015-09-02}}</ref>
+|-
+| 208 || 25 || [[LycaMobile]] || LycaMobile || Operational || MVNO || Using Bouygues Telecom
+|-
+| 208 || 26 || NRJ Mobile || [[Bouygues Telecom]] - Distribution || Operational || MVNO || Former Euro-Information Telecom<ref name=itu_ob_1243/>
+|-
+| 208 || 27 || || [[:fr:Coriolis Telecom|Coriolis Telecom]] || Operational || MVNO || Former Afone<ref name=itu_ob_1146/> Using Altice SFR
+|-
+| 208 || 28 || AIF || Airmob Infra Full || Operational || FULL MVNO || Using Orange Network<ref name=itu_ob_1243/>
+|-
+| 208 || 29 || || [http://www.cubictelecom.com/ Cubic télécom France] || Operational || MVNO || Former Société International Mobile Communication<ref name=itu_ob_1146/><ref name=itu_ob_1162/>
+|-
+| 208 || 30 || || [[:fr:Syma Mobile|Syma Mobile]] || Operational || MVNO || <ref name=itu_ob_1146/><ref name=itu_ob_1243/>
+|-
+| 208 || 31 || Vectone Mobile || Mundio Mobile || Operational || MVNO || <ref name=itu_ob_1146/> Uses SFR<ref>{{cite web|url=http://www.monpetitforfait.com/toutes-les-aides/couverture-reseau-des-operateurs-mobiles |title=Quelle est la couverture réseau des opérateurs en 3G/3G+ et 4G/4G+ ? |publisher=Monpetitforfait.com |date= |accessdate=2018-06-12}}</ref> or RED<ref>{{Cite web | url=https://www.internet-sans-engagement.fr/forfaits-mobiles-comparateur/operateur/sfr-red-by-sfr/ | title=Forfait Red by SFR - SFR - des offres sans engagement à petit prix}}</ref>
+|-
+| 208 || 32 || Orange || [[Orange S.A.]] || Unknown || Unknown || <ref name=itu_ob_1146/>
+|-
+| 208 || 33 || Fibre64 || Département des [[Pyrénées-Atlantiques]] || Unknown || WiMAX || <ref name=itu_ob_1162/> fixed wireless<ref name=itu_ob_1243/>
+|-
+| 208 || 34 || || Cellhire France || Operational || MVNO || <ref name=itu_ob_1243/>
+|-
+| 208 || 35 || [[Free (ISP)|Free]] || [[Free Mobile]] || Operational || UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600 || <ref name=itu_ob_1243/>
+|-
+| 208 || 36 || [[Free (ISP)|Free]] || [[Free Mobile]] || Operational || UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600 || <ref name=itu_ob_1243/>
+|-
+| 208 || 37 || || IP Directions || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 38 || || [[Lebara]] France Ltd || Operational || MVNO || <ref name=itu_ob_1243/>
+|-
+| 208 || 39 || || [https://www.netwo.io/ Netwo] || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 500 || || [[Électricité de France|EDF]] || Unknown || Unknown || <ref name=authority_fr/> MNC 50 formerly assigned to [[Électricité de France|EDF]]<ref name=itu_ob_1162/>
+|-
+| 208 || 501 || || Butachimie || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 502 || || [[Électricité de France|EDF]] || Unknown || Unknown || Former General Electric Digital Services Europe<ref name=itu_ob_1243/>
+|-
+| 208 || 700 || || [https://www.weaccess.fr/ Weaccess group] || Unknown || Unknown || <ref name=itu_ob_1162/>
+|-
+| 208 || 701 || || [https://www.vendeenumerique.fr/ GIP Vendée numérique] || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 702 || || 17-Numerique || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 703 || || Nivertel || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 704 || || Axione Limousin || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 705 || || Hautes-Pyrénées Numérique || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 706 || || Tours Métropole Numérique || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 707 || || Sartel THD || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 708 || || Melis@ territoires ruraux || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 709 || || Quimper communauté télécom || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 710 || || Losange || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 711 || || Nomotech || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 712 || || Syndicat Audois d'énergies et du Numérique || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 713 || || SD NUM SAS || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 714 || || Département de l'Isère || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 208 || 86 || || SEM@FOR77 || Unknown || Unknown || Former Nomotech<ref name=itu_ob_1146/><ref name=itu_ob_1162/>
+|-
+| 208 || 87 || || Airbus defence and space SAS || Unknown || Unknown || Former [[RATP Group|RATP]]<ref name=itu_ob_1146/><ref name=itu_ob_1243/>
+|-
+| 208 || 88 || Bouygues || [[Bouygues Telecom]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500 || Zones Blanches<ref name=halberd/>
+|-
+| 208 || 89 || || Hub One || Unknown || Unknown || Former Omer Telecom Ltd, Fondation b-com<ref name=itu_ob_1019/><ref name=itu_ob_1146/><ref name=itu_ob_1243/>
+|-
+| 208 || 90 || || Images & Réseaux || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1146/>
+|-
+| 208 || 91 || || [[Orange S.A.]] || Unknown || Unknown || <ref name=authority_fr/>
+|-
+| 208 || 92 || Com4Innov || Association Plate-forme Télécom || Not operational || TD-LTE 2300 / LTE 2600 || Test network;<ref name=itu_ob_1087/><ref name=authority_fr/><ref>{{Cite web|url=http://www.com4innov.com/|archiveurl=https://web.archive.org/web/20140517033857/http://com4innov.com/|url-status=dead|title=Smart security for future houses - Com4innov.com|archivedate=May 17, 2014|website=Com4innov.com|accessdate=October 16, 2019}}</ref> MNC withdrawn<ref name=itu_ob_1146/>
+|-
+| 208 || 93 || || [[Thales Group|Thales]] Communications & Security SAS || Not operational || Unknown || Former [[TDF Group|TDF]];<ref name=itu_ob_1146/> MNC withdrawn<ref name=itu_ob_1243/>
+|-
+| 208 || 94 || || Halys || Unknown || Unknown || <ref name=itu_ob_1087/><ref name="authority_fr"/>
+|-
+| 208 || 95 || || [[Orange S.A.]] || Not operational || Unknown || <ref name=itu_ob_1146/> MNC withdrawn<ref name=itu_ob_1243/>
+|-
+| 208 || 96 || || Région [[Bourgogne-Franche-Comté]] || Operational || LTE || Former [http://www.axione.fr/ Axione];<ref name=itu_ob_1146/><ref name=itu_ob_1243/> fixed wireless
+|-
+| 208 || 97 || || [[Thales Group|Thales]] Communications & Security SAS || Not operational || Unknown || <ref name=itu_ob_1146/> MNC withdrawn<ref name=authority_fr/>
+|-
+| 208 || 98 || || Société [[Air France]] || Not operational || Unknown || <ref name=itu_ob_1146/> MNC withdrawn<ref name=itu_ob_1243/>
+|}
+
+=== G ===
+==== [[Georgia (country)|Georgia]] – GE ====
+{| {{MNC}}
+|-
+| 282 || 01 || [[Geocell]] || [[Silknet]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || <ref name=halberd_cis/>
+|-
+| 282 || 02 || Magti || [[MagtiCom]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 || <ref name=halberd_cis/>
+|-
+| 282 || 03 || MagtiFix || [[MagtiCom]] || Operational || CDMA 450 || License until 2029<ref>{{cite web |url=https://www.commsupdate.com/articles/2019/06/25/magticom-will-continue-cdma-networks-after-securing-licence-extension/ |title=MagtiCom will continue CDMA networks after securing licence extension |publisher=TeleGeography |date=2019-07-25 |accessdate=2020-05-15}}</ref>
+|-
+| 282 || 04 || [[Beeline (telecommunications)|Beeline]] || Mobitel || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 || <ref name=halberd_cis/>
+|-
+| 282 || 05 || S1 || [[Silknet]] || Operational || CDMA 800 || former UTG
+|-
+| 282 || 06 || || JSC Compatel || Unknown || Unknown || <ref name=itu_ob_1021/>
+|-
+| 282 || 07 || GlobalCell || GlobalCell || Operational || MVNO || <ref name=itu_ob_1039/>
+|-
+| 282 || 08 || Silk LTE || [[Silknet]] || Operational || LTE 2300 || <ref name=itu_ob_1061/> CDMA 850 shut down Nov 2019<ref>{{cite web |url=https://translate.google.com/translate?hl=en&sl=ka&u=https://silknet.com/%3Fmodule%3Dnews%26id%3D256%26type_id%3D1%26language%3Dge&prev=search |title=For the attention of wireless network (S1; CDMA Fix) subscribers! |publisher=Silknet |date=2019-07-23 |accessdate=2020-05-15}}</ref>
+|-
+| 282 || 09 || || Gmobile || Operational || Unknown || <ref name=itu_ob_1070/>
+|-
+| 282 || 10 || || Premium Net International SRL || Unknown || Unknown || <ref name=itu_ob_1150/>
+|-
+| 282 || 11 || || Mobilive || Unknown || Unknown || <ref name=itu_ob_1154/>
+|-
+| 282 || 12 || || Telecom1 Ltd || Unknown || Unknown || Former Datacomm<ref name=itu_ob_1171/><ref name=itu_ob_1195/>
+|-
+| 282 || 13 || || Asanet Ltd || Unknown || Unknown || <ref name=itu_ob_1177/>
+|-
+| 282 || 14 || DataCell || [https://datahouse.global DataHouse Global] || Unknown || [[MVNO]] || <ref name=itu_ob_1192/>
+|-
+| 282 || 15 || || Servicebox Ltd || Unknown || Unknown || <ref name=itu_ob_1255/>
+|-
+| 282 || 22 || Myphone || [https://www.myphone.ge/ Myphone Ltd] || Unknown || Unknown || <ref name=itu_ob_1209/>
+|}
+
+==== [[Germany]] – DE ====
+{| {{MNC}}
+|-
+| 262 || 01 || Telekom || [[Telekom Deutschland|Telekom]] Deutschland GmbH || Operational || GSM 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500 || Formerly D1 - DeTeMobil, D1-Telekom, T-D1, T-Mobile;<ref name=itu_ob_779/> UMTS shut down Jun 2021<ref name=umts_shutdown_de>{{cite web |url=https://www.heise.de/news/Telefonica-UMTS-Netz-wird-2021-abgeschaltet-4964454.html |title=Telefónica: UMTS-Netz wird 2021 abgeschaltet |author=Daniel Herbig |publisher=heise.de |date=2020-11-18 |accessdate=2020-11-18}}</ref>
+|-
+| 262 || 02 || Vodafone || [[Vodafone Germany|Vodafone]] D2 GmbH || Operational || GSM 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 3500 || Former D2 Mannesmann;<ref name=itu_ob_779/> UMTS shut down Jun 2021<ref name=umts_shutdown_de/>
+|-
+| 262 || 03 || O<sub>2</sub> || [[Telefónica Germany]] GmbH & Co. oHG || Operational || GSM 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 || Former E-Plus until 2014;<ref name=itu_ob_779/><ref name=gsa_lte/><ref name=gsa_umts900/> UMTS shut down Dec 2021<ref name=umts_shutdown_de/>
+|-
+| 262 || 04 || Vodafone || Vodafone D2 GmbH || Reserved || GSM 900 / GSM 1800 / UMTS 2100 || <ref name=itu_ob_837/>
+|-
+| 262 || 05 || O<sub>2</sub> || [[Telefónica Germany]] GmbH & Co. oHG || Reserved || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 || Former E-Plus<ref name=itu_ob_837/><ref name=gsa_umts900/>
+|-
+| 262 || 06 || Telekom || Telekom Deutschland GmbH || Reserved || GSM 900 / LTE 800 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500 || <ref name=itu_ob_837/>
+|-
+| 262 || 07 || O<sub>2</sub> || [[Telefónica Germany]] GmbH & Co. oHG || Not operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 || Merged with E-Plus Mobilfunk in 2014 and uses MNC 262-03 since 2016 <ref name=itu_ob_779/>
+|-
+| 262 || 08 || O<sub>2</sub> || Telefónica Germany GmbH & Co. oHG || Reserved || GSM 900 / GSM 1800 / UMTS 2100 || <ref name=itu_ob_837/>
+|-
+| 262 || 09 || Vodafone || Vodafone D2 GmbH || Operational || GSM 900 / GSM 1800 / LTE 2600 || Internal testing IOT<ref name=itu_ob_837/>
+|-
+| 262 || 10 ||  || [[Deutsche Bahn|DB]] Netz AG || Operational || GSM-R || Former Arcor,<ref name=itu_ob_837/> Vodafone<ref name=itu_ob_1038/>
+|-
+| 262 || 11 || O<sub>2</sub> || Telefónica Germany GmbH & Co. oHG || Reserved || GSM 900 / GSM 1800 / UMTS 2100 || <ref name=itu_ob_837/>
+|-
+| 262 || 12 || Simquadrat || [[sipgate]] GmbH || Operational || MVNO || National roaming with O<sub>2</sub> (former E-Plus)<ref name=itu_ob_837/>
+|-
+| 262 || 13 || BAAINBw || [[Federal Office of Bundeswehr Equipment, Information Technology and In-Service Support|Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr]] || Unknown || Unknown || Former Mobilcom<ref name=itu_ob_779/><ref name=itu_ob_1103/><ref name=authority_de/>
+|-
+| 262 || 14 ||  || [[Lebara]] Limited || Operational || MVNO || Former Group 3G UMTS<ref name=itu_ob_779/><ref name=itu_ob_1103/><ref name=authority_de/>
+|-
+| 262 || 15 || Airdata || || Operational || TD-SCDMA || data only<ref name=itu_ob_837/>
+|-
+| 262 || 16 || || Telogic Germany GmbH || Not operational || MVNO || formerly Vistream; bankruptcy in 2012 <ref>{{cite news |title=Wie im Krimi: So verlief die Insolvenz von Telogic |first=Alexander |last=Kuch |work=teltarif.de |date=15 July 2013 |accessdate=9 December 2014 |url=http://www.teltarif.de/telogic-insolvenz-hintergrund-bericht-insolvenzverwalter/news/51756.html}}</ref>
+|-
+| 262 || 17 || O<sub>2</sub> || [[Telefónica Germany]] GmbH & Co. oHG || Unknown || Unknown || Former E-Plus<ref name=itu_ob_1035/>
+|-
+| 262 || 18 || || [[NetCologne]] || Operational || MVNO || <ref name=itu_ob_1035/> CDMA 450 shut down
+|-
+| 262 || 19 || [http://www.450connect.de/ 450connect] || Alliander AG <sup>[ [[:nl:Alliander|nl]] ]</sup> || Operational || LTE 450 || Former Inquam<ref name=itu_ob_1035/>
+|-
+| 262 || 20 || Enreach || Enreach Germany GmbH || Operational || MVNO || Uses O<sub>2</sub> (262-03)
+|-
+| 262 || 21 || || [http://www.multiconnect.de/ Multiconnect GmbH] || Unknown || Unknown || <ref name=itu_ob_1103/>
+|-
+| 262 || 22 || || [[sipgate]] Wireless GmbH || Unknown || MVNO || <ref name=itu_ob_1104/>
+|-
+| 262 || 23 || || [[Drillisch]] Online AG || Operational || MVNO || <ref name=itu_ob_1116/><ref name=itu_ob_1136/>
+|-
+| 262 || 24 || || [https://www.telcovillage.com/ TelcoVillage GmbH] || Unknown || Unknown || <ref name=authority_de/>
+|-
+| 262 || 33 || simquadrat || sipgate GmbH || Not operational || MVNO || Uses O<sub>2</sub> (former E-Plus) (262-03); MNC withdrawn <ref name=authority_de/>
+|-
+| 262 || 41 || || First Telecom GmbH || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1035/><ref name=itu_ob_1103/>
+|-
+| 262 || 42 || CCC Event || [[Chaos Computer Club]] || Temporary operational || GSM 1800 || Used on events like [[Chaos Communication Congress]]
+|-
+| 262 || 43 || Lycamobile || [[Lycamobile]] || Operational || MVNO || Uses Vodafone<ref name=itu_ob_1103/>
+|-
+| 262 || 60 ||  || DB Telematik || Operational || [[GSM-R]] 900 ||
+|-
+| 262 || 70 ||  || [[:de:Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben|BDBOS]] || Operational || Tetra || <ref name=authority_de/>
+|-
+| 262 || 71 ||  || [https://www.gsmk.de/ GSMK] || Unknown || Unknown || <ref name=authority_de/>
+|-
+| 262 || 72 ||  || [[Ericsson]] GmbH || Unknown || Unknown || <ref name=itu_ob_1103/>
+|-
+| 262 || 73 ||  || Nokia || Unknown || Unknown || Former [https://www.xantaro.net/ Xantaro Deutschland GmbH]<ref name=itu_ob_1103/><ref name=authority_de/>
+|-
+| 262 || 74 ||  || [[Ericsson]] GmbH || Unknown || Unknown || Former Qualcomm<ref name=itu_ob_1103/><ref name=authority_de/>
+|-
+| 262 || 75 ||  || [https://web.archive.org/web/20190207150925/https://www.corenetdynamics.com/ Core Network Dynamics GmbH] || Not operational || Unknown || Test network;<ref name=itu_ob_1103/> MNC withdrawn<ref name=authority_de/>
+|-
+| 262 || 76 ||  || [[:de:Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben|BDBOS]] || Unknown || Unknown || Former [[Siemens]]<ref name=itu_ob_837/><ref name=itu_ob_1035/>
+|-
+| 262 || 77 || O<sub>2</sub> || [[Telefónica Germany]] GmbH & Co. oHG || Unknown || GSM 900 || Former E-Plus; test network<ref name=itu_ob_837/>
+|-
+| 262 || 78 || Telekom || Telekom Deutschland GmbH || Unknown || Unknown || <ref name=itu_ob_1035/>
+|-
+| 262 || 79 || || [http://www.ng4t.com/ ng4T GmbH] || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1046/><ref name=itu_ob_1103/>
+|-
+| 262 || 92 || || [https://www.nashtech.com/ Nash Technologies] || Not operational || GSM 1800 / UMTS 2100 || Test network; MNC withdrawn<ref name=authority_de/>
+|-
+| 262 || 98 || || private networks || operational || 5G 3500 || non-public networks<ref>{{cite web |url=https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Nummerierung/TechnischeNummern/IMSI/Mitteilung163_2021.pdf |title=Mitteilung Nr. 163/2021 |trans-title=Notice No. 163/2021 |publisher=Bundesnetzagentur |language=de |date=11 May 2021 |access-date=24 March 2022}}</ref>
+|}
+
+==== [[Gibraltar]] (United Kingdom) – GI ====
+{| {{MNC}}
+|-
+| 266 || 01 || GibTel || [[Gibtelecom]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 2600 || <ref name=gsa_lte/><ref name=mwlive/>
+|-
+| 266 || 03 || Gibfibrespeed || [http://www.gibfibre.com/ GibFibre Ltd] || Unknown || Unknown || <ref name=itu_ob_1175/>
+|-
+| 266 || 06 || CTS Mobile || CTS Gibraltar || Not operational || UMTS 2100 || licence [[Communications in Gibraltar#Mobile network|withdrawn]] in February 2013
+|-
+| 266 || 09 || Shine || [http://www.shinemobile.gi Eazitelecom] || Not operational || GSM 1800 / UMTS 2100 || <ref>{{cite web |title=Signal shines as eazi telecom prepare for launch |url=http://giblogtar.blogspot.com/2012/08/signal-shines-as-eazi-telecom-prepare.html |accessdate=9 August 2012|date=2012-08-09 }}</ref> shut down May 2016<ref name=halberd/>
+|}
+
+==== [[Greece]] – GR ====
+{| {{MNC}}
+|-
+| 202 || 01 || [[Cosmote]] || COSMOTE - Mobile Telecommunications S.A. || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 1800 / 5G 2100 / 5G 3500 || <ref name=gsa_lte/>
+|-
+| 202 || 02 || [[Cosmote]] || COSMOTE - Mobile Telecommunications S.A. || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 1800 / 5G 2100 / 5G 3500 || <ref name=itu_ob_1019/>
+|-
+| 202 || 03 || || OTE || Unknown || Unknown || <ref name=itu_ob_1019/>
+|-
+| 202 || 04 || || OSE || Unknown || GSM-R  || Former [[Hellenic Railways Organisation#Primary rail network|EDISY]]<ref name=itu_ob_1019/><ref name=itu_ob_1103/>
+|-
+| 202 || 05 || Vodafone || [[Vodafone Greece]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || former PanaFon <ref name=gsa_lte/><ref name=gsa_umts900/>
+|-
+| 202 || 06 || || Cosmoline || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1019/><ref name=itu_ob_1103/>
+|-
+| 202 || 07 || || AMD Telecom || Unknown || Unknown || <ref name=itu_ob_1019/>
+|-
+| 202 || 09 || Wind || [[WIND Hellas|Wind Hellas Telecommunications S.A.]] || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 2100 / 5G 3500 || former Q-Telecom <ref name=itu_ob_1103/><ref name=gsa_lte/>
+|-
+| 202 || 10 || Wind || [[WIND Hellas|Wind Hellas Telecommunications S.A.]] || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 2100 / 5G 3500 || former Telestet & TIM<ref name=itu_ob_1103/>
+|-
+| 202 || 11 || || [http://www.interconnect.gr/ interConnect] || Unknown || Unknown || <ref name=itu_ob_1103/>
+|-
+| 202 || 12 || || [http://www.yuboto.com/ Yuboto] || Operational || MVNO || <ref name=itu_ob_1103/>
+|-
+| 202 || 13 || || Compatel Limited || Unknown || Unknown || <ref name=itu_ob_1103/>
+|-
+| 202 || 14 || Cyta Hellas || [[CYTA]] || Operational || MVNO || MVNO on Vodafone's network <ref name=itu_ob_1103/><ref>{{cite web|url=http://www.services.eett.gr/registry/tel_en/details.do?selection=07-027 |title=List Page |publisher=Services.eett.gr |archive-url=https://web.archive.org/web/20180612233236/https://services.eett.gr/registry/tel_en/details.do?selection=07-027|archive-date=2018-06-12 |accessdate=2018-06-12}}</ref>
+|-
+| 202 || 15 || || BWS || Unknown || Unknown || <ref name=itu_ob_1103/>
+|-
+| 202 || 16 || || [https://www.intertelecom.gr/ Inter Telecom] || Operational || MVNO || <ref name=itu_ob_1103/>
+|}
+
+==== [[Greenland]] ([[Kingdom of Denmark]]) – GL ====
+{| {{MNC}}
+|-
+| 290 || 01 || tusass || [[Tusass A/S]] || Operational || GSM 900 / UMTS 900 / LTE 800 / 5G || Former TELE Greenland; 5G for fixed wireless
+|-
+| 290 || 02 || [[Nanoq Media]] || [http://inuit.gl/ inu:it a/s] || Operational || TD-LTE 2500 || Former Nuuk TV<ref name=itu_ob_1083/>
+|}
+
+==== [[Guernsey]] (United Kingdom) – GG ====
+{| {{MNC}}
+|-
+| 234 || 03 || [[Airtel-Vodafone]] || Guernsey Airtel Ltd || Operational || GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 || <ref name=gsa_lte/><ref name=halberd/>
+|-
+| 234 || 50 || JT || [[JT Group Limited]] || Operational || GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 || former Wave Telecom <ref name=gsa_lte/><ref name=halberd/><ref name=itu_ob_1251/>
+|-
+| 234 || 55 || Sure Mobile || [[Sure (company)|Sure (Guernsey) Limited]] || Operational || GSM 900 / UMTS 900 / / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 || former Cable & Wireless <ref name=gsa_lte/><ref name=halberd/>
+|}
+
+=== H ===
+==== [[Hungary]] – HU ====
+{| {{MNC}}
+|-
+| 216 || 01 || [[Yettel Hungary]] || Telenor Magyarország Zrt. || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || Former Pannon, Pannon GSM; MNC has '''not''' the same numerical value as the [[Telephone numbers in Hungary|area code]]<ref name=itu_ob_1019/><ref name=gsa_lte/><ref name=itu_ob_1251/>
+|-
+| 216 || 02 || || MVM Net Ltd. || Operational || LTE 450 || For government use<ref name=itu_ob_1064/><ref name=gsa_lte/>
+|-
+| 216 || 03 || DIGI || [[RCS & RDS|DIGI Telecommunication Ltd.]] || Operational || LTE 1800 / TD-LTE 3700 || <ref name=itu_ob_1091/><ref name=itu_ob_1107/><ref name=itu_ob_1109/>
+|-
+| 216 || 04 || || [https://www.invitech.hu/ Invitech ICT Services Ltd.] || Not operational || Unknown || <ref name=itu_ob_1124/><ref name=itu_ob_1166/> MNC withdrawn<ref name=itu_ob_1170/>
+|-
+| 216 || 20 || [[Yettel Hungary]] || Telenor Magyarország Zrt. || Unknown || Unknown || <ref name=itu_ob_1253/>
+|-
+| 216 || 30 || Telekom || [[Magyar Telekom]] Plc || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 2100 / 5G 3500 || Former WESTEL, Westel 900; MNC has the same numerical value as the [[Telephone numbers in Hungary|area code]]<ref name=itu_ob_1019/><ref name=gsa_lte/>
+|-
+| 216 || 70 || [[Vodafone]] || Vodafone Magyarország Zrt. || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || MNC has the same numerical value as the [[Telephone numbers in Hungary|area code]]<ref name=itu_ob_1019/><ref name=gsa_lte/>
+|-
+| 216 || 71|| [[UPC Hungary|upc]] || Vodafone Magyarország Zrt. || Operational || MVNO || <ref name=itu_ob_1022/><ref name=itu_ob_1196/>
+|-
+| 216 || 99|| MAV GSM-R || [[Magyar Államvasutak]] || Operational || GSM-R 900 || <ref name=itu_ob_1067/>
+|}
+
+=== I ===
+==== [[Iceland]] – IS ====
+{| {{MNC}}
+|-
+| 274 || 01 || [[Síminn]] || Iceland Telecom || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600 || Former Landssimi hf <ref name=gsa_umts900/><ref name=halberd/>
+|-
+| 274 || 02 || [[Vodafone Iceland|Vodafone]] || [[Sýn (media corporation)|Sýn]] || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 || Former Islandssimi ehf <ref name=gsa_lte/><ref name=halberd/>
+|-
+| 274 || 03 || Vodafone || Sýn || Operational || Unknown || Former Islandssimi ehf
+|-
+| 274 || 04 || Viking || [[WorldCell#Subsidiaries|IMC Island ehf]] || Operational || GSM 1800 ||
+|-
+| 274 || 05 || || Halló Frjáls fjarskipti hf. || Not operational || GSM 1800 || MNC withdrawn<ref name=authority_is/>
+|-
+| 274 || 06 || || Núll níu ehf || Not operational || Unknown || MNC withdrawn<ref name=authority_is/>
+|-
+| 274 || 07 || IceCell || IceCell ehf || Not operational || GSM 1800 || Network only partially built;<ref>{{cite web |title=Cellular Expert helps IceCell save its investments |url=http://www.cellular-expert.com/case-studies/cellular-expert-helps-icecell-save-its-investments |publisher=Cellular Expert |accessdate=7 April 2015}}</ref> MNC withdrawn<ref name=authority_is/>
+|-
+| 274 || 08 || On-waves || Iceland Telecom || Operational || GSM 900 / GSM 1800 || On ferries and cruise ships<ref name=bell_cruise_ships>{{cite web |title=Coverage for cruise lines |url=http://www.bell.ca/Styles/wireless/en/all_regions/pdfs/hspa_direct_cruiseships_Apr82015_English.pdf |publisher=Bell |date=8 April 2015 |accessdate=20 May 2015}}</ref>
+|-
+| 274 || 11 || Nova || Nova ehf || Operational || UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / 5G 3500 || <ref name=halberd/>
+|-
+| 274 || 12 || Tal || IP fjarskipti || Operational || MVNO ||
+|-
+| 274 || 16 || || Tismi BV || Unknown || Unknown || <ref name=authority_is/>
+|-
+| 274 || 22 || || Landhelgisgæslan ([[Icelandic Coast Guard]]) || Unknown || Unknown || <ref name=authority_is/>
+|-
+| 274 || 31 || [[Síminn]] || Iceland Telecom || Unknown || Unknown || <ref name=authority_is/>
+|-
+| 274 || 91 || || Neyðarlínan || Operational || Tetra || <ref name=authority_is/>
+|}
+
+==== [[Republic of Ireland|Ireland]] – IE ====
+{| {{MNC}}
+|-
+| 272 || 01 || Vodafone || [[Vodafone Ireland]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500 || <ref name=gsa_lte/>
+|-
+| 272 || 02 || 3 || [[Hutchison 3G]] Ireland limited || Operational || GSM 900 / UMTS 2100 || Former [[O2 (Ireland)|Telefónica O<sub>2</sub>]]
+|-
+| 272 || 03 || Eir || [[Eir (telecommunications)|Eir Group plc]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / 5G 3500 || Former [[Meteor (mobile network)|Meteor]]<ref name=gsa_lte/>
+|-
+| 272 || 04 ||  || Access Telecom || Unknown || Unknown ||
+|-
+| 272 || 05 || 3 || [[Hutchison 3G]] Ireland limited || Operational || UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / 5G 3500 || <ref name=gsa_lte/>
+|-
+| 272 || 07 || Eir || [[Eir (telecommunications)|Eir Group plc]] || Operational || GSM 900 / UMTS 2100 || Former eMobile
+|-
+| 272 || 08 || Eir || [[Eir (telecommunications)|Eir Group plc]] || Unknown || Unknown || <ref name=itu_ob_1138/>
+|-
+| 272 || 09 || || Clever Communications Ltd. || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1137/>
+|-
+| 272 || 11 || Tesco Mobile || Liffey Telecom || Operational || MVNO || Uses 3
+|-
+| 272 || 13 || Lycamobile || [[Lycamobile]] || Operational || MVNO || Uses 3
+|-
+| 272 || 15 || Virgin Mobile || [[UPC Broadband|UPC]] || Operational || MVNO || Former upc
+|-
+| 272 || 16 || Carphone Warehouse || [[Carphone Warehouse]] || Operational || MVNO ||
+|-
+| 272 || 17 || 3 || [[Hutchison 3G]] Ireland limited || Unknown || Unknown || <ref name=itu_ob_1138/>
+|-
+| 272 || 18 || || Cubic Telecom Limited || Operational || MVNO || <ref name=itu_ob_1162/>
+|-
+| 272 || 21 || || [http://netfeasa.com/ Net Feasa Limited] || Operational || MVNO || [[Internet of things]]<ref name=itu_ob_1191/>
+|-
+| 272 || 68 || || Office of the Government Chief Information Officer || Unknown || Unknown || <ref name=itu_ob_1227/>
+|}
+
+==== [[Isle of Man]] ([[United Kingdom]]) – IM ====
+{| {{MNC}}
+|-
+| 234 || 18 || [[Cloud9 (service provider)|Cloud 9 Mobile]] || Cloud 9 Mobile Communications PLC || Not operational || GSM 1800 / UMTS 2100 || Retired <ref name=itu_ob_1056/>
+|-
+| 234 || 36 || [[Sure (company)|Sure Mobile]] || Sure Isle of Man Ltd. || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 || Former Cable & Wireless <ref name=itu_ob_1056/><ref name=gsa_lte/><ref>{{cite web |url=https://pedroc.co.uk/content/sure-isle-of-man-spectrum-masts |title=Sure Isle of Man Masts and Spectrum |last=Clarke |first=Peter |website=pedroc.co.uk |date=2019-08-15 |accessdate=2020-12-29}}</ref>
+|-
+| 234 || 58 || Pronto GSM || [[Manx Telecom]] || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 || <ref name=gsa_lte/><ref name=itu_ob_1251/>
+|-
+| 234 || 73 || || Bluewave Communications Ltd. || Operational || TD-LTE 3500 || <ref name=itu_ob_1251/>
+|}
+
+==== [[Italy]] – IT ====
+The Vatican is served by Italian networks [[Iliad Italia]], [[Telecom Italia Mobile|TIM]], [[Vodafone Italy]] and [[Wind Tre]].
+{| {{MNC}}
+|-
+| 222 || 01 || TIM || [[Telecom Italia Mobile|Telecom Italia S.p.A.]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1500 / LTE 1800 / LTE 2600 || <ref name=gsa_lte/>
+|-
+| 222 || 02 || Elsacom || || Not operational || Satellite (Globalstar) || Retired
+|-
+| 222 || 04 || Intermatica || || Unknown || Unknown || 
+|-
+| 222 || 05 || Telespazio || || Unknown || Unknown || 
+|-
+| 222 || 06 || Vodafone || [[Vodafone Italy|Vodafone Italia S.p.A.]] || Operational || Unknown || Unknown
+|-
+| 222 || 07 || Kena Mobile || Noverca || Operational || MVNO || Uses TIM Network
+|-
+| 222 || 08 || Fastweb || [[Fastweb (telecommunications company)|Fastweb S.p.A.]] || Operational || MVNO || Uses TIM and WindTre Networks
+|-
+| 222 || 10 || Vodafone || [[Vodafone Italy|Vodafone Italia S.p.A.]] || Operational || GSM 900 / LTE 800  / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 || <ref name=gsa_lte/>
+|-
+| 222 || 30 || RFI || [[Rete Ferroviaria Italiana]] || Operational || GSM-R 900 || Railways communication
+|-
+| 222 || 33 || Poste Mobile || [[PosteMobile|Poste Mobile S.p.A.]] || Operational || MVNO || uses Wind Tre Network
+|-
+| 222 || 34 || BT Italia || [[BT Italia]] || Operational || MVNO || uses TIM Network
+|-
+| 222 || 35 || Lycamobile || [[Lycamobile]] || Operational || MVNO || uses Vodafone Network
+|-
+| 222 || 36 || Digi Mobil || Digi Italy S.r.l. || Operational || MVNO || uses TIM Network
+|-
+| 222 || 37 || WINDTRE || [[Wind Tre]] || Unknown || Unknown || Former 3 Italia
+|-
+| 222 || 38 || LINKEM || [[Linkem|OpNet]] S.p.A. || Operational || TD-LTE 3500 / 5G 3500 / 5G 26000 || <ref name=gsa_lte/> spectrum shared with GO Internet<ref name="Linkem_GO IT">{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2018/03/29/linkem-and-go-to-share-3-5ghz-spectrum/ |title=Linkem and GO to share 3.5GHz spectrum |publisher=TeleGeography |date=2018-03-29 |accessdate=2018-03-31}}</ref><ref name="Linkem_OpNet IT">{{cite web |url=https://www.commsupdate.com/articles/2022/10/04/linkem-group-becomes-opnet/ |title=Linkem Group becomes OpNet |publisher=TeleGeography |date=2022-10-04 |access-date=2022-10-06}}</ref>
+|-
+| 222 || 39 || SMS Italia || SMS Italia S.r.l. || Unknown || Unknown || 
+|-
+| 222 || 41 || GO internet || [[GO internet]] S.p.A. || Operational || TD-LTE 3500 / 5G 3500 || spectrum available only in Marche and Emilia-Romagna, roams on Linkem otherwise
+|-
+| 222 || 43 || TIM || [[Telecom Italia Mobile|Telecom Italia S.p.A.]] || Operational || 5G 700 / 5G 3500 / 5G 26000 ||
+|-
+| 222 || 47 || Fastweb || [[Fastweb (telecommunications company)|Fastweb S.p.A.]] || Operational || TD-LTE 3500 / 5G 3500 / 5G 26000 || Former [[Tiscali]],<ref name=gsa_lte/> acquired by Fastweb in 2018<ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2018/07/31/fastweb-buys-tiscali-td-lte-business/ |title=Fastweb buys Tiscali TD-LTE business |publisher=TeleGeography |date=2018-07-31 |accessdate=2018-07-31}}</ref>
+|-
+| 222 || 48 || TIM || [[Telecom Italia Mobile|Telecom Italia S.p.A.]] || Unknown || Unknown || 
+|-
+| 222 || 49 || Vianova || Welcome Italia S.p.A. || Unknown || MVNO || 
+|-
+| 222 || 50 || Iliad || [[Iliad Italia]] || Operational || UMTS 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 || <ref name=mwlive/>
+|-
+| 222 || 53 || COOP Voce || COOP Voce || Operational || MVNO || MNC used from Jan, 2020<ref>{{cite web |url=https://www.mvnonews.com/2019/06/29/coopvoce-full-mvno-nel-2020-sempre-su-rete-tim-e-nuovi-servizi-innovativi/ |title=CoopVoce: Full MVNO nel 2020 sempre su rete TIM e nuovi servizi innovativi |language=it |trans-title=CoopVoce: Full MVNO in 2020, always on the TIM network, and new innovative services |website=MVNO News |date=29 June 2019 |accessdate=17 August 2019}}</ref>
+|-
+| 222 || 54 || Plintron ||  || Operational || MVNO || Operates only as MVNE for Rabona, NoiTel and NT Mobile on Vodafone network<ref>{{cite web |url=https://www.mvnonews.com/2019/06/18/anche-nt-mobile-avvia-la-migrazione-su-rete-vodafone-con-plintron/ |title=Anche NTMobile lascia Noverca e avvia la migrazione su rete 4G Vodafone con Plintron |trans-title=NTMobile also leaves Noverca and starts the migration on Vodafone 4G network with Plintron |language=it |website=MVNO News |date=18 June 2019 |accessdate=17 August 2019}}</ref>
+|-
+| 222 || 56 || Spusu || Mass Response GmbH || Operational || MVNO || <ref>{{cite web |url=https://www.mvnonews.com/2019/08/20/mass-response-spusu-compare-gia-nella-lista-degli-operatori-da-cui-e-possibile-fare-portabilita/ |title=Mass Response (Spusu) compare già nella lista degli operatori da cui è possibile fare portabilità |trans-title=Mass Response (Spusu) is available as origin operator for MNP | language=it |website=MVNO News |date=21 June 2019 |accessdate=21 August 2019}}</ref>
+|-
+| 222 || 77 || IPSE 2000 ||  || Not operational || UMTS 2100 || Retired
+|-
+| 222 || 88 || WINDTRE || [[Wind Tre]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 1800 / 5G 2600 / 5G 3500 || Former Wind<ref name=gsa_lte/>
+|-
+| 222 || 98 || BLU || BLU S.p.A. || Not operational || GSM 900 ||
+|-
+| 222 || 99 || WINDTRE || [[Wind Tre]]  || Operational || UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 || Former 3 Italia<ref name=gsa_lte/>
+|}
+
+=== J ===
+==== [[Jersey]] ([[United Kingdom]]) – JE ====
+{| {{MNC}}
+|-
+| 234 || 03 || Airtel-Vodafone || [[Airtel-Vodafone|Jersey Airtel Limited]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 ||
+|-
+| 234 || 28 || || [https://web.archive.org/web/20150502084553/http://www.marathontelecom.net/ Marathon Telecom Limited] || Not operational || UMTS 2100 || holds license but not network built
+|-
+| 234 || 50 || JT || [[JT Group Limited]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 || <ref name=gsa_lte/><ref name=itu_ob_1251/>
+|-
+| 234 || 55 || Sure Mobile || [[Sure (company)|Sure (Jersey) Limited]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 || former Cable & Wireless
+|}
+
+=== K ===
+==== [[Kosovo]] – XK ====
+{| {{MNC}}
+|-
+| 221 || 01 || Vala || [[Post and Telecom of Kosovo|Telecom of Kosovo J.S.C.]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / LTE 1800 || Previously the Monaco MCC/MNC 212-01 was used.<ref name=gsa_lte/><ref name=itu_ob_1123/><ref name=mwlive/>
+|-
+| 221 || 02 || IPKO || [[IPKO]] || Operational || GSM 900 / UMTS 900 / LTE 1800 || Previously the Slovenian MCC/MNC 293-41 was used. Used by MVNO D3 Mobile.<ref name=gsa_lte/><ref name=itu_ob_1123/><ref name=mwlive/>
+|-
+| 221 || 06 || Z Mobile || Dardaphone.Net LLC || Operational || MVNO || Previously the Monaco MCC/MNC 212-01 was used.<ref name=itu_ob_1123/>
+|-
+| 221 || 07 || D3 Mobile || Dukagjini Telecommunications LLC || Operational || MVNO || <ref name=itu_ob_1188/>
+|}
+
+=== L ===
+==== [[Latvia]] – LV ====
+{| {{MNC}}
+|-
+| 247 || 01 || LMT || Latvian Mobile Telephone || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600 / 5G 3500 || <ref name=gsa_lte/><ref name=gsa_umts900/>
+|-
+| 247 || 02 || [[Tele2]] || Tele2 || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || <ref name=gsa_lte/>
+|-
+| 247 || 03 || TRIATEL || Telekom Baltija || Operational || CDMA 450 ||
+|-
+| 247 || 04 || || Beta Telecom || Not operational || Unknown || <ref name=itu_ob_1019/> Former Lattelecom; MNC withdrawn<ref name=authority_lv/>
+|-
+| 247 || 05 || Bite || Bite Latvija || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || Bite's postpaid customers are still being assigned SIM cards with 246 02 MNC<ref name=gsa_lte/>
+|-
+| 247 || 06 || || Rigatta || Not operational || Unknown || MNC withdrawn<ref name=authority_lv/>
+|-
+| 247 || 07 || || SIA "MEGATEL" || Operational || MVNO || Uses Bite network; former Master Telecom<ref name=authority_lv/>
+|-
+| 247 || 08 || VMT || SIA "VENTAmobile" || Operational || MVNO || Former IZZI<ref name="authority_lv"/>
+|-
+| 247 || 09 || Xomobile || [http://www.camelmobile.com/ Camel Mobile] || Operational || MVNO || Former Global Mobile Solutions<ref name="authority_lv"/>
+|-
+| 247 || 10 || LMT || Latvian Mobile Telephone || Unknown || Unknown || <ref name=authority_lv/>
+|}
+
+==== [[Liechtenstein]] – LI ====
+{| {{MNC}}
+|-
+| 295 || 01 || [[Swisscom]] || Swisscom Schweiz AG || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || Also uses MCC 228 MNC 01 (Switzerland)<ref name=itu_ob_1056/>
+|-
+| 295 || 02 || [http://www.7acht.li/ 7acht] || Salt Liechtenstein AG || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || Former Orange <ref name=itu_ob_1079/>
+|-
+| 295 || 05 || FL1 || [[:de:Telecom Liechtenstein|Telecom Liechtenstein AG]] || Operational || GSM 900 / UMTS 2100 / LTE 800 || Former Mobilkom <ref name=itu_ob_1062/><ref name=gsa_lte/>
+|-
+| 295 || 06 || [http://www.cubictelecom.com Cubic Telecom] || Cubic Telecom AG || Operational || MVNO ||
+|-
+| 295 || 07 || || First Mobile AG || Not operational || MVNO || <ref name=itu_ob_1062/> MNC withdrawn<ref name=itu_ob_1254/>
+|-
+| 295 || 09 || || [https://www.emnify.com/ EMnify GmbH] || Unknown || MVNO || <ref name=itu_ob_1079/>
+|-
+| 295 || 10 || || [http://www.soracom.jp Soracom LI Ltd.] || Unknown || MVNO || <ref name=itu_ob_1104/><ref name=itu_ob_1254/>
+|-
+| 295 || 11 || || [https://dimoco.eu/ DIMOCO Messaging AG] || Unknown || MVNO || <ref name=authority_li/><ref name=itu_ob_1254/>
+|-
+| 295 || 77 || Alpmobil || Alpcom AG || Not operational || GSM 900 || Bankruptcy in February 2012,<ref name=volksblatt_alpcom>{{cite web |last=De Meijer |first=Walter |title=Liechtensteinische Telecom wirft Rettungsanker für Alpcom-Kunden |url=http://www.telecom.li/CFDOCS/cms3/admin/cms/download.cfm?FileID=16882&GroupID=171 |archive-url=https://web.archive.org/web/20120309124458/http://www.telecom.li/CFDOCS/cms3/admin/cms/download.cfm?FileID=16882&GroupID=171 |url-status=dead |archive-date=9 March 2012 |publisher=Volksblatt |accessdate=11 December 2012 }}</ref> former Tele2, MNC withdrawn
+|}
+
+==== [[Lithuania]] – LT ====
+{| {{MNC}}
+|-
+| 246 || 01 || Telia || [[Telia Lietuva]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500 || Former [[Omnitel]];<ref name=itu_ob_779/><ref name=gsa_lte/> UMTS 2100 shut down end of 2020, UMTS 900 to shut down end of 2022<ref name="Telia 2100MHz LT 2">{{cite web |url=https://www.commsupdate.com/articles/2020/08/20/telia-begins-gradual-3g-phaseout-in-lithuania/ |title=Telia begins gradual 3G phaseout in Lithuania |publisher=TeleGeography |date=2020-08-20 |accessdate=2020-08-30}}</ref>
+|-
+| 246 || 02 || BITĖ || UAB Bitė Lietuva || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 || <ref name=itu_ob_779/><ref name=mwlive/>
+|-
+| 246 || 03 || [[Tele2]] || UAB Tele2 (Tele2 AB, Sweden) || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 700 / 5G 3500 || (in Vodafone partnership) <ref name=itu_ob_779/><ref name=gsa_lte/><ref name=gsa_umts900/>
+|-
+| 246 || 04 || || LR vidaus reikalų ministerija ([[Ministry of the Interior (Lithuania)|Ministry of the Interior]]) || Unknown || Unknown || <ref name=authority_lt/>
+|-
+| 246 || 05 || LitRail || Lietuvos geležinkeliai ([[Lithuanian Railways]]) || Operational || GSM-R 900 || <ref name=authority_lt/>
+|-
+| 246 || 06 || Mediafon || UAB Mediafon || Operational || Unknown || <ref name=authority_lt/>
+|-
+| 246 || 07 || || Compatel Ltd. || Unknown || Unknown || <ref name=authority_lt/>
+|-
+| 246 || 08 || MEZON || [[SC Lithuanian Radio and Television Centre|Lietuvos radijo ir televizijos centras]] || Operational || WiMAX 3500 / TD-LTE 2300 / 5G 2300 || <ref name=gsa_lte/><ref name=authority_lt/> acquired by Bitė<ref name="TC_Bite LT 2">{{cite web |url=https://www.commsupdate.com/articles/2020/12/01/competition-council-approves-bites-acquisition-of-mezon/ |title=Competition Council approves Bite's acquisition of MEZON |publisher=TeleGeography |date=2020-12-01 |accessdate=2020-12-04}}</ref>
+|-
+| 246 || 09 || || Interactive Digital Media GmbH || Not operational || Unknown || MNC withdrawn<ref name=authority_lt/>
+|-
+| 246 || 11 || || DATASIM OU || Unknown || Unknown || <ref name=authority_lt/>
+|-
+| 246 || 12 || || Nord connect OU || Unknown || Unknown || <ref name=authority_lt/>
+|-
+| 246 || 13 || || Travel Communication SIA || Unknown || Unknown || <ref name=authority_lt/>
+|-
+| 246 || 14 || || Tismi BV || Unknown || Unknown || <ref name=authority_lt/>
+|-
+| 246 || 15 || || Esim telecom, UAB || Unknown || Unknown || <ref name=authority_lt/>
+|}
+
+==== [[Luxembourg]] – LU ====
+{| {{MNC}}
+|-
+| 270 || 01 || POST || [[POST Telecom|POST Luxembourg]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 700 / 5G 3500 || Former LuxGSM (P&T Luxembourg)<ref name=gsa_lte/>
+|-
+| 270 || 02 || || MTX Connect S.a.r.l. || Unknown || Unknown || <ref name=itu_ob_1028/>
+|-
+| 270 || 05 || || Luxembourg Online S.A. || Unknown || Unknown || <ref name=itu_ob_1219/>
+|-
+| 270 || 07 || || [[Bouygues Telecom]] S.A. || Unknown || Unknown || <ref name=itu_ob_1135/>
+|-
+| 270 || 10 || || Blue Communications || Unknown || Unknown || <ref name=itu_ob_1039/>
+|-
+| 270 || 71 || CFL || [[Société Nationale des Chemins de Fer Luxembourgeois]] || Operational || GSM-R 900 || 
+|-
+| 270 || 77 || Tango || [[Tango (telecom)|Tango SA]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 700 / 5G 3500 || <ref name=gsa_lte/> MNC also used in Belgium<ref name=itu_ob_1147/><ref name=itu_ob_1210/>
+|-
+| 270 || 78 || || Interactive digital media GmbH || Unknown || Unknown || <ref name=itu_ob_1050/>
+|-
+| 270 || 79 || || [https://www.mitto.ch/ Mitto AG] || Unknown || Unknown || <ref name=itu_ob_1135/>
+|-
+| 270 || 80 || || [[Syniverse]] Technologies S.à r.l. || Unknown || Unknown || <ref name=itu_ob_1135/>
+|-
+| 270 || 81 || || E-Lux Mobile Telecommunication S.A. || Unknown || Unknown || <ref name=itu_ob_1135/>
+|-
+| 270 || 99 || Orange || [[Orange S.A.]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 700 / 5G 3500 || Former VOXmobile;<ref name=gsa_lte/> MNC also used in Belgium<ref name=itu_ob_1211/>
+|}
+
+=== M ===
+==== [[Malta]] – MT ====
+{| {{MNC}}
+|-
+| 278 || 01 || Epic || [[Epic (Malta)|Epic]] || Operational || GSM 900 / UMTS 2100 / LTE 1800 / 5G || Former Vodafone; supports MVNOs [[Redtouch Fone]] and VFC Mobile<ref name=gsa_lte/><ref>{{cite web|url=http://eumvno.wordpress.com/2010/12/08/valletta-f-c-launches-mobile-phone-service/ |title=Eumvno.wordpress.com |publisher=Eumvno.wordpress.com |date= |accessdate=2018-06-12}}</ref><ref name=itu_ob_1211/>
+|-
+| 278 || 11 || || YOM Ltd. || Not operational || MVNO || <ref name=itu_ob_1062/> MNC withdrawn<ref name=itu_ob_1225/>
+|-
+| 278 || 21 || [[GO (Malta)|GO]] || Mobile Communications Limited || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / 5G || Supports MVNO PING<ref name=gsa_lte/><ref name=mwlive/><ref>{{cite web|url=http://www.timesofmalta.com/articles/view/20100502/local/pn-launches-mobile-network-ping.305532 |title=Timesofmalta.com |publisher=Timesofmalta.com |date=2010-05-02 |accessdate=2018-06-12}}</ref>
+|-
+| 278 || 30 || [[GO (Malta)|GO]] || Mobile Communications Limited || Unknown || Unknown || <ref name=itu_ob_1069/>
+|-
+| 278 || 77 || Melita || [[Melita (telecommunications company)|Melita]] || Operational || UMTS 900 / UMTS 2100 / LTE 800 / LTE 2100 / 5G || <ref name=mwlive/><ref name=itu_ob_1211/>
+|}
+
+==== [[Moldova]] – MD ====
+{| {{MNC}}
+|-
+| 255 || 00 || IDC || [[Interdnestrcom]] || Operational || CDMA 800 || Unofficially using Ukrainian MCC; CDMA 450 shut down Sep 2020<ref>{{cite web |url=https://idc.md/news/mobile_news/idc_prekrashchaet_podderzhku_standarta_cdma_450/ |title=IDC ends support for CDMA-450 standard |publisher=Interdnestrcom |language=russian |date=2020-06-15 |accessdate=2020-11-17}}</ref>
+|-
+| 259 || 01 || Orange || [[Orange Moldova]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 || Former Voxtel
+|-
+| 259 || 02 || Moldcell || [[Moldcell]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600 ||
+|-
+| 259 || 03 || Moldtelecom || [[Moldtelecom]] || Operational || CDMA 450 || 
+|-
+| 259 || 04 || [[Eventis]] || Eventis Telecom || Not operational || GSM 900 / GSM 1800 || Bankruptcy - License suspended <ref name=itu_ob_1063/>
+|-
+| 259 || 05 || Moldtelecom || [[Moldtelecom]] || Operational || UMTS 900 / UMTS 2100 / LTE 1800 || Former [[Unité]]<ref>{{cite web |url=http://www.unite.md/news/?n=a4f41dac9853b57f199eaf10bd6367a6 |title=Moldtelecom a pus în aplicare planul de dezvoltare și îmbunătățire a rețelei sale de telefonie mobilă Unite 3G |publisher=Moldtelecom |language=Romanian |date=18 December 2014 |accessdate=29 April 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20150511002501/http://www.unite.md/news/?n=a4f41dac9853b57f199eaf10bd6367a6 |archivedate=11 May 2015 |df=dmy-all }}</ref>
+|-
+| 259 || 15 || IDC || [[Interdnestrcom]] || Operational || LTE 800 / LTE 1800 || 
+|-
+| 259 || 99 || Moldtelecom || [[Moldtelecom]] || Operational || UMTS 2100 || Former [[Unité]]; used for Femtocell service only
+|}
+
+==== [[Monaco]] – MC ====
+{| {{MNC}}
+|-
+| 212 || 10 || Office des Telephones || [[Monaco Telecom]] ||   Operational || GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || Used for the [[Vala GSM|Vala]] network in Kosovo. The GSM Association lists the PTK (P&T Kosovo) website for this network.<ref name=itu_ob_1143/>
+|}
+
+==== [[Montenegro]] – ME ====
+{| {{MNC}}
+|-
+| 297 || 01 || One || [[Telenor Montenegro]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G || Former ProMonte GSM<ref name=gsa_lte/><ref>{{cite web |title=Telenor Montenegro |url=http://www.telenor.com/investors/company-facts/business-description/telenor-montenegro/ |publisher=Telenor |accessdate=6 April 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20141207015914/http://www.telenor.com/investors/company-facts/business-description/telenor-montenegro/ |archivedate=7 December 2014 |df=dmy-all }}</ref>
+|-
+| 297 || 02 || telekom.me || [[Crnogorski Telekom]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 2100 || Former MoNet<ref name=gsa_lte/>
+|-
+| 297 || 03 || m:tel || [[Mtel Montenegro|m:tel Crna Gora]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE ||Owned by [[Telekom Srbija]]
+|}
+
+=== N ===
+==== [[Netherlands]] ([[Kingdom of the Netherlands]]) – NL ====
+{| {{MNC}}
+|-
+| 204 || 00 || || Intovoice B.V. || Unknown || Unknown || <ref name=itu_ob_1210/>
+|-
+| 204 || 01 ||  || RadioAccess Network Services || Not operational || Unknown || <ref name=itu_ob_1051/> MNC withdrawn<ref name=itu_ob_1242/>
+|-
+| 204 || 02 || [[Tele2 Netherlands|Tele2]] || T-Mobile Netherlands B.V || Operational || LTE 800 / LTE 2600 || <ref name=gsa_lte/><ref name=itu_ob_1210/>
+|-
+| 204 || 03 || Enreach || Enreach Netherlands B.V. || Operational || MVNE ||
+|-
+| 204 || 04 || [[Vodafone]] || Vodafone Libertel B.V. || Operational || GSM 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 1800 || <ref name=gsa_lte/> UMTS shut down February 2020<ref>{{cite web |url=https://www.commsupdate.com/articles/2019/12/11/vodafoneziggo-closing-3g-network-on-4-february-2020/ |title=VodafoneZiggo closing 3G network on 4 February 2020 |date=11 December 2019 |website=CommsUpdate |publisher=TeleGeography |accessdate=14 February 2020}}</ref>
+|-
+| 204 || 05 ||  || Elephant Talk Communications Premium Rate Services || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1242/>
+|-
+| 204 || 06 || Vectone Mobile || Mundio Mobile (Netherlands) Ltd || Not operational || MVNO || MNC withdrawn<ref name=itu_ob_1210/>
+|-
+| 204 || 07 || Teleena || Tata Communications MOVE B.V. || Operational || MVNO || <ref name=itu_ob_1210/>
+|-
+| 204 || 08 || [[KPN]] || KPN Mobile The Netherlands B.V. || Operational || GSM 900 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 700 || <ref name=gsa_lte/> UMTS 2100 shut down Jan 2022<ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2018/07/27/kpn-shutting-3g-by-january-2022/ |title=KPN shutting 3G by January 2022 |publisher=TeleGeography |date=2018-07-27 |accessdate=2018-07-27}}</ref>
+|-
+| 204 || 09 || [[Lycamobile]] || Lycamobile Netherlands Limited || Operational || MVNO ||
+|-
+| 204 || 10 || [[KPN]] || KPN B.V. || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 ||
+|-
+| 204 || 11 || || Greenet Netwerk B.V || Operational || LTE || Former VoipIT B.V., MNC withdrawn;<ref name=itu_ob_1051/> private networks<ref name=itu_ob_1210/>
+|-
+| 204 || 12 || [[Telfort]] || KPN Mobile The Netherlands B.V. || Operational || MVNO || Subbrand of KPN
+|-
+| 204 || 13 || || Unica Installatietechniek B.V. || Unknown || Unknown ||
+|-
+| 204 || 14 || || Venus & Mercury Telecom || Unknown || 5G || Former 6GMOBILE B.V.<ref name=itu_ob_1210/>
+|-
+| 204 || 15 || [[Ziggo]] || Ziggo B.V. || Operational || LTE 2600 || business users only<ref name=gsa_lte/>
+|-
+| 204 || 16 || [[T-Mobile]] (BEN) || T-Mobile Netherlands B.V || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 700 || <ref name=gsa_lte/><ref name=gsa_umts900/>
+|-
+| 204 || 17 ||  || Lebara Ltd || Operational || MVNO || Former Intercity Mobile Communications<ref name=itu_ob_1210/><ref name=itu_ob_1242/>
+|-
+| 204 || 18 || [[Ziggo]] || Ziggo Services B.V. || Operational || MVNO || Former [[UPC Netherlands]]<ref name=itu_ob_1210/>
+|-
+| 204 || 19 || || Mixe Communication Solutions B.V. || Unknown || Unknown ||
+|-
+| 204 || 20 || [[T-Mobile]] || T-Mobile Netherlands B.V || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 700 || Former Orange Netherlands MCC/MNC
+|-
+| 204 || 21 ||  || [[ProRail]] B.V. || Operational || GSM-R 900 ||
+|-
+| 204 || 22 || || Ministerie van Defensie || Unknown || Unknown ||
+|-
+| 204 || 23 ||  || [[KORE Wireless]] Nederland B.V. || Operational || MVNO || Former ASPIDER Solutions, Wyless<ref name=itu_ob_1210/>
+|-
+| 204 || 24 || || PM Factory B.V. || Unknown || Unknown || <ref name=itu_ob_1242/>
+|-
+| 204 || 25 ||  || CapX B.V. || Operational || GSM 1800 || Private networks<ref name=itu_ob_1210/>
+|-
+| 204 || 26 || || SpeakUp B.V. || Unknown || Unknown ||
+|-
+| 204 || 27 || L-mobi || L-Mobi Mobile B.V. || Operational || MVNO || Former Breezz Nederland B.V.<ref name=itu_ob_1210/>
+|-
+| 204 || 28 || || Lancelot B.V. || Unknown || Unknown ||
+|-
+| 204 || 29 || || Tismi B.V. || Unknown || Unknown || Former Private Mobile Ltd<ref name=itu_ob_1056/><ref name=itu_ob_1210/>
+|-
+| 204 || 30 || || ASpider Solutions Nederland B.V. || Unknown || Unknown || <ref name=itu_ob_1210/>
+|-
+| 204 || 32 || || Cubic Telecom Limited || Unknown || Unknown || <ref name=itu_ob_1210/>
+|-
+| 204 || 33 || || [[Truphone]] B.V. || Operational || MVNO || <ref name=itu_ob_1210/>
+|-
+| 204 || 60 || || Nextgen Mobile Ltd || Not operational || Unknown || <ref name=itu_ob_1051/> MNC withdrawn<ref name=itu_ob_1210/>
+|-
+| 204 || 61 || || [https://alcadis.nl/en/ Alcadis B.V.] || Unknown || Unknown || Former BodyTrace Netherlands B.V.<ref name=itu_ob_1051/><ref name=itu_ob_1210/>
+|-
+| 204 || 62 || RGTN || RGTN Wholesale Netherlands B.V. || Operational || MVNO || Former [[Voxbone]]; used for [[Signalling Connection Control Part]] and two-way [[SMS]] services<ref name=itu_ob_1242/>
+|-
+| 204 || 63 || || Messagebird BV || Unknown || Unknown || <ref name=itu_ob_1210/>
+|-
+| 204 || 64 || || Zetacom B.V. || Unknown || Unknown || <ref name=itu_ob_1051/>
+|-
+| 204 || 65 || || AGMS Netherlands B.V. || Not operational || Unknown || <ref name=itu_ob_1051/> MNC withdrawn<ref name=itu_ob_1210/>
+|-
+| 204 || 66 || || Utility Connect B.V. || Operational || CDMA 450 || Subsidiary of [[:nl:Alliander|Alliander]]; network operated by [[KPN]]<ref name=itu_ob_1051/><ref>{{cite web |url=https://www.stedin.net/over-stedin/pers-en-media/persberichten/stedin-en-liander-bundelen-krachten-voor-dataverkeer |title=Stedin en Liander bundelen krachten voor dataverkeer |publisher=Stedin |date=8 October 2014 |accessdate=7 May 2015 |language=Dutch}}</ref>
+|-
+| 204 || 67 || || Koning en Hartman B.V. || Not operational || GSM 1800 || Former RadioAccess B.V.; MNC withdrawn<ref name=itu_ob_1242/>
+|-
+| 204 || 68 || || Roamware (Netherlands) B.V. || Not operational || Unknown || <ref name=itu_ob_1051/> MNC withdrawn<ref name=itu_ob_1210/>
+|-
+| 204 || 69 || || KPN Mobile The Netherlands B.V. || Unknown || Unknown || <ref name=itu_ob_1210/>
+|-
+| 204 || 91 || || Enexis Netbeheer B.V. || Unknown || Unknown || <ref name=itu_ob_1210/>
+|}
+
+==== [[Republic of North Macedonia|North Macedonia]] – MK ====
+{| {{MNC}}
+|-
+| 294 || 01 || Telekom.mk || [[T-Mobile Macedonia|Makedonski Telekom]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G || Former Mobimak<ref name=gsa_lte/>
+|-
+| 294 || 02 || one || [[Cosmofon|one]] || Not operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 || Former [[Cosmofon]], [[One (Telekom Slovenija Group)]]<ref name=gsa_lte/>
+|-
+| 294 || 03 || A1 MK || [[A1 Macedonia]] DOOEL || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 || Former VipOperator; merged with [[One (Telekom Slovenija Group)|One]] in 2015 and renamed to one.vip; renamed to A1  MK in 2019<ref name=gsa_lte/>
+|-
+| 294 || 04 || [[Lycamobile]] || Lycamobile LLC || Operational || MVNO || Uses A1 network <ref name=itu_ob_1103/>
+|-
+| 294 || 10 || || WTI Macedonia || Not operational || Unknown || <ref name=itu_ob_1056/>
+|-
+| 294 || 11 || || MOBIK TELEKOMUNIKACII DOOEL Skopje || Unknown || Unknown || <ref name=itu_ob_1056/>
+|-
+| 294 || 12 || || MTEL DOOEL Skopje || Unknown || Unknown || <ref name=itu_ob_1251/>
+|}
+
+==== [[Norway]] – NO ====
+{| {{MNC}}
+|-
+| 242 || 01 || [[Telenor]] || Telenor Norge AS || Operational || GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || <ref name=authority_no/> UMTS shut down 2021, GSM to shut down 2025<ref name=shutdown2G3G/>
+|-
+| 242 || 02 || Telia || [[Telia Norge]] AS || Operational || GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600 / 5G 700 / 5G 3500 || Former [[NetCom (Norway)|NetCom]]; UMTS shut down Dec 2021<ref name=sunset3g>{{cite web |url=https://blog.telegeography.com/3gs-sun-is-setting-in-europe |title=3G's Sun is Setting in Europe |author=Pete Bell |publisher=TeleGeography |date=2021-08-12 |access-date=2021-11-17}}</ref>
+|-
+| 242 || 03 ||  || Televerket AS || Not operational || Unknown || MNC withdrawn<ref name=authority_no/>
+|-
+| 242 || 04 || [[Tele2]] || [[Tele2]] (Mobile Norway AS) || Not operational || MVNO  || MNC withdrawn<ref name=itu_ob_1111/>
+|-
+| 242 || 05 || Telia || [[Telia Norge]] AS || Not operational || GSM 900 / UMTS 900 / UMTS 2100 || Former [[Tele2]]<ref name=itu_ob_1111/>
+|-
+| 242 || 06 || [[Net 1|ice]] || ICE Norge AS || Operational || LTE 450 || Former Nordisk Mobiltelefon; data services only<ref name=itu_ob_1111/>
+|-
+| 242 || 07 || Phonero || Phonero AS || Not operational || MVNO || Former Ventelo; MNC withdrawn<ref name=authority_no/>
+|-
+| 242 || 08 || Telia || [[Telia Norge]] AS || Operational || MVNO || Former TDC
+|-
+| 242 || 09 || Com4 || Com4 AS || Operational || MVNO || Principally [[Machine-to-Machine|M2M]] services<ref>{{cite web |url=http://www.com4.no |title=Com4 &#124; Communication for devices |publisher=Com4.no |date= |accessdate=14 November 2012}}</ref>
+|-
+| 242 || 10 || || [[Norwegian Communications Authority]] || Unknown || Unknown || <ref name=itu_ob_1111/>
+|-
+| 242 || 11 || SystemNet || SystemNet AS || Not operational || Test || MNC withdrawn<ref name=authority_no/>
+|- 
+| 242 || 12 || [[Telenor]] || Telenor Norge AS || Unknown || Unknown || <ref name=authority_no/>
+|-
+| 242 || 14 || [[Net 1|ice]] || ICE Communication Norge AS || Operational || GSM 900 / LTE 800 / LTE 1800 / LTE 2100 / 5G 700 / 5G 2100 || <ref name=itu_ob_1111/> UMTS shut down Jan 2021<ref>{{cite web |url=https://www.ice.no/kundeservice/mobiltelefoni/3g-utfasing/ |title=3G-nettet fases ut |trans-title=The 3G network is being phased out |language=no |publisher=ice |access-date=2021-01-05}}</ref>
+|-
+| 242 || 15 ||  || [https://erate.no/en/ eRate Norway AS] || Operational || MVNO || <ref name=authority_no/>
+|-
+| 242 || 16 ||  ||  Iristel Norway AS || Unknown || Unknown || <ref name=authority_no/>
+|-
+| 242 || 20 ||  || [[Jernbaneverket|Jernbaneverket AS]] || Operational || [[GSM-R]] 900 || <ref name=authority_no/>
+|-
+| 242 || 21 ||  || [[Jernbaneverket|Jernbaneverket AS]] || Operational || [[GSM-R]] 900 || <ref name=authority_no/>
+|-
+| 242 || 22 ||  || [[Altibox]] AS || Unknown || Unknown || Former [[Network Norway]] AS;<ref name=itu_ob_1111/><ref name=authority_no/>
+|-
+| 242 || 23 || Lycamobile  || Lyca Mobile Ltd || Operational || MVNO || <ref name=authority_no/>
+|-
+| 242 || 24 || || Mobile Norway AS || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1111/>
+|-
+| 242 || 25 || || Forsvarets kompetansesenter KKIS || Unknown || Unknown || <ref name=authority_no/>
+|-
+| 242 || 90 || || Nokia Solutions and Networks Norge AS || Unknown || Unknown || <ref name=authority_no/>
+|-
+| 242 || 99 || || [http://www.tampnet.com/ TampNet AS] || Operational || LTE 800 / LTE 1800 || Offshore<ref name=itu_ob_1111/>
+|}
+
+=== P ===
+==== [[Poland]] – PL ====
+{| {{MNC}}
+|-
+| 260 || 01 || [[Plus (telecommunications Poland)|Plus]] || Polkomtel Sp. z o.o. || Operational ||  GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-5G 2500 || LTE roaming with Aero 2<ref name=gsa_lte/><ref name=gsa_umts900/>
+|-
+| 260 || 02 || [[T-Mobile (Poland)|T-Mobile]] || T-Mobile Polska S.A. || Operational ||  GSM 900 / GSM 1800 / UMTS 900 / LTE 1800 / LTE 2100 / 5G 2100 || former Era; see MNC 260-34 for shared LTE network; UMTS 2100 shut down Oct 2021, UMTS 900 to shut down 2023<ref>{{cite web |url=https://www.commsupdate.com/articles/2022/02/02/t-mobile-begins-900mhz-3g-migration-in-poland/ |title=T-Mobile begins 900MHz 3G migration in Poland |publisher=TeleGeography |date=2022-02-02 |access-date=2022-02-05}}</ref>
+|-
+| 260 || 03 || [[Orange Polska|Orange]] || Orange Polska S.A. || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100 / 5G 2100 || former Idea; see MNC 260-34 for shared LTE network; CDMA 450 shut down April 2017
+|-
+| 260 || 04 || [[Plus (telecommunications Poland)|Plus]] || Polkomtel Sp. z o.o. || Not operational || Unknown || former [[:pl:CenterNet|CenterNet]], [[:pl:Aero2|Aero2]]<ref name=authority_pl/>
+|-
+| 260 || 05 || [[Orange Polska|Orange]] || Orange Polska S.A. || Not operational || UMTS 2100 || not in use, using MNC 03
+|-
+| 260 || 06 || [[Play Mobile|Play]] || P4 Sp. z o.o. || Operational || GSM 1800 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 || Also roaming on Polkomtel and Orange 2G/3G network<ref name=gsa_lte/>
+|-
+| 260 || 07 || [[Netia]] || Netia S.A. || Operational || MVNO || [[MVNO]] on Play (P4)
+|-
+| 260 || 08 ||  || E-Telko Sp. z o.o. || Not operational || Unknown || MNC withdrawn<ref name=authority_pl/>
+|-
+| 260 || 09 || [[Lycamobile]] || Lycamobile Sp. z o.o. || Operational || MVNO || On Polkomtel 2G/3G network
+|-
+| 260 || 10 || [[T-Mobile (Poland)|T-Mobile]] || T-Mobile Polska S.A. || Unknown || Unknown || former Telefony Opalenickie S.A., [[:pl:Sferia (przedsiębiorstwo)|Sferia]]; CDMA 800 shut down in 2014; LTE 800 leased to Aero 2;<ref>{{cite web |url=http://www.telecompaper.com/news/sferia-to-migrate-cdma-customers-to-polkomtel-as-mvno--991317 |title=Sferia to migrate CDMA customers to Polkomtel as MVNO |publisher=Telecompaper |date=21 January 2014 |accessdate=24 July 2014}}</ref><ref>{{cite web |url=http://www.telepolis.pl/wiadomosci/sferia-i-aero2-z-nowa-umowa-o-wspoldzieleniu-zasobow-lte-800-mhz,2,3,35845.html |title=Sferia i Aero2 z nową umową o współdzieleniu zasobów LTE 800 MHz |publisher=Telepolis.pl |language=Polish |date=31 March 2016 |accessdate=8 March 2017}}</ref><ref name=authority_pl/>
+|-
+| 260 || 11 || [[Plus (telecommunications Poland)|Plus]] || Polkomtel Sp. z o.o. || Operational || CDMA 420 || Former [[:pl:Nordisk Polska|Nordisk Polska]]<ref name=authority_pl/>
+|-
+| 260 || 12 || [[Cyfrowy Polsat]] || Cyfrowy Polsat S.A. || Operational || MVNO || [[MVNO]] on Polkomtel
+|-
+| 260 || 13 ||  || Move Telecom S.A. || Operational || MVNO || Former Sferia<ref name=authority_pl/>
+|-
+| 260 || 14 ||  || Telco Leaders Ltd || Unknown || Unknown || Former Sferia<ref name=authority_pl/>
+|-
+| 260 || 15 || [[Plus (telecommunications Poland)|Plus]] || Polkomtel Sp. z o.o. || Operational || LTE 1800 || former [[:pl:CenterNet|CenterNet]], [[:pl:Aero2|Aero2 ]]; GSM 1800 shut down in 2010<ref name=authority_pl/>
+|-
+| 260 || 16 || [[Plus (telecommunications Poland)|Plus]] || Polkomtel Sp. z o.o. || Operational || LTE 1800 || former [[Mobyland]], [[:pl:Aero2|Aero2 ]]; GSM 1800 shut down in 2010
+|-
+| 260 || 17 || [[Plus (telecommunications Poland)|Plus]] || Polkomtel Sp. z o.o. || Operational || UMTS 900 / TD-LTE 2600 || Former [[:pl:Aero2|Aero2 ]]<ref name=gsa_lte/>
+|-
+| 260 || 18 || AMD Telecom || AMD Telecom S.A. || Unknown || Unknown || <ref name=itu_ob_1056/>
+|-
+| 260 || 19 ||  || SIA NetBalt || Unknown || MVNO || Former Teleena Holding BV<ref name=itu_ob_1056/><ref name=authority_pl/>
+|-
+| 260 || 20 ||  || TISMI B.V. || Unknown || Unknown || Former Mobile.Net,<ref name=itu_ob_1056/> Wysyłaj SMS Polska<ref name=authority_pl/>
+|-
+| 260 || 21 ||  || private networks || Unknown || Unknown || Former Exteri until May 2014;<ref name=itu_ob_1056/> now used for several private networks with 4-digit MNC 21xx<ref name=authority_pl/>
+|-
+| 260 || 22 ||  || Twilio Ireland Limited || Unknown || Unknown || Former Arcomm<ref name=itu_ob_1056/> until Nov 2018<ref name=authority_pl/>
+|-
+| 260 || 23 ||  || PGE Systemy S.A. || Unknown || Unknown || Former Amicomm<ref name=itu_ob_1056/><ref name=authority_pl/>
+|-
+| 260 || 24 || || IT Partners Telco Sp. z o.o. || Unknown || Unknown || former WideNet<ref name=itu_ob_1056/><ref name=authority_pl/>
+|-
+| 260 || 25 || TeleCube.PL || Claude ICT Poland Sp. z o.o. || Operational || Unknown || Former Best Solutions & Technology Experience, Polskie Sieci Radiowe<ref name=itu_ob_1056/><ref name=authority_pl/>
+|-
+| 260 || 26 ||  || Vonage B.V. || Unknown || Unknown || Former Advanced Technology & Experience (ATE) until 2016<ref name=itu_ob_1056/><ref name=authority_pl/>
+|-
+| 260 || 27 ||  || SIA Ntel Solutions || Unknown || Unknown || Former Intertelcom<ref name=itu_ob_1056/><ref name=authority_pl/>
+|-
+| 260 || 28 ||  || CrossMobile Sp. z o.o. || Unknown || Unknown || Former PhoneNet until 2016<ref name=itu_ob_1056/><ref name=authority_pl/>
+|-
+| 260 || 29 || Interfonica || Interfonica Sp. z o.o. || Not operational || Unknown || MNC withdrawn July 2016<ref name=itu_ob_1056/><ref name=authority_pl/>
+|-
+| 260 || 30 || GrandTel || GrandTel Sp. z o.o. || Not operational || Unknown || MNC withdrawn July 2016<ref name=itu_ob_1056/><ref name=authority_pl/>
+|-
+| 260 || 31 || Phone IT || Phone IT Sp. z o.o. || Not operational || Unknown || <ref name=itu_ob_1056/> MNC withdrawn<ref name=authority_pl/>
+|-
+| 260 || 32 ||  || Compatel Limited || Unknown || Unknown || <ref name=authority_pl/>
+|-
+| 260 || 33 || [[Truphone]] || Truphone Poland Sp. z o.o. || Operational || MVNO || <ref name=itu_ob_1056/>
+|-
+| 260 || 34 || NetWorkS! || T-Mobile Polska S.A. || Operational || LTE 800 / LTE 2600 || Shared network T-Mobile / Orange<ref>{{cite web |title=Orange and T-Mobile expand NetWorkS! deal |url=https://www.telegeography.com/products/commsupdate/articles/2016/12/08/orange-and-t-mobile-expand-networks-deal/ |publisher=TeleGeography |date=8 December 2016 |accessdate=8 March 2017}}</ref>
+|-
+| 260 || 35 || || PKP Polskie Linie Kolejowe S.A. || Operational || GSM-R || <ref name=authority_pl/>
+|-
+| 260 || 36 || Vectone Mobile || Mundio Mobile || Not operational || MVNO || MNC withdrawn May 2014<ref name=authority_pl/>
+|-
+| 260 || 37 || || NEXTGEN MOBILE LTD || Not operational || Unknown || MNC withdrawn Nov 2018<ref name=authority_pl/>
+|-
+| 260 || 38 || || CALLFREEDOM Sp. z o.o. || Not operational || Unknown || MNC withdawn Apr 2019<ref name=authority_pl/>
+|-
+| 260 || 39 || [[Voxbone]] || VOXBONE SA || Operational || MVNO || <ref name=authority_pl/>
+|-
+| 260 || 40 || || Interactive Digital Media GmbH || Not operational || Unknown || MNC withdrawn<ref name=authority_pl/>
+|-
+| 260 || 41 || || EZ PHONE MOBILE Sp. z o.o. || Unknown || Unknown || <ref name=authority_pl/>
+|-
+| 260 || 42 || || MobiWeb Telecom Limited || Unknown || Unknown || <ref name=authority_pl/>
+|-
+| 260 || 43 || || Smart Idea International Sp. z o.o. || Unknown || Unknown || <ref name=authority_pl/>
+|-
+| 260 || 44 || || Rebtel Poland Sp. z o.o. || Not operational || Unknown || MNC withdrawn Apr 2019<ref name=authority_pl/>
+|-
+| 260 || 45 || || Virgin Mobile Polska Sp. z o.o. || Operational || MVNO || <ref name=authority_pl/>
+|-
+| 260 || 46 || || Terra Telekom Sp. z o.o. || Not operational || Unknown || MNC withdrawn<ref name=authority_pl/>
+|-
+| 260 || 47 || || SMShighway Limited || Unknown || Unknown || <ref name=authority_pl/>
+|-
+| 260 || 48 || || AGILE TELECOM S.P.A. || Unknown || Unknown || <ref name=authority_pl/>
+|-
+| 260 || 49 || || Messagebird B.V. || Unknown || Unknown || <ref name=authority_pl/>
+|-
+| 260 || 90 || || [https://www.psgaz.pl/en Polska Spółka Gazownictwa Sp. z o.o.] || Unknown || Unknown || <ref name=authority_pl/>
+|-
+| 260 || 97 || || [https://uci.p.lodz.pl/ Politechnika Łódzka Uczelniane Centrum Informatyczne] || Unknown || Unknown || <ref name=authority_pl/>
+|-
+| 260 || 98 || [[Play Mobile|Play]] || P4 Sp. z o.o. || Not operational || LTE 1800 || Test network
+|}
+
+==== [[Portugal]] – PT ====
+{| {{MNC}}
+|-
+| 268 || 01 || Vodafone || [[Vodafone Portugal]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || formerly Telecel (2001)
+|-
+| 268 || 02 || MEO || [[Telecomunicações Móveis Nacionais]] || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1162/>
+|-
+| 268 || 03 || NOS || [[NOS Comunicações]] || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || formerly Optimus (2014)
+|-
+| 268 || 04 || LycaMobile || [[LycaMobile]] || Operational || MVNO ||
+|-
+| 268 || 05 || || Oniway - Inforcomunicaçôes, S.A. || Not operational || UMTS 2100 || <ref name=itu_ob_1056/> License withdrawn in 2003;<ref>{{cite web |title=Ministerial Order n.º 1758/2003, of 29 of January |url=http://www.anacom.pt/render.jsp?contentId=976129#.VRRKQ-G8Rps |publisher=ANACOM |accessdate=26 March 2015}}</ref> MNC withdrawn<ref name=itu_ob_1122/>
+|-
+| 268 || 06 || MEO || [[MEO (telecommunication company)|MEO - Serviços de Comunicações e Multimédia, S.A.]] || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 || formerly TMN (2014)
+|-
+| 268 || 07 || Vectone Mobile || Mundio Mobile (Portugal) Limited || Not operational || MVNO || MNC withdrawn<ref name=itu_ob_1162/>
+|-
+| 268 || 08 || MEO || [[MEO (telecommunication company)|MEO - Serviços de Comunicações e Multimédia, S.A.]] || Unknown || Unknown || <ref name=authority_pt/>
+|-
+| 268 || 11 || || Compatel, Limited || Unknown || Unknown || <ref name=itu_ob_1122/>
+|-
+| 268 || 12 || || Infraestruturas de Portugal, S.A. || Operational || GSM-R || former Refer Telecom, IP Telecom - Serviços de Telecomunicações, S.A.<ref name=itu_ob_1122/><ref name=itu_ob_1146/>
+|-
+| 268 || 13 || || [http://www.g9telecom.pt/ G9Telecom, S.A.] || Unknown || Unknown || <ref name=itu_ob_1122/>
+|-
+| 268 || 21 || Zapp || Zapp Portugal || Not operational || CDMA2000 450 || Closed down in September 2011; MNC withdawn<ref name=authority_pt/>
+|-
+| 268 || 80 || MEO || [[MEO (telecommunication company)|MEO - Serviços de Comunicações e Multimédia, S.A.]] || Operational || Unknown || <ref name=itu_ob_1122/>
+|-
+| 268 || 91 || Vodafone || [[Vodafone Portugal]] || Unknown || Unknown || <ref name=authority_pt/>
+|-
+| 268 || 93 || NOS || [[NOS Comunicações]] || Unknown || Unknown || <ref name=authority_pt/>
+|}
+
+=== R ===
+==== [[Romania]] – RO ====
+{| {{MNC}}
+|-
+| 226 || 01 || Vodafone || [[Vodafone România]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / TD-LTE 2600 / 5G 3500 || Formerly branded as Connex
+|-
+| 226 || 02 || Clicknet Mobile || [[Telekom Romania]] || Not operational || CDMA 420 || Licence expired on 1 January 2015, and network was shut down <ref>{{cite web |title=UPDATE Zone întinse din Apuseni rămân fără telefonie. Compania Telekom renunţă la sistemul prin radiorelee |url=http://adevarul.ro/locale/alba-iulia/zone-intinse-apuseni-raman-telefonie-compania-telekom-anuntat-renunta-sistemul-radio-1_5489cdc6448e03c0fdaa7345/index.html |publisher=Adevarul |date=11 December 2014 |accessdate=5 May 2015}}</ref> 
+|-
+| 226 || 03 || Telekom || [[Telekom Romania]] || Operational || GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600 || Formerly branded as Cosmote
+|-
+| 226 || 04 || Cosmote/Zapp || [[Telekom Romania]] || Not operational || CDMA 450 || Licence expired on 24 March 2013, and network was shut down<ref>[http://www.realitatea.net/zapp-va-mai-furniza-doar-servicii-de-date-3g-umts-in-frecven-a-de-2100-mhz_1119299.html Zapp renunţă la serviciile de voce în România, însă va continua să furnizeze servicii 3G] {{webarchive|url=https://web.archive.org/web/20130328134735/http://www.realitatea.net/zapp-va-mai-furniza-doar-servicii-de-date-3g-umts-in-frecven-a-de-2100-mhz_1119299.html |date=28 March 2013 }}. Realitatea .Net (1 January 1970). Retrieved on 2013-07-28.</ref>
+|-
+| 226 || 05 || Digi.Mobil || [[RCS&RDS]] || Operational || UMTS 900 / UMTS 2100 / LTE 900 / LTE 2100 / TD-LTE 2600 / 5G 3500 || 
+|-
+| 226 || 06 || Telekom/Zapp || [[Telekom Romania]] || Operational || UMTS 900 / UMTS 2100 || Branded as [[Telekom Romania|Telekom]] for data/voice and [[Zapp Mobile|Zapp]] for data only
+|-
+| 226 || 10 || Orange || [[Orange România]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || Formerly branded as Dialog
+|-
+| 226 || 11 || || Enigma-System || Unknown || MVNO || <ref name=itu_ob_1056/>
+|-
+| 226 || 15 || Idilis || [http://www.idilis.ro/ Idilis] || Operational || WiMAX / TD-LTE 2600 || LTE license is sold to RCS&RDS, but both MNC(226 05 and 226 15) are broadcast by RCS&RDS for business continuity <ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2015/08/21/digi-entering-4g-data-segment-via-2k-telecom-licence-takeover/ |title=Digi entering 4G data segment via 2K Telecom licence takeover |publisher=TeleGeography |date=21 August 2015 |accessdate=25 August 2015}}</ref>
+|-
+| 226 || 16 || Lycamobile || Lycamobile Romania || Operational || MVNO || Uses [[Telekom Romania|Telekom]] Networks
+|-
+| 226 || 19 || CFR || [[Căile Ferate Române]] || Testing || GSM-R 900  || Dedicated network for safety communication, not for public users. Dedicated band.
+|}
+
+==== [[Russian Federation]] – RU ====
+{| {{MNC}}
+|-
+| 250 || 01 || [[MTS (network provider)|MTS]] || Mobile TeleSystems || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 4700 ||
+|-
+| 250 || 02 || [[MegaFon]] || MegaFon PJSC || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 || Former North-West GSM
+|-
+| 250 || 03 || NCC || Nizhegorodskaya Cellular Communications || Not operational || GSM 900 / GSM 1800 || Purchased by Tele2
+|-
+| 250 || 04 || Sibchallenge || Sibchallenge || Not operational || GSM 900 ||
+|-
+| 250 || 05 || ETK || Yeniseytelecom || Not operational || GSM 900 / GSM 1800 / UMTS 2100 / CDMA 450|| Purchased by Tele2
+|-
+| 250 || 06 || [[Sky Link (Russia)|Skylink]] || CJSC Saratov System of Cellular Communications || Not operational || CDMA 450 ||
+|-
+| 250 || 07 || [[SMARTS (mobile network operator)|SMARTS]] || Zao SMARTS || Not operational || GSM 900 / GSM 1800 ||
+|-
+| 250 || 08 || [[Vainah Telecom]] || CS "VainahTelecom" || Operational || GSM 900 / GSM 1800 / TD-LTE 2300 ||
+|-
+| 250 || 09 || Skylink || Khabarovsky Cellular Phone || Operational || CDMA 450 ||
+|-
+| 250 || 10 || DTC || Dontelekom || Not operational || GSM 900 ||
+|-
+| 250 || 11 ||  Yota || Scartel || Operational || MVNO ||
+|-
+| 250 || 12 || Baykalwestcom || Baykal Westcom / New Telephone Company / Far Eastern Cellular || Not operational || GSM 900 / GSM 1800 / CDMA 450 ||
+|-
+| 250 || 12 || Akos ||  || Not operational || GSM 1800 ||
+|-
+| 250 || 13 || KUGSM || Kuban GSM || Not operational || GSM 900 / GSM 1800 ||
+|-
+| 250 || 14 || [[MegaFon]] || MegaFon OJSC || Not operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / TD-LTE 2600 ||
+|-
+| 250 || 15 || [[SMARTS (mobile network operator)|SMARTS]] || SMARTS Ufa, SMARTS Uljanovsk || Not operational || GSM 1800 ||
+|-
+| 250 || 16 || Miatel || Miatel || Operational || MVNO ||
+|-
+| 250 || 17 || Utel || JSC [[Uralsvyazinform]] || Not operational || GSM 900 / GSM 1800 || Former Ermak RMS
+|-
+| 250 || 18 || Osnova Telecom ||   || Not operational || TD-LTE 2300 ||
+|-
+| 250 || 19 || INDIGO || INDIGO || Not operational || GSM 1800 || Since 19 December 2009 merged with Tele2<ref>{{cite web |title="Индиго" превратился в Tele2. В Архангельске |url=https://spbit.ru/news/n12914/ |website=spbit.ru |accessdate=9 September 2020 |language=ru |date=15 May 2007}}</ref>
+|-
+| 250 || 20 || [[Tele2]] || Tele2 || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 450 / LTE 800 / LTE 1800 / TD-LTE 2300 / TD-LTE 2500 / LTE 2600 ||
+|-
+| 250 || 21 || GlobalTel || [https://globaltel.ru/ JSC "GlobalTel"] || Operational || Satellite ||
+|-
+| 250 || 22 || || Vainakh Telecom || Operational || TD-LTE 2300 || <ref name=gsa_lte/>
+|-
+| 250 || 23 || Thuraya || [http://www.gtnt.ru/ GTNT] || Operational || Satellite MVNO || Former Mobicom Novosibirsk
+|-
+| 250 || 26 || VTB Mobile || [https://vtbmobile.ru VTB Mobile] || Operational || MVNO ||
+|-
+| 250 || 27 || Letai || [https://tattelecom.ru/mobile Tattelecom] || Operational || GSM 1800 / LTE 1800 || 
+|-
+| 250 || 28 || Beeline || Beeline || Not operational || GSM 900 || Former EXTEL
+|-
+| 250 || 29 || Iridium || [https://www.iridium-russia.com/ Iridium Communications] || Operational || Satellite MVNO ||
+|-
+| 250 || 32 || Win Mobile|| K-Telecom || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600 || Unapproved use in [[Crimea]] only<ref name=itu_ob_1158/>
+|-
+| 250 || 33 || Sevmobile|| Sevtelekom || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || Unapproved use in [[Crimea]] only<ref name=itu_ob_1158/>
+|-
+| 250 || 34 || Krymtelekom|| Krymtelekom || Operational || GSM 900 / GSM 1800 / UMTS 2100 || Unapproved use in [[Crimea]] only<ref name=itu_ob_1158/>
+|-
+| 250 || 35 || MOTIV || EKATERINBURG-2000 || Operational || GSM 1800 / LTE 1800 / TD-LTE 2600 || <ref name=gsa_lte/>
+|-
+| 250 || 38 || Tambov GSM || Central Telecommunication Company || Not operational || GSM 900 / GSM 1800 ||
+|-
+| 250 || 39 || [[Rostelecom]] || ROSTELECOM || Not operational|| GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / TD-LTE 2300 / LTE 2600 || Tele2 code 250 20 is used since acquiring <ref name=gsa_lte/>
+|-
+| 250 || 40 || VTC Mobile || [https://mobile.voentelecom.ru/ Voentelecom] || Operational || MVNO ||
+|-
+| 250 || 44 ||  || Stavtelesot / North Caucasian GSM || Not operational || Unknown ||
+|-
+| 250 || 45 || Gazprombank Mobile || PJSC New Mobile Communications || Operational || MVNO ||
+|-
+| 250 || 50 || SberMobile || Sberbank-Telecom || Operational || MVNO ||
+|-
+| 250 || 54 || TTK || Tattelecom || Not operational || LTE 1800 || <ref name=gsa_lte/> 
+|-
+| 250 || 59 || WireFire || NetbyNet || Operational || MVNO on Megafon base || Data only
+|-
+| 250 || 60 || Volna mobile|| KTK Telecom || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600  || Unapproved use in [[Crimea]] only<ref name=itu_ob_1158/>
+|-
+| 250 || 61 || Intertelecom || Intertelecom || Not operational || CDMA 800  || Unapproved use in [[Crimea]] only
+|-
+| 250 || 62 || Tinkoff Mobile || [https://www.tinkoff.ru/mobile-operator/ Tinkoff Mobile] || Operational || MVNO ||
+|-
+| 250 || 91 || Sonic Duo || Sonic Duo CJSC || Not operational || GSM 1800 ||
+|-
+| 250 || 92 ||  || Primtelefon || Not operational || Unknown ||
+|-
+| 250 || 93 ||  || Telecom XXI || Not operational || Unknown ||
+|-
+| 250 || 96|| +7Telecom || K-Telecom || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600  || Unapproved use in [[Zaporizhzhia Oblast|Zaporizhzhia]] and [[Kherson Oblast]] only
+|-
+| 250 || 99 || [[Beeline (brand)|Beeline]] || OJSC Vimpel-Communications || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 ||
+|-
+| 250 || 811  || ||  Votek Mobile || Not operational|| AMPS / DAMPS / GSM 1800 ||
+|}
+
+=== S ===
+==== [[San Marino]] – SM ====
+The Republic of San Marino is partially served by Italian networks [[Iliad Italia]], [[Telecom Italia Mobile|TIM]], [[Vodafone Italy]] and [[Wind Tre]].
+{| {{MNC}}
+|-
+| 292 || 01 || PRIMA || [[:it:San Marino Telecom|San Marino Telecom]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 || [http://www.smt.sm/]
+|}
+
+==== [[Serbia]] – RS ====
+{| {{MNC}}
+|-
+| 220 || 01 || Yettel || [[Telenor Serbia]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 || Former Telenor, 063 MOBTEL Srbija GSM, Mobi 63.<ref name=gsa_lte/><ref name="ratel coverage"/>
+|-
+| 220 || 02 || One || [[Telenor Montenegro]] || Not operational || GSM 900 / GSM 1800 / UMTS 2100 || Former Telenor, ProMonte GSM; moved to MCC 297 MNC 01 (Montenegro) on 11 November 2011
+<ref name="itu_ob_871"/>
+|-
+| 220 || 03 || mt:s || [[Telekom Srbija]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / TETRA || <ref name=gsa_lte/><ref name="ratel coverage">{{cite web |url=http://benchmark.ratel.rs/en/radio-coverage |title=Radio Coverage |publisher=RATEL |date=2020 |access-date=2021-01-07}}</ref>
+|-
+| 220 || 04 || T-Mobile CG || [[MoNet (mobile)|T-Mobile Montenegro LLC]] || Not operational || GSM || Former MoNet GSM; moved to MCC 297 MNC 02 (Montenegro)
+<ref name=itu_ob_871/>
+|-
+| 220 || 05 || A1 SRB || [[A1 Srbija]] d.o.o. || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 || Former [[Vip Mobile]]
+<ref name=gsa_lte/><ref name="ratel coverage"/>
+|-
+| 220 || 07 || Orion || [http://www.oriontelekom.rs Orion Telekom] || Unknown || CDMA 450 || <ref name=itu_ob_1073/><ref name=authority_rs/>
+|-
+| 220 || 09 || Vectone Mobile || MUNDIO MOBILE d.o.o. || Not operational || MVNO || <ref name=itu_ob_1106/> MNC withdrawn<ref name=authority_rs/>
+|-
+| 220 || 11 || Globaltel || GLOBALTEL d.o.o. || Operational || MVNO || Uses A1<ref name=itu_ob_1106/>
+|-
+| 220 || 20 || Vip || [[Vip Mobile]] || Unknown || Unknown || <ref name=authority_rs/>
+|-
+| 220 || 21 || || Infrastruktura železnice Srbije a.d. || Unknown || GSM-R || <ref name=authority_rs/>
+|}
+
+==== [[Slovakia]] – SK ====
+{| {{MNC}}
+|-
+| 231 || 01 || Orange || [[Orange Slovensko]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || Former Globtel <ref name=gsa_lte/><ref name=gsa_umts900/>
+|-
+| 231 || 02 || Telekom || [[Slovak Telekom]] || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 3700 / 5G 2100 || Former Eurotel / T-Mobile<ref name=gsa_lte/>
+|-
+| 231 || 03 || 4ka || SWAN Mobile, a.s. || Operational || LTE 1800 / TD-LTE 3500 / TD-LTE 3700 / 5G 3500 || <ref name=gsa_lte/><ref>{{cite web |title=SWAN bude štvrtý operátor |url=https://www.swan.sk/4g |publisher=SWAN, a.s. |accessdate=15 December 2014}}</ref>
+|-
+| 231 || 04 || Telekom || [[Slovak Telekom]] || Operational || GSM 900 / UMTS 2100 || Former T-Mobile
+|-
+| 231 || 05 || Orange || [[Orange Slovensko]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 || <ref name=itu_ob_1056/>
+|-
+| 231 || 06 || O<sub>2</sub>  || [[O2 Slovakia]] || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / TD-LTE 3500 / TD-LTE 3700 / 5G 3500 || Former [[Telefónica O2 Slovakia]]<ref name=gsa_lte/>
+|-
+| 231 || 07 || Orange || [[Orange Slovensko]] || Unknown || Unknown || Former Towercom<ref name=authority_sk/>
+|-
+| 231 || 08 || Unimobile || Uniphone, s.r.o. || Testing || MVNO || Former IPfon, s.r.o.<ref name=authority_sk/>
+|-
+| 231 || 09 || || DSI DATA, a.s. || Unknown || Unknown || <ref name=authority_sk/>
+|-
+| 231 || 10 || || HMZ RÁDIOKOMUNIKÁCIE, spol. s r.o. || Unknown || Unknown || <ref name=authority_sk/>
+|-
+| 231 || 99 || ŽSR || Železnice Slovenskej Republiky || Operational || GSM-R || Railway communication and signalling
+|}
+
+==== [[Slovenia]] – SI ====
+{| {{MNC}}
+|-
+| 293 || 10 || || [[Slovenian Railways|SŽ - Infrastruktura, d.o.o.]] || Operational || GSM-R || <ref name=itu_ob_1116/>
+|-
+| 293 || 11 || || BeeIN d.o.o. || Unknown || 5G 700 || <ref name=itu_ob_1244/>
+|-
+| 293 || 20 || || COMPATEL Ltd || Unknown || Unknown || <ref name=itu_ob_1139/>
+|-
+| 293 || 21 || || NOVATEL d.o.o. || Unknown || MVNO || <ref name=itu_ob_1244/>
+|-
+| 293 || 40 || A1 SI || [[A1 Slovenija]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 || Former Si.mobil<ref name=gsa_lte/><ref name=gsa_umts900/>
+|-
+| 293 || 41 || [[Mobitel (Slovenia)|Mobitel]] || [[Telekom Slovenije]] || Operational || GSM 900 / GSM 1800  / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100  / LTE 2600 / 5G 2600 / 5G 3600 || Used by IPKO network<ref name=gsa_lte/><ref name=halberd/>
+|-
+| 293 || 64 || T-2 || T-2 d.o.o. || Operational || UMTS 2100 / LTE 2100 / 5G 3600 ||
+|-
+| 293 || 70 || [[Telemach (Slovenia)|Telemach]] || Tušmobil d.o.o. || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / 5G 700 / 5G 3500 || <ref name=gsa_umts900/>
+|-
+| 293 || 86 || || ELEKTRO GORENJSKA, d.d || Unknown || LTE 700 || <ref name=authority_si/>
+|}
+
+==== [[Spain]] – ES ====
+{| {{MNC}}
+|-
+| 214 || 01 || [[Vodafone]] || [[Vodafone Spain]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 700 / 5G 3500 || <ref name=halberd/>
+|-
+| 214 || 02 || Altecom/Fibracat || Alta Tecnologia en Comunicacions SL || Operational || TD-LTE 2600 || <ref name=itu_ob_1135/> Some MVNO use this MNC (Fibracat, Aircom, Anxanet, Netports)
+|-
+| 214 || 03 || [[Orange S.A.|Orange]] || [[Orange España|Orange Espagne S.A.U]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 || Also use MNC 33; Some MVNO use this MNC (Hualong, The Phone House Spain, CABLE movil, SUOP) <ref name=gsa_umts900/>
+|-
+| 214 || 04 || [[Yoigo]] || [[Xfera|Xfera Moviles SA]] || Operational || LTE 1800 / LTE 2100 / 5G 3500 || Acquired by [[:es:Grupo MÁSMÓVIL|Grupo MÁSMÓVIL]]; used by [[:es:MÁSMÓVIL|MÁSMÓVIL]], Yoigo, [[Pepephone]], Euskaltel, móbilR, TeleCable and LlamaYa; roams on Orange always for 2G/3G and 4G where there is no Yoigo coverage
+|-
+| 214 || 05 || [[Movistar]] || [[Telefónica|Telefónica Móviles España]] || Operational || MVNO || Used by resellers
+|-
+| 214 || 06 || Vodafone || Vodafone Spain || Operational || MVNO || Used by resellers (e.g. Lowi - Vodafone's own low cost virtual operator, Lebara, Hits) <ref name=gsa_lte/><ref name=gsa_umts900/>
+|-
+| 214 || 07 || Movistar || Telefónica Móviles España || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 2100 / 5G 3500 || Used by Movistar and [[:es:O2 (España)|O₂ Spain]] - Movistar's own low cost virtual operator;<ref name=gsa_umts900/> UMTS to shut down 2025<ref>{{Cite web|title=Movistar launches 5G in Spain; targets 2025 3G shutdown|url=https://www.commsupdate.com/articles/2020/09/02/movistar-launches-5g-in-spain-targets-2025-3g-shutdown/|access-date=2020-09-02|website=TeleGeography}}</ref>
+|-
+| 214 || 08 || [[Euskaltel]] || || Operational || MVNO ||Acquired by Grupo MÁSMÓVIL; Some MVNO use this MNC (RACC)
+|-
+| 214 || 09 || Orange || Orange Espagne S.A.U || Operational || MVNO || Used by resellers
+|-
+| 214 || 10 || || ZINNIA TELECOMUNICACIONES, S.L.U. || Unknown || Unknown || Former Operadora de Telecomunicaciones Opera SL<ref name=itu_ob_1056/><ref name=itu_ob_1123/><ref name=itu_ob_1135/>
+|-
+| 214 || 11 || || TELECOM CASTILLA-LA MANCHA, S.A. || Unknown || Unknown || Former Orange (Orange Espagne S.A.U)<ref name=itu_ob_1056/><ref name=itu_ob_1123/><ref name=itu_ob_1137/>
+|-
+| 214 || 12 || || VENUS MOVIL, S.L. UNIPERSONAL || Unknown || Unknown || Former Contacta Servicios Avanzados de Telecomunicaciones SL;<ref name=itu_ob_1056/> SAC CONVERGENT AGGREGATION SERVICES<ref name=itu_ob_1153/><ref name=itu_ob_1217/><ref name=itu_ob_1227/>
+|-
+| 214 || 13 || || SYMA MOBILE ESPAÑA, S.L. || Not operational || MVNO || Former Incotel Ingeniera y Consultaria;<ref name=itu_ob_1056/><ref name=itu_ob_1123/><ref name=itu_ob_1175/> MNC withdrawn<ref name=itu_ob_1249/>
+|-
+| 214 || 14 || || AVATEL MÓVIL, S.L.U. || Operational || WiMAX || Former Incotel Servicioz Avanzados SL<ref name=itu_ob_1056/><ref name=itu_ob_1123/><ref name=itu_ob_1204/>
+|-
+| 214 || 15 || BT || [[BT Group]] España Compañia de Servicios Globales de Telecomunicaciones S.A.U. || Not operational || MVNO || MNC withdrawn<ref name=itu_ob_1123/>
+|-
+| 214 || 16 || [[TeleCable (Spain)|TeleCable]] || R Cable y Telecomunicaciones Galicia S.A. || Operational || MVNO || Acquired by Euskaltel<ref name=itu_ob_1181/>
+|-
+| 214 || 17 || [[R Cable|Móbil R]] || R Cable y Telecomunicaciones Galicia S.A. || Operational || MVNO / 5G || Acquired by Euskaltel; 5G for fixed wireless
+|-
+| 214 || 18 || [[ONO (Spain)|ONO]] || Vodafone Spain || Not operational || MVNO || MNC withdrawn; acquired by Vodafone<ref name=itu_ob_1117/>
+|-
+| 214 || 19 || [[Simyo]] || Orange España Virtual Sl.|| Operational || MVNO || Acquired by Orange
+|-
+| 214 || 20 || Fonyou || Fonyou Telecom S.L. || Not operational || MVNO || MNC withdrawn<ref name=itu_ob_1123/>
+|-
+| 214 || 21 || [[Jazztel]] || Orange Espagne S.A.U. || Not operational || MVNO || Acquired by Orange in 2014;<ref name=itu_ob_1101/> MNC withdrawn<ref name=itu_ob_1252/>
+|-
+| 214 || 22 || DIGI mobil || Best Spain Telecom  || Operational || MVNO ||
+|-
+| 214 || 23 ||  || [[Xfera|Xfera Moviles S.A.U.]] || Unknown || Unknown || <ref name=itu_ob_1177/>
+|-
+| 214 || 24 || || [[Vodafone Spain|VODAFONE ESPAÑA, S.A.U.]] || Operational || MVNO || Former Eroski Móvil España, acquired by Vodafone in Feb 2018; some MVNOs use this MNC (Orbitel, Vizzavi)<ref name=itu_ob_1175/>
+|-
+| 214 || 25 ||  || [[Xfera|Xfera Moviles S.A.U.]] || Unknown || Unknown || Former [[Lycamobile]]<ref name=itu_ob_1252/>
+|-
+| 214 || 26 || || Lleida Networks Serveis Telemátics, SL || Unknown || Unknown || <ref name=itu_ob_1056/>
+|-
+| 214 || 27 || [[Truphone]] || SCN Truphone, S.L. || Operational || MVNO ||
+|-
+| 214 || 28 || Murcia4G || Consorcio de Telecomunicaciones Avanzadas, S.A. || Operational || TD-LTE 2600 || LTE band 38 <ref name=itu_ob_1032/>
+|-
+| 214 || 29 || || [[Xfera|Xfera Moviles S.A.U.]] || Operational || TD-LTE 3500 || Former NEO-SKY 2002, S.A.<ref name=itu_ob_1032/><ref name=itu_ob_1185/>
+|-
+| 214 || 30 || || Compatel Limited || Not operational || Unknown || <ref name=itu_ob_1045/> MNC withdrawn<ref name=itu_ob_1224/>
+|-
+| 214 || 31 || || Red Digital De Telecomunicaciones de las Islas Baleares, S.L. || Unknown || Unknown || <ref name=itu_ob_1045/>
+|-
+| 214 || 32 || [[Tuenti]] || Telefónica Móviles España || Not operational || MVNO || MNC withdrawn, replaced by MNC 05<ref name=itu_ob_1193/>
+|-
+| 214 || 33 || || Xfera Móviles, S.A.U. || Not operational || WiMAX || Former Eurona Wireless Telecom;<ref name=itu_ob_1080/><ref name=itu_ob_1181/> MNC withdrawn<ref name=itu_ob_1256/>
+|-
+| 214 || 34 || || [http://www.airenetworks.es Aire Networks del Mediterráneo, S.L.U.] || Operational || LTE 2600 || <ref name=itu_ob_1082/>
+|-
+| 214 || 35 || || [http://www.ingeniumoutsourcing.com/ INGENIUM OUTSOURCING SERVICES, S.L.] || Unknown || MVNO || <ref name=itu_ob_1101/>
+|-
+| 214 || 36 || || [http://www.alai.es/ ALAI OPERADOR DE TELECOMUNICACIONES, S.L] || Unknown || MVNO || Former OPEN CABLE TELECOMUNICACIONES, S.L.<ref name=itu_ob_1112/><ref name=itu_ob_1167/><ref name=itu_ob_1183/>
+|-
+| 214 || 37 || || Vodafone Spain || Unknown || Unknown || <ref name=itu_ob_1151/><ref name=itu_ob_1185/><ref name=itu_ob_1189/>
+|-
+| 214 || 38 || || [[Telefónica|Telefónica Móviles España, S.A.U.]] || Unknown || Unknown || <ref name=itu_ob_1177/>
+|-
+| 214 || 51 || ADIF || [[Administrador de Infraestructuras Ferroviarias]] || Operational || [[GSM-R]] || <ref name=anacom_gsm_r>{{cite web |title=Annex I - Situation of other European countries with GSM-R numbering resources |url=http://www.anacom.pt/render.jsp?categoryId=339575 |publisher=ANACOM |accessdate=26 March 2015}}</ref><ref name=itu_ob_1157/>
+|}
+
+==== [[Sweden]] – SE ====
+{| {{MNC}}
+|-
+| 240 || 01 || Telia || [[Telia Company|Telia Sverige AB]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2600 / 5G 700 || <ref name=itu_ob_1128/>
+|-
+| 240 || 02 || [[Hutchison 3G#Denmark and Sweden|3]] || HI3G Access AB || Operational || UMTS 900 / UMTS 2100 / LTE 800 / LTE 2600 / TD-LTE 2600 / TD-5G 2600 || <ref name=itu_ob_1128/><ref name=gsa_lte/>
+|-
+| 240 || 03 || [[Net 1]] || [[Teracom]] Mobil AB || Operational || LTE 450 || Former Nordisk Mobiltelefon, Ice.net; CDMA 450 shut down<ref name=authority_se/>
+|-
+| 240 || 04 || SWEDEN || 3G Infrastructure Services AB || Operational || UMTS 2100 || Owned by Hi3G Access (3) and Telenor. Not available in major cities since the owners operate their own city networks.
+|-
+| 240 || 05 || Sweden 3G || Svenska UMTS-Nät AB || Operational || UMTS 2100 || Owned by [[TeliaSonera|Telia]] and [[Tele2]]. Available all over Sweden.
+|-
+| 240 || 06 || [[Telenor]] || Telenor Sverige AB || Operational || UMTS 2100 || Former Vodafone Sweden
+|-
+| 240 || 07 || [[Tele2]] || Tele2 Sverige AB || Operational || UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600 || MOCN r6 network<ref name=itu_ob_1128/>
+|-
+| 240 || 08 || [[Telenor]] || Telenor Sverige AB || Not operational || GSM 900 / GSM 1800 || Merged with Tele2 into [[Net4Mobility]]
+|-
+| 240 || 09 || Com4 || Communication for Devices in Sweden AB || Unknown || Unknown || Former [[djuice]] ([[Telenor]] MVNO)<ref name=itu_ob_1045/><ref name=itu_ob_1086/><ref name=itu_ob_1115/>
+|-
+| 240 || 10 || Spring Mobil || Tele2 Sverige AB || Operational || || Only used on femto- and nanocells<ref name=itu_ob_1093/>
+|-
+| 240 || 11 || || [http://www.comhemgroup.se/en/ ComHem AB] || Unknown || Unknown || Former Lindholmen Science Park AB<ref name=itu_ob_1046/><ref name=itu_ob_1106/>
+|-
+| 240 || 12 || [[Lycamobile]] || Lycamobile Sweden Limited || Operational || MVNO || <ref name=itu_ob_1045/>
+|-
+| 240 || 13 ||  || A3 Företag AB || Unknown || Unknown || Former Alltele Företag Sverige AB<ref name=itu_ob_1045/><ref name=authority_se/>
+|-
+| 240 || 14 ||  || Tele2 Sverige AB || Unknown || Unknown || Former TDC Sverige AB (MVNO)<ref name=itu_ob_1115/><ref name=itu_ob_1217/>
+|-
+| 240 || 15 ||  || [[Sierra Wireless]] Sweden AB || Unknown || Unknown || Former Wireless Maingate Nordic AB<ref name=authority_se/>
+|-
+| 240 || 16 ||  || 42 Telecom AB || Operational || GSM || <ref name=itu_ob_1045/>
+|-
+| 240 || 17 || [http://www.gotanet.se/ Gotanet] || Götalandsnätet AB || Operational || MVNO ||
+|-
+| 240 || 18 ||  || Generic Mobile Systems Sweden AB || Unknown || Unknown ||
+|-
+| 240 || 19 || Vectone Mobile || Mundio Mobile (Sweden) Limited || Operational || MVNO || [[MVNO]] in [[TeliaSonera|Telia]]'s network
+|-
+| 240 || 20 ||  || [[Sierra Wireless]] Messaging AB || Operational || MVNO || Former Wireless Maingate Messaging Services AB<ref name=itu_ob_1128/><ref name=authority_se/>
+|-
+| 240 || 21 || MobiSir || [[Trafikverket]] ICT || Operational || [[GSM-R]] 900 || <ref name=itu_ob_1045/>
+|-
+| 240 || 22 ||  || EuTel AB || Unknown || Unknown ||
+|-
+| 240 || 23 ||  || Infobip Limited (UK) || Not operational || Unknown || <ref name=itu_ob_1067/>
+|-
+| 240 || 24 || Sweden 2G || [[Net4Mobility]] HB || Operational || GSM 900 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600 / 5G 3500 || LTE1800 only available in major cities; owned by [[Telenor]] and [[Tele2]]. 
+|-
+| 240 || 25 ||  || Monty UK Global Ltd || Unknown || Unknown || Former Digitel Mobile Srl <ref name=itu_ob_1045/><ref name=itu_ob_1110/>
+|-
+| 240 || 26 ||  || Twilio Sweden AB || Unknown || Unknown || Former Beepsend AB<ref name=itu_ob_1138/>
+|-
+| 240 || 27 ||  || [http://www.globetouch.com GlobeTouch AB] || Operational || MVNO || Former Fogg Mobile AB;<ref name=itu_ob_1045/> [[Machine to machine|M2M]] services only<ref name=itu_ob_1092/>
+|-
+| 240 || 28 ||  || LINK Mobile A/S || Not operational || Unknown || Former CoolTEL Aps;<ref name=itu_ob_1045/><ref name=itu_ob_1138/> MNC withdrawn<ref name=itu_ob_1255/>
+|-
+| 240 || 29 ||  || Mercury International Carrier Services || Unknown || Unknown ||
+|-
+| 240 || 30 ||  || NextGen Mobile Ltd. || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1169/>
+|-
+| 240 || 31 ||  || RebTel Network AB || Unknown || Unknown || Former Mobimax AB<ref name=itu_ob_1044/><ref name=authority_se/>
+|-
+| 240 || 32 ||  || Compatel Limited || Unknown || Unknown ||
+|-
+| 240 || 33 ||  || Mobile Arts AB || Unknown || Unknown ||<ref name=itu_ob_986/>
+|-
+| 240 || 34 ||  || [[Trafikverket]] centralfunktion IT || Unknown || Unknown || Formerly Tigo, Pro Net;<ref name=itu_ob_1044/><ref name=itu_ob_1160/>
+|-
+| 240 || 35 ||  || 42 Telecom LTD || Unknown || Unknown ||
+|-
+| 240 || 36 ||  || interactive digital media GmbH || Unknown || Unknown ||
+|-
+| 240 || 37 ||  || [[Sinch (company)|Sinch Sweden AB]] || Unknown || Unknown || Former CLX Networks AB<ref name=authority_se/>
+|-
+| 240 || 38 || [[Voxbone]] || Voxbone mobile || Operational || MVNO ||
+|-
+| 240 || 39 || || Primlight AB || Unknown || Unknown || Former iCentrex Sweden AB, Borderlight AB<ref name=itu_ob_1046/><ref name=itu_ob_1050/><ref name=itu_ob_1063/><ref name=itu_ob_1194/>
+|-
+| 240 || 40 ||  || Netmore Group AB || Unknown || Unknown || Former ReWiCom Scandinavia AB, North net connect AB<ref name=itu_ob_1138/><ref name=authority_se/>
+|-
+| 240 || 41 ||  || [[Telenor]] Sverige AB || Unknown || Unknown || Former Shyam Telecom UK<ref name=itu_ob_1020/><ref name=itu_ob_1187/><ref name=itu_ob_1240/>
+|-
+| 240 || 42 || || Telenor Connexion AB || Unknown || Unknown ||
+|-
+| 240 || 43 || || MobiWeb Ltd. || Unknown || Unknown || <ref name=itu_ob_1050/>
+|-
+| 240 || 44 || || Telenabler AB || Unknown || Unknown || Former Limitless Mobile AB<ref name=itu_ob_1050/><ref name=itu_ob_1138/>
+|-
+| 240 || 45 || || Spirius AB || Unknown || Unknown || <ref name=itu_ob_1056/>
+|-
+| 240 || 46 || [http://www.viahub.net/ Viahub] || SMS Provider Corp. || Unknown || MVNO || <ref name=itu_ob_1116/>
+|-
+| 240 || 47 || || Viatel Sweden AB || Unknown || Unknown || <ref name=itu_ob_1138/>
+|-
+| 240 || 48 || || Tismi BV || Unknown || MVNO || <ref name=itu_ob_1176/>
+|-
+| 240 || 49 || || Telia Sverige AB || Unknown || Unknown || <ref name=itu_ob_1217/>
+|-
+| 240 || 60 || || Telefonaktiebolaget LM [[Ericsson]] || Not operational || Unknown || Test network; temporary license until 31 December 2019<ref name=itu_ob_1164/><ref name=authority_se/>
+|-
+| 240 || 61 || || MessageBird B.V. || Not operational || Unknown || <ref name=itu_ob_1137/> temporary license until 3 November 2019<ref name=authority_se/>
+|-
+| 240 || 63 || FTS || Fink Telecom Services || Operational || Unknown || <ref name=itu_ob_1169/>
+|}
+
+==== [[Switzerland]] – CH ====
+{| {{MNC}}
+|-
+| 228 || 01 || [[Swisscom]] || Swisscom AG || Operational || UMTS 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500 || <ref name=gsa_lte/> UMTS 2100 shut down Nov 2019,<ref name=ch22801umts2100>{{cite web |url=https://www.swisscom.ch/content/dam/swisscom/de/res/public/one-to-one/2411_scs_3g_refarmingzg1landingpagerzde.pdf |title=Wichtige Fragen und Antworten |trans-title=Important questions and answers |language=de |publisher=Swisscom |accessdate=13 December 2019}}</ref> GSM April 2021; UMTS 900 shutdown planned for 2024<ref name=ch22801umts2100/>
+|-
+| 228 || 02 || Sunrise || [[Sunrise Communications AG]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 || <ref name=gsa_lte/><ref name=gsa_umts900/> GSM to remain until 2022<ref>{{cite web |url=https://www.sunrise.ch/en/business/products-and-solutions/connectivity/2G-weiterhin-nutzen-sunrise.html |title=Continue using 2G |publisher=Sunrise |access-date=2021-01-21}}</ref>
+|-
+| 228 || 03 || Salt || Salt Mobile SA || Operational || GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 || <ref name=itu_ob_1080/><ref name=gsa_lte/><ref name=gsa_umts900/><ref name=authority_ch/><ref>[https://mobilecommunity.ch/wbb/index.php?thread/370-salt-gsm-abschaltung/  Salt GSM Abschaltung], https://mobilecommunity.ch, 28. November 2019</ref> Former Orange - GSM was shut down in June 2020{{citation needed|reason=This claim needs a reliable source|date=June 2020}}
+|-
+| 228 || 05 || || Comfone AG || Not operational || Unknown || Former Togewanet AG <ref name=authority_ch/>
+|-
+| 228 || 06 || [[SBB-CFF-FFS]] || SBB AG || Operational || GSM-R 900 || railways communication
+|-
+| 228 || 07 || IN&Phone || IN&Phone SA || Not operational || GSM 1800 || MNC withdrawn, [[:de:in&phone|bankrupt in 2012]]<ref name=authority_ch/>
+|-
+| 228 || 08 || Tele4u || [[Sunrise Communications AG]] || Operational || GSM 1800 || Former Tele2<ref name=itu_ob_1080/><ref name=itu_ob_1222/>
+|-
+| 228 || 09 ||  || Comfone AG || Unknown || Unknown || <ref name=itu_ob_1063/>
+|-
+| 228 || 10 || || Stadt Polizei Zürich || Not operational || Unknown || <ref name=itu_ob_1152/> MNC withdrawn<ref name=authority_ch/>
+|-
+| 228 || 11 ||  || Swisscom Broadcast AG || Unknown || Unknown || <ref name=authority_ch/>
+|-
+| 228 || 12 || Sunrise || [[Sunrise Communications AG]] || Not operational ||  || 
+|-
+| 228 || 50 ||  || 3G Mobile AG || Not operational || UMTS 2100 || MNC withdrawn<ref name=authority_ch/>
+|-
+| 228 || 51 ||  || relario AG || Operational || MVNO || Former BebbiCell AG<ref name=authority_ch/>
+|-
+| 228 || 52 || Barablu || Barablu || Not operational ||  || MNC withdrawn<ref name=authority_ch/>
+|-
+| 228 || 53 || upc cablecom || [[UPC Switzerland|Sunrise UPC GmbH]] || Operational || MVNO || <ref name=itu_ob_1063/><ref name=authority_ch/>
+|-
+| 228 || 54 || [[Lycamobile]] || Lycamobile AG || Operational || MVNO || <ref name=itu_ob_1063/>
+|-
+| 228 || 55 ||  || WeMobile SA || Unknown || || SMS relay only<ref name=itu_ob_1119/><ref name=authority_ch/>
+|-
+| 228 || 56 ||  || SMSRelay AG || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1063/><ref name=itu_ob_1096/>
+|-
+| 228 || 57 ||  || [https://www.mitto.ch/ Mitto AG] || Unknown || || SMS relay only<ref name=itu_ob_1084/><ref name=authority_ch/>
+|-
+| 228 || 58 || beeone || [http://www.beeone.com Beeone Communications SA] || Operational || MVNO || <ref name=itu_ob_1096/>
+|-
+| 228 || 59 || Vectone || Mundio Mobile Limited || Unknown || MVNO || <ref name=itu_ob_1119/><ref name=itu_ob_1140/><ref name=itu_ob_1203/>
+|-
+| 228 || 60 || Sunrise || [[Sunrise Communications AG]] || Unknown || Unknown || Former network sharing test with Salt Mobile<ref name=itu_ob_1152/>
+|-
+| 228 || 61 ||  || Compatel Ltd. || Not operational || || SMS relay only;<ref name=itu_ob_1119/> MNC withdrawn<ref name=itu_ob_1193/>
+|-
+| 228 || 62 ||  || Telecom26 AG || Operational || MVNO || <ref name=itu_ob_1167/>
+|-
+| 228 || 63 || FTS || Fink Telecom Services || Operational || Unknown || SMS relay only<ref name=itu_ob_1168/><ref name=authority_ch/>
+|-
+| 228 || 64 || || [https://www.nth.ch/ Nth AG] || Operational || MVNO || [[Mobile payment]] solutions<ref name=itu_ob_1175/>
+|-
+| 228 || 65 || || Nexphone AG || Unknown || Unknown || <ref name=authority_ch/>
+|-
+| 228 || 66 || || Inovia Services SA || Unknown || Unknown || <ref name=itu_ob_1213/>
+|-
+| 228 || 67 || || Datatrade Managed AG || Unknown || Unknown || <ref name=itu_ob_1221/>
+|-
+| 228 || 68 || || Intellico AG || Unknown || Unknown || <ref name=itu_ob_1221/>
+|-
+| 228 || 69 || || MTEL Schweiz GmbH || Unknown || Unknown || <ref name=itu_ob_1229/>
+|-
+| 228 || 70 || || Tismi BV || Unknown || Unknown || <ref name=itu_ob_1229/>
+|-
+| 228 || 98 || || Etablissement Cantonal d'Assurance || Unknown || Unknown || Pilot project<ref name=authority_ch/>
+|-
+| 228 || 99 ||  || Swisscom Broadcast AG || Not operational || || Test network; MNC withdrawn<ref name=authority_ch/>
+|}
+
+=== T ===
+==== [[Turkey]] – TR ====
+{| {{MNC}}
+|-
+| 286 || 01 || [[Turkcell]] || Turkcell Iletisim Hizmetleri A.S. || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 || <ref name=gsa_lte/>
+|-
+| 286 || 02 || Vodafone || [[Vodafone Turkey]] || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 || Formerly known as Telsim<ref name=gsa_lte/>
+|-
+| 286 || 03 || [[Avea|Türk Telekom]] || [[Türk Telekom#AVEA|Türk Telekom]] || Operational || GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600 / TD-LTE 2600 || Former Aria, merged with Aycell to form Avea<ref name=gsa_lte/>
+|-
+| 286 || 04 || Aycell || Aycell || Not operational || GSM 1800 || Merged into Aria to form Avea
+|}
+
+=== U ===
+==== [[Ukraine]] – UA ====
+{| {{MNC}}
+|-
+| 255 || 01 || [[Vodafone Ukraine|Vodafone]] || PRJSC “VF Ukraine" || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600 || Former UMC, MTS; CDMA 450 shut down June 2018<ref>{{cite web |url=http://company.mts.ua/ua/news/novosti/7376-prekracshenie-raboty-seti-cdma-c-29-06-2018-g/ |title=Припинення роботи мережі CDMA з 29.06.2018 р. |publisher=MTS Ukraine |date=2018-03-30 |accessdate=2018-03-30}}</ref>
+|-
+| 255 || 02 || [[Kyivstar]] || PRJSC “Kyivstar" || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600 || Former [[Beeline (telecommunications)|Beeline]],  WellCOM, URS; taken over by Kyivstar<ref name=itu_ob_1131/>
+|-
+| 255 || 03 || [[Kyivstar]] || PRJSC “Kyivstar" || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / TD-LTE 2300 / LTE 2600 ||
+|-
+| 255 || 04 || [[Intertelecom]] || Intertelecom LLC || Operational || CDMA 800 ||
+|-
+| 255 || 05 || [[Kyivstar]]  || PRJSC “Kyivstar" || Not operational|| GSM 1800 || Former [[Golden Telecom]]; taken over by Kyivstar;<ref name=itu_ob_1131/> MNC withdrawn<ref name=itu_ob_1165/>
+|-
+| 255 || 06 || [[lifecell]] || lifecell LLC || Operational || GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600 || Former life:) / Astelit
+|-
+| 255 || 07 || [[Utel (Ukraine)|3Mob]]; [[Lycamobile]] || Trimob LLC || Operational || UMTS 2100  || Former Utel, GSM / UMTS roaming with [[Vodafone Ukraine|Vodafone]]<ref name=itu_ob_1131/>
+|-
+| 255 || 08 || || JSC [[Ukrtelecom]] || Not operational || Unknown || MNC assigned in 2019 for 2 years<ref>{{cite web |url=https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=1621&language=en |title=Results of NCCIR meeting dated 04 December 2018 |publisher=NCCIR |date=2018-12-04 |accessdate=2019-08-15}}</ref><ref name=itu_ob_1165/>
+|-
+| 255 || 09 || || PRJSC "Farlep-Invest" || Not operational || Unknown || MNC assigned in 2019 for 2 years; part of [[Vega Telecommunications Group]]<ref>{{cite web |url=https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=1688&language=en |title=Results of NCCIR meeting dated 09 April 2019 |publisher=NCCIR |date=2019-04-09 |accessdate=2019-08-15}}</ref><ref name=itu_ob_1165/><ref name=itu_ob_1178/>
+|-
+| 255 || 10 || || [http://www.atelecom.net.ua/en/general/ Atlantis Telecom LLC] || Unknown || Unknown || <ref name=itu_ob_1178/>
+|-
+| 255 || 21 || [[PEOPLEnet]] || PRJSC “Telesystems of Ukraine" || Operational || CDMA 800 ||
+|-
+| 255 || 23 || CDMA Ukraine || Intertelecom LLC || Not operational|| CDMA 800 ||Taken over by [[Intertelecom]]; MNC withdrawn<ref name=itu_ob_1165/>
+|-
+| 255 || 25 || NEWTONE || PRJSC “Telesystems of Ukraine" || Not operational || CDMA 800 ||Taken over by [[PEOPLEnet]]; MNC withdrawn<ref name=itu_ob_1165/>
+|-
+| 255 || 99 || Phoenix; MKS (ex. Lugacom) || State Unitary Enterprise of [[Donetsk People's Republic|DPR]] "Republican Telecommunications Operator"; OOO "MKS" || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600 || "[[Donetsk People's Republic]]" and "[[Luhansk People's Republic]]" only; MNC not officially assigned<ref>{{cite web |title=Kremlin-separatist area gets its own mobile operator |url=https://www.kyivpost.com/article/content/ukraines-it-edge/kremlin-separatist-area-gets-its-own-mobile-operator-390356.html |publisher=Kyiv Post |date=5 June 2015 |accessdate=21 November 2018}}</ref>
+|}
+
+==== [[United Kingdom]] – GB ====
+{| {{MNC}}
+|-
+| 234 || 00 || BT || [[BT Group]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 || <ref name=authority_uk/>
+|-
+| 234 || 01 || Vectone Mobile || Mundio Mobile Limited || Operational || MVNO || Previously Mapesbury Communications Ltd.; uses [[EE Limited|EE]] network<ref name=itu_ob_1251/>
+|-
+| 234 || 02 || [[O2 (UK)]] || [[Telefónica Europe]] || Operational || GSM 900 / UMTS 900 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / 5G 700 / 5G 3500 ||
+|-
+| 234 || 03 || [[Airtel-Vodafone]] || Jersey Airtel Ltd || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 || Guernsey, Jersey<ref name=gsa_lte/><ref name=halberd/>
+|-
+| 234 || 04 || FMS Solutions Ltd || FMS Solutions Ltd || Reserved || GSM 1800 ||
+|-
+| 234 || 05 ||  || COLT Mobile Telecommunications Limited || Not operational || || MNC withdrawn<ref name=itu_ob_1251/>
+|-
+| 234 || 06 ||  || Internet Computer Bureau Limited || Not operational || || MNC withdrawn<ref name=itu_ob_1251/>
+|-
+| 234 || 07 || [[Vodafone UK]] || Vodafone || Not operational || GSM 1800 || Former Cable & Wireless Worldwide;<ref name=itu_ob_1094/> MNC withdrawn<ref name=itu_ob_1251/>
+|-
+| 234 || 08 || BT OnePhone  || BT OnePhone (UK) Ltd || Operational || MVNO || Uses the EE Network
+|-
+| 234 || 09 ||  || Tismi BV || Unknown || ||
+|-
+| 234 || 10 || [[O2 (UK)]] || [[Telefónica Europe]] || Operational || GSM 900 / UMTS 900 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / 5G 700 / 5G 3500 ||
+|-
+| 234 || 11 || [[O2 (UK)]] || [[Telefónica Europe]] || Operational || GSM 900 / UMTS 900 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / 5G 700 / 5G 3500 ||
+|-
+| 234 || 12 || Railtrack || [[Network Rail]] Infrastructure Ltd  || Operational || GSM-R ||
+|-
+| 234 || 13 || Railtrack || [[Network Rail]] Infrastructure Ltd  || Operational || GSM-R ||
+|-
+| 234 || 14 ||  || Link Mobility UK Ltd || Operational || GSM 1800 || Former Hay Systems Ltd<ref name=itu_ob_1251/>
+|-
+| 234 || 15 || [[Vodafone UK]] || [[Vodafone]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 2100 / 5G 3500 || <ref name=itu_ob_1251/>
+|-
+| 234 || 16 || Talk Talk || [[TalkTalk Group|TalkTalk Communications Limited]] || Operational || MVNO || Formerly Opal Tel Ltd; uses Vodafone network
+|-
+| 234 || 17 ||  || FleXtel Limited || Not operational || || MNC withdrawn<ref name=itu_ob_1251/>
+|-
+| 234 || 18 || [[Cloud9 (service provider)|Cloud9]] || Cloud9 || Operational || MVNO || [[#Isle of Man (United Kingdom) - IM|Isle of Man]] network shut down
+|-
+| 234 || 19 || PMN || Teleware plc || Operational || GSM 1800 || [[Private GSM]]; roaming with Vodafone<ref name=itu_ob_1251/>
+|-
+| 234 || 20 || [[Hutchison 3G|3]] || [[Hutchison 3G|Hutchison 3G UK Ltd]]  || Operational || UMTS 2100 / LTE 800 / LTE 1500 / LTE 1800 / LTE 2100 / 5G 3500 || National roaming with [[Orange (UK)]]'s 2G network
+|-
+| 234 || 21 || || LogicStar Ltd || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1056/><ref name=authority_uk/>
+|-
+| 234 || 22 || || Telesign Mobile Limited || Unknown || Unknown || Former Routo Telecommunications Limited<ref name=authority_uk/>
+|-
+| 234 || 23 || || Icron Network Limited || Unknown || Unknown || <ref name=authority_uk/>
+|-
+| 234 || 24 || Greenfone || Stour Marine Limited || Operational || MVNO || Uses Stour Marine network
+|-
+| 234 || 25 || [[Truphone]] || [[Truphone]] || Operational || MVNO || Uses Vodafone network
+|-
+| 234 || 26 || [[Lycamobile]] || Lycamobile UK Limited || Operational || MVNO || Uses O2 Network / Telefónica Europe
+|-
+| 234 || 27 || Teleena || Tata Communications Move UK Ltd || Operational || MVNO || <ref name=itu_ob_1251/>
+|-
+| 234 || 28 || || [https://web.archive.org/web/20150502084553/http://www.marathontelecom.net/ Marathon Telecom Limited] || Operational || MVNO || Holds unused spectrum in [[#Jersey (United Kingdom) - JE|Jersey]]<ref name=authority_uk/>
+|-
+| 234 || 29 || aql || (aq) Limited || Unknown || Unknown || <ref name=itu_ob_1251/>
+|-
+| 234 || 30 || [[EE Limited|EE]] || [[EE Limited|EE]] || Operational || GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 || Previously owned by [[Deutsche Telekom]]; used by MVNOs [[Asda Mobile]] & [[Virgin Mobile]]<ref>{{cite web |url=https://mobile.asda.com/pages/help#/questions/120041/8428 |title=How do I set up internet and picture messaging on my handset? |publisher=Asda Mobile |accessdate=25 August 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20150910075224/https://mobile.asda.com/pages/help#/questions/120041/8428 |archivedate=10 September 2015 |df=dmy-all }}</ref>
+|-
+| 234 || 31 || [[EE Limited|EE]] || [[EE Limited|EE]] ||  Allocated || GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 || <ref name=authority_uk/>
+|-
+| 234 || 32 || [[EE Limited|EE]] || [[EE Limited|EE]] || Allocated || GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 || <ref name=authority_uk/>
+|-
+| 234 || 33 || [[EE Limited|EE]] || [[EE Limited|EE]] || Operational || GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 || Previously owned by [[Orange S.A.]]<ref name=itu_ob_1251/>
+|-
+| 234 || 34 || [[EE Limited|EE]] || [[EE Limited|EE]] || Operational || GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 || Previously owned by [[Orange S.A.]]<ref name=itu_ob_1251/>
+|-
+| 234 || 35 ||   || JSC Ingenium (UK) Limited || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1045/><ref name=authority_uk/>
+|-
+| 234 || 36 || [[Sure (company)|Sure Mobile]] || Sure Isle of Man Ltd. || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 || Isle of Man; former Cable & Wireless <ref name=itu_ob_1056/><ref name=gsa_lte/>
+|-
+| 234 || 37 ||   || Synectiv Ltd || Unknown || Unknown || <ref name=itu_ob_1045/>
+|- 
+| 234 || 38 || [[Virgin Mobile]] || [[Virgin Media]] || Unknown || Unknown || <ref name=itu_ob_1045/>
+|-
+| 234 || 39 || || Gamma Telecom Holdings Ltd. || Unknown || Unknown || Former SSE Energy Supply Limited<ref name=itu_ob_1045/><ref name=itu_ob_1094/>
+|-
+| 234 || 40 || || Mass Response Service GmbH || Unknown || Unknown || <ref name=itu_ob_1251/>
+|-
+| 234 || 50 || JT || [[JT Group Limited]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 || Guernsey, Jersey; former Wave Telecom<ref name=gsa_lte/><ref name=halberd/><ref name=itu_ob_1251/>
+|-
+| 234 || 51 || Relish || UK Broadband Limited || Operational || TD-LTE 3500 / TD-LTE 3700 ||
+|-
+| 234 || 52 || || Shyam Telecom UK Ltd || Unknown || Unknown || <ref name=itu_ob_1045/>
+|-
+| 234 || 53 || Mobile-X || Tango Networks UK Ltd || Operational || MVNO || Former Limitless Mobile<ref name=itu_ob_1045/><ref name=itu_ob_1251/><ref>{{cite web |url=https://blog.tango-networks.com/simetric-charge-rescue-limitless-customers |title=Rapid migration for Limitless customers |publisher=Tango Networks |date=2016-11-25 |access-date=2022-08-31}}</ref>
+|-
+| 234 || 54 || [[iD Mobile]] || The [[Carphone Warehouse]] Limited || Operational || MVNO || Uses [[Three UK]]<ref name=authority_uk/>
+|-
+| 234 || 55 || Sure Mobile || [[Sure (company)|Sure (Guernsey) Limited]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 || Guernsey, Jersey; former Cable & Wireless <ref name=gsa_lte/><ref name=halberd/>
+|-
+| 234 || 56 || || [[National Cyber Security Centre (United Kingdom)|National Cyber Security Centre]] || Unknown || Unknown || Former [[Communications-Electronics Security Group|CESG]]<ref name=itu_ob_1094/><ref name=itu_ob_1251/>
+|-
+| 234 || 57 || || [[Sky (United Kingdom)|Sky UK Limited]] || Unknown || Unknown || <ref name=itu_ob_1094/>
+|-
+| 234 || 58 || Pronto GSM || [[Manx Telecom]] || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 || Isle of Man<ref name=gsa_lte/><ref name=itu_ob_1251/>
+|-
+| 234 || 59 || || [http://limitlessmobilegroup.com/ Limitless Mobile Ltd] || Not operational || MVNO || <ref name=itu_ob_1094/> MNC withdrawn<ref name=itu_ob_1251/>
+|-
+| 234 || 70 || || AMSUK Ltd. || Not operational || Unknown || <ref name=itu_ob_1094/> MNC withdrawn<ref name=itu_ob_1251/>
+|-
+| 234 || 71 || || [[Home Office]] || Unknown || Unknown || <ref name=itu_ob_1117/>
+|-
+| 234 || 72 || Hanhaa Mobile || [https://www.hanhaa.com/ Hanhaa Limited] || Operational || MVNO || [[Machine to machine|M2M]] applications<ref name=itu_ob_1251/>
+|-
+| 234 || 73 || || Bluewave Communications Ltd || Operational || TD-LTE 3500 || Isle of Man<ref name=itu_ob_1251/>
+|-
+| 234 || 74 || || Pareteum Europe B.V. || Unknown || Unknown || <ref name=itu_ob_1251/>
+|-
+| 234 || 75 || || Mass Response Service GmbH || Unknown || Unknown || <ref name=authority_uk/>
+|-
+| 234 || 76 || BT || [[BT Group]] || Operational || GSM 900 / GSM 1800 ||
+|-
+| 234 || 77 || [[Vodafone UK]] || [[Vodafone United Kingdom]] || Unknown || Unknown || <ref name=itu_ob_1251/>
+|-
+| 234 || 78 || Airwave || [[Airwave (communications network)|Airwave Solutions Ltd]] || Operational || TETRA || <ref name=authority_uk/>
+|-
+| 234 || 86 || || [[EE Limited|EE]] || Unknown || Unknown || <ref name=itu_ob_1045/>
+|-
+| 234 || 88 || telet || Telet Research (N.I.) Limited || Unknown || LTE / 5G || <ref name=itu_ob_1251/>
+|-
+| {{TOC tab|235|United Kingdom - GB - 235}}
+| 00 || Vectone Mobile || Mundio Mobile Limited || Unknown || || <ref name=itu_ob_1251/>
+|-
+| 235 || 01 ||  || [[EE Limited|EE]] || Unknown || Unknown || <ref name=itu_ob_1045/>
+|-
+| 235 || 02 ||  || [[EE Limited|EE]] || Unknown || Unknown || <ref name=itu_ob_1045/>
+|-
+| 235 || 03 || Relish || UK Broadband Limited || Unknown || Unknown || <ref name=authority_uk/>
+|-
+| 235 || 04 ||  || [[University of Strathclyde]] || Unknown || 5G || for more info, see [https://sdr.eee.strath.ac.uk StrathSDR] <ref name=itu_ob_1251/>
+|-
+| 235 || 06 ||  || [[University of Strathclyde]] || Unknown || 5G || for more info, see [https://sdr.eee.strath.ac.uk StrathSDR] <ref name=itu_ob_1251/>
+|-
+| 235 || 07 ||  || [[University of Strathclyde]] || Unknown || 5G || for more info, see [https://sdr.eee.strath.ac.uk StrathSDR] <ref name=itu_ob_1251/>
+|-
+| 235 || 08 ||  || Spitfire Network Services Limited || Unknown || Unknown || <ref name=itu_ob_1251/>
+|-
+| 235 || 77 || BT || [[BT Group]] || Unknown || ||
+|-
+| 235 || 88 || telet || [https://teletresearch.com/ Telet Research (N.I.) Limited] || Unknown || LTE / 5G || <ref name=itu_ob_1251/>
+|-
+| 235 || 91 || [[Vodafone UK]] || [[Vodafone United Kingdom]] || Unknown || || Spitfire Network Services Limited
+|-
+| 235 || 92 || [[Vodafone UK]] || [[Vodafone United Kingdom]] || Not operational || || Former Cable & Wireless UK;<ref name=itu_ob_1094/> MNC withdrawn<ref name=itu_ob_1251/>
+|-
+| 235 || 94 ||  || [[Hutchison 3G|Hutchison 3G UK Ltd]] || Unknown || ||
+|-
+| 235 || 95 ||  || [[Network Rail]] Infrastructure Limited || Test Network || GSM-R ||
+|}
+
+
+==See also==
+* [[List of mobile network operators of Europe]]
+* [[List of LTE networks in Europe]]
+
+==References==
+{{reflist|33em|refs=
+<ref name=mwlive>{{cite web |title=GSM Roaming and Coverage Maps |url=http://maps.mobileworldlive.com |publisher=GSMA |accessdate=17 December 2014}}</ref>
+<ref name=gsa_umts900>{{cite web |title=UMTS900 Information Paper (registration required) |url=http://www.gsacom.com/downloads/pdf/UMTS900_information_paper_231014.php4 |publisher=GSA |date=23 October 2014 |accessdate=19 December 2014}}</ref>
+<ref name=gsa_hspa>{{cite web |title=HSPA Operator Commitments |url=http://gsacom.com/wp-content/uploads/2015/10/151011-HSPA_operator_commitments.pdf |publisher=GSA |date=11 October 2015 |accessdate=13 January 2016}}{{registration required}}</ref>
+<ref name="gsa_lte">{{cite web |title=Evolution to LTE Report |url=http://gsacom.com/download.php?id=4406 |publisher=GSA |date=2017-01-30 |accessdate=2017-03-01}}{{registration required}}</ref>
+<ref name=gsa_lte1800_101213>{{cite web |title=Status of the Global LTE 1800 Market |url=http://www.gsacom.com/downloads/pdf/GSA_status_of_the_global_LTE1800_market_220414.php4 |publisher=GSA |accessdate=24 April 2014}}{{registration required}}</ref>
+<ref name=halberd>{{cite web |title=Europe |url=https://halberdbastion.com/intelligence/geographic-regions/europe |publisher=Halberd Bastion |accessdate=2020-07-09}}</ref>
+<ref name=halberd_cis>{{cite web |title=CIS |url=https://halberdbastion.com/intelligence/geographic-regions/cis |publisher=Halberd Bastion |accessdate=2020-05-14}}</ref>
+<ref name=authority_at>{{cite web |title=Special communications parameters (SCPs) |url=https://www.rtr.at/en/tk/SKP |publisher=RTR-GmbH |date=3 May 2019 |accessdate=29 May 2019}}</ref>
+<ref name=authority_be>{{cite web |title=Database with reserved and allocated numbers |url=https://www.bipt.be/operators/publication/database-with-reserved-and-allocated-numbers |publisher=BIPT |date=28 February 2020 |accessdate=7 April 2020}}</ref>
+<ref name=authority_bg>{{cite web |title=Предоставени кодове на мобилни мрежи (MNC) |url=http://crc.bg:8080/ords/f?p=923:1521:1008174568880801::NO::P1521_ADV,P1521_REGION_CONTROL,P1521_X:1,1,1 |publisher=CRC |accessdate=7 April 2020}}</ref>
+<ref name=authority_ch>{{cite web |title=Search the allocated MNCs |url=https://www.eofcom.admin.ch/eofcom/public/searchEofcom_mnc.do |publisher=OFCOM |accessdate=15 February 2018}}</ref>
+<ref name=authority_cz>{{cite web |title=Přidělená čísla a kódy |url=http://www.ctu.cz/ctu-online/vyhledavaci-databaze/pridelena-cisla-a-kody.html?type=2&f_format_cisla=25&f_podnikatel=all&action=aktualni |publisher=CTU |accessdate=14 February 2018}}</ref>
+<ref name=authority_de>{{cite web |title=Internationale Kennungen für mobile Teilnehmer (IMSI) |url=http://www.bundesnetzagentur.de/cln_1431/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Nummerierung/TechnischeNummern/IMSI/IMSI_node.html |publisher=BNetzA |date=1 February 2019 |accessdate=3 June 2019}}</ref>
+<ref name=authority_dk>{{cite web |title=Nummerlister |url=https://ens.dk/ansvarsomraader/telefoni/numre/nummerlister |publisher=Energistyrelsen |accessdate=14 February 2018|date=2016-07-28 }}</ref>
+<ref name=authority_fi>{{cite web |title=Approved Mobile Network Codes (MNC) |url=https://www.traficom.fi/en/communications/broadband-and-telephone/approved-mobile-network-codes-mnc |publisher=TRAFICOM |date=10 January 2019 |accessdate=30 May 2019}}</ref>
+<ref name=authority_fr>{{cite web |title=Numérotation |url=https://extranet.arcep.fr/portail/Op%C3%A9rateursCE/Num%C3%A9rotation.aspx |publisher=ARCEP |date=27 May 2019 |accessdate=3 June 2019}}</ref>
+<ref name=authority_hr>{{cite web |title=Pretraga numeracija |url=http://www.hakom.hr/default.aspx?id=817 |publisher=HAKOM |accessdate=14 February 2018}}</ref>
+
+<ref name=authority_is>{{cite web |title=MNC kóðar |url=https://www.pfs.is/fjarskipti/numer-og-vistfong/uthlutun-numera/mnc-kodar/ |publisher=PFS |accessdate=14 February 2018}}</ref>
+<ref name=authority_li>{{cite web |title=Mobile Network Code (MNC) |url=http://www.llv.li/#/11522 |publisher=Liechtensteinische Landesverwaltung |accessdate=3 June 2019}}</ref>
+<ref name=authority_lv>{{cite web |title=Numerācija |url=http://www.sprk.gov.lv/lapas/numercija |publisher=SPRK |accessdate=14 February 2018}}</ref>
+<ref name=authority_lt>{{cite web |title=Kodai |url=https://numeracija.rrt.lt/savitarna/user/#/code |publisher=RTT |accessdate=3 June 2019}}</ref>
+<ref name=authority_no>{{cite web |title=Nummerplan: E.212 |url=https://www.nkom.no/files/numsys/E.212.pdf |publisher=NKOM |date=5 January 2021 |accessdate=5 January 2021}}</ref>
+<ref name=authority_pl>{{cite web |title=Table of mobile network codes (MNC) |url=https://numeracja.uke.gov.pl/en/mnc_tables |publisher=UKE |language=en |accessdate=5 June 2019}}</ref>
+<ref name=authority_pt>{{cite web |title=Código de Identificação de Redes Móveis |url=http://www.anacom.pt/pnn/pnnSearchResults.do?ssl=false&assunto=&languageId=0&css=152&estado=NON&jscript=on |publisher=ANACOM |accessdate=15 February 2018}}</ref>
+<ref name=authority_rs>{{cite web |title=Database of numbering resource use |url=http://registar.ratel.rs/en/reg202?action=table&vrsta=4000 |publisher=RATEL |accessdate=15 February 2018}}</ref>
+<ref name=authority_sk>{{cite web |title=Pridelené čísla a kódy |url=http://www.ezd.sk/dbpc/databazacisel.php |date=30 January 2018 |accessdate=15 February 2018}}</ref>
+<ref name=authority_si>{{cite web |title=ŠTEVILSKI PROSTOR |url=https://www.akos-rs.si/registri/seznam-registrov/stevilski-prostor |publisher=AKOS |accessdate=14 April 2020}}</ref>
+<ref name=authority_se>{{cite web |title=Search in numbering plans |url=https://nummer.pts.se/NbrPlanSearch |publisher=PTS |date=12 March 2019 |accessdate=6 June 2019}}</ref>
+<ref name=authority_uk>{{cite web |title=Ofcom Numbering Site |url=http://www.ofcom.org.uk/static/numbering/ |publisher=Ofcom |accessdate=15 February 2018}}</ref>
+<ref name=shutdown2G3G>{{cite web |title=2G and 3G networks are shutting down globally?! |url=https://1ot.mobi/blog/2g-and-3g-networks-are-shutting-down-globally |first=Heimar |last=Lecht |publisher=1oT |date=27 March 2018 |accessdate=7 January 2019}}</ref>
+<ref name=itu_ob_779>{{cite web |title=ITU Operational Bulletin No. 779 |url=https://www.itu.int/pub/T-SP-OB.779-2003 |publisher=ITU |date=1 January 2003 |accessdate=7 August 2015}}</ref>
+<ref name=itu_ob_837>{{cite web |title=ITU Operational Bulletin No. 837 |url=https://www.itu.int/pub/T-SP-OB.837-2005 |publisher=ITU |date=1 June 2005 |accessdate=20 August 2015}}</ref>
+<ref name=itu_ob_871>{{cite web |title=ITU Operational Bulletin No. 871 |url=https://www.itu.int/pub/T-SP-OB.871-2006 |publisher=ITU |date=1 November 2006 |accessdate=11 February 2015}}</ref>
+<ref name=itu_ob_986>{{cite web |title=ITU Operational Bulletin No. 986 |url=https://www.itu.int/pub/T-SP-OB.986-2011 |publisher=ITU |date=15 August 2011 |accessdate=17 April 2015}}</ref>
+<ref name=itu_ob_1019>{{cite web |title=ITU Operational Bulletin No. 1019 |url=https://www.itu.int/pub/T-SP-OB.1019-2013 |publisher=ITU |date=1 January 2013 |accessdate=7 January 2013}}</ref>
+<ref name=itu_ob_1020>{{cite web |title=ITU Operational Bulletin No. 1020 |url=https://www.itu.int/pub/T-SP-OB.1020-2013 |publisher=ITU |date=15 January 2013 |accessdate=18 January 2013}}</ref> 
+<ref name=itu_ob_1021>{{cite web |title=ITU Operational Bulletin No. 1021 |url=https://www.itu.int/pub/T-SP-OB.1021-2013 |publisher=ITU |date=1 February 2013 |accessdate=8 May 2014}}</ref>
+<ref name=itu_ob_1022>{{cite web |title=ITU Operational Bulletin No. 1022 |url=https://www.itu.int/pub/T-SP-OB.1022-2013 |publisher=ITU |date=15 February 2013 |accessdate=19 February 2013}}</ref> 
+<ref name=itu_ob_1028>{{cite web |title=ITU Operational Bulletin No. 1028 |url=https://www.itu.int/pub/T-SP-OB.1028-2013 |publisher=ITU |date=15 May 2013 |accessdate=8 May 2014}}</ref>
+<ref name=itu_ob_1032>{{cite web |title=ITU Operational Bulletin No. 1032 |url=https://www.itu.int/pub/T-SP-OB.1032-2013 |publisher=ITU |date=15 July 2013 |accessdate=7 May 2014}}</ref>
+<ref name=itu_ob_1035>{{cite web |title=ITU Operational Bulletin No. 1035 |url=https://www.itu.int/pub/T-SP-OB.1035-2013 |publisher=ITU |date=1 September 2013 |accessdate=7 May 2014}}</ref>
+<ref name=itu_ob_1038>{{cite web |title=ITU Operational Bulletin No. 1038 |url=https://www.itu.int/pub/T-SP-OB.1038-2013 |publisher=ITU |date=15 October 2013 |accessdate=6 May 2014}}</ref>
+<ref name=itu_ob_1039>{{cite web |title=ITU Operational Bulletin No. 1039 |url=https://www.itu.int/pub/T-SP-OB.1039-2013 |publisher=ITU |date=1 November 2013 |accessdate=6 May 2014}}</ref>
+<ref name=itu_ob_1044>{{cite web |title=ITU Operational Bulletin No. 1044 |url=https://www.itu.int/pub/T-SP-OB.1044-2014 |publisher=ITU |date=15 January 2014 |accessdate=6 May 2014}}</ref>
+<ref name=itu_ob_1045>{{cite web |title=ITU Operational Bulletin No. 1045 |url=https://www.itu.int/pub/T-SP-OB.1045-2014 |publisher=ITU |date=1 February 2014 |accessdate=6 May 2014}}</ref>
+<ref name=itu_ob_1046>{{cite web |title=ITU Operational Bulletin No. 1046 |url=https://www.itu.int/pub/T-SP-OB.1046-2014 |publisher=ITU |date=15 February 2014 |accessdate=1 May 2014}}</ref>
+<ref name=itu_ob_1047>{{cite web |title=ITU Operational Bulletin No. 1047 |url=https://www.itu.int/pub/T-SP-OB.1047-2014 |publisher=ITU |date=1 March 2014 |accessdate=1 May 2014}}</ref>
+<ref name=itu_ob_1050>{{cite web |title=ITU Operational Bulletin No. 1050 |url=https://www.itu.int/pub/T-SP-OB.1050-2014 |publisher=ITU |date=15 April 2014 |accessdate=1 May 2014}}</ref>
+<ref name=itu_ob_1051>{{cite web |title=ITU Operational Bulletin No. 1051 |url=https://www.itu.int/pub/T-SP-OB.1051-2014 |publisher=ITU |date=1 May 2014 |accessdate=30 April 2014}}</ref>
+<ref name=itu_ob_1056>{{cite web |title=ITU Operational Bulletin No. 1056 |url=https://www.itu.int/pub/T-SP-OB.1056-2014 |publisher=ITU |date=15 July 2014 |accessdate=20 August 2014}}</ref>
+<ref name=itu_ob_1061>{{cite web |title=ITU Operational Bulletin No. 1061 |url=https://www.itu.int/pub/T-SP-OB.1061-2014 |publisher=ITU |date=1 October 2014 |accessdate=19 December 2014}}</ref>
+<ref name=itu_ob_1062>{{cite web |title=ITU Operational Bulletin No. 1062 |url=https://www.itu.int/pub/T-SP-OB.1062-2014 |publisher=ITU |date=15 October 2014 |accessdate=19 December 2014}}</ref>
+<ref name=itu_ob_1063>{{cite web |title=ITU Operational Bulletin No. 1063 |url=https://www.itu.int/pub/T-SP-OB.1063-2014 |publisher=ITU |date=1 November 2014 |accessdate=19 December 2014}}</ref>
+<ref name=itu_ob_1064>{{cite web |title=ITU Operational Bulletin No. 1064 |url=https://www.itu.int/pub/T-SP-OB.1064-2014 |publisher=ITU |date=15 November 2014 |accessdate=19 December 2014}}</ref>
+<ref name=itu_ob_1065>{{cite web |title=ITU Operational Bulletin No. 1065 |url=https://www.itu.int/pub/T-SP-OB.1065-2014 |publisher=ITU |date=1 December 2014 |accessdate=19 December 2014}}</ref>
+<ref name=itu_ob_1067>{{cite web |title=ITU Operational Bulletin No. 1067 |url=https://www.itu.int/pub/T-SP-OB.1067-2015 |publisher=ITU |date=1 January 2015 |accessdate=19 December 2014}}</ref>
+<ref name=itu_ob_1069>{{cite web |title=ITU Operational Bulletin No. 1069 |url=https://www.itu.int/pub/T-SP-OB.1069-2015 |publisher=ITU |date=1 February 2015 |accessdate=11 February 2015}}</ref>
+<ref name=itu_ob_1070>{{cite web |title=ITU Operational Bulletin No. 1070 |url=https://www.itu.int/pub/T-SP-OB.1070-2015 |publisher=ITU |date=15 February 2015 |accessdate=4 March 2015}}</ref>
+<ref name=itu_ob_1073>{{cite web |title=ITU Operational Bulletin No. 1073 |url=https://www.itu.int/pub/T-SP-OB.1073-2015 |publisher=ITU |date=1 April 2015 |accessdate=16 April 2015}}</ref>
+<ref name=itu_ob_1075>{{cite web |title=ITU Operational Bulletin No. 1075 |url=https://www.itu.int/pub/T-SP-OB.1075-2015 |publisher=ITU |date=1 May 2015 |accessdate=8 May 2015}}</ref>
+<ref name=itu_ob_1078>{{cite web |title=ITU Operational Bulletin No. 1078 |url=https://www.itu.int/pub/T-SP-OB.1078-2015 |publisher=ITU |date=15 June 2015 |accessdate=17 July 2015}}</ref>
+<ref name=itu_ob_1079>{{cite web |title=ITU Operational Bulletin No. 1079 |url=https://www.itu.int/pub/T-SP-OB.1079-2015 |publisher=ITU |date=1 July 2015 |accessdate=17 July 2015}}</ref>
+<ref name=itu_ob_1080>{{cite web |title=ITU Operational Bulletin No. 1080 |url=https://www.itu.int/pub/T-SP-OB.1080-2015 |publisher=ITU |date=15 July 2015 |accessdate=17 July 2015}}</ref>
+<ref name=itu_ob_1082>{{cite web |title=ITU Operational Bulletin No. 1082 |url=https://www.itu.int/pub/T-SP-OB.1082-2015 |publisher=ITU |date=15 August 2015 |accessdate=27 August 2015}}</ref>
+<ref name=itu_ob_1083>{{cite web |title=ITU Operational Bulletin No. 1083 |url=https://www.itu.int/pub/T-SP-OB.1083-2015 |publisher=ITU |date=1 September 2015 |accessdate=11 September 2015}}</ref>
+<ref name=itu_ob_1084>{{cite web |title=ITU Operational Bulletin No. 1084 |url=https://www.itu.int/pub/T-SP-OB.1084-2015 |publisher=ITU |date=15 September 2015 |accessdate=15 September 2015}}</ref>
+<ref name=itu_ob_1086>{{cite web |title=ITU Operational Bulletin No. 1086 |url=https://www.itu.int/pub/T-SP-OB.1086-2015 |publisher=ITU |date=15 October 2015 |accessdate=3 November 2015}}</ref>
+<ref name=itu_ob_1087>{{cite web |title=ITU Operational Bulletin No. 1087 |url=https://www.itu.int/pub/T-SP-OB.1087-2015 |publisher=ITU |date=1 November 2015 |accessdate=3 November 2015}}</ref>
+<ref name=itu_ob_1091>{{cite web |title=ITU Operational Bulletin No. 1091 |url=https://www.itu.int/pub/T-SP-OB.1091-2016 |publisher=ITU |date=1 January 2016 |accessdate=4 January 2016}}</ref>
+<ref name=itu_ob_1092>{{cite web |title=ITU Operational Bulletin No. 1092 |url=https://www.itu.int/pub/T-SP-OB.1092-2016 |publisher=ITU |date=15 January 2016 |accessdate=15 January 2016}}</ref>
+<ref name=itu_ob_1093>{{cite web |title=ITU Operational Bulletin No. 1093 |url=https://www.itu.int/pub/T-SP-OB.1093-2016 |publisher=ITU |date=1 February 2016 |accessdate=1 February 2016}}</ref>
+<ref name=itu_ob_1094>{{cite web |title=ITU Operational Bulletin No. 1094 |url=https://www.itu.int/pub/T-SP-OB.1094-2016 |publisher=ITU |date=15 February 2016 |accessdate=16 February 2016}}</ref>
+<ref name=itu_ob_1096>{{cite web |title=ITU Operational Bulletin No. 1096 |url=https://www.itu.int/pub/T-SP-OB.1096-2016 |publisher=ITU |date=15 March 2016 |accessdate=16 March 2016}}</ref>
+<ref name=itu_ob_1101>{{cite web |title=ITU Operational Bulletin No. 1101 |url=https://www.itu.int/pub/T-SP-OB.1101-2016 |publisher=ITU |date=1 June 2016 |accessdate=2 June 2016}}</ref>
+<ref name=itu_ob_1103>{{cite web |title=ITU Operational Bulletin No. 1103 |url=https://www.itu.int/pub/T-SP-OB.1103-2016 |publisher=ITU |date=1 July 2016 |accessdate=4 July 2016}}</ref>
+<ref name=itu_ob_1104>{{cite web |title=ITU Operational Bulletin No. 1104 |url=https://www.itu.int/pub/T-SP-OB.1104-2016 |publisher=ITU |date=15 July 2016 |accessdate=15 July 2016}}</ref>
+<ref name=itu_ob_1105>{{cite web |title=ITU Operational Bulletin No. 1105 |url=https://www.itu.int/pub/T-SP-OB.1105-2016 |publisher=ITU |date=1 August 2016 |accessdate=24 August 2016}}</ref>
+<ref name=itu_ob_1106>{{cite web |title=ITU Operational Bulletin No. 1106 |url=https://www.itu.int/pub/T-SP-OB.1106-2016 |publisher=ITU |date=15 August 2016 |accessdate=24 August 2016}}</ref>
+<ref name=itu_ob_1107>{{cite web |title=ITU Operational Bulletin No. 1107 |url=https://www.itu.int/pub/T-SP-OB.1107-2016 |publisher=ITU |date=1 September 2016 |accessdate=1 September 2016}}</ref>
+<ref name=itu_ob_1108>{{cite web |title=ITU Operational Bulletin No. 1108 |url=https://www.itu.int/pub/T-SP-OB.1108-2016 |publisher=ITU |date=15 September 2016 |accessdate=15 September 2016}}</ref>
+<ref name=itu_ob_1109>{{cite web |title=ITU Operational Bulletin No. 1109 |url=https://www.itu.int/pub/T-SP-OB.1109-2016 |publisher=ITU |date=1 October 2016 |accessdate=5 October 2016}}</ref>
+<ref name=itu_ob_1110>{{cite web |title=ITU Operational Bulletin No. 1110 |url=https://www.itu.int/pub/T-SP-OB.1110-2016 |publisher=ITU |date=15 October 2016 |accessdate=17 October 2016}}</ref>
+<ref name=itu_ob_1111>{{cite web |title=ITU Operational Bulletin No. 1111 |url=https://www.itu.int/pub/T-SP-OB.1111-2016 |publisher=ITU |date=1 November 2016 |accessdate=1 November 2016}}</ref>
+<ref name=itu_ob_1112>{{cite web |title=ITU Operational Bulletin No. 1112 |url=https://www.itu.int/pub/T-SP-OB.1112-2016 |publisher=ITU |date=15 November 2016 |accessdate=15 November 2016}}</ref>
+<ref name=itu_ob_1115>{{cite web |title=ITU Operational Bulletin No. 1115 |url=https://www.itu.int/pub/T-SP-OB.1115-2017 |publisher=ITU |date=1 January 2017 |accessdate=28 December 2016}}</ref>
+<ref name=itu_ob_1116>{{cite web |title=ITU Operational Bulletin No. 1116 |url=https://www.itu.int/pub/T-SP-OB.1116-2017 |publisher=ITU |date=15 January 2017 |accessdate=16 January 2017}}</ref>
+<ref name=itu_ob_1117>{{cite web |title=ITU Operational Bulletin No. 1117 |url=https://www.itu.int/pub/T-SP-OB.1117-2017 |publisher=ITU |date=1 February 2017 |accessdate=1 February 2017}}</ref>
+<ref name=itu_ob_1119>{{cite web |title=ITU Operational Bulletin No. 1119 |url=https://www.itu.int/pub/T-SP-OB.1119-2017 |publisher=ITU |date=1 March 2017 |accessdate=1 March 2017}}</ref>
+<ref name=itu_ob_1122>{{cite web |title=ITU Operational Bulletin No. 1122 |url=https://www.itu.int/pub/T-SP-OB.1122-2017 |publisher=ITU |date=15 April 2017 |accessdate=18 April 2017}}</ref>
+<ref name=itu_ob_1123>{{cite web |title=ITU Operational Bulletin No. 1123 |url=https://www.itu.int/pub/T-SP-OB.1123-2017 |publisher=ITU |date=1 May 2017 |accessdate=1 May 2017}}</ref>
+<ref name=itu_ob_1124>{{cite web |title=ITU Operational Bulletin No. 1124 |url=https://www.itu.int/pub/T-SP-OB.1124-2017 |publisher=ITU |date=15 May 2017 |accessdate=15 May 2017}}</ref>
+<ref name=itu_ob_1128>{{cite web |title=ITU Operational Bulletin No. 1128 |url=https://www.itu.int/pub/T-SP-OB.1128-2017 |publisher=ITU |date=15 July 2017 |accessdate=2 August 2017}}</ref>
+<ref name=itu_ob_1131>{{cite web |title=ITU Operational Bulletin No. 1131 |url=https://www.itu.int/pub/T-SP-OB.1131-2017 |publisher=ITU |date=1 September 2017 |accessdate=5 September 2017}}</ref>
+<ref name=itu_ob_1132>{{cite web |title=ITU Operational Bulletin No. 1132 |url=https://www.itu.int/pub/T-SP-OB.1132-2017 |publisher=ITU |date=15 September 2017 |accessdate=15 September 2017}}</ref>
+<ref name=itu_ob_1133>{{cite web |title=ITU Operational Bulletin No. 1133 |url=https://www.itu.int/pub/T-SP-OB.1133-2017 |publisher=ITU |date=1 October 2017 |accessdate=2 October 2017}}</ref>
+<ref name=itu_ob_1135>{{cite web |title=ITU Operational Bulletin No. 1135 |url=https://www.itu.int/pub/T-SP-OB.1135-2017 |publisher=ITU |date=1 November 2017 |accessdate=1 November 2017}}</ref>
+<ref name=itu_ob_1136>{{cite web |title=ITU Operational Bulletin No. 1136 |url=https://www.itu.int/pub/T-SP-OB.1136-2017 |publisher=ITU |date=15 November 2017 |accessdate=15 November 2017}}</ref>
+<ref name=itu_ob_1137>{{cite web |title=ITU Operational Bulletin No. 1137 |url=https://www.itu.int/pub/T-SP-OB.1137-2017 |publisher=ITU |date=1 December 2017 |accessdate=5 December 2017}}</ref>
+<ref name=itu_ob_1138>{{cite web |title=ITU Operational Bulletin No. 1138 |url=https://www.itu.int/pub/T-SP-OB.1138-2017 |publisher=ITU |date=15 December 2017 |accessdate=15 December 2017}}</ref>
+<ref name=itu_ob_1139>{{cite web |title=ITU Operational Bulletin No. 1139 |url=https://www.itu.int/pub/T-SP-OB.1139-2018 |publisher=ITU |date=1 January 2018 |accessdate=2 January 2018}}</ref>
+<ref name=itu_ob_1140>{{cite web |title=ITU Operational Bulletin No. 1140 |url=https://www.itu.int/pub/T-SP-OB.1140-2018 |publisher=ITU |date=15 January 2018 |accessdate=17 January 2018}}</ref>
+<ref name=itu_ob_1142>{{cite web |title=ITU Operational Bulletin No. 1142 |url=https://www.itu.int/pub/T-SP-OB.1142-2018 |publisher=ITU |date=15 February 2018 |accessdate=15 February 2018}}</ref>
+<ref name=itu_ob_1143>{{cite web |title=ITU Operational Bulletin No. 1143 |url=https://www.itu.int/pub/T-SP-OB.1143-2018 |publisher=ITU |date=1 March 2018 |accessdate=1 March 2018}}</ref>
+<ref name=itu_ob_1146>{{cite web |title=ITU Operational Bulletin No. 1146 |url=https://www.itu.int/pub/T-SP-OB.1146-2018 |publisher=ITU |date=15 April 2018 |accessdate=16 April 2018}}</ref>
+<ref name=itu_ob_1147>{{cite web |title=ITU Operational Bulletin No. 1147 |url=https://www.itu.int/pub/T-SP-OB.1147-2018 |publisher=ITU |date=1 May 2018 |accessdate=1 May 2018}}</ref>
+<ref name=itu_ob_1148>{{cite web |title=ITU Operational Bulletin No. 1148 |url=https://www.itu.int/pub/T-SP-OB.1148-2018 |publisher=ITU |date=15 May 2018 |accessdate=15 May 2018}}</ref>
+<ref name=itu_ob_1150>{{cite web |title=ITU Operational Bulletin No. 1150 |url=https://www.itu.int/pub/T-SP-OB.1150-2018 |publisher=ITU |date=15 June 2018 |accessdate=15 June 2018}}</ref>
+<ref name=itu_ob_1151>{{cite web |title=ITU Operational Bulletin No. 1151 |url=https://www.itu.int/pub/T-SP-OB.1151-2018 |publisher=ITU |date=1 July 2018 |accessdate=5 July 2018}}</ref>
+<ref name=itu_ob_1152>{{cite web |title=ITU Operational Bulletin No. 1152 |url=https://www.itu.int/pub/T-SP-OB.1152-2018 |publisher=ITU |date=15 July 2018 |accessdate=16 July 2018}}</ref>
+<ref name=itu_ob_1153>{{cite web |title=ITU Operational Bulletin No. 1153 |url=https://www.itu.int/pub/T-SP-OB.1153-2018 |publisher=ITU |date=1 August 2018 |accessdate=1 August 2018}}</ref>
+<ref name=itu_ob_1154>{{cite web |title=ITU Operational Bulletin No. 1154 |url=https://www.itu.int/pub/T-SP-OB.1154-2018 |publisher=ITU |date=15 August 2018 |accessdate=22 August 2018}}</ref>
+<ref name=itu_ob_1155>{{cite web |title=ITU Operational Bulletin No. 1155 |url=https://www.itu.int/pub/T-SP-OB.1155-2018 |publisher=ITU |date=1 September 2018 |accessdate=5 September 2018}}</ref>
+<ref name=itu_ob_1157>{{cite web |title=ITU Operational Bulletin No. 1157 |url=https://www.itu.int/pub/T-SP-OB.1157-2018 |publisher=ITU |date=1 October 2018 |accessdate=1 October 2018}}</ref>
+<ref name=itu_ob_1158>{{cite web |title=ITU Operational Bulletin No. 1158 |url=https://www.itu.int/pub/T-SP-OB.1158-2018 |publisher=ITU |date=15 October 2018 |accessdate=15 October 2018}}</ref>
+<ref name=itu_ob_1160>{{cite web |title=ITU Operational Bulletin No. 1160 |url=https://www.itu.int/pub/T-SP-OB.1160-2018 |publisher=ITU |date=15 November 2018 |accessdate=14 November 2018}}</ref>
+<ref name=itu_ob_1161>{{cite web |title=ITU Operational Bulletin No. 1161 |url=https://www.itu.int/pub/T-SP-OB.1161-2018 |publisher=ITU |date=1 December 2018 |accessdate=30 November 2018}}</ref>
+<ref name=itu_ob_1162>{{cite web |title=ITU Operational Bulletin No. 1162 |url=https://www.itu.int/pub/T-SP-OB.1162-2018 |publisher=ITU |date=15 December 2018 |accessdate=17 December 2018}}</ref>
+<ref name=itu_ob_1164>{{cite web |title=ITU Operational Bulletin No. 1164 |url=https://www.itu.int/pub/T-SP-OB.1164-2019 |publisher=ITU |date=15 January 2019 |accessdate=15 January 2019}}</ref>
+<ref name=itu_ob_1165>{{cite web |title=ITU Operational Bulletin No. 1165 |url=https://www.itu.int/pub/T-SP-OB.1165-2019 |publisher=ITU |date=1 February 2019 |accessdate=1 February 2019}}</ref>
+<ref name=itu_ob_1166>{{cite web |title=ITU Operational Bulletin No. 1166 |url=https://www.itu.int/pub/T-SP-OB.1166-2019 |publisher=ITU |date=15 February 2019 |accessdate=15 February 2019}}</ref>
+<ref name=itu_ob_1167>{{cite web |title=ITU Operational Bulletin No. 1167 |url=https://www.itu.int/pub/T-SP-OB.1167-2019 |publisher=ITU |date=1 March 2019 |accessdate=1 March 2019}}</ref>
+<ref name=itu_ob_1168>{{cite web |title=ITU Operational Bulletin No. 1168 |url=https://www.itu.int/pub/T-SP-OB.1168-2019 |publisher=ITU |date=15 March 2019 |accessdate=22 March 2019}}</ref>
+<ref name=itu_ob_1169>{{cite web |title=ITU Operational Bulletin No. 1169 |url=https://www.itu.int/pub/T-SP-OB.1169-2019 |publisher=ITU |date=1 April 2019 |accessdate=1 April 2019}}</ref>
+<ref name=itu_ob_1170>{{cite web |title=ITU Operational Bulletin No. 1170 |url=https://www.itu.int/pub/T-SP-OB.1170-2019 |publisher=ITU |date=15 April 2019 |accessdate=15 April 2019}}</ref>
+<ref name=itu_ob_1171>{{cite web |title=ITU Operational Bulletin No. 1171 |url=https://www.itu.int/pub/T-SP-OB.1171-2019 |publisher=ITU |date=1 May 2019 |accessdate=27 May 2019}}</ref>
+<ref name=itu_ob_1173>{{cite web |title=ITU Operational Bulletin No. 1173 |url=https://www.itu.int/pub/T-SP-OB.1173-2019 |publisher=ITU |date=1 June 2019 |accessdate=31 May 2019}}</ref>
+<ref name=itu_ob_1175>{{cite web |title=ITU Operational Bulletin No. 1175 |url=https://www.itu.int/pub/T-SP-OB.1175-2019 |publisher=ITU |date=1 July 2019 |accessdate=2 July 2019}}</ref>
+<ref name=itu_ob_1176>{{cite web |title=ITU Operational Bulletin No. 1176 |url=https://www.itu.int/pub/T-SP-OB.1176-2019 |publisher=ITU |date=15 July 2019 |accessdate=15 July 2019}}</ref>
+<ref name=itu_ob_1177>{{cite web |title=ITU Operational Bulletin No. 1177 |url=https://www.itu.int/pub/T-SP-OB.1177-2019 |publisher=ITU |date=1 August 2019 |accessdate=1 August 2019}}</ref>
+<ref name=itu_ob_1178>{{cite web |title=ITU Operational Bulletin No. 1178 |url=https://www.itu.int/pub/T-SP-OB.1178-2019 |publisher=ITU |date=15 August 2019 |accessdate=15 August 2019}}</ref>
+<ref name=itu_ob_1181>{{cite web |title=ITU Operational Bulletin No. 1181 |url=https://www.itu.int/pub/T-SP-OB.1181-2019 |publisher=ITU |date=1 October 2019 |accessdate=1 October 2019}}</ref>
+<ref name=itu_ob_1183>{{cite web |title=ITU Operational Bulletin No. 1183 |url=https://www.itu.int/pub/T-SP-OB.1183-2019 |publisher=ITU |date=1 November 2019 |accessdate=1 November 2019}}</ref>
+<ref name=itu_ob_1184>{{cite web |title=ITU Operational Bulletin No. 1184 |url=https://www.itu.int/pub/T-SP-OB.1184-2019 |publisher=ITU |date=15 November 2019 |accessdate=15 November 2019}}</ref>
+<ref name=itu_ob_1185>{{cite web |title=ITU Operational Bulletin No. 1185 |url=https://www.itu.int/pub/T-SP-OB.1185-2019 |publisher=ITU |date=1 December 2019 |accessdate=2 December 2019}}</ref>
+<ref name=itu_ob_1187>{{cite web |title=ITU Operational Bulletin No. 1187 |url=https://www.itu.int/pub/T-SP-OB.1187-2020 |publisher=ITU |date=1 January 2020 |accessdate=7 January 2020}}</ref>
+<ref name=itu_ob_1188>{{cite web |title=ITU Operational Bulletin No. 1188 |url=https://www.itu.int/pub/T-SP-OB.1188-2020 |publisher=ITU |date=15 January 2020 |accessdate=15 January 2020}}</ref>
+<ref name=itu_ob_1189>{{cite web |title=ITU Operational Bulletin No. 1189 |url=https://www.itu.int/pub/T-SP-OB.1189-2020 |publisher=ITU |date=1 February 2020 |accessdate=3 February 2020}}</ref>
+<ref name=itu_ob_1190>{{cite web |title=ITU Operational Bulletin No. 1190 |url=https://www.itu.int/pub/T-SP-OB.1190-2020 |publisher=ITU |date=15 February 2020 |accessdate=18 February 2020}}</ref>
+<ref name=itu_ob_1191>{{cite web |title=ITU Operational Bulletin No. 1191 |url=https://www.itu.int/pub/T-SP-OB.1191-2020 |publisher=ITU |date=1 March 2020 |accessdate=2 March 2020}}</ref>
+<ref name=itu_ob_1192>{{cite web |title=ITU Operational Bulletin No. 1192 |url=https://www.itu.int/pub/T-SP-OB.1192-2020 |publisher=ITU |date=15 March 2020 |accessdate=20 March 2020}}</ref>
+<ref name=itu_ob_1193>{{cite web |title=ITU Operational Bulletin No. 1193 |url=https://www.itu.int/pub/T-SP-OB.1193-2020 |publisher=ITU |date=1 April 2020 |accessdate=3 April 2020}}</ref>
+<ref name=itu_ob_1194>{{cite web |title=ITU Operational Bulletin No. 1194 |url=https://www.itu.int/pub/T-SP-OB.1194-2020 |publisher=ITU |date=15 April 2020 |accessdate=15 April 2020}}</ref>
+<ref name=itu_ob_1195>{{cite web |title=ITU Operational Bulletin No. 1195 |url=https://www.itu.int/pub/T-SP-OB.1195-2020 |publisher=ITU |date=1 May 2020 |accessdate=1 May 2020}}</ref>
+<ref name=itu_ob_1196>{{cite web |title=ITU Operational Bulletin No. 1196 |url=https://www.itu.int/pub/T-SP-OB.1196-2020 |publisher=ITU |date=15 May 2020 |accessdate=15 May 2020}}</ref>
+<ref name=itu_ob_1202>{{cite web |title=ITU Operational Bulletin No. 1202 |url=https://www.itu.int/pub/T-SP-OB.1202-2020 |publisher=ITU |date=15 August 2020 |accessdate=16 August 2020}}</ref>
+<ref name=itu_ob_1203>{{cite web |title=ITU Operational Bulletin No. 1203 |url=https://www.itu.int/pub/T-SP-OB.1203-2020 |publisher=ITU |date=1 September 2020 |accessdate=1 September 2020}}</ref>
+<ref name=itu_ob_1204>{{cite web |title=ITU Operational Bulletin No. 1204 |url=https://www.itu.int/pub/T-SP-OB.1204-2020 |publisher=ITU |date=15 September 2020 |accessdate=16 September 2020}}</ref>
+<ref name=itu_ob_1206>{{cite web |title=ITU Operational Bulletin No. 1206 |url=https://www.itu.int/pub/T-SP-OB.1206-2020 |publisher=ITU |date=15 October 2020 |accessdate=15 October 2020}}</ref>
+<ref name=itu_ob_1209>{{cite web |title=ITU Operational Bulletin No. 1209 |url=https://www.itu.int/pub/T-SP-OB.1209-2020 |publisher=ITU |date=1 December 2020 |accessdate=1 December 2020}}</ref>
+<ref name=itu_ob_1210>{{cite web |title=ITU Operational Bulletin No. 1210 |url=https://www.itu.int/pub/T-SP-OB.1210-2020 |publisher=ITU |date=15 December 2020 |accessdate=15 December 2020}}</ref>
+<ref name=itu_ob_1211>{{cite web |title=ITU Operational Bulletin No. 1211 |url=https://www.itu.int/pub/T-SP-OB.1211-2021 |publisher=ITU |date=1 January 2021 |accessdate=4 January 2021}}</ref>
+<ref name=itu_ob_1213>{{cite web |title=ITU Operational Bulletin No. 1213 |url=https://www.itu.int/pub/T-SP-OB.1213-2021 |publisher=ITU |date=1 February 2021 |accessdate=1 February 2021}}</ref>
+<ref name=itu_ob_1217>{{cite web |title=ITU Operational Bulletin No. 1217 |url=https://www.itu.int/pub/T-SP-OB.1217-2021 |publisher=ITU |date=1 April 2021 |access-date=1 April 2021}}</ref>
+<ref name=itu_ob_1219>{{cite web |title=ITU Operational Bulletin No. 1219 |url=https://www.itu.int/pub/T-SP-OB.1219-2021 |publisher=ITU |date=1 May 2021 |access-date=4 May 2021}}</ref>
+<ref name=itu_ob_1220>{{cite web |title=ITU Operational Bulletin No. 1220 |url=https://www.itu.int/pub/T-SP-OB.1220-2021 |publisher=ITU |date=15 May 2021 |accessdate=16 May 2021}}</ref>
+<ref name=itu_ob_1221>{{cite web |title=ITU Operational Bulletin No. 1221 |url=https://www.itu.int/pub/T-SP-OB.1221-2021 |publisher=ITU |date=1 June 2021 |accessdate=1 June 2021}}</ref>
+<ref name=itu_ob_1222>{{cite web |title=ITU Operational Bulletin No. 1222 |url=https://www.itu.int/pub/T-SP-OB.1222-2021 |publisher=ITU |date=15 June 2021 |accessdate=15 June 2021}}</ref>
+<ref name=itu_ob_1224>{{cite web |title=ITU Operational Bulletin No. 1224 |url=https://www.itu.int/pub/T-SP-OB.1224-2021 |publisher=ITU |date=15 July 2021 |accessdate=15 July 2021}}</ref>
+<ref name=itu_ob_1225>{{cite web |title=ITU Operational Bulletin No. 1225 |url=https://www.itu.int/pub/T-SP-OB.1225-2021 |publisher=ITU |date=1 August 2021 |accessdate=1 August 2021}}</ref>
+<ref name=itu_ob_1226>{{cite web |title=ITU Operational Bulletin No. 1226 |url=https://www.itu.int/pub/T-SP-OB.1226-2021 |publisher=ITU |date=15 August 2021 |accessdate=19 August 2021}}</ref>
+<ref name=itu_ob_1227>{{cite web |title=ITU Operational Bulletin No. 1227 |url=https://www.itu.int/pub/T-SP-OB.1227-2021 |publisher=ITU |date=1 September 2021 |accessdate=1 September 2021}}</ref>
+<ref name=itu_ob_1229>{{cite web |title=ITU Operational Bulletin No. 1229 |url=https://www.itu.int/pub/T-SP-OB.1229-2021 |publisher=ITU |date=1 October 2021 |accessdate=30 September 2021}}</ref>
+<ref name=itu_ob_1237>{{cite web |title=ITU Operational Bulletin No. 1237 |url=https://www.itu.int/pub/T-SP-OB.1237-2022 |publisher=ITU |date=1 February 2022 |accessdate=1 February 2022}}</ref>
+<ref name=itu_ob_1238>{{cite web |title=ITU Operational Bulletin No. 1238 |url=https://www.itu.int/pub/T-SP-OB.1238-2022 |publisher=ITU |date=15 February 2022 |accessdate=15 February 2022}}</ref>
+<ref name=itu_ob_1240>{{cite web |title=ITU Operational Bulletin No. 1240 |url=https://www.itu.int/pub/T-SP-OB.1240-2022 |publisher=ITU |date=15 March 2022 |accessdate=18 March 2022}}</ref>
+<ref name=itu_ob_1242>{{cite web |title=ITU Operational Bulletin No. 1242 |url=https://www.itu.int/pub/T-SP-OB.1242-2022 |publisher=ITU |date=15 April 2022 |access-date=14 April 2022}}</ref>
+<ref name=itu_ob_1243>{{cite web |title=ITU Operational Bulletin No. 1243 |url=https://www.itu.int/pub/T-SP-OB.1243-2022 |publisher=ITU |date=1 May 2022 |access-date=2 May 2022}}</ref>
+<ref name=itu_ob_1244>{{cite web |title=ITU Operational Bulletin No. 1244 |url=https://www.itu.int/pub/T-SP-OB.1244-2022 |publisher=ITU |date=15 May 2022 |access-date=15 May 2022}}</ref>
+<ref name=itu_ob_1246>{{cite web |title=ITU Operational Bulletin No. 1246 |url=https://www.itu.int/pub/T-SP-OB.1246-2022 |publisher=ITU |date=15 June 2022 |access-date=14 June 2022}}</ref>
+<ref name=itu_ob_1249>{{cite web |title=ITU Operational Bulletin No. 1249 |url=https://www.itu.int/pub/T-SP-OB.1249-2022 |publisher=ITU |date=1 August 2022 |access-date=29 July 2022}}</ref>
+<ref name=itu_ob_1251>{{cite web |title=ITU Operational Bulletin No. 1251 |url=https://www.itu.int/pub/T-SP-OB.1251-2022 |publisher=ITU |date=1 September 2022 |access-date=31 August 2022}}</ref>
+<ref name=itu_ob_1252>{{cite web |title=ITU Operational Bulletin No. 1252 |url=https://www.itu.int/pub/T-SP-OB.1252-2022 |publisher=ITU |date=15 September 2022 |access-date=15 September 2022}}</ref>
+<ref name=itu_ob_1253>{{cite web |title=ITU Operational Bulletin No. 1253 |url=https://www.itu.int/pub/T-SP-OB.1253-2022 |publisher=ITU |date=1 October 2022 |access-date=30 September 2022}}</ref>
+<ref name=itu_ob_1254>{{cite web |title=ITU Operational Bulletin No. 1254 |url=https://www.itu.int/pub/T-SP-OB.1254-2022 |publisher=ITU |date=15 October 2022 |access-date=14 October 2022}}</ref>
+<ref name=itu_ob_1255>{{cite web |title=ITU Operational Bulletin No. 1255 |url=https://www.itu.int/pub/T-SP-OB.1255-2022 |publisher=ITU |date=1 November 2022 |access-date=31 October 2022}}</ref>
+<ref name=itu_ob_1256>{{cite web |title=ITU Operational Bulletin No. 1256 |url=https://www.itu.int/pub/T-SP-OB.1256-2022 |publisher=ITU |date=15 November 2022 |access-date=14 November 2022}}</ref>
+
+<ref name=aalto_nextg>{{cite web |title=Aalto nextG |url=https://www.aalto.fi/en/aalto-nextg |publisher=Aalto University |date=26 May 2020 |accessdate=26 May 2020}}</ref>
+<ref name=telering_history_derstandard>{{cite web |title=Das überraschende Ende von tele-ring |url=https://www.derstandard.at/story/2000102871178/das-ueberraschende-ende-von-telering |publisher=der standard |date=10 May 2019 |accessdate=12 Jul 2020}}</ref>
+<ref name=magenta_press_release>{{cite web |title=tele.ring wird Magenta |url=https://newsroom.magenta.at/2020/02/04/tele-ring-wird-magenta/ |publisher=t-Mobile |date=4 Feb 2020 |accessdate=12 Jul 2020}}</ref>
+}}
+
+[[Category:Telecommunications lists]]
+[[Category:Europe-related lists]]
