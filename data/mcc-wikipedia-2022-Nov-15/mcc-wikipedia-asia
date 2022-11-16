@@ -1,0 +1,1416 @@
+This list contains the [[mobile country code]]s and [[mobile network code]]s for networks with country codes between 400 and 499, inclusively – a region that covers [[List of mobile network operators of the Asia Pacific region|Asia]] and the [[List of mobile network operators of the Middle East and Africa|Middle East]]. However, the Asian parts of the [[Mobile Network Codes in ITU region 2xx (Europe)#Russian Federation - RU|Russian Federation]] and [[Mobile Network Codes in ITU region 2xx (Europe)#Turkey - TR|Turkey]] are included in [[Mobile Network Codes in ITU region 2xx (Europe)]], while [[Maritime South East Asia]] and [[Mobile Network Codes in ITU region 5xx (Oceania)#Thailand - TH|Thailand]] are listed under [[Mobile Network Codes in ITU region 5xx (Oceania)]].
+
+==National operators==
+{{Compact ToC|name=Countries and territories|center=yes|d=D|e=E|f=F|g=G|r=R|w=W|x=X|z=Z}}
+
+=== A ===
+==== [[Afghanistan]] – AF ====
+{| {{MNC}}
+|-
+| 412 || 01 || [[Afghan Wireless|AWCC]] || [[Afghan Wireless|Afghan Wireless Communication Company]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 ||
+|-
+| 412 || 20 || [[Roshan (telco)|Roshan]] || Telecom Development Company Afghanistan Ltd. || Operational || GSM 900 / UMTS 2100 || <ref name=gsa_hspa>{{cite web |title=HSPA Operator Commitments |url=http://gsacom.com/wp-content/uploads/2015/10/151011-HSPA_operator_commitments.pdf |publisher=GSA |date=11 October 2015 |accessdate=13 January 2016}}{{registration required}}</ref><ref name=halberd/>
+|-
+| 412 || 40 || [[MTN Group|MTN]] || [[MTN Group]] Afghanistan || Operational || GSM 900 / GSM 1800 / UMTS 2100 || <ref name=gsa_hspa/>
+|-
+| 412 || 50 || [[Emirates Telecommunications Corporation|Etisalat]] || Etisalat Afghanistan || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || <ref name=itu_ob_1025/><ref name=gsa_hspa/>
+|-
+| 412 || 55 || WASEL || WASEL Afghanistan || Operational || CDMA 800 ||
+|-
+| 412 || 80 || Salaam || [[Afghan Telecom]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || <ref name=itu_ob_1025/><ref>{{cite web |title=Afghanistan |url=http://maps.mobileworldlive.com/network.php?cid=194&cname=Afghanistan |publisher=GSMA |accessdate=8 May 2014}}</ref>
+|-
+| 412 || 88 || Salaam || [[Afghan Telecom]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || <ref name=itu_ob_1019/>
+|}
+
+==== [[Azerbaijan]] – AZ ====
+{| {{MNC}}
+|-
+| 400 || 01 || [[Azercell]] || || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || <ref name="gsa_lte1800_101213"/>
+|-
+| 400 || 02 || Bakcell || || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 || <ref>{{cite web |url=http://www.cellular-news.com/story/Operators/67543.php |title=Bakcell Launches 4G Service |publisher=Cellular News |date=6 May 2015 |accessdate=6 May 2015}}</ref><ref name=halberd_cis/>
+|-
+| 400 || 03 || FONEX || [[CATEL]] || Operational || CDMA 450 || <ref>{{cite web |url=http://www.cdg.org/news/events/cdmaseminar/060606_CDMA450/4_DuncanClark_BDAChina.pdf |title=Market Opportunities for CDMA 450 |publisher=CDG |date=6 June 2006 |accessdate=13 May 2015}}</ref>
+|-
+| 400 || 04 || [[Nar Mobile]] || Azerfon || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || <ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2015/05/08/nar-launches-4g-lte-services-in-baku/ |title=Nar launches 4G LTE services in Baku |publisher=TeleGeography |date=8 May 2015 |accessdate=13 May 2015}}</ref>
+|-
+| 400 || 05 || || Special State Protection Service of the Republic of Azerbaijan || Unknown || TETRA? || <ref name=itu_ob_1069/>
+|-
+| 400 || 06 || Naxtel || [[Nakhtel]] LLC || Operational || CDMA 800 / LTE 800 / LTE 900 / LTE 1800 || <ref name=itu_ob_1080/>
+|}
+
+=== B ===
+==== [[Bahrain]] – BH ====
+{| {{MNC}}
+|-
+| 426 || 01 || [[Batelco]] || Bahrain Telecommunications Company || Operational || UMTS 2100 / LTE 1800 / 5G 3500 || <ref name="gsa_lte1800_101213"/><ref name=gsma_bahrain>{{cite web |title=Bahrain |url=http://maps.mobileworldlive.com/network.php?cid=177&cname=Bahrain |publisher=GSMA |accessdate=25 April 2014}}</ref> GSM shut down Dec 2019<ref>{{cite web |url=https://www.commsupdate.com/articles/2019/10/18/batelco-to-shut-down-2g-network/ |title=Batelco to shut down 2G network |publisher=TeleGeography |date=2019-10-18 |access-date=2020-12-22}}</ref>
+|-
+| 426 || 02 || [[Zain Group|zain BH]] || Zain Bahrain || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 3500 || <ref name="gsa_lte1800_101213"/><ref name=gsma_bahrain/>
+|-
+| 426 || 03 || || Civil Aviation Authority || Unknown || Unknown || <ref name=itu_ob_1019/>
+|-
+| 426 || 04 || stc || [[Stc Bahrain]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500 || Former VIVA<ref name="gsa_lte1800_101213"/><ref name=gsma_bahrain/>
+|-
+| 426 || 05 || [[Batelco]] || Bahrain Telecommunications Company || Operational || GSM 900 / GSM 1800 || Royal Court use only
+|-
+| 426 || 06 || stc || [[Stc Bahrain]] || Unknown || Unknown || <ref name=itu_ob_1256/>
+|-
+| 426 || 07 || || TAIF || Unknown || Unknown || <ref name=itu_ob_1256/>
+|}
+
+==== [[Bangladesh]] – BD ====
+{| {{MNC}}
+|-
+| 470 || 01 || [[Grameenphone]] || Grameenphone Ltd. || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 ||
+|-
+| 470 || 02 || [[Robi (company)|Robi]] || Axiata Bangladesh Ltd. || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 || Formerly Aktel
+|-
+| 470 || 03 || [[Banglalink]] || Banglalink Digital Communications Ltd. || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2300 || [[VEON]]
+|-
+| 470 || 04 || [[TeleTalk]] || Teletalk Bangladesh Limited || Operational || GSM 900 / UMTS 2100 / LTE 1800 ||
+|-
+| 470 || 05 || [[Citycell]] || Pacific Bangladesh Telecom Limited || Not Operational || CDMA 800 || Shutdown by Bangladesh Telecommunication Regulatory Commission in 2016
+|-
+| 470 || 07 || [[Airtel Bangla|Airtel]] || Bharti Airtel Bangladesh Ltd. || Operational || GSM 900 / GSM 1800 / UMTS 2100 || Formerly Warid Telcom, later Airtel. Currently merged with Robi keeping brand name Airtel
+|-
+| 470 || 09 || [https://web.archive.org/web/20190114140846/http://ollo.com.bd/ ollo] || Bangladesh Internet Exchange Limited (BIEL) || Not operational || LTE 800 / LTE 2600 / WiMAX 3500 || <ref name=mwlive/> shut down 2019<ref>{{cite web |url=https://www.thedailystar.net/business/telecom/news/wimax-its-last-legs-1754857 |title=WiMax on its last legs |author=Muhammad Zahidul Islam |publisher=The Daily Star |date=2019-06-10 |accessdate=2021-03-15}}</ref>
+|-
+| 470 || 10 || [[Banglalion]] || Banglalion Communications Ltd. || Operational || TD-LTE 2600 / WiMAX 3500 ||
+|}
+
+==== [[Bhutan]] – BT ====
+{| {{MNC}}
+|-
+| 402 || 11 || B-Mobile || [[Bhutan Telecom]] Limited || Operational || GSM 900 / UMTS 850 / UMTS 2100 / LTE 1800 || <ref name="gsa_lte1800_101213"/><ref>{{cite web |title=Bhutan |url=http://maps.mobileworldlive.com/network.php?cid=136&cname=Bhutan |publisher=GSMA |accessdate=29 April 2014}}</ref><ref name=itu_ob_1231/>
+|-
+| 402 || 17 || B-Mobile || [[Bhutan Telecom]] Limited || Unknown || Unknown || <ref name=itu_ob_1231/>
+|-
+| 402 || 77 || TashiCell || Tashi InfoComm Limited || Operational || GSM 900 / GSM 1800 / UMTS 850 / LTE 700 || LTE band 28<ref name=gsa_hspa/><ref name=halberd/><ref name=itu_ob_1231/>
+|}
+
+=== C ===
+==== [[Cambodia]] – KH ====
+{| {{MNC}}
+|-
+| 456 || 01 || Cellcard || [[CamGSM]] / [[The Royal Group]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || Former Mobitel
+|-
+| 456 || 02 || [http://www.smart.com.kh Smart] || Smart Axiata Co. Ltd || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 || <ref name="gsa_lte1800_101213"/>
+|-
+| 456 || 03 || qb || Cambodia Advance Communications Co. Ltd || Not Operational || GSM 1800 / UMTS 2100 || aka CADCOMMS
+|-
+| 456 || 04 || qb || Cambodia Advance Communications Co. Ltd || Not Operational || GSM 1800 / UMTS 2100 || aka CADCOMMS
+|-
+| 456 || 05 || [http://www.smart.com.kh Smart]|| Smart Axiata Co. Ltd || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 ||
+|-
+| 456 || 06 || [http://www.smart.com.kh Smart]|| Smart Axiata Co. Ltd || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 ||
+|-
+| 456 || 08 || Metfone || [[Viettel]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 ||
+|-
+| 456 || 09 || Metfone || [[Viettel]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || Former [[Beeline (telecommunications)|Beeline]]<ref>{{cite web |title=VIETTEL (CAMBODIA) PTE. LTD. ("METFONE") AND SOTELCO LTD. ("BEELINE CAMBODIA") AGRREMENT TO LICENCES & ASSETS TRANSFER TRANSACTION |url=http://www.metfone.com.kh/en/News/News/VIETTEL-%28CAMBODIA%29-PTE-LTD-%28-METFONE-%29-AND-SOTELCO-LTD-%28-BEELINE-CAMBODIA-%29-AGRREMENT-TO-LICENCES-ASSETS-TRANSFER-TRANSACTION-e2-80-8b.248.aspx |publisher=Metfone |accessdate=27 April 2016}}</ref>
+|-
+| 456 || 11 || SEATEL || SEATEL Cambodia || Operational || LTE 850 / LTE 2600 || Former Excell CDMA shut down 27 June 2015<ref>{{cite web |title=SEATEL to shut down Excell network on 27 June |url=https://www.telegeography.com/products/commsupdate/articles/2015/06/25/seatel-to-shut-down-excell-network-on-27-june/ |publisher=TeleGeography |date=25 June 2015 |accessdate=26 April 2016}}</ref><ref>{{cite web |url=https://www.commsupdate.com/articles/2016/12/23/4g-operator-seatel-wins-2600mhz-licence-in-cambodian-re-auction/ |title=4G operator SEATEL wins 2600MHz licence in Cambodian re-auction |publisher=TeleGeography |date=2016-12-23 |accessdate=2020-05-25}}</ref>
+|-
+| 456 || 18 || Cellcard || [[The Royal Group]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || Former Mfone<ref>{{cite web|author=May Kunmakara and Anne Renzenbrink |url=http://www.phnompenhpost.com/business/mfone-end-%E2%80%98difficult-time%E2%80%99 |title=Mfone to end 'difficult time', Business, Phnom Penh Post |publisher=Phnompenhpost.com |date=2013-01-14 |accessdate=2018-06-12}}</ref>
+|}
+
+==== [[China]] – CN ====
+{| {{MNC}}
+|-
+| 460 || 00 || [[China Mobile]] || [[China Mobile]] || Operational || GSM 900 / GSM 1800 / TD-SCDMA 1900 / TD-SCDMA 2000 / TD-LTE 1900 / TD-LTE 2300 / TD-LTE 2500 / 5G 700 / 5G 2500 ||
+|-
+| 460 || 01 || [[China Unicom]] || [[China Unicom]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500 / 5G 2100 / 5G 3500 || CDMA network sold to [[China Telecom]]<ref name=gsa_hspa/>
+|-
+| 460 || 02 || [[China Mobile]] || [[China Mobile]] || Not operational || GSM 900 / GSM 1800 / TD-SCDMA 1900 / TD-SCDMA 2000 / TD-LTE 1900 / TD-LTE 2300 / TD-LTE 2500 ||
+|-
+| 460 || 03 || [[China Telecom]] || [[China Telecom]] || Operational || CDMA2000 800 || EV-DO
+|-
+| 460 || 04 || [[China Mobile]]  || Global Star Satellite || Unknown || Unknown || <ref name=itu_ob_1019/>
+|-
+| 460 || 05 || [[China Telecom]] || [[China Telecom]] || Not operational ||  CDMA2000 800 / LTE 850 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500 ||
+|-
+| 460 || 06 || [[China Unicom]]  ||[[China Unicom]] || Not operational || GSM 900 / GSM 1800 / UMTS 2100 ||
+|-
+| 460 || 07 || [[China Mobile]] || [[China Mobile]] || Not operational || GSM 900 / GSM 1800 / TD-SCDMA 1900 / TD-SCDMA 2000 / TD-LTE 1900 / TD-LTE 2300 / TD-LTE 2500 ||
+|-
+| 460 || 08 || [[China Mobile]] || [[China Mobile]] || Unknown || Unknown ||
+|-
+| 460 || 09 || [[China Unicom]] || [[China Unicom]] || Operational || Unknown ||
+|-
+| 460 || 11 || [[China Telecom]] || [[China Telecom]] || Operational || LTE 850 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500 / 5G 3500 ||
+|-
+| 460 || 15 || [http://www.10099.com.cn/ China Broadnet] || China Broadnet || Operational || LTE 1800 / LTE 900 / TD-LTE 1900 / TD-LTE 2300 / 5G 700 / 5G 2500 || 4th carrier of China. Shared frequencies with [[China Mobile]]<ref name=china_broadnet_1/><ref name=china_broadnet_2/><ref name=china_broadnet_3/>
+|-
+| 460 || 20 ||[[China Tietong]] ||[[China Tietong]] || Operational || GSM-R ||
+|}
+
+=== H ===
+==== [[Hong Kong]] – HK ====
+{| {{MNC}}
+|-
+| 454 || 00 || 1O1O / One2Free / New World Mobility / SUNMobile || [[Hong Kong CSL Limited|CSL Limited]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600 ||
+|-
+| 454 || 01 ||  || [[CITIC 1616 Holdings|CITIC Telecom 1616]] || Operational || MVNO || [[Mobile virtual network operator|MVNO]] on CSL network; network code operational only at land borders and [[Hong Kong International Airport|Airport]] to attract inbound roamers to join 454-00
+|-
+| 454 || 02 ||  || [[Hong Kong CSL Limited|CSL Limited]]  || Operational || GSM 900 / GSM 1800 || Network code operational only at land borders and [[Hong Kong International Airport|Airport]] to attract inbound roamers to join 454-00
+|-
+| 454 || 03 || [[Hutchison 3G|3]] || [[Hutchison Telecom]] || Operational || UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / LTE 2600 / 5G 3500 || <ref name=gsa_lte/><ref name=halberd/>
+|-
+| 454 || 04 || [[Hutchison 3G|3]] (2G) || [[Hutchison Telecom]] || Operational || GSM 900 / GSM 1800 ||
+|-
+| 454 || 05 || [[Hutchison 3G|3]] (CDMA) || [[Hutchison Telecom]] || Not operational || CDMA 800 || Defunct CDMA IS-95 network, decommissioned on 19 November 2008 at 23:59
+|-
+| 454 || 06 || [[SmarTone]] || SmarTone Mobile Communications Limited || Operational || GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 || <ref name=gsa_lte/><ref name=halberd/>
+|-
+| 454 || 07 || China Unicom || [[China Unicom|China Unicom (Hong Kong) Limited]] || Operational || MVNO || [[Mobile virtual network operator|MVNO]] on 3 Hong Kong Mobile network code operational only at land borders and [[Hong Kong International Airport|Airport]] to attract inbound roamers to join 454-16 or 454-19
+|-
+| 454 || 08 || [[Truphone]] || Truphone Limited || Operational || MVNO || Former Trident
+|-
+| 454 || 09 || || China Motion Telecom || Not operational || MVNO || [[Mobile virtual network operator|MVNO]] on CSL network; MNC withdrawn<ref name=itu_ob_1218/>
+|-
+| 454 || 10 || New World Mobility || CSL Limited || Not operational || GSM 1800 || Signal Combined with 454-00
+|-
+| 454 || 11 ||  || China-Hong Kong Telecom || Operational || MVNO || [[Mobile virtual network operator|MVNO]] on PCCW Mobile and Hutchison Telecom networks
+|-
+| 454 || 12 || CMCC HK || [[China Mobile Hong Kong Company Limited]] || Operational || GSM 1800 / UMTS 2100 / TD-SCDMA 2000 / LTE 900 /LTE 1800 / LTE 2100 / TD-LTE 2300 / LTE 2600 / 5G 3500 || Formerly Peoples<ref name=gsa_lte/><ref name=halberd/><ref name=itu_ob_1218/>
+|-
+| 454 || 13 || CMCC HK || [[China Mobile Hong Kong Company Limited]] || Operational || MVNO || MVNO on PCCW Mobile (3G)<ref name=itu_ob_1218/>
+|-
+| 454 || 14 ||  || [[Hutchison Telecom]] || Operational || GSM 900 / GSM 1800 || Network code operational only at land borders and [[Hong Kong International Airport|Airport]] to attract inbound roamers to join 454-03 or 454-04
+|-
+| 454 || 15 ||  || SmarTone Mobile Communications Limited ||  Operational || GSM 1800 || Network code operational only at land borders and [[Hong Kong International Airport|Airport]] to attract inbound roamers to join 454-06
+|-
+| 454 || 16 || [[PCCW Mobile]] (2G) || [[PCCW]] || Operational || GSM 1800 || Formerly [[Sunday Communications|SUNDAY]]
+|-
+| 454 || 17 ||  || SmarTone Mobile Communications Limited ||  Operational || GSM 1800 || Network code operational only at land borders and [[Hong Kong International Airport|Airport]] to attract inbound roamers to join 454-06
+|-
+| 454 || 18 ||  || [[Hong Kong CSL Limited|CSL Limited]]  ||  Not operational || GSM 900 / GSM 1800 ||
+|-
+| 454 || 19 || [[PCCW Mobile]] (3G) || [[PCCW-HKT Telephone|PCCW-HKT]] || Operational || UMTS 2100 ||
+|-
+| 454 || 20 || [[PCCW Mobile]] (4G) || [[PCCW-HKT Telephone|PCCW-HKT]] || Operational || LTE 1800 / LTE 2600 / 5G 3500 || <ref name=itu_ob_1077/>
+|-
+| 454 || 21 || || 21Vianet Mobile Ltd. || Not operational || MVNO || Closed on 1 February 2019 <ref name=itu_ob_1077/><ref>{{cite web |title=Notice of Service Cessation |url=https://www.ofca.gov.hk/filemanager/ofca/en/content_1136/Notice_of_Service_Cessation.pdf |publisher=OFCA |date=17 January 2019 |accessdate=12 July 2019}}</ref><ref name=itu_ob_1218/>
+|-
+| 454 || 22 || || 263 Mobile Communications (HongKong) Limited || Operational || MVNO || Formerly [[P Plus Communications]], Delcom (HK) Ltd<ref name=itu_ob_1077/><ref name=itu_ob_1118/>
+|-
+| 454 || 23 || Lycamobile || [[Lycamobile]] Hong Kong Ltd || Not operational || MVNO || <ref name=itu_ob_1077/> Closed on 27 April 2018;<ref>{{cite web |title=Notice of Service Cessation |url=http://www.lycamobile.hk/sysimages/mediamanager/LM%20HK%20Ltd%20-%20Notice%20of%20cessastion%20-%20signed%20LM%20-%20Website.pdf |date=18 April 2019 |accessdate=12 July 2019}}</ref> MNC withdrawn<ref name=itu_ob_1218/>
+|-
+| 454 || 24 || || Multibyte Info Technology Ltd || Operational || MVNO || <ref name=itu_ob_1118/>
+|-
+| 454 || 25 || || Hong Kong Government || Unknown || Unknown || <ref name=itu_ob_1118/>
+|-
+| 454 || 26 || || Hong Kong Government || Unknown || Unknown || <ref name=itu_ob_1118/>
+|-
+| 454 || 29 || [[PCCW Mobile]] (CDMA) || [[PCCW-HKT Telephone|PCCW-HKT]] || Operational || CDMA 800 || CDMA2000 1xEV-DO Rev A network for inbound roamers, with limited coverage
+|-
+| 454 || 30 || CMCC HK || [[China Mobile Hong Kong Company Limited]] || Unknown || Unknown || Former China Data Enterprises Ltd<ref name=itu_ob_1118/><ref name=itu_ob_1218/>
+|-
+| 454 || 31 || CTExcel || China Telecom Global Limited || Operational || MVNO || <ref name=itu_ob_1118/>
+|-
+| 454 || 32 || || Hong Kong Broadband Network Ltd || Operational || MVNO || <ref name=itu_ob_1118/>
+|-
+| 454 || 35 || || Webbing Hong Kong Ltd || Operational || MVNO || <ref name=itu_ob_1202/>
+|-
+| 454 || 36 || || Easco Telecommunications Limited || Unknown || Unknown || <ref name=itu_ob_1218/>
+|}
+
+=== I ===
+==== [[India]] – IN ====
+{| {{MNC}}
+|-
+| 404 || 01 || [[Vi (mobile network)|Vi India]] || Haryana || Operational || GSM 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]] 
+|-
+| 404 || 02 || AirTel || Punjab || Operational || GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 404 || 03 || AirTel || Himachal Pradesh || Operational || GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 404 || 04 || [[Vi (mobile network)|Vi India]] || Delhi & NCR || Not Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]]
+|-
+| 404 || 05 || [[Vi (mobile network)|Vi India]] || Gujarat || Operational || GSM 900 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former Hutch, Fascel, Vodafone India
+|-
+| 404 || 07 || [[Vi (mobile network)|Vi India]] || Andhra Pradesh and Telangana || Operational || GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]]
+|-
+| 404 || 09 || [[Reliance Communications|Reliance]] || Assam || Operational || LTE || Data-only as of 2020
+|-
+| 404 || 10 || AirTel || Delhi & NCR || Operational || GSM 900 / GSM 1800 / LTE 850 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 404 || 11 || [[Vi (mobile network)|Vi India]] || Delhi & NCR || Operational || GSM 900 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]] 
+|-
+| 404 || 12 || [[Vi (mobile network)|Vi India]] || Haryana || Not Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former Escotel, [[Idea Cellular|IDEA]] 
+|-
+| 404 || 13 || [[Vi (mobile network)|Vi India]] || Andhra Pradesh and Telangana || Not Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]] 
+|-
+| 404 || 14 || [[Vi (mobile network)|Vi India]] || Punjab || Operational || GSM 900 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former Spice, [[Idea Cellular|IDEA]] 
+|-
+| 404 || 15 || [[Vi (mobile network)|Vi India]] || Uttar Pradesh (East) || Operational || GSM 900 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]] 
+|-
+| 404 || 16 || Airtel || North East || Operational || GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 || Former Hexacom<ref name=spectrum_in/>
+|-
+| 404 || 17 || AIRCEL || West Bengal || Not operational || GSM 900 / GSM 1800 || Bankrupt in 2018
+|-
+| 404 || 18 || [[Reliance Communications|Reliance]] || Himachal Pradesh || Operational || LTE || Data-only as of 2020
+|-
+| 404 || 19 || [[Vi (mobile network)|Vi India]] || Kerala || Not Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE-2300 / TD-LTE 2500 || <ref name=spectrum_in/> Former Escotel, [[Idea Cellular|IDEA]] 
+|-
+| 404 || 20 || [[Vi (mobile network)|Vi India]] || Mumbai || Operational || GSM 900 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former Hutchison Maxtouch, Orange, Hutch, [[Vodafone India]]
+|-
+| 404 || 21 || Loop Mobile || Mumbai || Not operational || GSM 900 || Former BPL Mobile; licence expired 2014
+|-
+| 404 || 22 || [[Vi (mobile network)|Vi India]] || Maharashtra & Goa || Operational || GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 404 || 23 || [[Reliance Communications|Reliance]] || West Bengal ||   Not Operational || LTE || Reliance Telecom
+|-
+| 404 || 24 || [[Vi (mobile network)|Vi India]] || Gujarat ||  Not Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 404 || 25 || AIRCEL || Bihar || Not operational || GSM 900 / GSM 1800 || Bankrupt in 2018
+|-
+| 404 || 27 || [[Vi (mobile network)|Vi India]] || Maharashtra & Goa || Not Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]] 
+|-
+| 404 || 28 || AIRCEL || Odisha || Not operational || GSM 900 || Bankrupt in 2018
+|-
+| 404 || 29 || AIRCEL || Assam || Not operational || GSM 900 || Bankrupt in 2018
+|-
+| 404 || 30 || [[Vi (mobile network)|Vi India]] || Kolkata || Operational || GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]], Command, Hutch 
+|-
+| 404 || 31 || AirTel || Kolkata || Operational || GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 404 || 34 || [[BSNL Mobile]] || Haryana || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 35 || Aircel || Himachal Pradesh || Not operational || GSM 900 / GSM 1800|| <ref name=itu_ob_1111/><ref name=gsma_india>{{cite web |title=India |url=http://maps.mobileworldlive.com/network_info.php?nid=1436&org_id=4013&cid=172#ninfo |publisher=GSMA |accessdate=15 June 2018}}</ref> Bankrupt in 2018
+|-
+| 404 || 36 || [[Reliance Communications|Reliance]] || Bihar & Jharkhand ||  Operational || LTE || Data-only as of 2020
+|-
+| 404 || 37 || Aircel || Jammu & Kashmir || Not operational || GSM 900 / UMTS 2100 || Bankrupt in 2018
+|-
+| 404 || 38 || [[BSNL Mobile]] || Assam || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 40 || AirTel || Chennai || Operational || GSM 1800 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/> 
+|-
+| 404 || 41 || Aircel || Chennai || Not operational || GSM 900 || Former RPG; bankrupt in 2018
+|-
+| 404 || 42 || Aircel || Tamil Nadu || Not operational || GSM 900 || Bankrupt in 2018
+|-
+| 404 || 43 || [[Vi (mobile network)|Vi India]] || Tamil Nadu || Operational || GSM 900 / UMTS 2100 / LTE 1800 / LTE 2100 || <ref name=spectrum_in/> Former [[Vodafone India]]
+|-
+| 404 || 44 || [[Vi (mobile network)|Vi India]] || Karnataka || Not Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 || <ref name=spectrum_in/> Former Spice, [[Idea Cellular|IDEA]] 
+|-
+| 404 || 45 || Airtel || Karnataka || Operational || GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 404 || 46 || [[Vi (mobile network)|Vi India]] || Kerala || Operational || GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE-2300 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]] 
+|-
+| 404 || 48 || Dishnet Wireless || Unknown || Not operational || GSM 900 ||
+|-
+| 404 || 49 || Airtel || Andhra Pradesh and Telangana || Operational || GSM 900 / GSM 1800 / LTE 850 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 404 || 50 || [[Reliance Communications|Reliance]] || North East ||  Operational || LTE || Data-only as of 2020
+|-
+| 404 || 51 || [[BSNL Mobile]] || Himachal Pradesh || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 52 || [[Reliance Communications|Reliance]] || Odisha || Operational || LTE || Data-only as of 2020
+|-
+| 404 || 53 || [[BSNL Mobile]] || Punjab || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 54 || [[BSNL Mobile]] || Uttar Pradesh (West) || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 55 || [[BSNL Mobile]] || Uttar Pradesh (East) || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 56 || [[Vi (mobile network)|Vi India]] || Uttar Pradesh (West) ||  Operational || GSM 900 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]]
+|-
+| 404 || 57 || [[BSNL Mobile]] || Gujarat || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 58 || [[BSNL Mobile]] || Madhya Pradesh & Chhattisgarh || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 59 || [[BSNL Mobile]] || Rajasthan || Operational || CDMA 850 / GSM 900 / UMTS 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 60 || [[Vi (mobile network)|Vi India]] || Rajasthan || Operational || GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]] 
+|-
+| 404 || 62 || [[BSNL Mobile]] || Jammu & Kashmir || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 64 || [[BSNL Mobile]] || Chennai || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 66 || [[BSNL Mobile]] || Maharashtra & Goa || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 67 || [[Reliance Communications|Reliance]] || Madhya Pradesh & Chhattisgarh|| Operational || LTE || Data-only as of 2020
+|-
+| 404 || 68 || [[Mahanagar Telephone Nigam Limited|MTNL]] || Delhi & NCR || Operational || GSM 900 / UMTS 2100 / LTE 1800 || <ref name=spectrum_in/> To be merged with BSNL
+|-
+| 404 || 69 || [[Mahanagar Telephone Nigam Limited|MTNL]] || Mumbai || Operational || GSM 900 / UMTS 2100 || <ref name=spectrum_in/> To be merged with BSNL
+|-
+| 404 || 70 || AirTel || Rajasthan || Operational || GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 404 || 71 || [[BSNL Mobile]] || Karnataka (Bangalore) || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 72 || [[BSNL Mobile]] || Kerala || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 73 || [[BSNL Mobile]] || Andhra Pradesh and Telangana || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 74 || [[BSNL Mobile]] || West Bengal || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 75 || [[BSNL Mobile]] || Bihar || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 76 || [[BSNL Mobile]] || Odisha || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 77 || [[BSNL Mobile]] || North East || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 78 || [[Vi (mobile network)|Vi India]] || Madhya Pradesh & Chattishgarh || Operational || GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 404 || 79 || [[BSNL Mobile]] || Andaman Nicobar || Operational || GSM 900 / UMTS 2100 || Former CellOne
+|-
+| 404 || 80 || [[BSNL Mobile]] || Tamil Nadu || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 81 || [[BSNL Mobile]] || Kolkata || Operational || GSM 900 / UMTS 2100 / LTE 2100 || <ref name=spectrum_in/> Former CellOne
+|-
+| 404 || 82 || [[Vi (mobile network)|Vi India]] || Himachal Pradesh || Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]]
+|-
+| 404 || 83 || [[Reliance Communications|Reliance]] || Kolkata || Operational || LTE || Data-only as of 2020
+|-
+| 404 || 84 || [[Vi (mobile network)|Vi India]] || Chennai || Not Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 || <ref name=spectrum_in/> Former [[Vodafone India]]
+|-
+| 404 || 85 || [[Reliance Communications|Reliance]] || West Bengal || Operational || LTE || Data-only as of 2020
+|-
+| 404 || 86 || [[Vi (mobile network)|Vi India]] || Karnataka || Operational || GSM 900 / LTE 900 / LTE 1800 / LTE 2100 || <ref name=spectrum_in/> Former [[Vodafone India]]
+|-
+| 404 || 87 || [[Vi (mobile network)|Vi India]] || Rajasthan || Not Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 404 || 88 || [[Vi (mobile network)|Vi India]] || Punjab || Not Operational || GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]]
+|-
+| 404 || 89 || [[Vi (mobile network)|Vi India]] || Uttar Pradesh (East) || Not Operational || GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]]
+|-
+| 404 || 90 || AirTel || Maharashtra || Operational || GSM 1800 / LTE 850 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 404 || 91 || AIRCEL || Kolkata || Not operational || GSM 900 || Bankrupt in 2018
+|-
+| 404 || 92 || AirTel || Mumbai || Operational || GSM 900 / GSM 1800 / LTE 850 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 404 || 93 || AirTel || Madhya Pradesh || Operational || GSM 1800 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 404 || 94 || AirTel || Tamil Nadu || Operational || GSM 1800 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 404 || 95 || AirTel || Kerala || Operational || GSM 1800 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 404 || 96 || AirTel || Haryana || Operational || GSM 1800 / LTE 850 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 404 || 97 || AirTel || Uttar Pradesh (West) || Operational || GSM 1800 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 404 || 98 || AirTel || Gujarat || Operational || GSM 1800 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| {{TOC tab|405|India - IN - 405}}
+| 01 || [[Reliance Communications|Reliance]] || Andhra Pradesh and Telangana || Not operational || GSM 1800 ||
+|-
+| 405 || 025 || [[Tata DoCoMo|TATA DOCOMO]] || Andhra Pradesh and Telangana || Not operational || CDMA 850 / GSM 1800 / UMTS 2100 || Merged with Airtel in 2019
+|-
+| 405 || 026 || [[Tata DoCoMo|TATA DOCOMO]] || Assam || Not operational || CDMA 850 || Merged with Airtel in 2019
+|-
+| 405 || 027 || [[Tata DoCoMo|TATA DOCOMO]] || Bihar/Jharkhand || Not operational  || CDMA 850 / GSM 1800 || Merged with Airtel in 2019
+|-
+| 405 || 028 || [[Tata DoCoMo|TATA DOCOMO]] || Chennai || Not operational  || CDMA 850 / GSM 1800 || Merged with Airtel in 2019
+|-
+| 405 || 029 || [[Tata DoCoMo|TATA DOCOMO]] || Delhi || Not operational || CDMA 850 || Merged with Airtel in 2019
+|-
+| 405 || 03 || [[Reliance Communications|Reliance]] || Bihar ||  Operational || LTE || Data-only as of 2020
+|-
+| 405 || 030 || [[Tata DoCoMo|TATA DOCOMO]] || Gujarat || Not operational || CDMA 850 / GSM 1800 / UMTS 2100 || Merged with Airtel in 2019
+|-
+| 405 || 031 || [[Tata DoCoMo|TATA DOCOMO]] || Haryana || Not operational || CDMA 850 / GSM 1800 / UMTS 2100 || Merged with Airtel in 2019
+|-
+| 405 || 032 || [[Tata DoCoMo|TATA DOCOMO]] || Himachal Pradesh || Not operational || CDMA 850 / GSM 1800 / UMTS 2100 || Merged with Airtel in 2019
+|-
+| 405 || 033 || [[Tata DoCoMo|TATA DOCOMO]] || Jammu & Kashmir || Not operational || CDMA 850 || Merged with Airtel in 2019
+|-
+| 405 || 034 || [[Tata DoCoMo|TATA DOCOMO]] || Karnataka || Not operational || CDMA 850 / GSM 1800 / UMTS 2100 || Merged with Airtel in 2019
+|-
+| 405 || 035 || [[Tata DoCoMo|TATA DOCOMO]] || Kerala || Not operational || CDMA 850 / GSM 1800 / UMTS 2100 || Merged with Airtel in 2019
+|-
+| 405 || 036 || [[Tata DoCoMo|TATA DOCOMO]] || Kolkata || Not operational || CDMA 850 / GSM 1800 || Merged with Airtel in 2019
+|-
+| 405 || 037 || [[Tata DoCoMo|TATA DOCOMO]] || Maharashtra & Goa || Not operational || CDMA 850 / GSM 1800 / UMTS 2100 || Merged with Airtel in 2019
+|-
+| 405 || 038 || [[Tata DoCoMo|TATA DOCOMO]] || Madhya Pradesh || Not operational || CDMA 850 / GSM 1800 / UMTS 2100 || Merged with Airtel in 2019
+|-
+| 405 || 039 || [[Tata DoCoMo|TATA DOCOMO]] || Mumbai || Not operational || CDMA 850 / GSM 1800 || Merged with Airtel in 2019
+|-
+| 405 || 04 || [[Reliance Communications|Reliance]] || Chennai ||  Operational || LTE || Data-only as of 2020
+|-
+| 405 || 041 || [[Tata DoCoMo|TATA DOCOMO]] || Odisha || Not operational || CDMA 850 / GSM 1800 || Merged with Airtel in 2019
+|-
+| 405 || 042 || [[Tata DoCoMo|TATA DOCOMO]] || Punjab || Not operational || CDMA 850 / GSM 1800 / UMTS 2100 || Merged with Airtel in 2019
+|-
+| 405 || 043 || [[Tata DoCoMo|TATA DOCOMO]] || Rajasthan || Not operational || CDMA 850 / GSM 1800 / UMTS 2100 || Merged with Airtel in 2019
+|-
+| 405 || 044 || [[Tata DoCoMo|TATA DOCOMO]] || Tamil Nadu including Chennai  || Not operational || CDMA 850 / GSM 1800 || Merged with Airtel in 2019
+|-
+| 405 || 045 || [[Tata DoCoMo|TATA DOCOMO]] || Uttar Pradesh (East) || Not operational || CDMA 850 / GSM 1800 || Merged with Airtel in 2019
+|-
+| 405 || 046 || [[Tata DoCoMo|TATA DOCOMO]] || Uttar Pradesh (West) & Uttarakhand || Not operational || CDMA 850 / GSM 1800 / UMTS 2100 || Merged with Airtel in 2019
+|-
+| 405 || 047 || [[Tata DoCoMo|TATA DOCOMO]] || West Bengal || Not operational || CDMA 850 / GSM 1800 || Merged with Airtel in 2019
+|-
+| 405 || 05 || [[Reliance Communications|Reliance]] || Delhi & NCR ||  Operational || LTE || Data-only as of 2020
+|-
+| 405 || 06 || [[Reliance Communications|Reliance]] || Gujarat || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 07 || [[Reliance Communications|Reliance]] || Haryana || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 08 || [[Reliance Communications|Reliance]] || Himachal Pradesh || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 09 || [[Reliance Communications|Reliance]] || Jammu & Kashmir || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 10 || [[Reliance Communications|Reliance]] ||  Karnataka || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 11 || [[Reliance Communications|Reliance]] ||  Kerala || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 12 || [[Reliance Communications|Reliance]] ||  Kolkata || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 13 || [[Reliance Communications|Reliance]] || Maharashtra & Goa || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 14 || [[Reliance Communications|Reliance]] || Madhya Pradesh || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 15 || [[Reliance Communications|Reliance]] || Mumbai || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 17 || [[Reliance Communications|Reliance]] || Odisha || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 18 || [[Reliance Communications|Reliance]] || Punjab || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 19 || [[Reliance Communications|Reliance]] || Rajasthan || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 20 || [[Reliance Communications|Reliance]] || Tamil Nadu || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 21 || [[Reliance Communications|Reliance]] || Uttar Pradesh (East) || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 22 || [[Reliance Communications|Reliance]] || Uttar Pradesh (West) || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 23 || [[Reliance Communications|Reliance]] || West Bengal || Operational || LTE || Data-only as of 2020
+|-
+| 405 || 51 || AirTel || West Bengal || Operational || GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 405 || 52 || AirTel || Bihar & Jharkhand || Operational || GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 405 || 53 || AirTel || Odisha || Operational || GSM 900 / GSM 1800 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 405 || 54 || AirTel || Uttar Pradesh (East) || Operational || GSM 900 / GSM 1800 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 405 || 55 || Airtel || Jammu & Kashmir || Operational || GSM 900 / GSM 1800 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 405 || 56 || AirTel || Assam || Operational || GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 405 || 66 || [[Vi (mobile network)|Vi India]] || Uttar Pradesh (West) || Not Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]] 
+|-
+| 405 || 67 || [[Vi (mobile network)|Vi India]] || West Bengal || Operational || GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]] 
+|-
+| 405 || 70 || [[Vi (mobile network)|Vi India]] || Bihar & Jharkhand || Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 405 || 750 || [[Vi (mobile network)|Vi India]] || Jammu & Kashmir || Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]] 
+|-
+| 405 || 751 || [[Vi (mobile network)|Vi India]] || Assam || Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]]
+|-
+| 405 || 752 || [[Vi (mobile network)|Vi India]] || Bihar & Jharkhand || Not Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]]
+|-
+| 405 || 753 || [[Vi (mobile network)|Vi India]] || Odisha || Operational || GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]]
+|-
+| 405 || 754 || [[Vi (mobile network)|Vi India]] || Himachal Pradesh || Not Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]]
+|-
+| 405 || 755 || [[Vi (mobile network)|Vi India]] || North East || Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]]
+|-
+| 405 || 756 || [[Vi (mobile network)|Vi India]] || Madhya Pradesh & Chhattisgarh || Not Operational || GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Vodafone India]]
+|-
+| 405 || 799 || [[Vi (mobile network)|Vi India]] || Mumbai || Not Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 405 || 800 || AIRCEL || Delhi & NCR || Not operational || GSM 1800 || Bankrupt in 2018
+|-
+| 405 || 801 || AIRCEL || Andhra Pradesh and Telangana || Not operational || GSM 1800 || Bankrupt in 2018
+|-
+| 405 || 802 || AIRCEL || Gujarat || Not operational || GSM 1800 || Bankrupt in 2018
+|-
+| 405 || 803 || AIRCEL || Karnataka || Not operational || GSM 1800 || Bankrupt in 2018
+|-
+| 405 || 804 || AIRCEL || Maharashtra & Goa || Not operational || GSM 1800 || Bankrupt in 2018
+|-
+| 405 || 805 || AIRCEL || Mumbai || Not operational || GSM 1800 || Bankrupt in 2018
+|-
+| 405 || 806 || AIRCEL || Rajasthan || Not operational || GSM 1800 || Bankrupt in 2018
+|-
+| 405 || 807 || AIRCEL || Haryana || Not operational || GSM 1800 || Bankrupt in 2018
+|-
+| 405 || 808 || AIRCEL || Madhya Pradesh || Not operational || GSM 1800 || Bankrupt in 2018
+|-
+| 405 || 809 || AIRCEL || Kerala || Not operational || GSM 1800 || Bankrupt in 2018
+|-
+| 405 || 810 || AIRCEL || Uttar Pradesh (East) || Not operational || GSM 1800 || Bankrupt in 2018
+|-
+| 405 || 811 || AIRCEL || Uttar Pradesh (West) || Not operational || GSM || Bankrupt in 2018
+|-
+| 405 || 812 || AIRCEL || Punjab || Not operational || GSM || License cancelled by Supreme Court
+|-
+| 405 || 819 || [[Telenor India|Uninor]] || Andhra Pradesh and Telangana || Not operational || GSM 1800 || Merged with Airtel in 2018
+|-
+| 405 || 818 || [[Telenor India|Uninor]] || Uttar Pradesh (West) || Not operational || GSM 1800 || Merged with Airtel in 2018
+|-
+| 405 || 820 || [[Telenor India|Uninor]] || Karnataka || Not operational || GSM 1800 || Merged with Airtel in 2018
+|-
+| 405 || 821 || [[Telenor India|Uninor]] || Kerala || Not operational || GSM 1800 || Merged with Airtel in 2018
+|-
+| 405 || 822 || [[Telenor India|Uninor]] || Kolkata || Not operational || GSM 1800 || Merged with Airtel in 2018
+|-
+| 405 || 824 || [[Videocon Telecom]] || Assam || Not operational || GSM 1800 || Shut down in 2016
+|-
+| 405 || 827 || [[Videocon Telecom]] || Gujarat || Not operational || GSM 1800 || Shut down in 2016
+|-
+| 405 || 834 || [[Videocon Telecom]] || Madhya Pradesh || Not operational || GSM 1800 || Shut down in 2016
+|-
+| 405 || 844 || [[Telenor India|Uninor]] || Delhi & NCR || Not operational || GSM 1800 || Merged with Airtel in 2018
+|-
+| 405 || 840 || [[Jio]] || West Bengal || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 845 || [[Vi (mobile network)|Vi India]] || Assam || Not Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 405 || 846 || [[Vi (mobile network)|Vi India]] || Jammu & Kashmir || Not Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 405 || 847 || [[Vi (mobile network)|Vi India]] || Karnataka || Not operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 405 || 848 || [[Vi (mobile network)|Vi India]] || Kolkata || Not Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 405 || 849 || [[Vi (mobile network)|Vi India]] || North East || Not Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 405 || 850 || [[Vi (mobile network)|Vi India]] || Odisha || Not Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 405 || 851 || [[Vi (mobile network)|Vi India]] || Punjab || Not Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 405 || 852 || [[Vi (mobile network)|Vi India]] || Tamil Nadu || Not Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 405 || 853 || [[Vi (mobile network)|Vi India]] || West Bengal || Not Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 405 || 854 || [[Jio]] || Andhra Pradesh || Operational || LTE 1800 / TD-LTE 2300 || <ref name=spectrum_in>{{cite web |url=https://onlytech.com/india-telecom-spectrum-chart/ |title=Pan India Telecom Spectrum holding chart 2021 |author=Esmail Beguwala |publisher=OnlyTech |access-date=2021-02-11}}</ref>
+|-
+| 405 || 855 || [[Jio]] || Assam || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 856 || [[Jio]] || Bihar || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 857 || [[Jio]] || Gujarat || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 858 || [[Jio]] || Haryana || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 859 || [[Jio]] || Himachal Pradesh || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 860 || [[Jio]] || Jammu & Kashmir || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 861 || [[Jio]] || Karnataka || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 862 || [[Jio]] || Kerala || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 863 || [[Jio]] || Madhya Pradesh || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 864 || [[Jio]] || Maharashtra || Operational || LTE 1800 / TD-LTE 2300 || <ref name=spectrum_in/>
+|-
+| 405 || 865 || [[Jio]] || North East || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 866 || [[Jio]] || Odisha || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 867 || [[Jio]] || Punjab || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 868 || [[Jio]] || Rajasthan || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 869 || [[Jio]] || Tamil Nadu (incl. Chennai) || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 870 || [[Jio]] || Uttar Pradesh (West) || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 871 || [[Jio]] || Uttar Pradesh (East) || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 872 || [[Jio]] || Delhi || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 873 || [[Jio]] || Kolkata || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 874 || [[Jio]] || Mumbai || Operational || LTE 850 / LTE 1800 / TD-LTE 2300 ||
+|-
+| 405 || 875 || [[Telenor India|Uninor]] || Assam || Not operational || GSM 1800 || Merged with Airtel in 2018
+|-
+| 405 || 880 || [[Telenor India|Uninor]] || West Bengal || Not operational || GSM 1800 || Merged with Airtel in 2018
+|-
+| 405 || 881 || S Tel || Assam || Not operational || GSM 1800 || License cancelled in 2012
+|-
+| 405 || 908|| [[Vi (mobile network)|Vi India]] || Andhra Pradesh and Telangana || Operational || GSM 900 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 405 || 909|| [[Vi (mobile network)|Vi India]] || Delhi || Not Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 405 || 910|| [[Vi (mobile network)|Vi India]] || Haryana || Not Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE 2500 || <ref name=spectrum_in/> Former [[Idea Cellular|IDEA]] 
+|-
+| 405 || 911|| [[Vi (mobile network)|Vi India]] || Maharashtra || Not Operational || GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500 || <ref name=spectrum_in/> Former SPICE [[Idea Cellular|IDEA]] 
+|-
+| 405 || 912 || [[Etisalat#Etisalat India|Etisalat DB]] (cheers) || Andhra Pradesh and Telangana || Not operational || GSM 1800 || License cancelled in 2012
+|-
+| 405 || 913 || [[Etisalat#Etisalat India|Etisalat DB]] (cheers) || Delhi & NCR || Not operational || GSM 1800 || License cancelled in 2012
+|-
+| 405 || 914 || [[Etisalat#Etisalat India|Etisalat DB]] (cheers) || Gujarat || Not operational || GSM 1800 || License cancelled in 2012
+|-
+| 405 || 917 || [[Etisalat#Etisalat India|Etisalat DB]] (cheers) || Kerala || Not operational || GSM 1800 || License cancelled in 2012
+|-
+| 405 || 927 || [[Telenor India|Uninor]] || Gujarat || Not operational || GSM 1800 || Merged with Airtel in 2018
+|-
+| 405 || 929 || [[Telenor India|Uninor]] || Maharashtra || Not operational || GSM 1800 || Merged with Airtel in 2018
+|}
+
+==== [[Iran]] – IR ====
+{| {{MNC}}
+|-
+| 432 || 01 ||  || Kish Cell Pars || Operational || MVNO || <ref name=itu_ob_1252/>
+|-
+| 432 || 02 || ApTel, AzarTel || Negin Ertebatat Ava || Operational || MVNO || <ref name=itu_ob_1252/>
+|-
+| 432 || 03 || || Parsian Hamrah Lotus || Operational || MVNO || <ref name=itu_ob_1252/>
+|-
+| 432 || 04 || || TOSE E FANAVARI ERTEBATAT NOVIN HAMRAH || Unknown || Unknown || <ref name=itu_ob_1252/>
+|-
+| 432 || 05 || Smart Comm || Hamrah Hooshmand Ayandeh || Unknown || MVNO || <ref name=itu_ob_1252/>
+|-
+| 432 || 06 || Arian-Tel || Ertebatat-e Arian Tel Co. || Operational || MVNO || <ref name=itu_ob_1252/>
+|-
+| 432 || 07 || || Hooshmand Amin Mobile || Operational || MVNO || <ref name=itu_ob_1252/>
+|-
+| 432 || 08 || [[Shatel|Shatel Mobile]] || Shatel Group || Operational || MVNO || <ref name=itu_ob_1139/><ref name=itu_ob_1252/>
+|-
+| 432 || 09 || HiWEB || Dadeh Dostar asr Novin PJSC || Unknown || Unknown || <ref name=itu_ob_1252/>
+|-
+| 432 || 10 || Samantel || Samantel Mobile || Operational || MVNO ||
+|-
+| 432 || 11 || IR-TCI (Hamrah-e-Avval) || [[Mobile Telecommunication Company of Iran|Mobile Communications Company of Iran]] (MCI) || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 || <ref name=itu_ob_1252/>
+|-
+| 432 || 12 || Avacell (HiWEB) || Dadeh Dostar asr Novin PJSC || Operational || LTE 800 / TD-LTE 2600 || Mostly in rural and remote areas<ref name=halberd/><ref name=itu_ob_1252/>
+|-
+| 432 || 13 || HiWEB || Dadeh Dostar asr Novin PJSC || Unknown || Unknown || <ref name=itu_ob_1252/>
+|-
+| 432 || 14 || TKC/KFZO || Kish Free Zone Organization || Operational || GSM 900 / GSM 1800 || <ref name=itu_ob_1252/>
+|-
+| 432 || 19 || Espadan  || [[Mobile Telecommunications Company of Esfahan]] || Not operational || GSM 900 || MNC withdrawn<ref name=itu_ob_1252/>
+|-
+| 432 || 20 || [[RighTel Communications|RighTel]] || [[Social Security Organisation|Social Security Investment Co.]] ||Operational || UMTS 900 / UMTS 2100 / LTE 1800 || <ref name=itu_ob_1252/>
+|-
+| 432 || 21 || [[RighTel Communications|RighTel]] || [[Social Security Organisation|Social Security Investment Co.]] ||Operational || UMTS 900 / UMTS 2100 / LTE 1800 ||
+|-
+| 432 || 32 || [[Taliya]] || [[Telecommunication Company of Iran]] (TCI) || Operational || GSM 900 / GSM 1800 || Roaming TKC & TCI<ref name=itu_ob_1252/>
+|-
+| 432 || 35 || [[MTN Irancell]] || MTN Irancell Telecommunications Services Company || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 3500 / TD-LTE 2300 / 5G 3500 || <ref name=gsa_lte/><ref>{{cite web |title=First TD-LTE network in Iran was launched |url=http://irancell.ir/Portal/home/?news/27092/145379/241426/First-TD-LTE-network-in-Iran-was-launched |publisher=Irancell |accessdate=23 August 2016}}</ref><ref name=itu_ob_1252/>
+|-
+| 432 || 40 || [[Mobinnet]] || Ertebatat Mobinnet || Operational || WiMAX / LTE 3500 || <ref name=halberd/>
+|-
+| 432 || 44 || [[Mobinnet]] || Ertebatat Mobinnet || Operational || WiMAX / LTE 3500 || <ref name=itu_ob_1252/>
+|-
+| 432 || 45 || Zi-Tel || Farabord Dadeh Haye Iranian Co. || Operational || TD-LTE || <ref name=itu_ob_1252/>
+|-
+| 432 || 46 || HiWEB || Dadeh Dostar asr Novin PJSC || Unknown || Unknown || <ref name=itu_ob_1252/>
+|-
+| 432 || 49 || || Gostaresh Ertebatat Mabna || Unknown || MVNO || <ref name=itu_ob_1252/>
+|-
+| 432 || 50 || [[Shatel|Shatel Mobile]] || Shatel Group || Operational || TD-LTE 2600&nbsp;MHz || <ref name=itu_ob_1139/><ref name=itu_ob_1252/>
+|-
+| 432 || 51 || || Pishgaman Tose'e Ertebatat || Unknown || Unknown || <ref name=itu_ob_1252/>
+|-
+| 432 || 52 || || Asiatech || Unknown || Unknown || <ref name=itu_ob_1252/>
+|-
+| 432 || 70 || MTCE || [[Telecommunication Company of Iran]] (TCI) || Operational || GSM 900 || Mostly in rural and remote areas ([[Wireless local loop|WLL]])<ref name=itu_ob_1252/>
+|-
+| 432 || 71 || KOOHE NOOR || ERTEBATAT KOOHE NOOR || Operational || GSM 900 || Mostly in rural and remote areas ([[Wireless local loop|WLL]])<ref name=itu_ob_1252/>
+|-
+| 432 || 90 || Iraphone || IRAPHONE GHESHM of Iran||Operational || GSM 900 / GSM 1800 || Mobile Phone
+|-
+| 432 || 93 || Iraphone || Iraphone || Operational || GSM 900 / GSM 1800 || Mostly in rural and remote areas
+|-
+| 432 || 93 || Farzanegan Pars || Farzanegan Pars ||Operational || GSM 900 / GSM 1800 || Fixed Communication Provider (FCP)<ref name=itu_ob_1252/>
+|-
+| 432 || 99 || TCI || TCI of Iran and Rightel ||Operational || GSM 850 / GSM 1900 || Roaming IR70 & TCI & RIGHTEL (GSM WLL)
+|}
+
+==== [[Iraq]] – IQ ====
+{| {{MNC}}
+|-
+| 418 || 00 || [[Asia Cell]] || Asia Cell Telecommunications Company || Operational || GSM 900 / UMTS 2100 || <ref name=halberd_arab/>
+|-
+| 418 || 05 || [[Asia Cell]] || Asia Cell Telecommunications Company || Operational || GSM 900 / UMTS 2100 || <ref name=halberd_arab/>
+|-
+| 418 || 08 || SanaTel ||  || Operational || GSM 900 ||
+|- 
+| 418 || 20 || [[Zain Group|Zain]] || [[Zain Iraq]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 || Former MTC Atheer<ref name=halberd_arab/>
+|-
+| 418 || 30 || [[Zain Group|Zain]] || [[Zain Iraq]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 || Former Orascom Telecom (Iraqna)<ref name=halberd_arab/>
+|-
+| 418 || 40 || [[Korek Telecom|Korek]] || Telecom Ltd || Operational || GSM 900 / UMTS 2100 || <ref name=halberd_arab/>
+|-
+| 418 || 45 || [[Mobitel (Iraq-Kurdistan)|Mobitel]] || [[Mobitel Co. Ltd.]] || Operational || UMTS ||
+|-
+| 418 || 62 || [[Itisaluna]] || Itisaluna Wireless CO. || Operational || CDMA 800 / CDMA 1900 ||
+|-
+| 418 || 92 || [[Omnnea]] || [[Omnnea Wireless]] || Operational || CDMA || 
+|}
+
+==== [[Israel]] – IL ====
+{| {{MNC}}
+|-
+| 425 || 01 || [[Partner Communications Company|Partner]] || Partner Communications Company Ltd. || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100 / 5G 2600 / 5G 3500 || Former Orange (until 2016)<ref name=gsa_lte/><ref name=gsa_umts900/>
+|-
+| 425 || 02 || [[Cellcom (Israel)|Cellcom]] || Cellcom Israel Ltd. || Operational || GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800 / 5G 2600 / 5G 3500 || <ref name=gsa_lte/>
+|-
+| 425 || 03 || [[Pelephone]] || Pelephone Communications Ltd. || Operational || UMTS 850 / UMTS 2100 / LTE 1800 / 5G 2600 / 5G 3500 ||  CDMA 850 shut down July 2017<ref>{{cite web|url=https://www.telegeography.com/products/commsupdate/articles/2017/04/24/pelephone-to-shutter-cdma-network-by-30-july-2017/|title=Pelephone to shutter CDMA network by 30 July 2017|publisher=TeleGeography}}</ref><ref name=gsa_lte/>
+|-
+| 425 || 04 || || Globalsim Ltd || Unknown || Unknown || <ref name=itu_ob_1056/>
+|-
+| 425 || 05 || [[Jawwal]] || Palestine Cellular Communications Ltd. || Operational || GSM 900 / UMTS 2100 || Covering the [[Palestinian territories]]<ref name=halberd_arab/>
+|-
+| 425 || 06 || [[Wataniya Mobile]] || Wataniya Palestine Ltd. ([[Ooredoo]]) || Operational || GSM 900 / GSM 1800 / UMTS 2100 || Covering the [[Palestinian territories]]<ref name=itu_ob_1056/><ref name=halberd_arab/>
+|-
+| 425 || 07 || [[Hot Mobile]] || Hot Mobile Ltd. || Operational || iDEN 800 / UMTS 2100 / LTE 1800 / LTE 2100 / 5G 2600 / 5G 3500 || Former Mirs Communications; uses Pelephone network for roaming
+|-
+| 425 || 08 || [[Golan Telecom]] || Golan Telecom Ltd. || Operational || UMTS 2100 / LTE 1800 || Acquired by Cellcom in Aug 2020<ref name="Cellcom_GT IL">{{cite web |url=https://www.commsupdate.com/articles/2020/08/27/cellcom-confirms-completion-of-golan-telecom-acquisition/ |title=Cellcom confirms completion of Golan Telecom acquisition |publisher=TeleGeography |date=2020-08-27 |accessdate=2020-08-30}}</ref>
+|-
+| 425 || 09 || We4G || Marathon 018 Xphone Ltd. || Operational || LTE 1800 || <ref name=itu_ob_1122/>
+|-
+| 425 || 10 || [[Partner Communications Company|Partner]] || Partner Communications Company Ltd. || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 || Former Orange (until 2016)<ref name=gsa_lte/><ref name=gsa_umts900/>
+|-
+| 425 || 11 || || 365 Telecom || Not operational || MVNO || <ref name=itu_ob_1019/>
+|-
+| 425 || 12 || x2one || Widely Mobile || Operational || MVNO || Former Free Telecom<ref name=itu_ob_1019/>
+|-
+| 425 || 13 || || Ituran Cellular Communications || Not operational || Unknown || <ref name=itu_ob_1019/>
+|-
+| 425 || 14 || Youphone || Alon Cellular Ltd. || Not operational || MVNO || <ref name=itu_ob_1019/> 
+|- 
+| 425 || 15 || Home Cellular || Home Cellular Ltd. || Not operational || MVNO || MVNO (Cellcom) <ref name=itu_ob_1019/>
+|-
+| 425 || 16 || Rami Levy || [[Rami Levy Communications]] Ltd. || Operational || MVNO || MVNO (Pelephone) <ref name=itu_ob_1019/>
+|-
+| 425 || 17 || Sipme || Gale Phone || Not operational || MVNO || <ref name=itu_ob_1019/>
+|-
+| 425 || 18 || Cellact Communications || Cellact Communications Ltd. || Operational || MVNO || MVNO (Pelephone)
+|-
+| 425 || 19 || 019 Mobile || 019 Communication Services Ltd. / TELZAR || Operational || MVNO || <ref name=itu_ob_1025/>
+|-
+| 425 || 20 || Bezeq || [[Bezeq|Bezeq The Israeli Telecommunication Corp Ltd.]] || Unknown || Unknown || <ref name=itu_ob_1019/>
+|-
+| 425 || 21 || Bezeq International || B.I.P. Communications Ltd. || Unknown || Unknown || <ref name=itu_ob_1051/>
+|-
+| 425 || 22 || || Maskyoo Telephonia Ltd. || Unknown || Unknown || <ref name=itu_ob_1203/>
+|-
+| 425 || 23 || || Beezz Communication Solutions Ltd. || Unknown || Unknown || <ref name=itu_ob_1058/>
+|-
+| 425 || 24 || 012 Mobile || Partner Communications Company Ltd. || Operational || MVNO || MVNO (Partner)<ref name=itu_ob_1068/>
+|-
+| 425 || 25 || IMOD || Israel Ministry of Defense || Operational || LTE || <ref name=itu_ob_1070/><ref>{{cite web |url=http://defense-update.com/20140101_idf-spend-100-million-modernizing-secure-smartphones.html |title=IDF to Spend $100 Million Modernizing its Secure Smartphones |publisher=Defense Update |date=1 January 2014 |accessdate=5 March 2015}}</ref>
+|-
+| 425 || 26 || Annatel || [https://www.annatel.co.il/ LB Annatel Ltd.] || Operational || MVNO || <ref name=itu_ob_1134/>
+|-
+| 425 || 27 || || BITIT Ltd. || Unknown || Unknown || <ref name=itu_ob_1240/>
+|-
+| 425 || 28 || || PHI Networks || Unknown || LTE 1800 / 5G 2600 / 5G 3500 || Joint venture between [[Partner Communications Company]] and [[Hot Mobile]]<ref name=itu_ob_1092/><ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2015/04/22/ministry-approves-partnerhot-network-sharing-deal/ |title=Ministry approves Partner/HOT network sharing deal |publisher=TeleGeography |date=22 April 2015 |accessdate=15 January 2016}}</ref>
+|-
+| 425 || 29 || || CG Networks || Unknown || Unknown || Joint venture between [[Cellcom (Israel)|Cellcom]], [[Golan Telecom]] and [[Exphone]]<ref name=itu_ob_1142/>
+|}
+
+=== J ===
+==== [[Japan]] – JP ====
+{| {{MNC}}
+|-
+| 440 || 00 || [[Ymobile|Y!Mobile]] || [[SoftBank]] Corp. || Operational || UMTS 1800 || band 3<ref name=itu_ob_1092/>
+|-
+| 440 || 01 ||  || [[KDDI]] Corporation || Operational || TD-LTE 2500 || band 41; WiMAX 2500 shut down 31 Mar 2020; former UQ Communications<ref name=itu_ob_1092/><ref name=itu_ob_1242/>
+|-
+| 440 || 02 || || Hanshin Cable Engineering Co., Ltd. || Unknown || WiMAX 2500 ||<ref name=itu_ob_1092/>
+|-
+| 440 || 03 || IIJmio || [[Internet Initiative Japan]] Inc. || Operational || MVNO || <ref name=itu_ob_1116/>
+|-
+| 440 || 04 || || [[Japan Radio Company]], Ltd. || Unknown || Unknown || <ref name=itu_ob_1134/>
+|-
+| 440 || 05 || || Wireless City Planning Inc. || Operational || TD-LTE 2500 || band 41; owned by [[SoftBank]]<ref name=itu_ob_1092/>
+|-
+| 440 || 06 || || [https://www.sakura.ad.jp/ SAKURA Internet Inc.] || Unknown || Unknown || <ref name=itu_ob_1134/>
+|-
+| 440 || 07 || || closip, Inc. || Unknown || MVNO || Former LTE-X<ref name=itu_ob_1144/><ref name=itu_ob_1231/>
+|-
+| 440 || 08 || || [[Panasonic]] Systems Solutions Japan Co., Ltd. || Unknown || Unknown || <ref name=itu_ob_1164/>
+|-
+| 440 || 09 || || Marubeni Wireless Communications Inc. || Operational || MVNO || <ref name=itu_ob_1164/>
+|-
+| 440 || 10 || NTT docomo || [[NTT DoCoMo]], Inc. || Operational || UMTS 850 / UMTS 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 3500 / 5G 3500 / 5G 4700 / 5G 28000 || bands 1, 3, 19, 21, 28, 42;<ref name=itu_ob_1092/> UMTS to shut down Mar 2026<ref name="KDDI 3G Shutdown JP"/>
+|-
+| 440 || 11 || Rakuten Mobile || [[Rakuten]] Mobile Network, Inc. || Operational || LTE 1800 / 5G 3700 || <ref name=itu_ob_1164/>
+|-
+| 440 || 12 || || Cable media waiwai Co., Ltd. || Unknown || Unknown || <ref name=itu_ob_1164/>
+|-
+| 440 || 13 || || [[NTT Communications]] Corporation || Unknown || Unknown || <ref name=itu_ob_1231/>
+|-
+| 440 || 14 || || Grape One Co., Ltd. || Unknown || 5G || Private 5G networks<ref name=itu_ob_1231/>
+|-
+| 440 || 15 || || BB Backbone Corp. || Unknown || LTE || Private LTE networks<ref name=itu_ob_1231/>
+|-
+| 440 || 16 || || [[Nokia]] Innovations Japan G.K. || Unknown || Unknown || <ref name=itu_ob_1231/>
+|-
+| 440 || 17 || || Osaka Gas Business Create Co., Ltd. || Unknown || Unknown || <ref name=itu_ob_1231/>
+|-
+| 440 || 18 || || Kintetsu Cable Network Co., Ltd. || Unknown || Unknown || <ref name=itu_ob_1231/>
+|-
+| 440 || 19 || || [[NEC]] Networks & System Integration Corporation || Unknown || Unknown || <ref name=itu_ob_1231/>
+|-
+| 440 || 20 || SoftBank || [[SoftBank]] Corp. || Operational || UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3700 / 5G 28000 || bands 1, 3, 8, 11, 28, 41, 42;<ref name=itu_ob_1092/> UMTS to shut down Jan 2024<ref name="KDDI 3G Shutdown JP"/>
+|-
+| 440 || 21 || SoftBank || [[SoftBank]] Corp. || Operational || UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3700 / 5G 28000 || bands 1, 3, 8, 11, 28, 41, 42;<ref name=itu_ob_1092/> UMTS to shut down Jan 2024<ref name="KDDI 3G Shutdown JP"/>
+|-
+| 440 || 22 || || JTOWER Inc. || Unknown || Unknown || <ref name=itu_ob_1231/>
+|-
+| 440 || 23 || || [[Fujitsu]] Ltd. || Unknown || Unknown || <ref name=itu_ob_1231/>
+|-
+| 440 || 50 || [[Au (mobile phone company)|au]] || [[KDDI]] Corporation || Operational || LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 800 / 5G 3500 / 5G 3700 / 5G 28000 || bands 1, 3, 11, 18, 28, 41, 42<ref name=itu_ob_779/>
+|-
+| 440 || 51 || [[Au (mobile phone company)|au]] || [[KDDI]] Corporation || Operational || LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 800 / 5G 3500 / 5G 3700 / 5G 28000 || bands 1, 3, 11, 18, 28, 41, 42<ref name=itu_ob_779/>
+|-
+| 440 || 52 || [[Au (mobile phone company)|au]] || [[KDDI]] Corporation || Operational || LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 800 / 5G 3500 / 5G 3700 / 5G 28000 || bands 1, 3, 11, 18, 28, 41, 42<ref name=itu_ob_779/>
+|-
+| 440 || 53 || [[Au (mobile phone company)|au]] || [[KDDI]] Corporation || Operational || LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 800 / 5G 3500 / 5G 3700 / 5G 28000 || bands 1, 3, 11, 18, 28, 41, 42<ref name=itu_ob_779/>
+|-
+| 440 || 54 || [[Au (mobile phone company)|au]] || [[KDDI]] Corporation || Not operational || CDMA 850 / CDMA 2000 || CDMA shut down 31 Mar 2022<ref name=itu_ob_779/><ref name="KDDI 3G Shutdown JP">{{cite web |url=https://www.commsupdate.com/articles/2021/11/30/kddi-announces-3g-network-shutdown/ |title=KDDI announces 3G network shutdown |publisher=TeleGeography |date=2021-11-30 |access-date=2021-12-09}}</ref>
+|-
+| 440 || 70 || [[Au (mobile phone company)|au]] || [[KDDI]] Corporation || Not operational || CDMA 850 / CDMA 2000 || CDMA shut down 31 Mar 2022<ref name=itu_ob_779/><ref name="KDDI 3G Shutdown JP"/>
+|-
+| 440 || 71 || [[Au (mobile phone company)|au]] || [[KDDI]] Corporation || Not operational || CDMA 850 / CDMA 2000 || CDMA shut down 31 Mar 2022<ref name=itu_ob_779/><ref name="KDDI 3G Shutdown JP"/>
+|-
+| 440 || 72 || [[Au (mobile phone company)|au]] || [[KDDI]] Corporation || Not operational || CDMA 850 / CDMA 2000 || CDMA shut down 31 Mar 2022<ref name=itu_ob_779/><ref name="KDDI 3G Shutdown JP"/>
+|-
+| 440 || 73 || [[Au (mobile phone company)|au]] || [[KDDI]] Corporation || Not operational || CDMA 850 / CDMA 2000 || CDMA shut down 31 Mar 2022<ref name=itu_ob_779/><ref name="KDDI 3G Shutdown JP"/>
+|-
+| 440 || 74 || [[Au (mobile phone company)|au]] || [[KDDI]] Corporation || Not operational || CDMA 850 / CDMA 2000 || CDMA shut down 31 Mar 2022<ref name=itu_ob_779/><ref name="KDDI 3G Shutdown JP"/>
+|-
+| 440 || 75 || [[Au (mobile phone company)|au]] || [[KDDI]] Corporation || Not operational || CDMA 850 / CDMA 2000 || CDMA shut down 31 Mar 2022<ref name=itu_ob_779/><ref name="KDDI 3G Shutdown JP"/>
+|-
+| 440 || 76 || [[Au (mobile phone company)|au]] || [[KDDI]] Corporation || Not operational || CDMA 850 / CDMA 2000 || CDMA shut down 31 Mar 2022<ref name=itu_ob_779/><ref name="KDDI 3G Shutdown JP"/>
+|-
+| 440 || 78 || [[Au (mobile phone company)|au]] || Okinawa Cellular Telephone || Not operational || CDMA 850 / CDMA 2000 || CDMA shut down 31 Mar 2022<ref name=itu_ob_779/><ref name="KDDI 3G Shutdown JP"/>
+|-
+| {{TOC tab|441|Japan - JP - 441}}
+| 00 || || Wireless City Planning Inc. || Operational || TD-LTE 2500 || band 41; owned by [[SoftBank]]<ref name=itu_ob_1092/>
+|-
+| 441 || 01 || SoftBank || [[SoftBank]] Corp. || Operational || UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3700 || bands 1, 3, 8, 11, 28, 41, 42;<ref name=itu_ob_1092/> UMTS to shut down Jan 2024<ref name="KDDI 3G Shutdown JP"/>
+|-
+| 441 || 10 || UQ WiMAX || UQ Communications Inc. || Not operational || TD-LTE 2500 || band 41;<ref name=itu_ob_1092/> WiMAX 2500 shut down 31 Mar 2020; MNC withdrawn<ref name=itu_ob_1231/>
+|-
+| 441 || 200 || || Soracom Inc. || Operational || MVNO || [[Internet of things|IoT]]<ref name=itu_ob_1231/>
+|-
+| 441 || 201 || || Aurens Co., Ltd. || Unknown || Unknown || <ref name=itu_ob_1231/>
+|-
+| 441 || 202 || || [[Sony]] Wireless Communications Inc. || Unknown || Unknown || <ref name=itu_ob_1231/>
+|-
+| 441 || 203 || || [[Gujō, Gifu|Gujo City]] || Unknown || Unknown || <ref name=itu_ob_1231/>
+|-
+| 441 || 204 || || Wicom Inc. || Unknown || Unknown || <ref name=itu_ob_1231/>
+|-
+| 441 || 205 || || Katch Network Inc. || Operational || 5G 4700 || <ref name=itu_ob_1231/>
+|-
+| 441 || 206 || || [[Mitsubishi Electric]] Corp. || Unknown || Unknown || <ref name=itu_ob_1231/>
+|-
+| 441 || 207 || || [[Mitsui Knowledge Industry]] Co., Ltd. || Unknown || Unknown || <ref name=itu_ob_1242/>
+|-
+| 441 || 208 || || Chudenko Corp. || Unknown || Unknown || <ref name=itu_ob_1242/>
+|-
+| 441 || 209 || || Cable Television Toyama Inc. || Unknown || Unknown || <ref name=itu_ob_1242/>
+|-
+| 441 || 210 || || [[Nippon Telegraph and Telephone]] East Corp. || Unknown || Unknown || <ref name=itu_ob_1242/>
+|-
+| 441 || 91 || || [[Tokyo Organising Committee of the Olympic and Paralympic Games]] || Not operational || Unknown || <ref name=itu_ob_1144/> MNC withdrawn<ref name=itu_ob_1242/>
+|}
+
+==== [[Jordan]] – JO ====
+{| {{MNC}}
+|-
+| 416 || 01 || [[Zain Group|zain JO]] || Jordan Mobile Telephone Services || Operational || GSM 900 / UMTS 2100 / LTE 1800 || Former Fastlink<ref name=gsa_lte/><ref name=halberd_arab/>
+|-
+| 416 || 02 || [[XPress Telecom]] || XPress Telecom || Not operational || iDEN 800 || Shut down in 2010<ref name=itu_ob_1019/>
+|-
+| 416 || 03 || [[Umniah]] || Umniah Mobile Company || Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 3500 || <ref name=gsa_lte/><ref name=halberd_arab/>
+|-
+| 416 || 77 || [[Orange Jordan|Orange]] || Petra Jordanian Mobile Telecommunications Company (MobileCom) || Operational || GSM 900 / UMTS 2100 / LTE 1800 / LTE 2600 || <ref name=gsa_lte/><ref name=halberd_arab/>
+|}
+
+=== K ===
+==== [[Kazakhstan]] – KZ ====
+{| {{MNC}}
+|-
+| 401 || 01 || [[Beeline (telecommunications)|Beeline]] || KaR-Tel LLP || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 || <ref name=gsa_lte/><ref name=halberd_cis/>
+|-
+| 401 || 02 || [[Kcell]] || Kcell JSC || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G || <ref name=halberd_cis/>
+|-
+| 401 || 07 || Altel ||[[:ru:АЛТЕЛ|Altel]] || Operational || UMTS 850 / GSM 1800 / LTE 1800 || CDMA 800 closed 1 July 2015;<ref name=gsa_lte/> acquired by Tele2
+|-
+| 401 || 08 || Kazakhtelecom || || Operational || CDMA 450 / CDMA 800 ||
+|-
+| 401 || 77 || [[Tele2#Kazakhstan|Tele2.kz]] || MTS || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / 5G || Called Mobile Telecom Service before its acquisition by Tele2<ref name=gsa_umts900/><ref>{{cite web|url=http://www.telegeography.com/products/commsupdate/articles/2011/09/20/rejuvenated-tele2-passes-the-one-million-subscriber-mark/ |title=Tele2 MTS acquisition |publisher=Telegeography.com |date= |accessdate=2018-06-12}}</ref>
+|}
+
+==== [[North Korea]] – KP ====
+{| {{MNC}}
+|-
+| 467 || 05 || [[Koryolink]] || Cheo Technology Jv Company || Operational || UMTS 2100 ||for foreigners
+|-
+| 467 || 06 || Kang Song NET || Korea Posts and Telecommunications Corporation|| Operational || UMTS 2100 ||for DPRK citizens. Government owned. 
+|-
+| 467 || 193 || SunNet || Korea Posts and Telecommunications Corporation || Not operational || GSM 900 ||
+|}
+
+==== [[South Korea]] – KR ====
+{| {{MNC}}
+|-
+| 450 || 01 || || [[Globalstar]] Asia Pacific || Operational || Satellite || <ref name=itu_ob_1118/>
+|-
+| 450 || 02 || KT || [[KT (telecommunication company)|KT]] || Operational || 5G 3500 / 5G 28000 || former Hansol PCS (CDMA 1800), merged with KT in 2002<ref name=itu_ob_1118/>
+|-
+| 450 || 03 || Power 017 || Shinsegi Telecom, Inc. || Not operational || CDMA 850 || Merged with SK Telecom in 2002; MNC withdrawn<ref name=itu_ob_1118/>
+|-
+| 450 || 04 || KT || [[KT (telecommunication company)|KT]] || Operational|| LTE 1800 || NB-IoT network ([[Narrowband IoT|LTE Cat NB1]]);<ref name=itu_ob_1118/><ref name=halberd/> former CDMA 1800
+|-
+| 450 || 05 || SKTelecom || [[SK Telecom]] || Operational || UMTS 2100 / LTE 850 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 / 5G 28000 || CDMA 850 shut down June 2020<ref>{{cite web |url=https://www.commsupdate.com/articles/2020/06/15/sk-telecom-receives-regulatory-approval-for-2g-switch-off/ |title=SK Telecom receives regulatory approval for 2G switch-off |publisher=TeleGeography |date=2020-06-15 |access-date=2020-06-15}}</ref>
+|-
+| 450 || 06 || LG U+ || [[LG Telecom]] || Operational || LTE 850 / LTE 2100 / LTE 2600 / 5G 3500 / 5G 28000 || CDMA 1800 shut down June 2021<ref name="LGU+ SK">{{cite web |url=http://www.koreaherald.com/view.php?ud=20210117000147 |title=S. Korea to end 2G network services by June |publisher=The Korea Herald |date=2021-01-17 |access-date=2021-01-23}}</ref>
+|-
+| 450 || 07 || KT || [[KT (telecommunication company)|KT]] || Unknown || Unknown || <ref name=itu_ob_1118/>
+|-
+| 450 || 08 || olleh || [[KT (telecommunication company)|KT]] || Operational || UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 ||
+|-
+| 450 || 11 || Tplus || Korea Cable Telecom || Operational || MVNO || [[MVNO]] of SK Telecom
+|-
+| 450 || 12 || SKTelecom || [[SK Telecom]] || Operational || LTE 850 / LTE 1800 || IoT network ([[LTE-M|LTE Cat M1]])<ref name=halberd/><ref name=itu_ob_1118/>
+|}
+
+==== [[Kuwait]] – KW ====
+{| {{MNC}}
+|-
+| 419 || 02 || [[Zain Group|zain KW]] || Zain Kuwait || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 3500 || <ref name=gsa_lte/>
+|-
+| 419 || 03 || Ooredoo  || National Mobile Telecommunications || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500 || <ref name=gsa_lte/><ref name=halberd_arab/>
+|-
+| 419 || 04 || STC || [[Saudi Telecom Company]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 2100 / 5G 3500 || Former VIVA<ref name=gsa_lte/>
+|}
+
+==== [[Kyrgyzstan]] – KG ====
+{| {{MNC}}
+|-
+| 437 || 01 || [[Beeline (telecommunications)|Beeline]] || Sky Mobile LLC || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 || Former Bitel<ref name=gsa_lte/><ref name=mwlive/>
+|-
+| 437 || 03 ||  || 7 Mobile || Unknown || Unknown || Former Fonex/Aktel <ref name=itu_ob_1153/>
+|-
+| 437 || 05 || MegaCom || Alfa Telecom CJSC || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 || <ref name=gsa_lte/><ref name=mwlive/><ref name=itu_ob_1153/>
+|-
+| 437 || 09 || O! || NurTelecom LLC || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 2600 || <ref name=gsa_lte/><ref name=mwlive/><ref name=itu_ob_1153/><ref name=halberd_cis/>
+|-
+| 437 || 10 || || Saima Telecom || Operational || LTE 2600 || <ref name=itu_ob_1153/>
+|-
+| 437 || 11 || || iTel || Unknown || Unknown || <ref name=itu_ob_1153/>
+|}
+
+=== L ===
+==== [[Laos]] – LA ====
+{| {{MNC}}
+|-
+| 457 || 01 || LaoTel || Lao Telecom || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G || <ref name=halberd/><ref name=itu_ob_1256/>
+|-
+| 457 || 02 || ETL || Enterprise of Telecommunications Lao  || Operational || GSM 900 / GSM 1800 / UMTS 2100 || <ref name=itu_ob_1256/>
+|-
+| 457 || 03 || Unitel || Star Telecom Co., Ltd || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || Former Lao-Asia Telecom Company (LAT); owned by [[Viettel]]<ref name=halberd/><ref name=itu_ob_1256/>
+|-
+| 457 || 07 || Best || Best Telecom Co., Ltd  || Operational || GSM 900 / GSM 1800 / UMTS 2100 || <ref name=itu_ob_1256/>
+|-
+| 457 || 08 || TPLUS || TPLUS Digital Sole Co., Ltd || Operational || GSM 900 / GSM 1800 / UMTS 2100 || Former Millicom (Tigo), VimpelCom ([[Beeline (brand)#Laos|Beeline]])<ref name=itu_ob_1256/>
+|}
+
+==== [[Lebanon]] – LB ====
+{| {{MNC}}
+|-
+| 415 || 01 || [[Alfa (Lebanon)|Alfa]] || MIC 1 || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 || <ref name=gsa_lte/><ref name=mwlive/><ref name=halberd_arab/>
+|-
+| 415 || 03 || [[Touch (Lebanon)|Touch]] || MIC 2 || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 || <ref name=gsa_lte/><ref name=gsa_hspa/><ref name=mwlive/>
+|-
+| 415 || 05 || Ogero Mobile || [[Ogero|Ogero Telecom]] || Not operational || GSM 900 || <ref name=mwlive/>
+|}
+
+=== M ===
+==== [[Macau]] (People's Republic of China) – MO ====
+{| {{MNC}}
+|-
+| 455 || 00 || [[SmarTone]] || Smartone – Comunicações Móveis, S.A. || Operational || UMTS 2100 / LTE 1800 || <ref name=gsa_lte/> GSM shut down 1 Aug 2019<ref name=mo_gsm>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2019/04/10/macau-to-shut-down-2g-networks-for-roaming-users/ |title=Macau to shut down 2G networks for roaming users |publisher=TeleGeography |date=2019-04-10 |accessdate=2019-08-07}}</ref>
+|-
+| 455 || 01 || [[CTM (Macau)|CTM]] || Companhia de Telecomunicações de Macau, S.A.R.L. || Operational || LTE 1800 || <ref name=gsa_lte/> GSM shut down 1 Aug 2019<ref name=mo_gsm/>
+|-
+| 455 || 02 || [[China Telecom]] || China Telecom (Macau) Company Limited || Not operational || CDMA 800 || Shut down 2010<ref name=mo_gsm/>
+|-
+| 455 || 03 || [[Hutchison 3G|3]] || Hutchison Telephone (Macau), Limitada || Not operational || GSM 900 / GSM 1800 || <ref name=gsa_lte/> GSM shut down 1 Aug 2019<ref name=mo_gsm/>
+|-
+| 455 || 04 || [[CTM (Macau)|CTM]] || Companhia de Telecomunicações de Macau, S.A.R.L. || Operational || UMTS 2100 || GSM shut down 1 Aug 2019<ref name=mo_gsm/>
+|-
+| 455 || 05 || [[Hutchison 3G|3]] || Hutchison Telephone (Macau), Limitada || Operational || UMTS 900 / UMTS 2100 / LTE 1800 ||
+|-
+| 455 || 06 || [[SmarTone]] || Smartone – Comunicações Móveis, S.A. || Operational || UMTS 2100 || GSM shut down 1 Aug 2019<ref name=mo_gsm/>
+|-
+| 455 || 07 || [[China Telecom]] || China Telecom (Macau) Limitada || Operational || LTE 1800 || <ref name=itu_ob_1085/><ref name=gsa_lte/>
+|}
+
+==== [[Maldives]] – MV ====
+{| {{MNC}}
+|-
+| 472 || 01 || [[Dhiraagu]] || Dhivehi Raajjeyge Gulhun || Operational || GSM 900 / UMTS 2100 / LTE 1800 / LTE 2600 / 5G 3500 || <ref name=gsa_lte/>
+|-
+| 472 || 02 || [[Ooredoo]] || [[Ooredoo Maldives]] || Operational || GSM 900 / UMTS 2100 / LTE 1800 / LTE 2600 / 5G || Former Wataniya Telecom<ref name=halberd/>
+|}
+
+==== [[Mongolia]] – MN ====
+{| {{MNC}}
+|-
+| 428 || 88 || [[Unitel (Mongolia)|Unitel]] || Unitel LLC || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800 / TD-LTE 2300 || <ref name=halberd/>
+|-
+| 428 || 91 || [[Skytel (Mongolia)|Skytel]] || Skytel LLC || Operational || CDMA 850 / UMTS 2100 / LTE 1800 || <ref name=halberd/>
+|-
+| 428 || 98 || [[G-Mobile]] || G-Mobile LLC || Operational || CDMA 450 / UMTS 2100 / LTE 1800 || <ref name=halberd/>
+|-
+| 428 || 99 || [[Mobicom Corporation|Mobicom]] || [[Mobicom Corporation]] || Operational || GSM 900 / UMTS 2100 / LTE 700 / LTE 1800 || <ref name=halberd/>
+|}
+
+==== [[Myanmar]] – MM ====
+{| {{MNC}}
+|-
+| 414 || 00 || MPT || [[Myanmar Posts and Telecommunications]] || Unknown || Unknown || <ref name=itu_ob_1124/>
+|-
+| 414 || 01 || MPT || [[Myanmar Posts and Telecommunications]] || Operational || GSM 900 / UMTS 2100 / LTE 1800 / LTE 2100 || <ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2016/10/17/mpt-soft-launches-4g-services/ |title=MPT soft-launches 4G services |publisher=TeleGeography |date=2016-10-17 |accessdate=2016-10-17}}</ref>
+|-
+| 414 || 02 || MPT || [[Myanmar Posts and Telecommunications]] || Unknown || Unknown || <ref name=itu_ob_1124/>
+|-
+| 414 || 03 || CDMA800 || [[Myanmar Economic Corporation]] || Operational || CDMA 800 ||
+|-
+| 414 || 04 || MPT || [[Myanmar Posts and Telecommunications]] || Unknown || Unknown || <ref name=itu_ob_1124/>
+|-
+| 414 || 05 || Ooredoo|| [[Ooredoo Myanmar]] || Operational || UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100 || <ref name=itu_ob_1124/><ref name=gsa_lte/>
+|-
+| 414 || 06 || Telenor || [[Telenor Myanmar]] || Operational|| GSM 900 / UMTS 2100 / LTE 1800 / LTE 2100 || <ref name=itu_ob_1124/><ref name=gsa_lte/>
+|-
+| 414 || 09 || Mytel || Myanmar National Tele & Communication Co., Ltd || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 2100 || <ref name=mwlive/><ref name=itu_ob_1124/>
+|-
+| 414 || 20 || ACS || Amara Communication Co., Ltd || Operational || TD-LTE 2600 || <ref name=itu_ob_1149/>
+|-
+| 414 || 21 || ACS || Amara Communication Co., Ltd || Operational || TD-LTE 2600 || <ref name=itu_ob_1149/>
+|-
+| 414 || 22 || || Fortune Telecom Co., Ltd || Unknown || Unknown || <ref name=itu_ob_1156/>
+|-
+| 414 || 23 || || Global Technology Co., Ltd || Unknown || Unknown || <ref name=itu_ob_1156/>
+|}
+
+=== N ===
+==== [[Nepal]] – NP ====
+{| {{MNC}}
+|-
+| 429 || 01 || Namaste / NT Mobile / Sky Phone || [[Nepal Telecom]] (NDCL) || Operational || GSM 900 / UMTS 2100 / LTE 1800 / CDMA 850 / WiMAX ||
+|-
+| 429 || 02 || Ncell || [[Ncell|Ncell Pvt. Ltd.]] || Operational || GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 ||
+|-
+| 429 || 03 || UTL || United Telecom Limited ||Operational || CDMA2000 800 ||
+|-
+| 429 || 04 || [[SmartCell]] || Smart Telecom Pvt. Ltd. (STPL) || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 ||
+|}
+
+=== O ===
+==== [[Oman]] – OM ====
+{| {{MNC}}
+|-
+| 422 || 02 || [[Omantel]] || Oman Telecommunications Company || Operational || GSM 900 / GSM 1800 / UMTS 900 / LTE 1800 / TD-LTE 2300 / 5G 3500 || <ref name=gsa_lte/><ref name=gsa_umts900>{{cite web |title=UMTS900 Information Paper (registration required) |url=http://www.gsacom.com/downloads/pdf/UMTS900_information_paper_231014.php4 |publisher=GSA |date=23 October 2014 |accessdate=19 December 2014}}</ref>
+|-
+| 422 || 03 || [[Nawras|Ooredoo]] || Omani Qatari Telecommunications Company SAOC || Operational || GSM 900 / GSM 1800 / UMTS 900 / LTE 800 / LTE 1800 / TD-LTE 2300 / 5G 3500 || Former Nawras<ref name=gsa_lte/><ref name=gsa_umts900/>
+|-
+| 422 || 04 || [[Omantel]] || Oman Telecommunications Company || Unknown || Unknown || <ref name=itu_ob_1056/>
+|-
+| 422 || 06 || [[Vodafone]] || Oman Future Telecommunications Company SAOC || Operational || 5G 700 || <ref name=itu_ob_1209/>
+|}
+
+=== P ===
+==== [[Pakistan]] – PK ====
+{| {{MNC}}
+|-
+| 410 || 01 || [[Jazz Pakistan|Jazz]] || Mobilink-PMCL || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 || Former [[Mobilink]]
+|-
+| 410 || 02 || 3G EVO / CharJi 4G || [[PTCL]] || Operational || CDMA2000 1900 / TD-LTE 1900 || <ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2018/09/13/ptcl-rolls-out-lte-upgrade-switches-off-cdma-system-in-major-cities/ |title=PTCL rolls out LTE upgrade, switches off CDMA system in major cities |publisher=TeleGeography |date=2018-09-13 |accessdate=2018-09-19}}</ref>
+|-
+| 410 || 03 || [[Ufone]] || Pakistan Telecommunication Mobile Ltd || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 ||
+|-
+| 410 || 04 || [[Zong (mobile network operator)|Zong]] || China Mobile || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 || Former Paktel<ref name=gsa_lte/>
+|-
+| 410 || 05 || [[Special Communications Organization|SCO Mobile]] || SCO Mobile Ltd || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || <ref name=halberd/>
+|-
+| 410 || 06 || [[Telenor]] || [[Telenor Pakistan]] || Operational || GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 850 / LTE 1800  ||
+|-
+| 410 || 07 || [[Jazz Pakistan|Jazz]] || WaridTel || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || Former [[Warid Pakistan]]<ref name=gsa_lte/>
+|-
+| 410 || 08 || [[Special Communications Organization|SCO Mobile]] || SCO Mobile Ltd || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || <ref name=halberd/>
+|}
+
+==== [[State of Palestine|Palestine]] – PS ====
+(Uses the MCC of [[Israel]])
+{| {{MNC}}
+|-
+| 425 || 05 || [[Jawwal]] || Palestine Cellular Communications, Ltd. || Operational || GSM 900 / UMTS 2100 ||
+|-
+| 425 || 06 || Ooredoo || [[Ooredoo Palestine]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 || Former [[Wataniya]] 
+|}
+
+=== Q ===
+==== [[Qatar]] – QA ====
+{| {{MNC}}
+|-
+| 427 || 01 || [[Ooredoo]] || Ooredoo || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || Former Qtel (Qatar Telecom)<ref name=gsa_lte/><ref name=halberd_arab/>
+|-
+| 427 || 02 || [[Vodafone]] || [[Vodafone Qatar]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || <ref name=gsa_lte/><ref name=gsa_umts900/>
+|-
+| 427 || 05 || Ministry of Interior || Ministry of Interior || Operational || TETRA 380 ||
+|-
+| 427 || 06 || Ministry of Interior || Ministry of Interior || Operational || LTE || <ref name=itu_ob_1039/>
+|}
+
+=== S ===
+==== [[Saudi Arabia]] – SA ====
+{| {{MNC}}
+|-
+| 420 || 01 || Al Jawal (STC ) || [[Saudi Telecom Company]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / TD-LTE 2300 / 5G 3500 || <ref name=gsa_lte/><ref name=gsa_umts900/>
+|-
+| 420 || 03 || [[Mobily]] || Etihad Etisalat Company || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 1800 / TD-LTE 2500 || <ref name=gsa_lte/><ref name=gsa_umts900/>
+|-
+| 420 || 04 || [[Zain Group|Zain]] SA || Zain Saudi Arabia || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 / 5G 2500 / 5G 3500 || Active September 2008<ref name=gsa_lte/><ref name=gsa_umts900/><ref>{{cite web|url=http://www.sa.zain.com/autoforms/portal/home/corporate/about-us |title=SA.zain.com |publisher=SA.zain.com |date= |accessdate=2018-06-12}}</ref>
+|-
+| 420 || 05 || [[Virgin Mobile]] || Virgin Mobile Saudi Arabia || Operational || MVNO || Uses Al Jawal network<ref>{{cite web|url=http://telecoms.com/288512/virgin-mobile-launches-in-saudi-arabia/ |title=Virgin Mobile launches in Saudi Arabia |publisher=Telecoms.com |date=2014-09-30 |accessdate=2018-06-12}}</ref>
+|-
+| 420 || 06 || [[Lebara Mobile]] || Lebara Mobile || Operational || MVNO ||
+|-
+| 420 || 21 || RGSM || Saudi Railways GSM || Operational || GSM-R 900 ||
+|}
+
+==== [[Sri Lanka]] – LK ====
+{| {{MNC}}
+|-
+| 413 || 01 || [[SLTMobitel]] || Mobitel (Pvt) Ltd || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 850 / LTE 900 / LTE 1800 / LTE 2100 ||
+|-
+| 413 || 02 || [[Dialog Axiata|Dialog]] || Dialog Axiata PLC || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800  || Former MTN<ref name=gsa_lte/>
+|-
+| 413 || 03 || [[Hutch (Sri Lanka)|Hutch]] || Hutchison Telecommunications Lanka (Pvt) Ltd || Not operational || GSM 900 / GSM 1800 / UMTS 2100 || Former [[Etisalat (Sri Lanka)|Etisalat]];<ref name=Hutch-Etisalat>{{cite web |url=https://www.mobileworldlive.com/featured-content/top-three/ck-hutchison-finalises-sri-lanka-deal/|title=CK Hutchison finalises Sri Lanka deal|publisher=Mobile World Live}}</ref><ref name=itu_ob_1192/> MNC withdrawn<ref name=itu_ob_1233/>
+|-
+| 413 || 04 || [[Lanka Bell]] || Lanka Bell Ltd || Operational || CDMA / WiMAX / TD-LTE 2300 || <ref name=gsa_lte/>
+|-
+| 413 || 05 || [[Airtel Sri Lanka|Airtel]] || Bharti Airtel Lanka (Pvt) Ltd || Operational ||  GSM 900 / GSM 1800 / LTE 850 / LTE 2100 / TD-LTE 2500 ||
+|-
+| 413 || 08 || [[Hutch (Sri Lanka)|Hutch]] || Hutchison Telecommunications Lanka (Pvt) Ltd || Operational || GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 ||
+|-
+| 413 || 09 || [[Hutch (Sri Lanka)|Hutch]] || Hutchison Telecommunications Lanka (Pvt) Ltd || Not operational|| GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 || <ref name=itu_ob_1174/> MNC withdrawn<ref name=itu_ob_1233/>
+|-
+| 413 || 11 || [[Dialog Axiata|Dialog]] || Dialog Broadband Networks (Pvt) Ltd|| Operational ||  CDMA / WiMAX / TD-LTE 2300 || [[Fixed wireless]]
+|-
+| 413 || 12 || [[SLTMobitel]] || Sri Lanka Telecom PLC|| Operational ||  TD-LTE 2600 || Fixed wireless
+|}
+
+==== [[Syria]] – SY ====
+{| {{MNC}}
+|-
+| 417 || 01 || [[Syriatel]] || Syriatel Mobile Telecom  || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 ||
+|-
+| 417 || 02 || MTN || [[MTN Syria]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || Former Spacetel<ref name=itu_ob_1185/>
+|-
+| 417 || 03 || || Wafa Telecom || Unknown || Unknown || <ref name=itu_ob_1240/>
+|-
+| 417 || 09 || || Syrian Telecom || Unknown || Unknown || <ref name=itu_ob_1056/>
+|}
+
+=== T ===
+==== [[Taiwan]] – TW ====
+{| {{MNC}}
+|-
+| 466 || 01 || [[FarEasTone]] || Far EasTone Telecommunications Co Ltd || Operational || LTE 700 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500 || LTE band 28;<ref name=gsa_lte/>
+|-
+| 466 || 02 || [[FarEasTone]] || Far EasTone Telecommunications Co Ltd || Not operational || GSM 900 || GSM shut down July 2017<ref name=authority_tw/><ref name=shutdown2G3G/>
+|-
+| 466 || 03 || [[FarEasTone]] || Far EasTone Telecommunications Co Ltd || Not operational || UMTS 2100 || UMTS shut down Dec 2018<ref name=authority_tw/><ref name=shutdown3gtw>{{cite web |url=https://www.zdnet.com/article/taiwan-to-shut-down-3g-networks-by-year-end/ |title=Taiwan to shut down 3G networks by year end |publisher=ZDNet |date=2018-12-18 |accessdate=2020-07-03}}</ref>
+|-
+| 466 || 05 || Gt || Asia Pacific Telecom || Operational || LTE 700 / LTE 900 / TD-LTE 2600 / 5G 3500 / 5G 28000 || LTE bands 28 / 8 / 41;<ref name=gsa_lte/> CDMA 850&nbsp;MHz shut down Dec 2017<ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2018/01/09/ncc-confirms-3g-licences-will-expire-on-31-december/ |title=NCC confirms 3G licences will expire on 31 December |publisher=TeleGeography |date=2018-01-09 |accessdate=2018-01-09}}</ref>
+|-
+| 466 || 06 || [[FarEasTone]] || Far EasTone Telecommunications Co Ltd || Not operational || GSM 1800 || Former KG Telecom until 2004
+|-
+| 466 || 07 || [[FarEasTone]] || Far EasTone Telecommunications Co Ltd || Not operational || WiMAX 2600 || Shut down in 2015<ref name=authority_tw/><ref name="TaipeiTimesWimax">{{cite web |url=http://www.taipeitimes.com/News/taiwan/archives/2015/02/26/2003612285 |title=NCC to release two 4G bandwidths for auction |publisher=Taipei Times |date=26 February 2015 |accessdate=26 February 2015}}</ref>
+|-
+| 466 || 09 || VMAX || [https://web.archive.org/web/20150716025210/http://www.vmax.net.tw/ Vmax Telecom] || Operational || WiMAX 2600 || <ref name=authority_tw/>
+|-
+| 466 || 10 || G1 || [http://www.g1.com.tw Global Mobile Corp.] || Operational || WiMAX 2600 || <ref name=authority_tw/>
+|-
+| 466 || 11 || Chunghwa LDM || LDTA/[[Chunghwa Telecom]] || Not operational || GSM 1800 || Also known as "Long Distance & Mobile Business Group"
+|-
+| 466 || 12 || || [https://web.archive.org/web/20150518095053/http://www.ambit.com.tw/ Ambit Microsystems] || Operational || LTE 700 / LTE 900 || Subsidiary of [[Foxconn]]; LTE band 28 <ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2015/05/12/ambit-to-commercialise-4g-offering-on-15-may/ |title=Ambit to commercialise 4G offering on 15 May |publisher=TeleGeography |date=12 May 2015 |accessdate=12 May 2015}}</ref><ref name=taiwan_mnc_blog>{{cite web |url=http://blogofmobile.com/article/29688 |title=台湾NCCが各事業者へのMNC割り当て状況を公開 |language=Japanese |date=23 January 2015 |accessdate=14 May 2015}}</ref>
+|-
+| 466 || 56 || FITEL || [[First International Telecom]] || Not operational || WiMAX 2600 / PHS || Bankruptcy in 2014<ref name=authority_tw/><ref name="TaipeiTimesWimax"/>
+|-
+| 466 || 68 || || Tatung InfoComm || Not operational || WiMAX 2600 || License expired in 2014 <ref name=authority_tw/><ref name="TaipeiTimesWimax"/><ref>{{cite web |title=Tatung InfoComm lashes out at NCC over WiMAX |url=http://www.chinapost.com.tw/taiwan/national/national-news/2014/08/28/415912/Tatung-InfoComm.htm |publisher=China Post |date=28 August 2014 |accessdate=14 May 2015}}</ref>
+|-
+| 466 || 88 || [[FarEasTone]] || Far EasTone Telecommunications Co Ltd || Not operational || GSM 1800 || Former KG Telecom until 2004, KG Telecom brand used until 2009
+|-
+| 466 || 89 || T Star || [[Vibo Telecom|Taiwan Star Telecom]] || Operational || LTE 900 / LTE 2600 / 5G 3500 || <ref name=gsa_lte/> UMTS shut down Dec 2018<ref name=shutdown3gtw/>
+|-
+| 466 || 90 || T Star || [[Vibo Telecom|Taiwan Star Telecom]] || Unknown || LTE 900 || <ref name=taiwan_mnc_blog/>
+|-
+| 466 || 92 || Chunghwa || [[Chunghwa Telecom]] || Operational || LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500 || <ref name=gsa_lte/> GSM shut down July 2017;<ref name=shutdown2G3G/> UMTS shut down Dec 2018<ref name=shutdown3gtw/>
+|-
+| 466 || 93 || MobiTai || Mobitai Communications || Not operational || GSM 900 || Acquired by [[Taiwan Mobile]] in 2004, MobiTai brand used until 2008
+|-
+| 466 || 97 || [[Taiwan Mobile]] || Taiwan Mobile Co. Ltd || Operational || LTE 700 / LTE 1800 / LTE 2100 / 5G 3500 || LTE band 28;<ref name=gsa_lte/> GSM shut down July 2017;<ref name=shutdown2G3G/> UMTS shut down Dec 2018<ref name=shutdown3gtw/>
+|-
+| 466 || 99 || TransAsia || TransAsia Telecoms || Not operational|| GSM 900 || Acquired by [[Taiwan Mobile]] in 2002, TransAsia brand used until 2008
+|}
+
+==== [[Tajikistan]] – TJ ====
+{| {{MNC}}
+|-
+| 436 || 01 || [[Tcell]] || JV Somoncom || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / 5G 3500 ||
+|-
+| 436 || 02 || [[Tcell]] || Indigo Tajikistan || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / 5G 3500 ||
+|-
+| 436 || 03 || [http://www.megafon.tj MegaFon] || TT Mobile || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 ||
+|-
+| 436 || 04 || [http://www.babilon-m.tj Babilon-M] || Babilon-Mobile || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100 ||
+|-
+| 436 || 05 || [https://zet-mobile.com/ ZET-Mobile] || Tacom || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 2100 || Former Beeline
+|-
+| 436 || 10|| [http://www.babilon-t.tj Babilon-T] || Babilon-T || Operational || TD-LTE 2300 / WiMAX ||
+|-
+| 436 || 12 || [[Tcell]] || Indigo || Unknown || UMTS 2100 ||
+|}
+
+==== [[Turkmenistan]] – TM ====
+{| {{MNC}}
+|-
+| 438 || 01 || MTS || [[MTS Turkmenistan]] || Not operational || GSM 900 / GSM 1800 / UMTS 2100  || Forced to shut down 2017<ref name=halberd_cis/>
+|-
+| 438 || 02 || TM-Cell || [[Altyn Asyr (mobile operator)|Altyn Asyr]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600 || <ref name=gsa_lte/>
+|-
+| 438 || 03 || AGTS CDMA || [[AŞTU]] || Operational || CDMA 450 ||
+|}
+
+=== U ===
+==== [[United Arab Emirates]] – AE ====
+{| {{MNC}}
+|-
+| 424 || 02 || [[Etisalat]] ||Emirates Telecom Corp || Operational || GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500 || <ref name=gsa_lte/>
+|-
+| 424 || 03 || [[du (telco)|du]] || Emirates Integrated Telecommunications Company || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500 / 5G 26000 || <ref name=gsa_lte/>
+|}
+
+==== [[Uzbekistan]] – UZ ====
+{| {{MNC}}
+|-
+| 434 || 01 ||  || Buztel || Not operational || GSM 900 / GSM 1800 ||
+|-
+| 434 || 02 ||  || Uzmacom || Not operational || GSM 900 / GSM 1800 ||
+|-
+| 434 || 03 || UzMobile || [[Uztelecom|Uzbektelekom]] || Operational || CDMA 450 || EVDO Rev A
+|-
+| 434 || 04 || [[Beeline (telecommunications)|Beeline]] || Unitel LLC || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600 || Former Daewoo Unitel
+|-
+| 434 || 05 || [[Ucell]] || Coscom || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600 / 5G 3500 || <ref>{{cite web |url=http://www.telegeography.com/cu/article.php?article_id=23631 |title=Coscom becomes Ucell |publisher=TeleGeography |date=17 June 2008 |accessdate=14 October 2016}}</ref>
+|-
+| 434 || 06 ||Perfectum Mobile || RUBICON WIRELESS COMMUNICATION || Operational || CDMA 800 ||
+|-
+| 434 || 07 || Mobiuz || [[Universal Mobile Systems]] (UMS) || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / 5G || <ref name=gsa_lte/>
+|-
+| 434 || 08 || UzMobile || [[Uztelecom|Uzbektelekom]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 ||
+|-
+| 434 || 09 || EVO|| OOO «Super iMAX» || Operational || WiMAX / LTE 2300 ||
+|}
+
+=== V ===
+==== [[Vietnam]] – VN ====
+{| {{MNC}}
+|-
+| 452 || 01 || [[MobiFone]]  || Vietnam Mobile Telecom Services Company || Operational || GSM 900 / GSM 1800 / UMTS 2100 ||
+|-
+| 452 || 02 || [[Vinaphone]] || Vietnam Telecom Services Company || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 ||
+|-
+| 452 || 03 || [[S-Fone]] || S-Telecom || Not operational || CDMA2000 800 || License revoked;<ref name=CellularNews64974>{{cite web |title=Vietnam Cancels Two Mobile Network Licenses |url=http://www.cellular-news.com/story/Regulatory/64974.php |accessdate=18 December 2014}}</ref> MNC withdawn<ref name=itu_ob_1164/>
+|-
+| 452 || 04 || [[Viettel Mobile]] || Viettel Telecom || Operational || GSM 900 / UMTS 2100 / LTE 1800 / LTE 2100 || <ref name=halberd/>
+|-
+| 452 || 05 || [[Vietnamobile]] || Hanoi Telecom || Operational || GSM 900 / UMTS 2100 || <ref name=itu_ob_1164/>
+|-
+| 452 || 06 || [[EVNTelecom]] || EVN Telecom || Not operational || CDMA2000 450 || License revoked;<ref name=CellularNews64974/> MNC withdrawn<ref name=itu_ob_1164/>
+|-
+| 452 || 07 || [[Gmobile]] || GTEL Mobile JSC || Operational || GSM 1800 || Former Beeline<ref name=itu_ob_1164/>
+|-
+| 452 || 08 || I-Telecom || Indochina Telecom || Operational || WiMAX || Former [[EVNTelecom]]<ref name=itu_ob_1164/>
+|-
+| 452 || 09 || [http://reddi.vn/ REDDI] || MOBICAST JSC || Operational || MVNO || Uses Vinaphone<ref name=itu_ob_1195/>
+|}
+
+=== Y ===
+==== [[Yemen]] – YE ====
+{| {{MNC}}
+|-
+| 421 || 01 || [[Sabafon|SabaFon]] || || Operational || GSM 900  ||
+|-
+| 421 || 02 || [[MTN Group|MTN]] || Spacetel Yemen|| Operational || GSM 900 ||
+|-
+| 421 || 03 || [[Yemen Mobile]]|| Yemen Mobile|| Operational || CDMA2000 800 ||
+|-
+| 421 || 04 || Y || HiTS-UNITEL || Operational || GSM 900 ||
+|-
+| 421 || 10 || Yemen-4G || PTC/Yemen-Telecom || Operational || 700/1800/2600 ||
+|}
+
+==See also==
+* [[List of mobile network operators of the Asia Pacific region]]
+* [[List of LTE networks in Asia]]
+
+==References==
+{{reflist|33em|refs=
+<ref name=mwlive>{{cite web |title=GSM Roaming and Coverage Maps |url=http://maps.mobileworldlive.com |publisher=GSMA |accessdate=17 December 2014}}</ref>
+<ref name="gsa_lte">{{cite web |title=Evolution to LTE Report |url=http://gsacom.com/download.php?id=4406 |publisher=GSA |date=2017-01-30 |accessdate=2017-03-01}}{{registration required}}</ref>
+<ref name=gsa_lte1800_101213>{{cite web |title=Status of the Global LTE 1800 Market |url=http://www.gsacom.com/downloads/pdf/GSA_status_of_the_global_LTE1800_market_220414.php4 |publisher=GSA |accessdate=24 April 2014}}{{registration required}}</ref>
+<ref name=authority_tw>{{cite web |title=Current Status of assigned Mobile Network Code |url=http://www.ncc.gov.tw/english/news_detail.aspx?site_content_sn=250&sn_f=945 |publisher=NCC |date=2 January 2012 |accessdate=8 March 2017}}</ref>
+<ref name=china_broadnet_1>{{cite web |last1=Tabeta |first1=Shunsuke |last2=Kawase |first2=Kenji |title=China Broadnet starts 5G service as country's 4th carrier |url=https://asia.nikkei.com/Business/Telecommunication/China-Broadnet-starts-5G-service-as-country-s-4th-carrier |website=Nikkei Asia |publisher=Nikkei Asia |date=29 June 2022 |accessdate=19 July 2022}}</ref>
+<ref name=china_broadnet_2>{{cite web |title=部分地区手机用户已搜索到中国广电 5G / 4G 信号 - IT之家 |url=https://www.ithome.com/0/621/278.htm |website=IT之家 |publisher=潇公子 |date=30 May 2022 |access-date=19 July 2022 |language=zh-CN}}</ref>
+<ref name=china_broadnet_3>{{cite web |title=广电共享移动N41/N28/B3/B39频段 - 运营商·运营人 - 通信人家园 - Powered by C114 |url=https://www.txrjy.com/thread-1238704-1-1.html |website=通信人家园 |date=20 June 2022 |access-date=19 July 2022 |language=zh-CN}}</ref>
+<ref name=halberd>{{cite web |title=Asia & Pacific |url=https://halberdbastion.com/intelligence/geographic-regions/asia-pacific |publisher=Halberd Bastion |accessdate=2019-11-07}}</ref>
+<ref name=halberd_cis>{{cite web |title=CIS |url=https://halberdbastion.com/intelligence/geographic-regions/cis |publisher=Halberd Bastion |accessdate=2020-05-14}}</ref>
+<ref name=halberd_arab>{{cite web |title=Arab States |url=https://halberdbastion.com/intelligence/geographic-regions/arab-states |publisher=Halberd Bastion |accessdate=2020-07-07}}</ref>
+<ref name=shutdown2G3G>{{cite web |title=2G and 3G networks are shutting down globally?! |url=https://1ot.mobi/blog/2g-and-3g-networks-are-shutting-down-globally |first=Heimar |last=Lecht |publisher=1oT |date=27 March 2018 |accessdate=7 January 2019}}</ref>
+<ref name=itu_ob_779>{{cite web |title=ITU Operational Bulletin No. 779 |url=https://www.itu.int/pub/T-SP-OB.779-2003 |publisher=ITU |date=1 January 2003 |accessdate=7 August 2015}}</ref>
+<ref name=itu_ob_1019>{{cite web |title=ITU Operational Bulletin No. 1019 |url=https://www.itu.int/pub/T-SP-OB.1019-2013 |publisher=ITU |date=1 January 2013 |accessdate=7 January 2013}}</ref>
+<ref name=itu_ob_1025>{{cite web |title=ITU Operational Bulletin No. 1025 |url=https://www.itu.int/pub/T-SP-OB.1025-2013 |publisher=ITU |date=1 April 2013 |accessdate=8 May 2014}}</ref>
+<ref name=itu_ob_1039>{{cite web |title=ITU Operational Bulletin No. 1039 |url=https://www.itu.int/pub/T-SP-OB.1039-2013 |publisher=ITU |date=1 November 2013 |accessdate=6 May 2014}}</ref>
+<ref name=itu_ob_1051>{{cite web |title=ITU Operational Bulletin No. 1051 |url=https://www.itu.int/pub/T-SP-OB.1051-2014 |publisher=ITU |date=1 May 2014 |accessdate=30 April 2014}}</ref>
+<ref name=itu_ob_1056>{{cite web |title=ITU Operational Bulletin No. 1056 |url=https://www.itu.int/pub/T-SP-OB.1056-2014 |publisher=ITU |date=15 July 2014 |accessdate=20 August 2014}}</ref>
+<ref name=itu_ob_1058>{{cite web |title=ITU Operational Bulletin No. 1058 |url=https://www.itu.int/pub/T-SP-OB.1058-2014 |publisher=ITU |date=15 August 2014 |accessdate=18 December 2014}}</ref>
+<ref name=itu_ob_1068>{{cite web |title=ITU Operational Bulletin No. 1068 |url=https://www.itu.int/pub/T-SP-OB.1068-2015 |publisher=ITU |date=15 January 2015 |accessdate=22 January 2015}}</ref>
+<ref name=itu_ob_1069>{{cite web |title=ITU Operational Bulletin No. 1069 |url=https://www.itu.int/pub/T-SP-OB.1069-2015 |publisher=ITU |date=1 February 2015 |accessdate=11 February 2015}}</ref>
+<ref name=itu_ob_1070>{{cite web |title=ITU Operational Bulletin No. 1070 |url=https://www.itu.int/pub/T-SP-OB.1070-2015 |publisher=ITU |date=15 February 2015 |accessdate=4 March 2015}}</ref>
+<ref name=itu_ob_1077>{{cite web |title=ITU Operational Bulletin No. 1077 |url=https://www.itu.int/pub/T-SP-OB.1077-2015 |publisher=ITU |date=1 June 2015 |accessdate=4 June 2015}}</ref>
+<ref name=itu_ob_1080>{{cite web |title=ITU Operational Bulletin No. 1080 |url=https://www.itu.int/pub/T-SP-OB.1080-2015 |publisher=ITU |date=15 July 2015 |accessdate=17 July 2015}}</ref>
+<ref name=itu_ob_1085>{{cite web |title=ITU Operational Bulletin No. 1085 |url=https://www.itu.int/pub/T-SP-OB.1085-2015 |publisher=ITU |date=1 October 2015 |accessdate=8 October 2015}}</ref>
+<ref name=itu_ob_1092>{{cite web |title=ITU Operational Bulletin No. 1092 |url=https://www.itu.int/pub/T-SP-OB.1092-2016 |publisher=ITU |date=15 January 2016 |accessdate=15 January 2016}}</ref>
+<ref name=itu_ob_1111>{{cite web |title=ITU Operational Bulletin No. 1111 |url=https://www.itu.int/pub/T-SP-OB.1111-2016 |publisher=ITU |date=1 November 2016 |accessdate=1 November 2016}}</ref>
+<ref name=itu_ob_1116>{{cite web |title=ITU Operational Bulletin No. 1116 |url=https://www.itu.int/pub/T-SP-OB.1116-2017 |publisher=ITU |date=15 January 2017 |accessdate=16 January 2017}}</ref>
+<ref name=itu_ob_1118>{{cite web |title=ITU Operational Bulletin No. 1118 |url=https://www.itu.int/pub/T-SP-OB.1118-2017 |publisher=ITU |date=15 February 2017 |accessdate=15 February 2017}}</ref>
+<ref name=itu_ob_1122>{{cite web |title=ITU Operational Bulletin No. 1122 |url=https://www.itu.int/pub/T-SP-OB.1122-2017 |publisher=ITU |date=15 April 2017 |accessdate=18 April 2017}}</ref>
+<ref name=itu_ob_1124>{{cite web |title=ITU Operational Bulletin No. 1124 |url=https://www.itu.int/pub/T-SP-OB.1124-2017 |publisher=ITU |date=15 May 2017 |accessdate=15 May 2017}}</ref>
+<ref name=itu_ob_1134>{{cite web |title=ITU Operational Bulletin No. 1134 |url=https://www.itu.int/pub/T-SP-OB.1134-2017 |publisher=ITU |date=15 October 2017 |accessdate=16 October 2017}}</ref>
+<ref name=itu_ob_1139>{{cite web |title=ITU Operational Bulletin No. 1139 |url=https://www.itu.int/pub/T-SP-OB.1139-2018 |publisher=ITU |date=1 January 2018 |accessdate=2 January 2018}}</ref>
+<ref name=itu_ob_1142>{{cite web |title=ITU Operational Bulletin No. 1142 |url=https://www.itu.int/pub/T-SP-OB.1142-2018 |publisher=ITU |date=15 February 2018 |accessdate=15 February 2018}}</ref>
+<ref name=itu_ob_1144>{{cite web |title=ITU Operational Bulletin No. 1144 |url=https://www.itu.int/pub/T-SP-OB.1144-2018 |publisher=ITU |date=15 March 2018 |accessdate=19 March 2018}}</ref>
+<ref name=itu_ob_1149>{{cite web |title=ITU Operational Bulletin No. 1149 |url=https://www.itu.int/pub/T-SP-OB.1149-2018 |publisher=ITU |date=1 June 2018 |accessdate=4 June 2018}}</ref>
+<ref name=itu_ob_1153>{{cite web |title=ITU Operational Bulletin No. 1153 |url=https://www.itu.int/pub/T-SP-OB.1153-2018 |publisher=ITU |date=1 August 2018 |accessdate=1 August 2018}}</ref>
+<ref name=itu_ob_1156>{{cite web |title=ITU Operational Bulletin No. 1156 |url=https://www.itu.int/pub/T-SP-OB.1156-2018 |publisher=ITU |date=15 September 2018 |accessdate=17 September 2018}}</ref>
+<ref name=itu_ob_1164>{{cite web |title=ITU Operational Bulletin No. 1164 |url=https://www.itu.int/pub/T-SP-OB.1164-2019 |publisher=ITU |date=15 January 2019 |accessdate=15 January 2019}}</ref>
+<ref name=itu_ob_1174>{{cite web |title=ITU Operational Bulletin No. 1174 |url=https://www.itu.int/pub/T-SP-OB.1174-2019 |publisher=ITU |date=15 June 2019 |accessdate=17 June 2019}}</ref>
+<ref name=itu_ob_1185>{{cite web |title=ITU Operational Bulletin No. 1185 |url=https://www.itu.int/pub/T-SP-OB.1185-2019 |publisher=ITU |date=1 December 2019 |accessdate=2 December 2019}}</ref>
+<ref name=itu_ob_1192>{{cite web |title=ITU Operational Bulletin No. 1192 |url=https://www.itu.int/pub/T-SP-OB.1192-2020 |publisher=ITU |date=15 March 2020 |accessdate=20 March 2020}}</ref>
+<ref name=itu_ob_1195>{{cite web |title=ITU Operational Bulletin No. 1195 |url=https://www.itu.int/pub/T-SP-OB.1195-2020 |publisher=ITU |date=1 May 2020 |accessdate=1 May 2020}}</ref>
+<ref name=itu_ob_1202>{{cite web |title=ITU Operational Bulletin No. 1202 |url=https://www.itu.int/pub/T-SP-OB.1202-2020 |publisher=ITU |date=15 August 2020 |accessdate=16 August 2020}}</ref>
+<ref name=itu_ob_1203>{{cite web |title=ITU Operational Bulletin No. 1203 |url=https://www.itu.int/pub/T-SP-OB.1203-2020 |publisher=ITU |date=1 September 2020 |accessdate=1 September 2020}}</ref>
+<ref name=itu_ob_1209>{{cite web |title=ITU Operational Bulletin No. 1209 |url=https://www.itu.int/pub/T-SP-OB.1209-2020 |publisher=ITU |date=1 December 2020 |accessdate=1 December 2020}}</ref>
+<ref name=itu_ob_1218>{{cite web |title=ITU Operational Bulletin No. 1218 |url=https://www.itu.int/pub/T-SP-OB.1218-2021 |publisher=ITU |date=15 April 2021 |accessdate=15 April 2021}}</ref>
+<ref name=itu_ob_1231>{{cite web |title=ITU Operational Bulletin No. 1231 |url=https://www.itu.int/pub/T-SP-OB.1231-2021 |publisher=ITU |date=1 November 2021 |accessdate=1 November 2021}}</ref>
+<ref name=itu_ob_1233>{{cite web |title=ITU Operational Bulletin No. 1233 |url=https://www.itu.int/pub/T-SP-OB.1233-2021 |publisher=ITU |date=1 December 2021 |accessdate=1 December 2021}}</ref>
+<ref name=itu_ob_1240>{{cite web |title=ITU Operational Bulletin No. 1240 |url=https://www.itu.int/pub/T-SP-OB.1240-2022 |publisher=ITU |date=15 March 2022 |accessdate=18 March 2022}}</ref>
+<ref name=itu_ob_1242>{{cite web |title=ITU Operational Bulletin No. 1242 |url=https://www.itu.int/pub/T-SP-OB.1242-2022 |publisher=ITU |date=15 April 2022 |access-date=14 April 2022}}</ref>
+<ref name=itu_ob_1252>{{cite web |title=ITU Operational Bulletin No. 1252 |url=https://www.itu.int/pub/T-SP-OB.1252-2022 |publisher=ITU |date=15 September 2022 |access-date=16 September 2022}}</ref>
+<ref name=itu_ob_1256>{{cite web |title=ITU Operational Bulletin No. 1256 |url=https://www.itu.int/pub/T-SP-OB.1256-2022 |publisher=ITU |date=15 November 2022 |access-date=14 November 2022}}</ref>
+}}
+
+[[Category:Telecommunications lists]]
+[[Category:Asia-related lists]]
