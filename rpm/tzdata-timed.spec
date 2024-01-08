@@ -1,5 +1,4 @@
 Name:       tzdata-timed
-
 Summary:    Data files for the time daemon, timed
 Version:    2021a
 Release:    1
@@ -17,10 +16,9 @@ and mobile country codes.
 %setup -q -n %{name}-%{version}
 
 %build
-make %{?_smp_mflags}
+%make_build
 
 %install
-rm -rf %{buildroot}
 %make_install
 
 %files
