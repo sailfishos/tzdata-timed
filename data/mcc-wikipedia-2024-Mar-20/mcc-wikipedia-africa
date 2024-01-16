@@ -24,7 +24,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 ==== [[Angola]] – AO ====
 {| {{MNC}}
 |-
-| 631 || 02 || [[Unitel (Angola)|UNITEL]] || UNITEL S.a.r.l. || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || <ref name=gsa_lte1800_101213>{{cite web |title=Status of the Global LTE 1800 Market |url=http://www.gsacom.com/downloads/pdf/GSA_status_of_the_global_LTE1800_market_220414.php4 |publisher=GSA |accessdate=24 April 2014}}{{registration required}}</ref><ref name=gsma_angola>{{cite web |title=Angola |url=http://maps.mobileworldlive.com/network.php?cid=76&cname=Angola |publisher=GSMA |accessdate=25 April 2014}}</ref><ref name=4g_statusafrica_070314>{{cite web |title=Global Deployment Status - Africa |url=http://www.4gamericas.org/UserFiles/file/Global%20Status%20Updates/March%207/06_Africa%203_7_14.pdf |publisher=4G Americas |accessdate=28 March 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20140314014513/http://www.4gamericas.org/UserFiles/file/Global%20Status%20Updates/March%207/06_Africa%203_7_14.pdf |archivedate=14 March 2014 |df=dmy-all }}</ref>
+| 631 || 02 || [[Unitel (Angola)|UNITEL]] || UNITEL S.a.r.l. || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 3500 || <ref name=gsa_lte1800_101213>{{cite web |title=Status of the Global LTE 1800 Market |url=http://www.gsacom.com/downloads/pdf/GSA_status_of_the_global_LTE1800_market_220414.php4 |publisher=GSA |accessdate=24 April 2014}} {{registration required}}</ref><ref name=gsma_angola>{{cite web |title=Angola |url=http://maps.mobileworldlive.com/network.php?cid=76&cname=Angola |publisher=GSMA |accessdate=25 April 2014}}</ref><ref name=4g_statusafrica_070314>{{cite web |title=Global Deployment Status - Africa |url=http://www.4gamericas.org/UserFiles/file/Global%20Status%20Updates/March%207/06_Africa%203_7_14.pdf |publisher=4G Americas |accessdate=28 March 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20140314014513/http://www.4gamericas.org/UserFiles/file/Global%20Status%20Updates/March%207/06_Africa%203_7_14.pdf |archivedate=14 March 2014 |df=dmy-all }}</ref>
 |-
 | 631 || 04 || [[Movicel|MOVICEL]] || MOVICEL Telecommunications S.A. || Operational || GSM 900 / GSM 1800 / UMTS 900 / LTE 1800 || CDMA shut down March 2016<ref name=gsa_hspa/><ref name="gsa_lte1800_101213"/><ref name=gsma_angola/>
 |-
@@ -35,7 +35,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 ==== [[Benin]] – BJ ====
 {| {{MNC}}
 |-
-| 616 || 01 || Libercom || [[:fr:Bénin Télécoms SA|Benin Telecoms Mobile]] || Operational || GSM 900 / GSM 1800 / LTE 1800 / CDMA / WiMAX || Brands are Libercom (GSM), be.Telecoms (LTE), Kanakoo (CDMA / WiMAX)
+| 616 || 01 || || [[:fr:Bénin Télécoms SA|Benin Telecoms Mobile]] || Operational || LTE 1800 / CDMA / WiMAX || Brands are:- Telecoms (LTE), Kanakoo (CDMA / WiMAX); Libercom GSM shut down 2018<ref>{{cite web |url=https://www.commsupdate.com/articles/2018/10/03/benins-libercom-finally-shut-down/ |title=Benin's Libercom finally shut down |publisher=TeleGeography |date=2018-10-03 |accessdate=2022-12-09}}</ref>
 |-
 | 616 || 02 || Moov || Telecel Benin || Operational || GSM 900 / UMTS 2100 || EtiSalat / Atlantique Telecom / Moov <ref name=gsa_hspa/><ref name=halberd/>
 |-
@@ -63,7 +63,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 613 || 02 || [http://www.orange.bf Orange] || Orange Burkina Faso || Operational || GSM 900 / UMTS 2100 / LTE 1800 || Previously Zain/Celtel,<ref name=gsa_hspa/><ref name="cellular-news.com">{{cite web |url=http://www.cellular-news.com/story/32799.php |title=Celtel to Rebrand As Zain Throughout Africa |publisher=Cellular News |date=31 July 2008 |accessdate=14 October 2016}}</ref> Airtel<ref name="www.orange.com">{{cite web |url=https://www.orange.com/en/Press-Room/press-releases/press-releases-2016/Orange-completes-acquisition-of-mobile-operator-Airtel-in-Burkina-Faso |title=Orange completes acquisition of mobile operator Airtel in Burkina Faso}}</ref>
 |-
-| 613 || 03 || [http://www.telecelfaso.bf Telecel Faso]  || Telecel Faso SA || Operational || GSM 900 / LTE 1800 ||
+| 613 || 03 || Telecel Faso || Telecel Faso SA || Operational || GSM 900 / LTE 1800 ||
 |}
 
 ==== [[Burundi]] – BI ====
@@ -75,7 +75,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 642 || 03 || Onatel || Onatel || Operational || GSM 900 || <ref name=authority_bi/>
 |-
-| 642 || 07 || Smart Mobile || LACELL SU || Operational || GSM 1800 / UMTS 2100 || <ref name=gsa_hspa/><ref name=halberd/><ref name=authority_bi/>
+| 642 || 07 || Smart Mobile || LACELL SU || Not operational || GSM 1800 / UMTS 2100 || <ref name=gsa_hspa/><ref name=halberd/><ref name=authority_bi/> suspended in 2022<ref>{{cite web |url=https://www.commsupdate.com/articles/2022/09/06/arct-shuts-down-smart-burundi-over-tax-arrears-and-expired-licence/ |title=ARCT shuts down Smart Burundi over 'tax arrears' and expired licence |publisher=TeleGeography |date=2022-09-06 |access-date=2022-12-09}}</ref>
 |-
 | 642 || 08 || [[Lumitel]] || [[Viettel]] Burundi || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 || Formerly HiTs Telecom<ref name=gsa_lte/><ref name=mwlive/><ref name=authority_bi/><ref>{{cite web |title=Government licenses sixth mobile operator – HiTs Telecom |url=https://www.telegeography.com/products/commsupdate/articles/2008/01/18/government-licenses-sixth-mobile-operator-hits-telecom/ |publisher=TeleGeography |date=18 January 2008 |accessdate=26 May 2015}}</ref><ref>{{cite web |url=http://www.telegeography.com/products/commsupdate/articles/2012/09/19/arct-burundi-withdraws-licences-from-hits-and-comium |title=ARCT Burundi withdraws licences from HiTS and Comium |publisher=TeleGeography |date=19 September 2012 |accessdate=28 July 2013}}</ref>
 |-
@@ -155,7 +155,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 630 || 05 || [[Supercell (mobile network)|Supercell]] || Supercell SPRL || Operational || GSM 900 / GSM 1800 ||
 |-
-| 630 || 86 || [[Orange RDC]] || Orange RDC sarl || Operational || GSM 900 / GSM 1800 / UMTS 2100 / TD-LTE 2600 || <ref name=halberd/>
+| 630 || 86 || [[Orange RDC]] || Orange RDC sarl || Operational || GSM 900 / GSM 1800 / UMTS 2100 / TD-LTE 2600 / 5G || <ref name=halberd/>
 |-
 | 630 || 88 || YTT || Yozma Timeturns sprl || Not operational || GSM 900 / GSM 1800 || Planned<ref name=itu_ob_1019/>
 |-
@@ -194,7 +194,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 ==== [[Eritrea]] – ER ====
 {| {{MNC}}
 |-
-| 657 || 01 || Eritel || Eritrea Telecommunications Services Corporation || Operational || GSM 900 || 
+| 657 || 01 || Eritel || Eritrea Telecommunications Services Corporation || Operational || GSM 900 / CDMA || CDMA for fixed wireless
 |}
 
 ==== [[Eswatini]] – SZ ====
@@ -210,7 +210,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 ==== [[Ethiopia]] – ET ====
 {| {{MNC}}
 |-
-| 636 || 01 || MTN || [[Ethio Telecom]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || <ref name=itu_ob_1019/><ref name=gsa_lte/>
+| 636 || 01 || MTN || [[Ethio Telecom]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G || <ref name=itu_ob_1019/><ref name=gsa_lte/>
 |}
 
 === F ===
@@ -222,14 +222,14 @@ Includes
 |-
 | 647 || 00 || Orange || Orange La Réunion || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 3500 || [[Mayotte]], [[Réunion]]<ref name=mwlive/>
 |-
-| 647 || 01 || Maoré Mobile || BJT Partners || Operational || GSM 900 / GSM 1800 / LTE 1800 || [[Mayotte]]<ref name=itu_ob_1087/><ref name=mwlive/>
+| 647 || 01 || Maoré Mobile || BJT Partners || Not operational || LTE 1800 || [[Mayotte]];<ref name=itu_ob_1087/><ref name=mwlive/> MNC withdrawn<ref name=authority_fr/>
 |-
 | 647 || 02 || Only || Telco OI || Operational ||  GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 ||  [[Mayotte]]<ref name=mwlive/><ref name=itu_ob_1087/>
 |-
 | 647 || 03 || [[Free (ISP)|Free]] || Telco OI || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 || [[Réunion]]
 Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2017/07/06/iliad-launches-free-branded-services-in-reunion/ |title=Iliad launches Free-branded services in Reunion |publisher=TeleGeography |date=2017-07-06 |accessdate=2017-07-06}}</ref><ref name=itu_ob_1146/>
 |-
-| 647 || 04 || Zeop || Zeop mobile || Unknown || LTE 1800 / LTE 2100 / LTE 2600 || <ref name=itu_ob_1146/>
+| 647 || 04 || Zeop || Zeop mobile || Operational || LTE 1800 / LTE 2100 / LTE 2600 || <ref name=itu_ob_1146/>
 |-
 | 647 || 10 || SFR Réunion || Société Réunionnaise du Radiotéléphone || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 || [[Mayotte]], [[Réunion]]; LTE bands 20 / 3 / 7<ref name=mwlive/><ref name=halberd/>
 |}
@@ -258,7 +258,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 607 || 03 || Comium || Comium || Operational || GSM 900 / GSM 1800 || <ref name=mwlive/>
 |-
-| 607 || 04 || QCell  || QCell Gambia || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || <ref name=halberd/>
+| 607 || 04 || QCell  || QCell Gambia || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G || <ref name=halberd/>
 |-
 | 607 || 05 || || [[Gamtel]]-Ecowan || Unknown || WiMAX / LTE || <ref name=itu_ob_1110/>
 |-
@@ -270,7 +270,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 620 || 01 || MTN || [[MTN Group]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 2600 || former spacefon<ref name=gsa_lte/><ref name=gsa_hspa/>
 |-
-| 620 || 02 || [[Vodafone Ghana|Vodafone]] || [[Vodafone]] Group || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 || former Onetouch, Ghana Telecom<ref name=gsa_lte/><ref name=gsa_hspa/><ref name=halberd/>
+| 620 || 02 || [[Vodafone Ghana|Vodafone]] || [[Vodafone]] Group || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 || former Onetouch, Ghana Telecom<ref name=gsa_lte/><ref name=gsa_hspa/><ref name=halberd/>
 |-
 | 620 || 03 || AirtelTigo || [[Millicom]] Ghana || Operational || GSM 900 / GSM 1800 / UMTS 2100 || former MOBITEL, Tigo<ref name=gsa_hspa/><ref name=halberd/>
 |-
@@ -306,11 +306,11 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 ==== [[Guinea]] – GN ====
 {| {{MNC}}
 |-
-| 611 || 01 || Orange  || Orange S.A. || Operational || GSM 900 / GSM 1800 / LTE || Formerly Spacetel<ref name=gsma_guinea>{{cite web |title=GSM Coverage Maps Guinea |url=http://maps.mobileworldlive.com/network.php?cid=101&cname=Guinea |publisher=GSMA |accessdate=12 December 2012}}</ref> 
+| 611 || 01 || Orange  || Orange S.A. || Operational || GSM 900 / GSM 1800 / LTE || former Spacetel<ref name=gsma_guinea>{{cite web |title=GSM Coverage Maps Guinea |url=http://maps.mobileworldlive.com/network.php?cid=101&cname=Guinea |publisher=GSMA |accessdate=12 December 2012}}</ref> 
 |-
 | 611 || 02 || Sotelgui || Sotelgui Lagui || Operational || GSM 900 || <ref name=gsma_guinea/> 
 |-
-| 611 || 03 || Telecel Guinee || INTERCEL Guinée || Operational || GSM 900 || <ref name=gsma_guinea/> 
+| 611 || 03 || Intercel || Intercel Guinée || Not operational || GSM 900 || former Telecel;<ref name=gsma_guinea/> license revoked Oct 2018<ref>{{cite web |url=https://www.commsupdate.com/articles/2018/10/12/intercel-shut-down-by-guinea-authorities/ |title=Intercel shut down by Guinea authorities |publisher=TeleGeography |date=2018-10-12 |access-date=2022-12-08}}</ref>
 |-
 | 611 || 04 || MTN || Areeba Guinea || Operational || GSM 900 / GSM 1800 / UMTS 2100 || <ref name=gsma_guinea/> 
 |-
@@ -356,13 +356,13 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 639 || 01 || [[Safaricom]] || Safaricom Limited || Unknown || Unknown || <ref name=itu_ob_1140/>
 |-
-| 639 || 02 || [[Safaricom]] || Safaricom Limited || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G || <ref name=gsa_lte/>
+| 639 || 02 || [[Safaricom]] || Safaricom Limited || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 2500 || <ref name=gsa_lte/>
 |-
-| 639 || 03 || [[Bharti Airtel|Airtel]] || Bharti Airtel || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 || Former Celtel, then Zain<ref name="cellular-news.com"/>
+| 639 || 03 || [[Bharti Airtel|Airtel]] || Bharti Airtel || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / 5G 2500 || Former Celtel, then Zain<ref name="cellular-news.com"/>
 |-
 | 639 || 04 || || Mobile Pay Kenya Limited || Unknown || Unknown || <ref name=itu_ob_1140/>
 |-
-| 639 || 05 || yu || Essar Telecom Kenya || Not operational || GSM 900 || Former Econet Wireless; network sold to Safaricom in 2014, subscribers moved to Airtel<ref>{{cite web |title=Essar Telecom Gets Conditional Approval to Sell Kenyan Mobile Network |url=http://www.cellular-news.com/story/Regulatory/65179.php |publisher=Cellular News |date=29 March 2014 |accessdate=11 May 2015}}</ref>
+| 639 || 05 || [[Bharti Airtel|Airtel]] || Bharti Airtel || Unknown || Unknown || Former Econet Wireless, Essar Telecom; network sold to Safaricom in 2014, subscribers moved to Airtel<ref>{{cite web |title=Essar Telecom Gets Conditional Approval to Sell Kenyan Mobile Network |url=http://www.cellular-news.com/story/Regulatory/65179.php |publisher=Cellular News |date=29 March 2014 |accessdate=11 May 2015}}</ref><ref name=authority_ke/>
 |-
 | 639 || 06 || || Finserve Africa Limited || Unknown || Unknown || <ref name=itu_ob_1140/>
 |-
@@ -379,6 +379,8 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 | 639 || 12 || || Infura Limited || Unknown || Unknown || <ref name=itu_ob_1207/>
 |-
 | 639 || 13 || || Hidiga Investments Ltd || Unknown || Unknown || <ref name=authority_ke/>
+|-
+| 639 || 14 || || NRG Media Limited || Unknown || Unknown || <ref name=authority_ke/>
 |}
 
 === L ===
@@ -438,7 +440,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 ==== [[Malawi]] – MW ====
 {| {{MNC}}
 |-
-| 650 || 01 || TNM || Telecom Network Malawi || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / TD-LTE 2500 || <ref name=gsa_lte/><ref name=mwlive/>
+| 650 || 01 || TNM || Telecom Network Malawi || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / TD-LTE 2500 / 5G 3500 / 5G 3700 || <ref name=gsa_lte/><ref name=mwlive/>
 |-
 | 650 || 02 || Access || Access Communications Ltd || Operational || CDMA / LTE 850 || <ref name=gsa_lte/>
 |-
@@ -476,7 +478,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 617 || 03 || CHILI || [[Mahanagar Telephone Mauritius Limited]] (MTML) || Operational || GSM 900 / UMTS 2100 / LTE 1800 || <ref name=itu_ob_1056/><ref name=gsa_lte/><ref name=halberd/>
 |-
-| 617 || 10 || [[Emtel]] || Emtel Ltd. || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G ||
+| 617 || 10 || [[Emtel]] || Emtel Ltd. || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 2500 ||
 |}
 
 ==== [[Morocco]] – MA ====
@@ -504,7 +506,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 643 || 03 || Movitel || [[Movitel, SA]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 ||<ref name=itu_ob_997/><ref name=gsma_mozambique>{{cite web |title=GSM Coverage Map Mozambique |url=http://maps.mobileworldlive.com/network.php?cid=94&cname=Mozambique |publisher=GSMA |accessdate=12 December 2012}}</ref> 
 |-
-| 643 || 04 || Vodacom || [[Vodacom]] Mozambique, S.A. || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 ||<ref name=gsma_mozambique/> 
+| 643 || 04 || Vodacom || [[Vodacom]] Mozambique, S.A. || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G ||<ref name=gsma_mozambique/> 
 |}
 
 === N ===
@@ -543,7 +545,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 621 || 00 || || Capcom || Not operational || LTE 1900 || Former Starcomms, MultiLinks, and MTS First Wireless<ref name=gsa_lte/>
 |-
-| 621 || 20 || [[Airtel Africa|Airtel]] || Bharti Airtel Limited || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || Former [[Zain Group|Zain]],<ref name="airtel"/> [[V-Mobile]]<ref name=gsa_hspa/><ref name=mwlive/>
+| 621 || 20 || [[Airtel Africa|Airtel]] || Bharti Airtel Limited || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 3500 || Former [[Zain Group|Zain]],<ref name="airtel"/> [[V-Mobile]]<ref name=gsa_hspa/><ref name=mwlive/>
 |-
 | 621 || 22 || InterC || [https://intercnetwork.com.ng/ InterC Network Ltd.] || Operational || LTE 800 || Former Intercellular; LTE band 20<ref>{{cite web |url=http://www.techsuplex.com/2016/09/27/intercs-4g-network-live-abuja-kaduna-portharcourt-decent/ |title=InterC's 4G network is live in Abuja, Kaduna and PortHarcourt and it's decent |publisher=TechSuplex |date=27 Sep 2016 |accessdate=30 Sep 2016}}</ref>
 |-
@@ -559,7 +561,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 621 || 40 || Ntel || [[NITEL|Nigerian Mobile Telecommunications Limited]] || Operational || LTE 900 / LTE 1800 || Former M-Tel; LTE bands 8 / 3
 |-
-| 621 || 50 || [[Globacom|Glo]] || Globacom Ltd || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 || LTE band 28<ref name=gsa_hspa/><ref name=mwlive/>
+| 621 || 50 || [[Globacom|Glo]] || Globacom Ltd || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 2600 || LTE bands 28, 7<ref name=gsa_hspa/><ref name=mwlive/>
 |-
 | 621 || 60 || 9mobile || Emerging Markets Telecommunication Services Ltd. || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || Until 2017, [[Etisalat Nigeria|Etisalat]]<ref name=gsa_hspa/>
 |}
@@ -568,13 +570,13 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 ==== [[Rwanda]] – RW ====
 {| {{MNC}}
 |-
-| 635 || 10 || [[MTN Group|MTN]] || MTN Rwandacell SARL || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 || <ref name=mwlive/>
+| 635 || 10 || [[MTN Group|MTN]] || MTN Rwandacell SARL || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE || <ref name=mwlive/>
 |-
 | 635 || 11 || Rwandatel || Rwandatel S.A. || Not operational || CDMA || Licence revoked in April 2011<ref name=rura_revoke_rwandatel/><ref name=authority_rw/>
 |-
 | 635 || 12 || Rwandatel || Rwandatel S.A. || Not operational || GSM || Licence revoked in April 2011<ref name=rura_revoke_rwandatel>{{cite web |title=DECISION N°005/LEG.-RURA/2011 OF 1ST APRIL 2011 REVOKING THE MOBILE TELECOMMUNICATIONS LICENSE OF RWANDATEL S.A |url=http://www.rura.gov.rw/fileadmin/board_decision/BOARD_DECISION_REVOCATION_OF_RWANDATEL_MOBILE_LICENSE.pdf |publisher=RURA |date=1 April 2011 |accessdate=17 February 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20150217215714/http://www.rura.gov.rw/fileadmin/board_decision/BOARD_DECISION_REVOCATION_OF_RWANDATEL_MOBILE_LICENSE.pdf |archivedate=17 February 2015 |df=dmy-all }}</ref>
 |-
-| 635 || 13 || [[Bharti Airtel|Airtel]] || Airtel RWANDA || Operational || GSM 900 / GSM 1800 / UMTS 2100 || Former [[Tigo]]<ref name=itu_ob_1168/>
+| 635 || 13 || [[Bharti Airtel|Airtel]] || Airtel RWANDA || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE || Former [[Tigo]]<ref name=itu_ob_1168/>
 |-
 | 635 || 14 || [[Bharti Airtel|Airtel]] || Airtel RWANDA || Not operational || GSM 900 / GSM 1800 / UMTS 2100 || Merged with Tigo; MNC withdrawn<ref name=itu_ob_1168/>
 |-
@@ -591,9 +593,9 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 ==== [[São Tomé and Príncipe]] – ST ====
 {| {{MNC}}
 |-
-| 626 || 01 || CSTmovel || Companhia Santomese de Telecomunicaçôe|| Operational || GSM 900 / UMTS 2100 || <ref name=halberd/>
+| 626 || 01 || CSTmovel || Companhia Santomense de Telecomunicações|| Operational || GSM 900 / UMTS 2100 / LTE || <ref name=halberd/>
 |-
-| 626 || 02 || Unitel STP || Unitel Sao Tome and Principe|| Operational || GSM 900 / UMTS 2100 || <ref name=halberd/>
+| 626 || 02 || Unitel STP || Unitel São Tomé and Príncipe|| Operational || GSM 900 / UMTS 2100 / LTE || <ref name=halberd/>
 |}
 
 ==== [[Senegal]] – SN ====
@@ -611,13 +613,13 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 ==== [[Seychelles]] – SC ====
 {| {{MNC}}
 |-
-| 633 || 01 || [[Cable & Wireless Communications#Seychelles|Cable & Wireless]] || Cable & Wireless Seychelles || Operational || GSM 900 / UMTS / 5G ||
+| 633 || 01 || [[Cable & Wireless Communications#Seychelles|Cable & Wireless]] || Cable & Wireless Seychelles || Operational || GSM 900 / UMTS / 5G || <ref name=itu_ob_1258/>
 |-
-| 633 || 02 || Mediatech || Mediatech International || Not operational || GSM 1800 || License and MNC withdrawn <ref name=itu_ob_1073/>
+| 633 || 02 || Mediatech || Mediatech International || Not operational || GSM 1800 || License and MNC withdrawn<ref name=itu_ob_1073/>
 |-
-| 633 || 05 || || Intelvision Ltd || Unknown || Unknown || <ref name=itu_ob_1194/>
+| 633 || 05 || || Intelvision Ltd || Unknown || Unknown || <ref name=itu_ob_1194/><ref name=itu_ob_1258/>
 |-
-| 633 || 10 || [[Airtel Africa|Airtel]] || Telecom Seychelles Ltd || Operational || GSM 900 / UMTS 2100 / LTE 800 || <ref>{{cite web |title=Super-fast internet speeds ahead - 4G LTE technology now available in Seychelles |url=http://www.seychellesnewsagency.com/articles/1850/Super-fast+internet+speeds+ahead+-+G+LTE+technology+now+available+in+Seychelles |publisher=Seychelles News Agency |date=28 November 2014 |accessdate=16 April 2015}}</ref>
+| 633 || 10 || [[Airtel Africa|Airtel]] || Telecom Seychelles Ltd || Operational || GSM 900 / UMTS 2100 / LTE 800 || <ref>{{cite web |title=Super-fast internet speeds ahead - 4G LTE technology now available in Seychelles |url=http://www.seychellesnewsagency.com/articles/1850/Super-fast+internet+speeds+ahead+-+G+LTE+technology+now+available+in+Seychelles |publisher=Seychelles News Agency |date=28 November 2014 |accessdate=16 April 2015}}</ref><ref name=itu_ob_1258/>
 |}
 
 ==== [[Sierra Leone]] – SL ====
@@ -649,7 +651,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 ==== [[Somalia]] – SO ====
 {| {{MNC}}
 |-
-| 637 || 01 || [[Telesom]] || Telesom || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE || <ref name=gsa_hspa/>
+| 637 || 01 || [[Telesom]] || Telesom || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE / 5G || <ref name=gsa_hspa/>
 |-
 | 637 || 04 || [[Somafone]] || Somafone FZLLC  || Operational || GSM 900 / GSM 1800 ||
 |-
@@ -669,7 +671,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 637 || 70 || || Onkod Telecom Ltd. || Not operational || Unknown || MNC withdrawn <ref name=itu_ob_1053/>
 |-
-| 637 || 71 || [[Somtel]] || Somtel || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 || <ref name=gsa_hspa/>
+| 637 || 71 || [[Somtel]] || Somtel || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / 5G || <ref name=gsa_hspa/>
 |-
 | 637 || 82 || [[Telcom (Somalia)|Telcom]] || Telcom Somalia || Operational || GSM 900 / GSM 1800 / CDMA2000 / LTE ||
 |}
@@ -705,7 +707,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 655 || 17 || || [[Sishen mine|Sishen Iron Ore Company (Ltd) Pty]] || Not operational || Unknown || <ref name=itu_ob_1077/><ref name=itu_ob_1176/>
 |-
-| 655 || 19 || Rain || Wireless Business Solutions (Pty) Ltd || Operational || LTE 1800 / TD-LTE 2600 / 5G 3500 || 
+| 655 || 19 || [[Rain (telecommunications)|rain]] || Wireless Business Solutions (Pty) Ltd || Operational || LTE 1800 / TD-LTE 2600 / TD-5G 2600 || 
 |-
 | 655 || 21 || || Cape Town Metropolitan Council || Not operational || TETRA 410 || <ref name=itu_ob_1176/>
 |-
@@ -731,7 +733,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 655 || 36 || || Amatole Telecommunications Pty Ltd || Unknown || Unknown || <ref name=itu_ob_1056/>
 |-
-| 655 || 38 || [[iBurst]] || Wireless Business Solutions (Pty) Ltd || Unknown || Unknown || <ref name=itu_ob_1090/>
+| 655 || 38 || [[Rain (telecommunications)|rain]] || Wireless Business Solutions (Pty) Ltd || Unknown || Unknown || Former iBurst<ref name=itu_ob_1090/>
 |-
 | 655 || 41 || || [[South African Police Service]] || Not operational || Unknown || <ref name=itu_ob_1056/><ref name=itu_ob_1176/>
 |-
@@ -745,9 +747,9 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 655 || 65 || || Vodacom Pty Ltd || Unknown || Unknown || <ref name=itu_ob_1166/>
 |-
-| 655 || 73 || [[iBurst]] || Wireless Business Solutions (Pty) Ltd || Unknown || Unknown || <ref name=itu_ob_1108/>
+| 655 || 73 || [[Rain (telecommunications)|rain]] || Wireless Business Solutions (Pty) Ltd || Unknown || Unknown || Former iBurst<ref name=itu_ob_1108/>
 |-
-| 655 || 74 || [[iBurst]] || Wireless Business Solutions (Pty) Ltd || Unknown || Unknown || <ref name=itu_ob_1108/>
+| 655 || 74 || [[Rain (telecommunications)|rain]] || Wireless Business Solutions (Pty) Ltd || Unknown || Unknown || Former iBurst<ref name=itu_ob_1108/>
 |-
 | 655 || 75 || ACSA || [[Airports Company South Africa]] || Not operational || Unknown || <ref name=itu_ob_1147/><ref name=itu_ob_1176/>
 |-
@@ -792,13 +794,13 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 640 || 01 || || Shared Network Tanzania Limited || Not operational || UMTS 900 || Former Rural NetCo Limited;<ref name=itu_ob_1106/><ref name=authority_tz/> MNC withdrawn<ref name=itu_ob_1197/>
 |-
-| 640 || 02 || tiGO || [[MIC Tanzania Limited]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 || Former Mobitel and Buzz<ref name=itu_ob_1106/><ref name=halberd/>
+| 640 || 02 || tiGO || [[MIC Tanzania Limited]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 2500 || Former Mobitel, Buzz<ref name=itu_ob_1106/><ref name=halberd/>
 |-
-| 640 || 03 || Zantel || Zanzibar Telecom Ltd || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || <ref name=itu_ob_1106/><ref name=halberd/>
+| 640 || 03 || Zantel || [[MIC Tanzania Limited]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || Former Zanzibar Telecom<ref name=itu_ob_1106/><ref name=halberd/><ref name=authority_tz/>
 |-
-| 640 || 04 || [[Vodacom]] || [[Vodacom Tanzania]] Limited || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G ||<ref name=itu_ob_1106/><ref name=halberd/>
+| 640 || 04 || [[Vodacom]] || [[Vodacom Tanzania]] Limited || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 700 / 5G 2300 ||<ref name=itu_ob_1106/><ref name=halberd/>
 |-
-| 640 || 05 || [[Airtel Tanzania|Airtel]] || [[Bharti Airtel]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 2100 || Former Celtel (Zain);<ref name=itu_ob_1106/><ref name=halberd/> LTE bands 28 / 1
+| 640 || 05 || [[Airtel Tanzania|Airtel]] || [[Bharti Airtel]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 2100 / 5G || Former Celtel (Zain);<ref name=itu_ob_1106/><ref name=halberd/> LTE bands 28 / 1
 |-
 | 640 || 06 ||  || [https://wia.co.tz/ WIA Company Limited] || Operational || WiMAX / LTE || Former [[Sasatel (Dovetel)]];<ref name=itu_ob_1106/><ref>{{cite web |title=Sasatel, a story of hope and immediate downfall |url=http://knowcache.com/sasatel-a-story-of-hope-and-immediate-downfall/ |publisher=Knowcache |date=4 January 2016 |accessdate=24 August 2016}}</ref><ref name=itu_ob_1248/> fixed wireless
 |-
@@ -839,13 +841,15 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 ==== [[Uganda]] – UG ====
 {| {{MNC}}
 |-
-| 641 || 01 || [[Airtel (Africa)|Airtel]] || [[Bharti Airtel]] || Operational || GSM 900 / UMTS 2100 || Former Zain, Celtel <ref name=itu_ob_1114/><ref name=gsa_hspa/><ref name=mwlive/><ref name="cellular-news.com"/>
+| 641 || 01 || [[Airtel (Africa)|Airtel]] || [[Bharti Airtel]] || Operational || GSM 900 / UMTS 2100 / 5G || Former Zain, Celtel <ref name=itu_ob_1114/><ref name=gsa_hspa/><ref name=mwlive/><ref name="cellular-news.com"/>
 |-
 | 641 || 04 || || [http://tangerine.co.ug/ Tangerine Uganda Limited] || Operational || LTE || <ref name=itu_ob_1114/>
 |-
 | 641 || 06 || [[Vodafone]] || Afrimax Uganda || Not operational || TD-LTE 2600 || <ref name=itu_ob_1114/><ref>{{cite news |title=Vodafone Uganda launches 4G services |first=Anne |last=Morris |work=Fierce Wireless Europe |date=11 February 2015 |accessdate=19 February 2015 |url=http://www.fiercewireless.com/europe/story/vodafone-uganda-launches-4g-services/2015-02-11}}</ref> shut down May 2018;<ref>{{cite web |url=https://pctechmag.com/2018/05/vodafone-uganda-finally-shuts-down-amidst-ugx-300-billion-debt/ |title=Vodafone Uganda Finally Shuts Down Amidst UGX. 300 Billion Debt |first=Nathan Ernest |last=Olupot |publisher=PC Tech |date=14 May 2018 |accessdate=17 June 2019}}</ref> MNC withdrawn<ref name=itu_ob_1174/>
 |-
-| 641 || 10 || [[MTN Group|MTN]] || MTN Uganda || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 2600 || LTE band 7<ref name=itu_ob_1114/><ref name=gsa_lte/><ref name=gsa_hspa/><ref name=mwlive/>
+| 641 || 08 || || Talkio Mobile Limited || Unknown || MVNO || <ref name=itu_ob_1278/>
+|-
+| 641 || 10 || [[MTN Group|MTN]] || MTN Uganda || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 2600 / 5G || LTE band 7<ref name=itu_ob_1114/><ref name=gsa_lte/><ref name=gsa_hspa/><ref name=mwlive/>
 |-
 | 641 || 11 || [[Uganda Telecom]] || Uganda Telecom Ltd. || Operational || GSM 900 / UMTS 2100 || <ref name=itu_ob_1114/><ref name=gsa_hspa/>
 |-
@@ -876,9 +880,9 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 ==== [[Zambia]] – ZM ====
 {| {{MNC}}
 |-
-| 645 || 01 || [[Airtel Africa|Airtel]] || [[Bharti Airtel]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 || Former [[Celtel]] (Zain)<ref name="cellular-news.com"/><ref name=halberd/><ref name=itu_ob_1230/>
+| 645 || 01 || [[Airtel Africa|Airtel]] || [[Bharti Airtel]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / 5G 2600 || Former [[Celtel]] (Zain)<ref name="cellular-news.com"/><ref name=halberd/><ref name=itu_ob_1230/>
 |-
-| 645 || 02 || MTN || [[MTN Group]] || Operational || GSM 900 / UMTS 2100 / LTE 1800 || Former [[Telecel]]<ref name=gsa_lte/><ref name=halberd/><ref name=itu_ob_1230/>
+| 645 || 02 || MTN || [[MTN Group]] || Operational || GSM 900 / UMTS 2100 / LTE 1800 / 5G 2600 || Former [[Telecel]]<ref name=gsa_lte/><ref name=halberd/><ref name=itu_ob_1230/>
 |-
 | 645 || 03 || ZAMTEL || Zambia Telecommunications Company Ltd || Operational || GSM 900 / UMTS 2100 / TD-LTE 2300 || <ref name=gsa_lte/><ref name=halberd/>
 |-
@@ -902,9 +906,10 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 ==References==
 {{reflist|refs=
 <ref name=gsa_umts900>{{cite web |title=UMTS900 Information Paper (registration required) |url=http://www.gsacom.com/downloads/pdf/UMTS900_information_paper_231014.php4 |publisher=GSA |date=23 October 2014 |accessdate=19 December 2014}}</ref>
-<ref name=gsa_hspa>{{cite web |title=HSPA Operator Commitments |url=http://gsacom.com/wp-content/uploads/2015/10/151011-HSPA_operator_commitments.pdf |publisher=GSA |date=11 October 2015 |accessdate=13 January 2016}}{{registration required}}</ref>
-<ref name="gsa_lte">{{cite web |title=Evolution to LTE Report |url=http://gsacom.com/download.php?id=4406 |publisher=GSA |date=2017-01-30 |accessdate=2017-03-01}}{{registration required}}</ref>
+<ref name=gsa_hspa>{{cite web |title=HSPA Operator Commitments |url=http://gsacom.com/wp-content/uploads/2015/10/151011-HSPA_operator_commitments.pdf |publisher=GSA |date=11 October 2015 |accessdate=13 January 2016}} {{registration required}}</ref>
+<ref name="gsa_lte">{{cite web |title=Evolution to LTE Report |url=http://gsacom.com/download.php?id=4406 |publisher=GSA |date=2017-01-30 |accessdate=2017-03-01}} {{registration required}}</ref>
 <ref name=authority_bi>{{cite web |title=Ressource attribuée |url=http://www.arct.gov.bi/index.php/2016-08-07-17-44-04/numerotage/ressources-attribuees |publisher=ARCT |language=French |accessdate=14 February 2018 |df=dmy-all }}</ref>
+<ref name=authority_fr>{{cite web |title=Numérotation |url=https://extranet.arcep.fr/portail/Communications%C3%A9lectroniques/Num%C3%A9rotation.aspx |publisher=ARCEP |access-date=5 January 2022}}</ref>
 <ref name=authority_gh>{{cite web |title=Numbering |url=https://www.nca.org.gh/licensing-authorisation/numbering/ |publisher=NCA |accessdate=20 January 2020}}</ref>
 <ref name=authority_ke>{{cite web |url=https://ca.go.ke/industry/numbering/national-numbering-plan/ |title=National Numbering Plan |publisher=CA |date=Oct 2020 |access-date=2 November 2020}}</ref>
 <ref name=authority_rw>{{cite web |title=RWANDA NATIONAL TELECOMMUNICATIONS NUMBERING PLAN. |url=http://www.rura.rw/fileadmin/docs/RWANDA_NATIONAL_NUMBERING_PLAN.pdf |publisher=RURA |accessdate=15 February 2018}}</ref>
@@ -964,6 +969,8 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 <ref name=itu_ob_1228>{{cite web |title=ITU Operational Bulletin No. 1228 |url=https://www.itu.int/pub/T-SP-OB.1228-2021 |publisher=ITU |date=15 September 2021 |accessdate=15 September 2021}}</ref>
 <ref name=itu_ob_1230>{{cite web |title=ITU Operational Bulletin No. 1230 |url=https://www.itu.int/pub/T-SP-OB.1230-2021 |publisher=ITU |date=15 October 2021 |accessdate=14 October 2021}}</ref>
 <ref name=itu_ob_1248>{{cite web |title=ITU Operational Bulletin No. 1248 |url=https://www.itu.int/pub/T-SP-OB.1248-2022 |publisher=ITU |date=15 July 2022 |accessdate=14 July 2022}}</ref>
+<ref name=itu_ob_1258>{{cite web |title=ITU Operational Bulletin No. 1258 |url=https://www.itu.int/pub/T-SP-OB.1258-2022 |publisher=ITU |date=15 December 2022 |access-date=15 December 2022}}</ref>
+<ref name=itu_ob_1278>{{cite web |title=ITU Operational Bulletin No. 1278 |url=https://www.itu.int/pub/T-SP-OB.1278-2023 |publisher=ITU |date=15 October 2023 |access-date=14 October 2023}}</ref>
 }}
 
 [[Category:Telecommunications lists]]

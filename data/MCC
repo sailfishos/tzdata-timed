@@ -9,7 +9,7 @@
 #
 # The main source for this list is the Wikipedia article on mobile
 # country codes: http://en.wikipedia.org/wiki/Mobile_country_code
-# Updated from Wikipedia with data from Nov 15, 2022 with the help of
+# Updated from Wikipedia on Mar 20, 2024 with the help of
 # scripts/create-mcc-country-mappings.sh
 
 213 03 AD Andorra
@@ -78,6 +78,7 @@
 232 25 AT Austria
 232 26 AT Austria
 232 27 AT Austria
+232 28 AT Austria
 232 91 AT Austria
 232 92 AT Austria
 505 01 AU Australia
@@ -133,6 +134,11 @@
 505 52 AU Australia
 505 53 AU Australia
 505 54 AU Australia
+505 55 AU Australia
+505 56 AU Australia
+505 57 AU Australia
+505 58 AU Australia
+505 59 AU Australia
 505 61 AU Australia
 505 62 AU Australia
 505 68 AU Australia
@@ -176,10 +182,12 @@
 206 09 BE Belgium
 206 10 BE Belgium
 206 11 BE Belgium
+206 13 BE Belgium
 206 15 BE Belgium
 206 16 BE Belgium
 206 20 BE Belgium
 206 22 BE Belgium
+206 23 BE Belgium
 206 25 BE Belgium
 206 28 BE Belgium
 206 29 BE Belgium
@@ -187,7 +195,9 @@
 206 33 BE Belgium
 206 34 BE Belgium
 206 40 BE Belgium
+206 48 BE Belgium
 206 50 BE Belgium
+206 70 BE Belgium
 206 71 BE Belgium
 206 72 BE Belgium
 206 73 BE Belgium
@@ -274,6 +284,7 @@
 724 10 BR Brazil
 724 11 BR Brazil
 724 12 BR Brazil
+724 13 BR Brazil
 724 15 BR Brazil
 724 16 BR Brazil
 724 17 BR Brazil
@@ -282,6 +293,7 @@
 724 23 BR Brazil
 724 24 BR Brazil
 724 28 BR Brazil
+724 29 BR Brazil
 724 30 BR Brazil
 724 31 BR Brazil
 724 32 BR Brazil
@@ -292,6 +304,7 @@
 724 37 BR Brazil
 724 38 BR Brazil
 724 39 BR Brazil
+724 40 BR Brazil
 724 54 BR Brazil
 724 99 BR Brazil
 364 39 BS Bahamas
@@ -315,10 +328,14 @@
 302 100 CA Canada
 302 130 CA Canada
 302 131 CA Canada
+302 140 CA Canada
 302 150 CA Canada
+302 151 CA Canada
+302 152 CA Canada
 302 220 CA Canada
 302 221 CA Canada
 302 222 CA Canada
+302 230 CA Canada
 302 250 CA Canada
 302 270 CA Canada
 302 290 CA Canada
@@ -328,6 +345,8 @@
 302 330 CA Canada
 302 340 CA Canada
 302 350 CA Canada
+302 351 CA Canada
+302 352 CA Canada
 302 360 CA Canada
 302 361 CA Canada
 302 370 CA Canada
@@ -370,6 +389,7 @@
 302 721 CA Canada
 302 730 CA Canada
 302 740 CA Canada
+302 741 CA Canada
 302 750 CA Canada
 302 760 CA Canada
 302 770 CA Canada
@@ -434,6 +454,7 @@
 228 68 CH Switzerland
 228 69 CH Switzerland
 228 70 CH Switzerland
+228 71 CH Switzerland
 228 98 CH Switzerland
 228 99 CH Switzerland
 612 01 CI Ivory Coast
@@ -493,11 +514,13 @@
 732 004 CO Colombia
 732 020 CO Colombia
 732 099 CO Colombia
+732 100 CO Colombia
 732 101 CO Colombia
 732 102 CO Colombia
 732 103 CO Colombia
 732 111 CO Colombia
 732 123 CO Colombia
+732 124 CO Colombia
 732 130 CO Colombia
 732 142 CO Colombia
 732 154 CO Colombia
@@ -510,6 +533,7 @@
 732 220 CO Colombia
 732 230 CO Colombia
 732 240 CO Colombia
+732 250 CO Colombia
 732 360 CO Colombia
 732 666 CO Colombia
 712 01 CR Costa Rica
@@ -535,6 +559,10 @@
 230 07 CZ Czech Republic
 230 08 CZ Czech Republic
 230 09 CZ Czech Republic
+230 10 CZ Czech Republic
+230 11 CZ Czech Republic
+230 22 CZ Czech Republic
+230 53 CZ Czech Republic
 230 98 CZ Czech Republic
 230 99 CZ Czech Republic
 262 01 DE Germany
@@ -561,6 +589,7 @@
 262 22 DE Germany
 262 23 DE Germany
 262 24 DE Germany
+262 25 DE Germany
 262 33 DE Germany
 262 41 DE Germany
 262 42 DE Germany
@@ -597,6 +626,7 @@
 238 16 DK Denmark
 238 17 DK Denmark
 238 18 DK Denmark
+238 19 DK Denmark
 238 20 DK Denmark
 238 23 DK Denmark
 238 25 DK Denmark
@@ -653,6 +683,11 @@
 248 25 EE Estonia
 248 26 EE Estonia
 248 28 EE Estonia
+248 29 EE Estonia
+248 30 EE Estonia
+248 31 EE Estonia
+248 32 EE Estonia
+248 33 EE Estonia
 248 71 EE Estonia
 602 01 EG Egypt
 602 02 EG Egypt
@@ -698,6 +733,8 @@
 214 37 ES Spain
 214 38 ES Spain
 214 51 ES Spain
+214 700 ES Spain
+214 701 ES Spain
 636 01 ET Ethiopia
 244 03 FI Finland
 244 04 FI Finland
@@ -765,6 +802,7 @@
 288 01 FO Faroe Islands
 288 02 FO Faroe Islands
 288 03 FO Faroe Islands
+288 10 FO Faroe Islands
 208 01 FR France
 208 02 FR France
 208 03 FR France
@@ -805,8 +843,24 @@
 208 38 FR France
 208 39 FR France
 208 500 FR France
-208 501 FR France
-208 502 FR France
+208 50144 FR France
+208 50164 FR France
+208 50168 FR France
+208 50169 FR France
+208 50176 FR France
+208 50194 FR France
+208 50244 FR France
+208 50277 FR France
+208 50430 FR France
+208 50484 FR France
+208 50531 FR France
+208 50549 FR France
+208 50591 FR France
+208 50631 FR France
+208 50644 FR France
+208 50692 FR France
+208 50778 FR France
+208 670 FR France
 208 700 FR France
 208 701 FR France
 208 702 FR France
@@ -900,7 +954,9 @@
 234 76 GB United Kingdom
 234 77 GB United Kingdom
 234 78 GB United Kingdom
+234 79 GB United Kingdom
 234 86 GB United Kingdom
+234 87 GB United Kingdom
 234 88 GB United Kingdom
 235 01 GB United Kingdom
 235 02 GB United Kingdom
@@ -934,6 +990,7 @@
 282 13 GE Georgia
 282 14 GE Georgia
 282 15 GE Georgia
+282 16 GE Georgia
 282 22 GE Georgia
 340 01 GF French Guiana
 340 02 GF French Guiana
@@ -966,6 +1023,7 @@
 266 09 GI Gibraltar
 290 01 GL Greenland
 290 02 GL Greenland
+290 03 GL Greenland
 607 01 GM Gambia
 607 02 GM Gambia
 607 03 GM Gambia
@@ -1014,6 +1072,7 @@
 738 003 GY Guyana
 738 00 GY Guyana
 738 01 GY Guyana
+738 040 GY Guyana
 738 05 GY Guyana
 454 00 HK Hong Kong
 454 01 HK Hong Kong
@@ -1054,10 +1113,16 @@
 708 040 HN Honduras
 219 01 HR Croatia
 219 02 HR Croatia
+219 03 HR Croatia
 219 04 HR Croatia
 219 10 HR Croatia
 219 12 HR Croatia
+219 13 HR Croatia
+219 19 HR Croatia
 219 20 HR Croatia
+219 22 HR Croatia
+219 28 HR Croatia
+219 30 HR Croatia
 372 01 HT Haiti
 372 02 HT Haiti
 372 03 HT Haiti
@@ -1161,6 +1226,7 @@
 404 29 IN India
 404 30 IN India
 404 31 IN India
+404 33 IN India
 404 34 IN India
 404 35 IN India
 404 36 IN India
@@ -1221,6 +1287,8 @@
 404 96 IN India
 404 97 IN India
 404 98 IN India
+405 01 IN India
+405 024 IN India
 405 025 IN India
 405 026 IN India
 405 027 IN India
@@ -1244,6 +1312,7 @@
 405 045 IN India
 405 046 IN India
 405 047 IN India
+405 048 IN India
 405 04 IN India
 405 05 IN India
 405 06 IN India
@@ -1293,15 +1362,35 @@
 405 810 IN India
 405 811 IN India
 405 812 IN India
+405 813 IN India
+405 814 IN India
+405 815 IN India
+405 816 IN India
+405 817 IN India
 405 818 IN India
 405 819 IN India
 405 820 IN India
 405 821 IN India
 405 822 IN India
 405 824 IN India
+405 825 IN India
+405 826 IN India
 405 827 IN India
+405 828 IN India
+405 829 IN India
+405 831 IN India
+405 832 IN India
+405 833 IN India
 405 834 IN India
+405 835 IN India
+405 836 IN India
+405 837 IN India
+405 838 IN India
+405 839 IN India
 405 840 IN India
+405 841 IN India
+405 842 IN India
+405 843 IN India
 405 844 IN India
 405 845 IN India
 405 846 IN India
@@ -1334,14 +1423,59 @@
 405 873 IN India
 405 874 IN India
 405 875 IN India
+405 876 IN India
+405 877 IN India
+405 878 IN India
+405 879 IN India
 405 880 IN India
 405 881 IN India
+405 882 IN India
+405 883 IN India
+405 884 IN India
+405 885 IN India
+405 886 IN India
+405 887 IN India
+405 888 IN India
+405 889 IN India
+405 890 IN India
+405 891 IN India
+405 892 IN India
+405 893 IN India
+405 894 IN India
+405 895 IN India
+405 896 IN India
+405 897 IN India
+405 898 IN India
+405 899 IN India
+405 900 IN India
+405 901 IN India
+405 902 IN India
+405 903 IN India
+405 904 IN India
+405 905 IN India
+405 906 IN India
+405 907 IN India
 405 912 IN India
 405 913 IN India
 405 914 IN India
+405 915 IN India
+405 916 IN India
 405 917 IN India
+405 918 IN India
+405 919 IN India
+405 920 IN India
+405 921 IN India
+405 922 IN India
+405 923 IN India
+405 924 IN India
+405 925 IN India
+405 926 IN India
 405 927 IN India
+405 928 IN India
 405 929 IN India
+405 930 IN India
+405 931 IN India
+405 932 IN India
 418 00 IQ Iraq
 418 05 IQ Iraq
 418 08 IQ Iraq
@@ -1367,10 +1501,8 @@
 432 14 IR Iran
 432 19 IR Iran
 432 20 IR Iran
-432 21 IR Iran
 432 32 IR Iran
 432 35 IR Iran
-432 40 IR Iran
 432 44 IR Iran
 432 45 IR Iran
 432 46 IR Iran
@@ -1491,6 +1623,9 @@
 441 208 JP Japan
 441 209 JP Japan
 441 210 JP Japan
+441 211 JP Japan
+441 212 JP Japan
+441 213 JP Japan
 441 91 JP Japan
 639 01 KE Kenya
 639 02 KE Kenya
@@ -1505,6 +1640,7 @@
 639 11 KE Kenya
 639 12 KE Kenya
 639 13 KE Kenya
+639 14 KE Kenya
 437 01 KG Kyrgyzstan
 437 03 KG Kyrgyzstan
 437 05 KG Kyrgyzstan
@@ -1604,6 +1740,7 @@
 246 13 LT Lithuania
 246 14 LT Lithuania
 246 15 LT Lithuania
+246 16 LT Lithuania
 270 01 LU Luxembourg
 270 02 LU Luxembourg
 270 05 LU Luxembourg
@@ -1695,6 +1832,7 @@
 609 01 MR Mauritania
 609 02 MR Mauritania
 609 10 MR Mauritania
+338 05 MS Montserrat
 354 860 MS Montserrat
 278 01 MT Malta
 278 11 MT Malta
@@ -1705,12 +1843,12 @@
 617 02 MU Mauritius
 617 03 MU Mauritius
 617 10 MU Mauritius
+472 01 MV Maldives
+472 02 MV Maldives
 650 01 MW Malawi
 650 02 MW Malawi
 650 03 MW Malawi
 650 10 MW Malawi
-472 01 MV Maldives
-472 02 MV Maldives
 334 001 MX Mexico
 334 010 MX Mexico
 334 020 MX Mexico
@@ -1732,6 +1870,7 @@
 334 170 MX Mexico
 334 180 MX Mexico
 334 190 MX Mexico
+334 200 MX Mexico
 502 01 MY Malaysia
 502 10 MY Malaysia
 502 11 MY Malaysia
@@ -1779,7 +1918,7 @@
 621 50 NG Nigeria
 621 60 NG Nigeria
 710 21 NI Nicaragua
-710 30 NI Nicaragua
+710 300 NI Nicaragua
 710 73 NI Nicaragua
 204 00 NL Netherlands
 204 01 NL Netherlands
@@ -1840,12 +1979,19 @@
 242 14 NO Norway
 242 15 NO Norway
 242 16 NO Norway
+242 17 NO Norway
 242 20 NO Norway
 242 21 NO Norway
 242 22 NO Norway
 242 23 NO Norway
 242 24 NO Norway
 242 25 NO Norway
+242 70 NO Norway
+242 71 NO Norway
+242 72 NO Norway
+242 73 NO Norway
+242 74 NO Norway
+242 75 NO Norway
 242 90 NO Norway
 242 99 NO Norway
 429 01 NP Nepal
@@ -1853,6 +1999,7 @@
 429 03 NP Nepal
 429 04 NP Nepal
 536 02 NR Nauru
+536 03 NR Nauru
 555 01 NU Niue
 530 00 NZ New Zealand
 530 01 NZ New Zealand
@@ -1862,6 +2009,9 @@
 530 05 NZ New Zealand
 530 06 NZ New Zealand
 530 07 NZ New Zealand
+530 11 NZ New Zealand
+530 12 NZ New Zealand
+530 13 NZ New Zealand
 530 24 NZ New Zealand
 422 02 OM Oman
 422 03 OM Oman
@@ -1872,6 +2022,7 @@
 714 02 PA Panama
 714 03 PA Panama
 714 04 PA Panama
+714 05 PA Panama
 716 06 PE Peru
 716 07 PE Peru
 716 10 PE Peru
@@ -1957,6 +2108,7 @@
 308 01 PM Saint Pierre and Miquelon
 308 02 PM Saint Pierre and Miquelon
 308 03 PM Saint Pierre and Miquelon
+308 04 PM Saint Pierre and Miquelon
 310 017 PR Puerto Rico
 310 260 PR Puerto Rico
 310 280 PR Puerto Rico
@@ -1981,6 +2133,7 @@
 268 21 PT Portugal
 268 80 PT Portugal
 268 91 PT Portugal
+268 92 PT Portugal
 268 93 PT Portugal
 552 01 PW Palau
 552 02 PW Palau
@@ -2063,7 +2216,10 @@
 250 91 RU Russian Federation
 250 92 RU Russian Federation
 250 93 RU Russian Federation
+250 96 RU Russian Federation
+250 97 RU Russian Federation
 250 99 RU Russian Federation
+255 98 RU Russian Federation
 635 10 RW Rwanda
 635 11 RW Rwanda
 635 12 RW Rwanda
@@ -2137,6 +2293,8 @@
 240 47 SE Sweden
 240 48 SE Sweden
 240 49 SE Sweden
+240 50 SE Sweden
+240 51 SE Sweden
 240 60 SE Sweden
 240 61 SE Sweden
 240 63 SE Sweden
@@ -2156,6 +2314,7 @@
 293 11 SI Slovenia
 293 20 SI Slovenia
 293 21 SI Slovenia
+293 22 SI Slovenia
 293 40 SI Slovenia
 293 41 SI Slovenia
 293 64 SI Slovenia
@@ -2171,6 +2330,7 @@
 231 08 SK Slovakia
 231 09 SK Slovakia
 231 10 SK Slovakia
+231 50 SK Slovakia
 231 99 SK Slovakia
 619 01 SL Sierra Leone
 619 02 SL Sierra Leone
@@ -2280,6 +2440,7 @@
 374 13 TT Trinidad and Tobago
 374 140 TT Trinidad and Tobago
 374 20 TT Trinidad and Tobago
+553 01 TV Tuvalu
 466 01 TW Taiwan
 466 02 TW Taiwan
 466 03 TW Taiwan
@@ -2299,7 +2460,6 @@
 466 93 TW Taiwan
 466 97 TW Taiwan
 466 99 TW Taiwan
-553 01 TV Tuvalu
 640 01 TZ Tanzania
 640 02 TZ Tanzania
 640 03 TZ Tanzania
@@ -2326,10 +2486,12 @@
 255 21 UA Ukraine
 255 23 UA Ukraine
 255 25 UA Ukraine
+255 701 UA Ukraine
 255 99 UA Ukraine
 641 01 UG Uganda
 641 04 UG Uganda
 641 06 UG Uganda
+641 08 UG Uganda
 641 10 UG Uganda
 641 11 UG Uganda
 641 14 UG Uganda
@@ -2500,6 +2662,9 @@
 311 200 US United States of America
 311 210 US United States of America
 311 220 US United States of America
+311 225 US United States of America
+311 228 US United States of America
+311 229 US United States of America
 311 230 US United States of America
 311 240 US United States of America
 311 250 US United States of America
@@ -2563,6 +2728,8 @@
 311 560 US United States of America
 311 570 US United States of America
 311 580 US United States of America
+311 588 US United States of America
+311 589 US United States of America
 311 590 US United States of America
 311 600 US United States of America
 311 610 US United States of America
@@ -2811,12 +2978,50 @@
 314 200 US United States of America
 314 210 US United States of America
 314 220 US United States of America
+314 230 US United States of America
+314 240 US United States of America
+314 260 US United States of America
+314 270 US United States of America
+314 280 US United States of America
+314 290 US United States of America
+314 300 US United States of America
+314 310 US United States of America
+314 320 US United States of America
+314 330 US United States of America
+314 340 US United States of America
+314 350 US United States of America
+314 360 US United States of America
+314 370 US United States of America
+314 380 US United States of America
+314 390 US United States of America
+314 400 US United States of America
+314 410 US United States of America
+314 420 US United States of America
+314 430 US United States of America
+314 440 US United States of America
+314 450 US United States of America
+314 460 US United States of America
+314 470 US United States of America
+314 480 US United States of America
+314 490 US United States of America
+314 500 US United States of America
+314 510 US United States of America
+314 520 US United States of America
+314 530 US United States of America
+314 540 US United States of America
+314 550 US United States of America
+314 560 US United States of America
+314 570 US United States of America
+314 580 US United States of America
+314 590 US United States of America
 316 011 US United States of America
+316 700 US United States of America
 748 00 UY Uruguay
 748 01 UY Uruguay
 748 03 UY Uruguay
 748 07 UY Uruguay
 748 10 UY Uruguay
+748 15 UY Uruguay
 434 01 UZ Uzbekistan
 434 02 UZ Uzbekistan
 434 03 UZ Uzbekistan
@@ -2834,7 +3039,7 @@
 734 03 VE Venezuela
 734 04 VE Venezuela
 734 06 VE Venezuela
-543 01 WF Wallis and Futuna
+734 08 VE Venezuela
 348 170 VG British Virgin Islands
 348 370 VG British Virgin Islands
 348 570 VG British Virgin Islands
@@ -2852,13 +3057,14 @@
 452 07 VN Vietnam
 452 08 VN Vietnam
 452 09 VN Vietnam
-549 00 WS Samoa
-549 01 WS Samoa
-549 27 WS Samoa
 541 00 VU Vanuatu
 541 01 VU Vanuatu
 541 05 VU Vanuatu
 541 07 VU Vanuatu
+543 01 WF Wallis and Futuna
+549 00 WS Samoa
+549 01 WS Samoa
+549 27 WS Samoa
 221 01 XK Kosovo
 221 02 XK Kosovo
 221 06 XK Kosovo
@@ -2868,6 +3074,7 @@
 421 03 YE Yemen
 421 04 YE Yemen
 421 10 YE Yemen
+421 11 YE Yemen
 647 00 YT French Departments and Territories in the Indian Ocean
 647 01 YT French Departments and Territories in the Indian Ocean
 647 02 YT French Departments and Territories in the Indian Ocean

@@ -9,7 +9,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 722 || 010 || [[Movistar]] || Telefónica Móviles Argentina S.A. || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600 || <ref name=gsa_hspa/><ref>{{cite web |url=http://www.movistar.com.ar/atencion-al-cliente/#/pregunta/que-requisitos-debo-tener-para-navegar-con-movistar-4g-lte |title=¿Qué requisitos debo tener para navegar con Movistar 4G LTE? |publisher=Movistar |accessdate=19 December 2014}}</ref><ref name=halberd/>
 |-
-| 722 || 020 || Nextel || [[NII Holdings]] || Operational || iDEN 800 ||
+| 722 || 020 || Nextel || [[NII Holdings]] || Not operational || iDEN 800 || Shut down June 2019<ref>{{cite web |url=https://www.commsupdate.com/articles/2019/08/14/nextel-argentina-iden-network-shut-down-parent-confirms/ |title=Nextel Argentina iDEN network shut down, parent confirms |publisher=TeleGeography |date=2019-08-14 |access-date=2021-04-20}}</ref>
 |-
 | 722 || 034 || Personal || [[Telecom Personal#Personal|Telecom Personal S.A.]] || Operational || Unknown ||
 |-
@@ -23,7 +23,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 722 || 330 || [[Claro Americas|Claro]] || AMX Argentina S.A. || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1700 || <ref name=gsa_lte/><ref name=gsa_hspa/><ref name=halberd/>
 |-
-| 722 || 341 || Personal || [[Telecom Personal#Personal|Telecom Personal S.A.]] || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600 / 5G 2600 || LTE bands 28 / 4 / 7<ref name=itu_ob_1056/><ref name=gsa_lte/><ref name=gsa_hspa/><ref name=halberd/>
+| 722 || 341 || Personal || [[Telecom Personal#Personal|Telecom Personal S.A.]] || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600 / 5G 700 / 5G 2600 / 5G 3500 || LTE bands 28 / 4 / 7<ref name=itu_ob_1056/><ref name=gsa_lte/><ref name=gsa_hspa/><ref name=halberd/>
 |-
 | 722 || 350 || PORT-HABLE || Hutchison Telecommunications Argentina S.A. || Not operational|| GSM 900 || Acquired by Claro
 |}
@@ -54,9 +54,9 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 ==== [[Brazil]] – BR ====
 {| {{MNC}}
 |-
-| 724 || 00 || Nextel || [[NII Holdings|NII Holdings, Inc.]] || Not Operational || iDEN 850 || Defunct since March 2018.
+| 724 || 00 || Nextel || [[NII Holdings|NII Holdings, Inc.]] || Not Operational || iDEN 850 || Defunct since March 2018<ref>{{cite web |url=https://www.commsupdate.com/articles/2017/10/26/nextel-to-shut-down-brazilian-iden-network-in-march-2018/ |title=Nextel to shut down Brazilian iDEN network in March 2018 |publisher=TeleGeography |date=2017-10-26 |access-date=2020-03-28}}</ref>
 |-
-| 724 || 01 || || SISTEER DO BRASIL TELECOMUNICAÇÔES || Unknown || MVNO || <ref name=itu_ob_1056/> Through [[Vivo S.A.]] network
+| 724 || 01 || || SISTEER DO BRASIL TELECOMUNICAÇÔES || Not Operational || MVNO || <ref name=itu_ob_1056/> Through [[Vivo S.A.]] network
 |-
 | 724 || 02 || TIM || [[Telecom Italia Mobile]] || Operational || GSM 900 / GSM 1800 / UMTS 850 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 2300 / 5G 2600 / 5G 3500 || <ref name=gsa_lte/><ref name=halberd/>
 |-
@@ -74,6 +74,8 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 724 || 12 || Claro || [[Claro (mobile phone network)|Claro]] || Unknown || Unknown || Unknown
 |-
+| 724 || 13 || NLT || NLT Telecom || Operational || MVNO || 
+|-
 | 724 || 15 || Sercomtel || [[Sercomtel|Sercomtel Celular]] || Operational || GSM 900 / GSM 1800 / UMTS 850 || <ref name=itu_ob_1056/>
 |-
 | 724 || 16 || Brasil Telecom GSM || [[Brasil Telecom GSM]] || Not operational || GSM 1800 / UMTS 2100 || acquired by [[Oi (telecommunications)|Oi]], MNC used for existing Brasil Telecom SIM Cards only
@@ -90,27 +92,31 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 724 || 28 || No name ||  || Operational || Unknown || Used for RanSharing control and roaming between Vivo and Claro<ref>https://forum.vivo.com.br/threads/17001-Nome-quot-724-28-quot-sendo-exibido-ao-lado-da-Vivo {{User-generated source|date=August 2022}}</ref>
 |-
-| 724 || 30 || [[Oi (telecommunications)|Oi]] || TNL PCS Oi || Unknown || Unknown || <ref name=itu_ob_1056/>
+| 724 || 29 || Unifique || Unifique Telecomunicações S/A || Operational || 5G 3500 || 
 |-
-| 724 || 31 || [[Oi (telecommunications)|Oi]] || TNL PCS Oi || Operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 ||
+| 724 || 30 || [[Oi (telecommunications)|Oi]] || TNL PCS Oi || Not operational || Unknown || <ref name=itu_ob_1056/> Liquidated Apr 2022<ref name=oi_liquidation/>
 |-
-| 724 || 32 || [[Algar Telecom]] || Algar Telecom S.A. || Operational ||GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800 / 5G 2300 || LTE bands 28 / 3<ref name=halberd/>
+| 724 || 31 || [[Oi (telecommunications)|Oi]] || TNL PCS Oi || Not operational || GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 || Liquidated Apr 2022<ref name=oi_liquidation>{{cite web |url=https://www.mobileworldlive.com/featured-content/top-three/oi-mobile-asset-sale-finally-crosses-the-line/ |title=Oi mobile asset sale finally crosses the line |author=Chris Donkin |date=2022-04-21 |website=MobileWorldLive.com |access-date=2023-01-09}}</ref>
 |-
-| 724 || 33 || [[Algar Telecom]] || Algar Telecom S.A. || Operational ||GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800 / 5G 2300 || <ref name=halberd/>
+| 724 || 32 || [[Algar Telecom]] || Algar Telecom S.A. || Operational ||GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2300 / 5G 2300 || LTE bands 28 / 3 / 40<ref name=halberd/>
 |-
-| 724 || 34 || [[Algar Telecom]] || Algar Telecom S.A. || Operational ||GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800 / 5G 2300 || <ref name=halberd/>
+| 724 || 33 || [[Algar Telecom]] || Algar Telecom S.A. || Operational ||GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2300 / 5G 2300 || <ref name=halberd/>
+|-
+| 724 || 34 || [[Algar Telecom]] || Algar Telecom S.A. || Operational ||GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2300 / 5G 2300 || <ref name=halberd/>
 |-
 | 724 || 35 || || Telcom Telecomunicações || Unknown || Unknown || <ref name=itu_ob_1056/>
 |-
-| 724 || 36 || || Options Telecomunicações || Unknown || Unknown || <ref name=itu_ob_1056/>
+| 724 || 36 || || Options Telecomunicações || Not Operational || MVNO || <ref name=itu_ob_1056/>
 |-
 | 724 || 37 || aeiou || Unicel || Not operational || Unknown || [[:pt:Aeiou (telefonia móvel)|Bankruptcy in 2011]]<ref name=itu_ob_1056/>
 |-
 | 724 || 38 || Claro || [[Claro (mobile phone network)|Claro]] || Operational || GSM 1900 || Inherited from the old Vesper's WLL licenses. In use for fixed wireless phones. 
 |-
-| 724 || 39 || Nextel || [[NII Holdings|NII Holdings, Inc.]] || Operational || UMTS 2100 / LTE 1800 / LTE 2100 || <ref name=gsa_lte/>
+| 724 || 39 || Nextel || [[NII Holdings|NII Holdings, Inc.]] || Not Operational || UMTS 2100 / LTE 1800 / LTE 2100 || Merged with Claro in 2020 <ref name=gsa_lte/>
 |-
-| 724 || 54 || Conecta || PORTO SEGURO TELECOMUNICAÇÔES || Operational || MVNO || <ref name=itu_ob_1056/> Through TIM network<ref name=itu_ob_1188/>
+| 724 || 40 || Telecall || [[Telexperts Telecomunicações S.A]] || Operational || MVNO || {{citation needed|date=February 2024}}
+|-
+| 724 || 54 || Conecta || PORTO SEGURO TELECOMUNICAÇÔES || Not Operational || MVNO || Defunct since 2018, clients were transferred to TIM.<ref name=itu_ob_1056/><ref name=itu_ob_1188/>
 |-
 | 724 || 99 || Local ||  || Operational || Unknown || Used for RanSharing control and roaming between TIM and Oi<ref name=itu_ob_1056/>
 |}
@@ -123,7 +129,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 730 || 02 || Movistar || [[Movistar|Telefónica Móvil de Chile]] || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 2600 / 5G 3500 || <ref name=gsa_lte/><ref name=mwlive/>
 |-
-| 730 || 03 || CLARO CL || [[Claro Americas#Chile|Claro Chile S.A.]] || Operational || GSM 1900 / UMTS 1900 / LTE 700 / LTE 2600 || <ref name=halberd/>
+| 730 || 03 || CLARO CL || [[Claro Americas#Chile|Claro Chile S.A.]] || Operational || GSM 1900 / UMTS 1900 / LTE 700 / LTE 2600 / 5G 3500 || <ref name=halberd/>
 |-
 | 730 || 04 || [[:es:WOM Chile|WOM]] || [[Novator Partners]] || Operational || iDEN 800 || Former Nextel
 |-
@@ -175,7 +181,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 732 || 001 || [[Movistar]] || Colombia Telecomunicaciones S.A. ESP || Operational || Unknown ||
 |-
-| 732 || 002 || Edatel || Edatel S.A. ESP || Unknown || Unknown ||
+| 732 || 002 || Edatel || Edatel S.A. ESP || Unknown || Unknown || Fixed wireless<ref name=authority_co/>
 |-
 | 732 || 003 || || LLEIDA S.A.S. || Unknown || Unknown || <ref name=authority_co/>
 |-
@@ -183,19 +189,23 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 732 || 020 || Tigo || Une EPM Telecomunicaciones S.A. E.S.P. || Operational || LTE 2600 || Former [[Empresas Públicas de Medellín#Telecommunications|Une-EPM]]; Former Emtelsa; merged with Tigo<ref name=itu_ob_1019/><ref name=authority_co/>
 |-
-| 732 || 099 || EMCALI || Empresas Municipales de Cali || Operational || GSM 900 ||
+| 732 || 099 || EMCALI || Empresas Municipales de Cali || Operational || GSM 900 || Fixed wireless<ref name=authority_co/>
 |-
-| 732 || 101 || [[Claro Americas|Claro]] || Comunicacion Celular S.A. (Comcel) || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1700 / LTE 2600 || <ref name=gsa_lte/><ref name=mwlive/>
+| 732 || 100 || [[Claro Americas|Claro]] || Comunicacion Celular S.A. (Comcel) || Unknown || Unknown || <ref name=authority_co/>
+|-
+| 732 || 101 || [[Claro Americas|Claro]] || Comunicacion Celular S.A. (Comcel) || Operational || UMTS 850 / UMTS 1900 / LTE 1700 / LTE 2600 || <ref name=gsa_lte/><ref name=mwlive/> GSM shut down Feb 2023<ref name=tigo_co_gsm/>
 |-
 | 732 || 102 || || Bellsouth Colombia || Not operational || GSM 850 / GSM 1900 / CDMA 850 || MNC withdrawn; network acquired by Movistar<ref name=authority_co/>
 |-
-| 732 || 103 || Tigo || [[Colombia Móvil]] S.A. ESP || Operational || GSM 1900 / UMTS 2100 / LTE 700 / LTE 1700 / LTE 2600 || <ref name=gsa_hspa/><ref name=halberd/>
+| 732 || 103 || Tigo || [[Colombia Móvil]] S.A. ESP || Operational || UMTS 2100 / LTE 700 / LTE 1700 / LTE 2600 || <ref name=gsa_hspa/><ref name=halberd/> GSM shut down Nov 2022<ref name=tigo_co_gsm>{{cite web |url=https://www.commsupdate.com/articles/2022/11/02/tigo-switches-off-colombian-2g-network/ |title=Tigo switches off Colombian 2G network |publisher=TeleGeography |date=2022-11-02 |access-date=2022-12-09}}</ref>
 |-
-| 732 || 111 || Tigo || [[Colombia Móvil]] S.A. ESP || Operational || GSM 1900 / UMTS 2100 / LTE 700 / LTE 1700 / LTE 2600 || <ref name=gsa_hspa/><ref name=halberd/>
+| 732 || 111 || Tigo || [[Colombia Móvil]] S.A. ESP || Operational || UMTS 2100 / LTE 700 / LTE 1700 / LTE 2600 || <ref name=gsa_hspa/><ref name=halberd/> GSM shut down Nov 2022<ref name=tigo_co_gsm/>
 |-
 | 732 || 123 || [[Movistar]] || Colombia Telecomunicaciones S.A. ESP || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 850 / LTE 1700 / LTE 1900 || CDMA shut down<ref name=gsa_hspa/><ref name=halberd/>
 |-
-| 732 || 130 || AVANTEL || Avantel S.A.S || Operational || iDEN / UMTS 1700 / LTE 1700 || owned by [[Novator Partners]]<ref name=halberd/><ref name="WOM CO"/>
+| 732 || 124 || [[Movistar]] || Colombia Telecomunicaciones S.A. ESP || Unknown || Unknown || <ref name=authority_co/>
+|-
+| 732 || 130 || AVANTEL || Avantel S.A.S || Not operational || UMTS 1700 / LTE 1700 || owned by [[Novator Partners]];<ref name=halberd/><ref name="WOM CO"/> iDEN shut down in 2021;<ref>{{cite web |url=https://www.commsupdate.com/articles/2022/01/24/avantel-switches-off-iden-network |title=Avantel switches off IDEN network |publisher=TeleGeography |date=2022-01-24 |access-date=2022-01-24}}</ref> MNC withdrawn<ref name=authority_co/>
 |-
 | 732 || 142 || || Une EPM Telecomunicaciones S.A. E.S.P. || Unknown || Unknown || <ref name=authority_co/>
 |-
@@ -203,7 +213,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 732 || 165 || || [[Colombia Móvil]] S.A. ESP || Unknown || Unknown || <ref name=authority_co/>
 |-
-| 732 || 176 || || DirecTV Colombia Ltda || Operational || LTE 2600 / TD-5G 2600 || <ref name=authority_co/> acquired by Movistar<ref name="TF_DTV CO">{{cite web |url=https://www.commsupdate.com/articles/2021/05/27/telefonica-colombia-acquires-directv-4g-spectrum-subscribers/ |title=Telefonica Colombia acquires DirecTV 4G spectrum, subscribers |publisher=TeleGeography |date=2021-05-27 |access-date=2021-05-30}}</ref>
+| 732 || 176 || || DirecTV Colombia Ltda || Operational || LTE 2600 / TD-5G 2600 || Fixed wireless;<ref name=authority_co/> acquired by Movistar<ref name="TF_DTV CO">{{cite web |url=https://www.commsupdate.com/articles/2021/05/27/telefonica-colombia-acquires-directv-4g-spectrum-subscribers/ |title=Telefonica Colombia acquires DirecTV 4G spectrum, subscribers |publisher=TeleGeography |date=2021-05-27 |access-date=2021-05-30}}</ref>
 |-
 | 732 || 187 || eTb || [[ETB (company)|Empresa de Telecomunicaciones de Bogotá]] S.A. ESP || Operational || LTE 1700 || <ref name=authority_co/>
 |-
@@ -218,6 +228,8 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 | 732 || 230 || || Setroc Mobile Group SAS || Unknown || Unknown || <ref name=authority_co/>
 |-
 | 732 || 240 || || Logistica Flash Colombia SAS || Operational || Unknown || <ref name=authority_co/>
+|-
+| 732 || 250 || || Plintron Colombia SAS || Unknown || Unknown || <ref name=authority_co/>
 |-
 | 732 || 360 || WOM || Partners Telecom Colombia SAS || Operational || LTE 700 / LTE 2600 || owned by [[Novator Partners]]<ref name=authority_co/><ref name="WOM CO">{{cite web |url=https://www.commsupdate.com/articles/2020/11/04/wom-to-launch-in-colombia-on-5-november/ |title=WOM to launch in Colombia on 5 November |publisher=TeleGeography |date=2020-11-04 |accessdate=2020-11-07 |archive-date=2020-11-04 |archive-url=https://web.archive.org/web/20201104122254/https://www.commsupdate.com/articles/2020/11/04/wom-to-launch-in-colombia-on-5-november/ |url-status=dead }}</ref>
 |-
@@ -292,11 +304,11 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 ==== [[Guatemala]] – GT ====
 {| {{MNC}}
 |-
-| 704 || 01 || [[Claro (company)#Guatemala|Claro]] || Telecomunicaciones de Guatemala, S.A.|| Operational || CDMA 1900 / GSM 900 / UMTS 1900 / LTE 1900 || former Servicios de Comunicaciones Personales Inalambricas (SERCOM)<ref name=halberd/> 
+| 704 || 01 || [[Claro (company)#Guatemala|Claro]] || Telecomunicaciones de Guatemala, S.A. || Operational || CDMA 1900 / GSM 900 / UMTS 1900 / LTE 1900 / 5G 3500 || former Servicios de Comunicaciones Personales Inalambricas (SERCOM)<ref name=halberd/> 
 |-
-| 704 || 02 || [[Tigo Guatemala|Tigo]] || [[Millicom#Guatemala|Millicom]] / Local partners || Operational || TDMA 800 / GSM 850 / UMTS 850 / LTE 850 / 5G 3500 || former COMCEL <ref name=gsa_lte/>
+| 704 || 02 || [[Tigo Guatemala|Tigo]] || [[Millicom#Guatemala|Millicom]] / Local partners || Operational || TDMA 800 / GSM 850 / UMTS 850 / LTE 850 / 5G 3500 || former COMCEL<ref name=gsa_lte/>
 |-
-| 704 || 03 || [[Movistar]]|| Telefónica Móviles Guatemala ([[Telefónica]]) || Operational || CDMA 1900 / GSM 1900 / UMTS 1900 / LTE 1900 || <ref name=gsa_lte/>
+| 704 || 03 || [[Claro (company)#Guatemala|Claro]] || Telecomunicaciones de Guatemala, S.A. || Operational || CDMA 1900 / GSM 1900 / UMTS 1900 / LTE 1900 || former [[Movistar]]<ref name=gsa_lte/>
 |-
 | 704 || ? ||[[digicel]] || [[Digicel Group]]|| Reserved || GSM 900 ||
 |-
@@ -313,6 +325,8 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 | 738 || 002 || GT&T Cellink Plus || Guyana Telephone & Telegraph Co. || Operational || GSM 900 / UMTS 850 / LTE 700 || <ref name=itu_ob_1111/> LTE band 28<ref name=halberd/>
 |-
 | 738 || 003 || || Quark Communications Inc. || Operational || TD-LTE || <ref name=itu_ob_1111/>
+|-
+| 738 || 040 || E-Networks || E-Networks Inc. || Unknown || Unknown || <ref name=itu_ob_1264/>
 |-
 | 738 || 05 || || eGovernment Unit, Ministry of the Presidency || Unknown || Unknown || <ref name=itu_ob_1087/>
 |}
@@ -336,7 +350,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 710 || 21 || Claro || Empresa Nicaragüense de Telecomunicaciones, S.A. (ENITEL) (América Móvil) || Operational || GSM 1900 / UMTS 850 / LTE 1700 || <ref name=gsa_lte/>
 |-
-| 710 || 30 || [[Millicom#Nicaragua|Tigo]] || Telefonía Celular de Nicaragua, S.A. || Operational || GSM 850 / GSM 1900 / UMTS 850 / LTE 1900 || Former [[Movistar]]; CDMA 800, TDMA 800, and NAMPS 800 have been shut down<ref name=gsa_lte/>
+| 710 || 300 || [[Millicom#Nicaragua|Tigo]] || Telefonía Celular de Nicaragua, S.A. || Operational || GSM 850 / GSM 1900 / UMTS 850 / LTE 1900 || Former [[Movistar]]; CDMA 800, TDMA 800, and NAMPS 800 have been shut down<ref name=gsa_lte/>
 |-
 | 710 || 73 || Claro || Servicios de Comunicaciones S.A. || Operational || GSM 1900 / UMTS 850 || Former SERCOM (Merged with ENITEL in 2004 and became Claro in 2009)
 |}
@@ -345,7 +359,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 ==== [[Panama]] – PA ====
 {| {{MNC}}
 |-
-| 714 || 01 || Cable & Wireless || Cable & Wireless Panama S.A. || Operational || GSM 850 / UMTS 850 / LTE 700 / LTE 1900 || LTE band 28 / 2<ref name=gsa_lte/><ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2015/03/12/cw-panama-throws-hat-into-lte-ring/ |title=C&W Panama throws hat into LTE ring |publisher=TeleGeography |date=12 March 2015 |accessdate=12 March 2015}}</ref>
+| 714 || 01 || +Móvil || Cable & Wireless Panama S.A. || Operational || GSM 850 / UMTS 850 / LTE 700 / LTE 1900 || LTE band 28 / 2<ref name=gsa_lte/><ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2015/03/12/cw-panama-throws-hat-into-lte-ring/ |title=C&W Panama throws hat into LTE ring |publisher=TeleGeography |date=12 March 2015 |accessdate=12 March 2015}}</ref>
 |-
 | 714 || 02 || [[Millicom#Panama|Tigo]] || Grupo de Comunicaciones Digitales, S.A. || Operational || GSM 850 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 1900 || Former [[Movistar]], Bell South Corp. (BSC); CDMA 800, TDMA 800 and NAMPS 800 are closed.<ref name=gsa_lte/><ref name=itu_ob_1238/>
 |-
@@ -354,6 +368,8 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 | 714 || 03 || Claro || América Móvil || Operational || GSM 1900 / UMTS 1900 / LTE 700 / LTE 1900 || Being acquired by C&W; LTE bands 28 / 2<ref name=gsa_lte/>
 |-
 | 714 || 04 || Digicel || Digicel Group || Operational || GSM 1900 / UMTS 1900 / LTE 700 / LTE 1900 || LTE bands 28 / 2
+|-
+| 714 || 05 || Cable & Wireless || Cable & Wireless Panama S.A. || Unknown || Unknown || <ref name=itu_ob_1258/>
 |}
 
 ==== [[Paraguay]] – PY ====
@@ -405,13 +421,15 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 748 || 00 || [[Antel]] || Administración Nacional de Telecomunicaciones || Not operational || TDMA || <ref name=itu_ob_1056/> MNC withdrawn<ref name=itu_ob_1183/>
 |-
-| 748 || 01 || [[Antel]] || Administración Nacional de Telecomunicaciones || Operational || GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 1700 / 5G 28000 || Former brand Ancel; LTE bands 28 / 4
+| 748 || 01 || [[Antel]] || Administración Nacional de Telecomunicaciones || Operational || GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 1700 / 5G 3500 / 5G 28000 || Former brand Ancel; LTE bands 28 / 4
 |-
 | 748 || 03 || [[Antel]] || Administración Nacional de Telecomunicaciones || Not operational || Unknown || <ref name=itu_ob_1056/> MNC withdrawn<ref name=itu_ob_1183/>
 |-
-| 748 || 07 || [[Movistar]] || Telefónica Móviles Uruguay || Operational ||  GSM 850 / GSM 1900 / UMTS 850 / LTE 1900 || Former Movicom
+| 748 || 07 || [[Movistar]] || Telefónica Móviles Uruguay || Operational ||  GSM 850 / GSM 1900 / UMTS 850 / LTE 1900 / 5G 3500 || Former Movicom
 |-
 | 748 || 10 || [[Claro Americas|Claro]] || AM Wireless Uruguay S.A. || Operational || GSM 1900 / UMTS 1900 / LTE 1700 || Former CTI Móvil
+|-
+| 748 || 15 || || ENALUR S.A. || Unknown || Unknown || <ref name=itu_ob_1264/>
 |}
 
 === V ===
@@ -427,6 +445,8 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 | 734 || 04 || [[Movistar]] || Telefónica Móviles Venezuela || Operational || GSM 850 / GSM 1900 / UMTS 1900 / LTE 1700 || CDMA 850 shut down March 2014<ref name=gsa_lte/><ref>{{cite web |title=12 Short Stories About the Mobile Networks |url=http://www.cellular-news.com/story/Operators/65483.php |accessdate=17 April 2014}}</ref>
 |-
 | 734 || 06 || [[Movilnet]] || Telecomunicaciones Movilnet || Operational || GSM 850 / UMTS 1900 / LTE 1700 || CDMA 850 shut down Oct 2020<ref>{{cite web |url=https://www.con-cafe.com/2020/10/09/el-apagado-de-cdma-en-movilnet/ |title=The shutdown of CDMA in Movilnet |publisher=Con-cafe |language=spanish |date=2020-10-09 |accessdate=2020-11-17}}</ref>
+|-
+| 734 || 08 || || PATRIACELL C.A. || Unknown || Unknown || Fixed wireless<ref name=itu_ob_1272/>
 |}
 
 ==See also==
@@ -466,6 +486,9 @@ Not in use-->
 <ref name=itu_ob_1238>{{cite web |title=ITU Operational Bulletin No. 1238 |url=https://www.itu.int/pub/T-SP-OB.1238-2022 |publisher=ITU |date=15 February 2022 |accessdate=15 February 2022}}</ref>
 <ref name=itu_ob_1243>{{cite web |title=ITU Operational Bulletin No. 1243 |url=https://www.itu.int/pub/T-SP-OB.1243-2022 |publisher=ITU |date=1 May 2022 |access-date=2 May 2022}}</ref>
 <ref name=itu_ob_1246>{{cite web |title=ITU Operational Bulletin No. 1246 |url=https://www.itu.int/pub/T-SP-OB.1246-2022 |publisher=ITU |date=15 June 2022 |access-date=14 June 2022}}</ref>
+<ref name=itu_ob_1258>{{cite web |title=ITU Operational Bulletin No. 1258 |url=https://www.itu.int/pub/T-SP-OB.1258-2022 |publisher=ITU |date=15 December 2022 |access-date=15 December 2022}}</ref>
+<ref name=itu_ob_1264>{{cite web |title=ITU Operational Bulletin No. 1264 |url=https://www.itu.int/pub/T-SP-OB.1264-2023 |publisher=ITU |date=15 March 2023 |access-date=20 March 2023}}</ref>
+<ref name=itu_ob_1272>{{cite web |title=ITU Operational Bulletin No. 1272 |url=https://www.itu.int/pub/T-SP-OB.1272-2023 |publisher=ITU |date=15 July 2023 |access-date=15 July 2023}}</ref>
 }}
 
 [[Category:Telecommunications lists]]

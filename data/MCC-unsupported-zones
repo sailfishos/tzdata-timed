@@ -20,6 +20,22 @@
 # the operator with MNC 59 and MCC 310 as operating in BM.
 ^310.*BM
 
+# American Samoa (AS) has some networks that use the MCC 311 of US, remove
+# lines with US MCC and AS. Setting time based on MCC 311 only will
+# not work in AS, timed needs support for MNCs to be able to separate
+# the operator with MNC 780 and MCC 311 as operating in AS.
+^311.*AS
+
+# Puerto Rico (PR) has some networks that use the MCC 310 & 313 of US, remove
+# lines with US MCC and PR. Setting time based on MCC 310/313 only will
+# not work in PR, timed needs support for MNCs to be able to separate
+# the operator MCC 310 or 313 with as operating in BM.
+^31..*PR
+
+# United States Virgin Islands (VI) use the same MCC 310 & 311 as rest of US
+# so the entries are useless for timed.
+^31..*VI
+
 # Kosovo is mentioned with the non-standard country code RKS,
 # which does not exist in zone.tab, making it useless for timed
 # Networks operating in XK use country codes from Slovenia (SI) 293,
@@ -42,7 +58,13 @@ XK
 # Turks and Caicos (TC), which have different time zones. Setting time based on
 # 338 will not work in TC or BM, unfortunately the MNC does not help as it is
 # the same in all locations 050, making JM operator codes unusable for timed.
+# Also some networks in Cayman Islands (KY), Montserrat (MS) and Saint Lucia (SL)
+# use Jamaican (JM) country code 338 and also use same MNC 05 as a network in
+# Jamaica.
 ^338.*BM
+^338.*KY
+^338.*MS
+^338.*SL
 ^338.*TC
 
 # Networks operating in Guadeloupe (GP) and Martinique (MQ) share the MCC 340,
@@ -71,11 +93,6 @@ MQ
 # unusable by timed. There's no easy mapping between the contry code 362 and
 # the locations formerly included in Netherlands Antilles.
 ^362.*AN
-
-# Cayman Islands (KY) (UTC-05) and Saint Lucia (SL) (UTC-04) both have MCC's
-# of 388. Since Saint Lucia has approximately twice the population of
-# Cayman Islands... I guess it sucks to be Cayman Islands.
-^338.*KY
 
 # Belgium shares 2 networks with Luxembourg 270 77 and 270 99, even though most
 # of Belgium uses MCC 206. (All of Luxembourg uses 270). Both are (UTC+01),
