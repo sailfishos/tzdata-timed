@@ -1,11 +1,13 @@
 CC=g++
+PREFIX ?= /usr
+DATADIR= $(PREFIX)/share
 SCRIPTS_DIR=$(CURDIR)/scripts
-DATA_DIR=$(CURDIR)/data
+PKG_DATA_DIR=$(CURDIR)/data
 TZDB_DIR=$(CURDIR)/iana.org
 SRC_DIR=$(CURDIR)/src
 BUILD_DIR=$(CURDIR)/build
-INSTALL_DIR=/usr/share/tzdata-timed
-INSTALL_ROOT?=""
+INSTALL_DIR=$(DATADIR)/tzdata-timed
+DESTDIR ?=
 
 all: prepare-timed-data
 
@@ -53,10 +55,10 @@ prepare-timed-data: find-aliases
 	$(SCRIPTS_DIR)/prepare-timed-data.perl \
 	--zonetab=$(SRC_DIR)/zone.tab \
 	--signatures=$(BUILD_DIR)/signatures \
-	--mcc-main=$(DATA_DIR)/MCC \
-	--mcc-skip-patterns=$(DATA_DIR)/MCC-unsupported-zones \
-	--distinct=$(DATA_DIR)/distinct.tab \
-	--single=$(DATA_DIR)/single.tab \
+	--mcc-main=$(PKG_DATA_DIR)/MCC \
+	--mcc-skip-patterns=$(PKG_DATA_DIR)/MCC-unsupported-zones \
+	--distinct=$(PKG_DATA_DIR)/distinct.tab \
+	--single=$(PKG_DATA_DIR)/single.tab \
 	--single-output=$(BUILD_DIR)/single.data \
 	--distinct-output=$(BUILD_DIR)/distinct.data \
 	--full-output=$(BUILD_DIR)/olson.data \
@@ -64,11 +66,11 @@ prepare-timed-data: find-aliases
 	--zones-by-country-output=$(BUILD_DIR)/zones-by-country.data
 
 install:
-	mkdir -p $(INSTALL_ROOT)$(INSTALL_DIR)
-	cp $(BUILD_DIR)/country-by-mcc.data $(INSTALL_ROOT)$(INSTALL_DIR)
-	cp $(BUILD_DIR)/single.data $(INSTALL_ROOT)$(INSTALL_DIR)
-	cp $(BUILD_DIR)/zones-by-country.data $(INSTALL_ROOT)$(INSTALL_DIR)
-	cp $(BUILD_DIR)/zone.alias $(INSTALL_ROOT)$(INSTALL_DIR)
+	mkdir -p $(DESTDIR)$(INSTALL_DIR)
+	cp $(BUILD_DIR)/country-by-mcc.data $(DESTDIR)$(INSTALL_DIR)
+	cp $(BUILD_DIR)/single.data $(DESTDIR)$(INSTALL_DIR)
+	cp $(BUILD_DIR)/zones-by-country.data $(DESTDIR)$(INSTALL_DIR)
+	cp $(BUILD_DIR)/zone.alias $(DESTDIR)$(INSTALL_DIR)
 
 clean:
 	rm -rf $(SRC_DIR) $(BUILD_DIR)

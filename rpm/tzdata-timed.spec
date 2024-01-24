@@ -1,10 +1,10 @@
 Name:       tzdata-timed
-
 Summary:    Data files for the time daemon, timed
 Version:    2021a
 Release:    1
 License:    Public Domain
 BuildArch:  noarch
+BuildRequires: pcre
 URL:        https://github.com/sailfishos/tzdata-timed
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   tzdata
@@ -17,10 +17,9 @@ and mobile country codes.
 %setup -q -n %{name}-%{version}
 
 %build
-make %{?_smp_mflags}
+%make_build
 
 %install
-rm -rf %{buildroot}
 %make_install
 
 %files
