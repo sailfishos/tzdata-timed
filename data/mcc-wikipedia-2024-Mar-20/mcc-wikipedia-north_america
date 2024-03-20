@@ -1,7 +1,8 @@
-This list contains the [[mobile country code]]s and [[mobile network code]]s for networks with country codes between 300 and 399, inclusively – a region that covers [[List of mobile network operators of the Americas|North America and the Caribbean]]. [[#Guam (United States of America) - GU|Guam]] and the [[#Northern Mariana Islands (United States of America) - MP|Northern Mariana Islands]] are included in this region as parts of the United States.
+{{External links|date=November 2022}}
+This list contains the [[mobile country code]]s and [[mobile network code]]s for networks with country codes between 300 and 399, inclusively – a region that covers [[List of mobile network operators of the Americas|North America and the Caribbean]]. [[#Guam (United States of America) – GU|Guam]] and the [[#Northern Mariana Islands (United States of America) – MP|Northern Mariana Islands]] are included in this region as parts of the United States.
 
 ==National operators==
-{{Compact ToC|name=Countries and territories|center=yes|e=E|i=I|k=K|l=L|o=O|q=Q|r=R|v=V|w=W|x=X|y=Y|z=Z}}
+{{Compact TOC|name=Countries and territories|center=yes|e=E|i=I|k=K|l=L|o=O|q=Q|r=R|v=V|w=W|x=X|y=Y|z=Z}}
 
 === A ===
 ==== [[Anguilla]] (United Kingdom) – AI ====
@@ -38,7 +39,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 364 || 39 || BTC || The Bahamas Telecommunications Company Ltd (BaTelCo) || Operational || GSM 850 / GSM 1900 / UMTS 850 / LTE 700 / LTE 1700 || LTE band 17 and 4<ref name=itu_ob_1112/><ref name=halberd/><ref>{{cite web |url=http://www.btcbahamas.com/support/category/56-additional-information/faqs?open=124#faq-124 |title=Additional Information Frequently Asked Questions - What device frequencies are compatible? |publisher=BTC |archive-url=https://web.archive.org/web/20171111151917/http://www.btcbahamas.com/support/category/56-additional-information/faqs?open=124 |archive-date=11 November 2017 |accessdate=12 June 2019}}</ref>
 |-
-| 364 || 49 || [[Aliv]] || [https://www.cablebahamas.com/ Cable Bahamas Ltd] || Operational || UMTS 850 / LTE 700 / LTE 1700 || Former NewCo2015;<ref name=itu_ob_1108/> LTE bands 13 and 4; license also covers Band 2<ref>{{cite web |title=Individual Spectrum Licence - IS-16-0005 |url=http://www.bahamaslocal.com/files/005445500.pdf |publisher=URCA |date=30 June 2016 |accessdate=4 December 2017}}</ref><ref name=halberd/>
+| 364 || 49 || [[Aliv]] || Cable Bahamas Ltd || Operational || UMTS 850 / LTE 700 / LTE 1700 || Former NewCo2015;<ref name=itu_ob_1108/> LTE bands 13 and 4; license also covers Band 2<ref>{{cite web |title=Individual Spectrum Licence - IS-16-0005 |url=http://www.bahamaslocal.com/files/005445500.pdf |publisher=URCA |date=30 June 2016 |accessdate=4 December 2017}}</ref><ref name=halberd/>
 |}
 
 ==== [[Barbados]] – BB ====
@@ -52,21 +53,21 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 342 || 800 || Ozone || [[Ozone Wireless|Ozone Wireless Inc.]] || Not operational || LTE 700 || LTE band 13; MNC withdrawn; shut down July 2019<ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2019/08/20/ozone-in-the-dead-zone-calahub-plots-relaunch/ |title=Ozone in the dead zone; CalaHub plots relaunch |publisher=TeleGeography |date=2019-08-20 |accessdate=2019-08-21}}</ref><ref name=itu_ob_1212/>
 |-
-| 342 || 820 ||  || [https://www.neptunecommunications.com/ Neptune Communications Inc.] || Not operational || LTE 700 || LTE band 14;<ref name=itu_ob_1212/> former [[Sunbeach Communications]]
+| 342 || 820 ||  || Neptune Communications Inc. || Not operational || LTE 700 || LTE band 14;<ref name=itu_ob_1212/> former [[Sunbeach Communications]]
 |}
 
 ==== [[Bermuda]] – BM ====
 {| {{MNC}}
 |-
-| 310 || 59 || Cellular One || || Operational || CDMA || uses USA MCC
+| 310 || 59 || Cellular One || || Not operational || CDMA || USA MCC
 |-
-| 338 || 050 || Digicel Bermuda || || Operational || GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 || uses Jamaica MCC <ref name=gsma_bermuda/><ref name=halberd/>
+| 338 || 050 || Digicel || || Operational || GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 || uses Jamaica MCC <ref name=gsma_bermuda/><ref name=halberd/>
 |-
-| 350 || 00 || One || Bermuda Digital Communications Ltd. || Operational || GSM 1900 / UMTS 850 / LTE 700 || Former CellOne<ref name=itu_ob_1111/><ref name=gsa_lte/><ref name=gsa_hspa/><ref name=gsma_bermuda>{{cite web |title=Bermuda |url=http://maps.mobileworldlive.com/network.php?cid=165&cname=Bermuda |publisher=GSMA |accessdate=29 April 2014}}</ref><ref name=halberd/>
+| 350 || 00 || One || Bermuda Digital Communications Ltd. || Operational || GSM 1900 / UMTS 850 / LTE 700 / 5G || Former CellOne<ref name=itu_ob_1111/><ref name=gsa_lte/><ref name=gsa_hspa/><ref name=gsma_bermuda>{{cite web |title=Bermuda |url=http://maps.mobileworldlive.com/network.php?cid=165&cname=Bermuda |publisher=GSMA |accessdate=29 April 2014}}</ref><ref name=halberd/>
 |-
-| 350 || 007 || || Paradise Mobile || Not operational || Unknown || <ref name=itu_ob_1222/>
+| 350 || 007 || || Paradise Mobile || Operational || 5G || <ref name=itu_ob_1222/>
 |-
-| 350 || 01 || Digicel Bermuda || Telecommunications (Bermuda & West Indies) Ltd || Reserved || GSM 1900 || uses Jamaica MNC/MCC (338-050)
+| 350 || 01 || Digicel Bermuda || Telecommunications (Bermuda & West Indies) Ltd || Reserved || GSM 1900 || uses Jamaica MNC/MCC (338–050)
 |-
 | 350 || 02 || Mobility || M3 Wireless || Not operational || GSM 1900 / UMTS || Merged with CellOne in 2011<ref name=halberd/><ref name=gsa_hspa/>
 |-
@@ -95,23 +96,31 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 302 || 100 || dotmobile || Data on Tap Inc. || Unknown || MVNO || <ref name=itu_ob_1182/>
 |-
-| 302 || 130 || [[Xplornet]] || Xplornet Communications || Operational || TD-LTE 3500 / WiMAX / 5G 3500 || <ref name=itu_ob_1131/>
+| 302 || 130 || Xplore || [[Xplore Inc.]] || Operational || TD-LTE 3500 / WiMAX / 5G 3500 || Former Xplornet<ref name=itu_ob_1131/>
 |-
-| 302 || 131 || [[Xplornet]] || Xplornet Communications || Operational || TD-LTE 3500 / WiMAX / 5G 3500 || <ref name=itu_ob_1131/>
+| 302 || 131 || Xplore || [[Xplore Inc.]] || Operational || TD-LTE 3500 / WiMAX / 5G 3500 || Former Xplornet<ref name=itu_ob_1131/>
+|-
+| 302 || 140 || Fibernetics || Fibernetics Corp. || Not Operational || LTE 1900 || Ontario<ref name=itu_ob_1265/>
 |-
 | 302 || 150 || || [[Cogeco|Cogeco Connexion Inc.]] || Unknown || Unknown || <ref name=itu_ob_1191/>
 |-
-| 302 || 220 || Telus Mobility, [[Koodo Mobile]], Public Mobile || [[Telus|Telus Mobility]] || Operational || UMTS 850 / UMTS 1900 / LTE 1700 / LTE 2600 / 5G 1700 / 5G 3500 || Used in IMSI to identify Telus subscribers on shared network 302-880
+| 302 || 151 || || [[Cogeco|Cogeco Connexion Inc.]] || Unknown || Unknown || <ref name=itu_ob_1261/>
+|-
+| 302 || 152 || || [[Cogeco|Cogeco Connexion Inc.]] || Unknown || Unknown || <ref name=itu_ob_1261/>
+|-
+| 302 || 220 || Telus Mobility, [[Koodo Mobile]], Public Mobile || [[Telus|Telus Mobility]] || Operational || UMTS 850 / UMTS 1900 / LTE 1700 / LTE 2600 / 5G 1700 / 5G 3500 || Used in IMSI to identify Telus subscribers on shared network 302–880
 |-
 | 302 || 221 || Telus || [[Telus|Telus Mobility]] || Unknown || Unknown || <ref name=authority_ca/>
 |-
 | 302 || 222 || Telus || [[Telus|Telus Mobility]] || Unknown || Unknown || <ref name=authority_ca/>
 |-
-| 302 || 250 || ALO || ALO Mobile Inc. || Unknown || Unknown || <ref name=authority_ca/>
+| 302 || 230 || || ISP Telecom || Unknown || Unknown || <ref name=itu_ob_1257/>
+|-
+| 302 || 250 ||  || [[Bell Mobility]] || Unknown || Unknown 1700 || Former ALO Mobile Inc.<ref name=authority_ca/><ref name=itu_ob_1278/>
 |-
 | 302 || 270 || [[EastLink (company)|EastLink]] || Bragg Communications || Operational || UMTS 1700 / LTE 700 / LTE 1700 / 5G 600 || Nova Scotia and PEI; LTE bands 13, 4<ref name=halberd/>
 |-
-| 302 || 290 || Airtel Wireless  || [http://www.airtelwireless.ca/ Airtel Wireless] || Not operational || iDEN 900 || Calgary, AB; MNC withdrawn<ref name=itu_ob_1250/>
+| 302 || 290 || Airtel Wireless  || Airtel Wireless || Not operational || iDEN 900 || Calgary, AB; MNC withdrawn<ref name=itu_ob_1250/>
 |-
 | 302 || 300 || ECOTEL || Ecotel inc. || Operational || LTE 700 / LTE 850 / LTE 2600 || private LTE networks<ref name=itu_ob_1096/>
 |-
@@ -121,49 +130,53 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 302 || 330 || || Blue Canada Wireless Inc. || Not operational || Unknown || <ref name=itu_ob_1180/> MNC withdrawn<ref name=itu_ob_1203/>
 |-
-| 302 || 340 || Execulink || [http://www.execulink.ca Execulink] || Operational || MVNO || <ref name=authority_ca/>
+| 302 || 340 || Execulink || Execulink || Operational || MVNO || <ref name=authority_ca/>
 |-
 | 302 || 350 ||  || [[Naskapi]] Imuun Inc. || Unknown || Unknown || Former FIRST Networks<ref name=itu_ob_1228/>
 |-
+| 302 || 351 ||  || [https://mpvwifi.com/ MPVWifi Inc.] || Operational || LTE 3500 || <ref name=itu_ob_1286/>
+|-
+| 302 || 352 || Lyttonnet || [https://lyttonnet.com/ Lytton Area Wireless Society] || Operational || Unknown || <ref name=itu_ob_1287/>
+|-
 | 302 || 360 || [[Mike (cellular network)|MiKe]] || Telus Mobility || Not operational || iDEN 800 || iDEN shut down January 2016
 |-
-| 302 || 361 || [[Telus]] || Telus Mobility || Not operational || CDMA 800 / CDMA 1900 || CDMA shut down 31 May 2017;<ref name=telus_cdma>{{cite web |url=https://www.telus.com/en/on/support/article/cdma |title=CDMA network shut down |publisher=Telus |date=3 February 2017 |accessdate=3 March 2017}}</ref> MNC withdrawn <ref name=authority_ca/>
+| 302 || 361 || [[Telus]] || Telus Mobility || Not operational || CDMA 800 / CDMA 1900 || CDMA shut down 31 May 2017;<ref name=telus_cdma>{{cite web |url=https://www.telus.com/en/on/support/article/cdma |title=CDMA network shut down |publisher=Telus |date=3 February 2017 |accessdate=3 March 2017}}</ref> MNC withdrawn<ref name=authority_ca/>
 |-
 | 302 || 370 || Fido || [[Fido Solutions]] (Rogers Wireless) || Operational || MVNO || former Microcell Telecommunications
 |-
-| 302 || 380 || Keewaytinook Mobile || [http://mobile.knet.ca/ Keewaytinook Okimakanak Mobile] || Operational || UMTS 850 / UMTS 1900 || Former [[Dryden Municipal Telephone Service|Dryden Mobility]]<ref name=authority_ca/>
+| 302 || 380 || Keewaytinook Mobile || Keewaytinook Okimakanak Mobile || Operational || UMTS 850 / UMTS 1900 || Former [[Dryden Municipal Telephone Service|Dryden Mobility]]<ref name=authority_ca/>
 |-
-| 302 || 390 || DMTS || [[Dryden Municipal Telephone Service|Dryden Mobility]] || Not operational || Unknown || Acquired by [[Tbaytel]] in 2012; MNC withdrawn <ref name=itu_ob_1056/><ref name=authority_ca/>
+| 302 || 390 || DMTS || [[Dryden Municipal Telephone Service|Dryden Mobility]] || Not operational || Unknown || Acquired by [[Tbaytel]] in 2012; MNC withdrawn<ref name=itu_ob_1056/><ref name=authority_ca/>
 |-
 | 302 || 420 || ABC || A.B.C. Allen Business Communications Ltd. || Operational || TD-LTE 3500 || British Columbia<ref name=itu_ob_1141/>
 |-
 | 302 || 480 || Qiniq || [[SSI Micro|SSi Connexions]] || Operational || GSM 1900 / LTE 2600 || Nunavut<ref name=authority_ca/>
 |-
-| 302 || 490 || [[Freedom Mobile]] || [[Shaw Communications]] || Operational || UMTS 1700 / LTE 700 / LTE 1700 / LTE 2600 || Former Wind Mobile; LTE bands 4, 7, 13, 66
+| 302 || 490 || [[Freedom Mobile]] || [[Quebecor]] || Operational || UMTS 1700 / LTE 700 / LTE 1700 / LTE 2600 / 5G 600 / 5G 1700 || Former Wind Mobile; LTE bands 4, 7, 13, 66
 |-
-| 302 || 491 || [[Freedom Mobile]] || [[Shaw Communications]] || Unknown || Unknown || <ref name=itu_ob_1142/>
+| 302 || 491 || [[Freedom Mobile]] || [[Quebecor]] || Unknown || Unknown || <ref name=itu_ob_1142/>
 |-
 | 302 || 500 || [[Videotron]] || [[Videotron]] || Operational || UMTS 1700 / LTE 700 / LTE 1700 / 5G 600 / 5G 1700 / 5G 2600 || LTE bands 13, 4; 5G bands n71, n66, n7<ref name=authority_ca/><ref name=halberd/>
 |-
 | 302 || 510 || [[Videotron]] || [[Videotron]] || Operational || UMTS 1700 / LTE 700 / LTE 1700 / 5G 600 / 5G 1700 / 5G 2600 || LTE bands 13, 4<ref name=authority_ca/><ref name=halberd/>
 |-
-| 302 || 520 || [[Videotron]] || [[Videotron]] || Unknown || Unknown || <ref name=authority_ca/>
+| 302 || 520 || Rogers ([[Vidéotron]] MOCN) || [[Videotron]] || Operational || Unknown || Used by Vidéotron on Rogers RAN with MOCN
 |-
 | 302 || 530 || Keewaytinook Mobile || [http://mobile.knet.ca/ Keewaytinook Okimakanak Mobile] || Operational || GSM || Northwestern Ontario; also spelled Keewatinook Okimacinac<ref name=authority_ca/>
 |-
 | 302 || 540 || || Rovvr Communications Inc. || Unknown || Unknown || <ref name=authority_ca/>
 |-
-| 302 || 550 || || [https://www.starsolutions.com/ Star Solutions International Inc.] || Unknown || LTE? || <ref name=itu_ob_1186/> Private LTE
+| 302 || 550 || || Star Solutions International Inc. || Unknown || LTE? || <ref name=itu_ob_1186/> Private LTE
 |-
 | 302 || 560 || Lynx Mobility || Lynx Mobility || Not operational || CDMA / GSM || Northern Quebec, Nunavut, Labrador; MNC withdrawn<ref name=authority_ca/><ref>{{cite web |url=http://www.lynxmobility.com/images/Press_Release/20141114_LynxMobility_Press_Release.pdf |title=Lynx Mobility to upgrade technology to GSM |accessdate=2015-02-24 |url-status=dead |archiveurl=https://web.archive.org/web/20150122004130/http://www.lynxmobility.com/images/Press_Release/20141114_LynxMobility_Press_Release.pdf |archivedate=22 January 2015 |df=dmy-all }}</ref>
 |-
-| 302 || 570 || [[LightSquared]] || LightSquared || Unknown || Unknown || <ref name=authority_ca/>
+| 302 || 570 ||  || [[Ligado Networks]] Corp. || Unknown || Satellite || Former LightSquared<ref name=itu_ob_1261/>
 |-
 | 302 || 590 || Quadro Mobility || [http://www.quadro.net Quadro Communications Co-op] || Operational || Unknown || Southwestern Ontario<ref name=authority_ca/>
 |-
 | 302 || 600 || || [[Iristel]] || Unknown || Unknown || <ref name=authority_ca/>
 |-
-| 302 || 610 || Bell Mobility || [[Bell Mobility]] || Operational || UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 1900 / LTE 2600 / 5G 1700 / 5G 3500 || Used in IMSI to identify Bell subscribers on shared network 302-880; LTE bands 17, 29, 4, 2, 7
+| 302 || 610 || Bell Mobility || [[Bell Mobility]] || Operational || UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 1900 / LTE 2600 / 5G 1700 / 5G 3500 || Used in IMSI to identify Bell subscribers on shared network 302–880; LTE bands 17, 29, 4, 2, 7
 |-
 | 302 || 620 || [[ICE Wireless]] || [[ICE Wireless]] || Operational || UMTS 850 / GSM 1900 / LTE 850 / LTE 1900 || Northern Canada
 |-
@@ -189,7 +202,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 302 || 680 || [[SaskTel]] || SaskTel Mobility || Operational || TD-LTE 2600 || CDMA 850 shut down 5 July 2017<ref name=sasktel_cdma>{{cite web |url=https://www.sasktel.com/about-us/news/2017/sasktel-rreminds-cdma-customers-of-network-shutdown |title=SaskTel reminds CDMA customers of network shutdown |publisher=Sasktel |date=11 January 2017 |accessdate=6 March 2017}}</ref>
 |-
-| 302 || 681 || [[SaskTel]] || SaskTel Mobility || Unknown || Unknown || <ref name=itu_ob_1205/>
+| 302 || 681 || [[SaskTel]] || SaskTel Mobility || Not operational || Unknown || <ref name=itu_ob_1205/> MNC withdrawn<ref name=authority_ca/>
 |-
 | 302 || 690 || Bell || [[Bell Mobility]] || Operational || UMTS 850 / UMTS 1900 || <ref name=itu_ob_1019/> 
 |-
@@ -201,13 +214,15 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 302 || 710 || Globalstar || || Operational || Satellite CDMA ||
 |-
-| 302 || 720 || [[Rogers Wireless]] || [[Rogers Communications]] || Operational || UMTS 850 / LTE 600 / LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / LTE 2600 / 5G 600 / 5G 1700 / TD-5G 2600 / 5G 3500 || former Rogers AT&T Wireless;<br/> LTE bands 2, 4, 5, 7, 12, 17, 25, 66, 71;<br/> 5G bands n38, n41, n66, n71, n78;<br/> GSM 1900 / UMTS 1900 was shut down 7 June 2021, GSM 850 was shut down on 31 Dec 2021<ref>{{cite web |url=https://www.rogers.com/business/support/iot-network-updates |title=IoT Network Updates |publisher=Rogers |access-date=2020-12-22}}</ref>
+| 302 || 720 || [[Rogers Wireless]] || [[Rogers Communications]] || Operational || GSM 850 / UMTS 850 / LTE 600 / LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / LTE 2600 / 5G 600 / 5G 1700 / TD-5G 2600 / 5G 3500 || former Rogers AT&T Wireless;<br/> LTE bands 2, 4, 5, 7, 12, 17, 25, 66, 71;<br/> 5G bands n38, n41, n66, n71, n78;<br/> GSM 1900 / UMTS 1900 was shut down 7 June 2021
 |-
 | 302 || 721 || [[Rogers Wireless]] || [[Rogers Communications]] || Unknown || Unknown || <ref name=itu_ob_1186/>
 |-
 | 302 || 730 || TerreStar Solutions || [[TerreStar Networks]] || Unknown || Unknown || <ref name=authority_ca/>
 |-
-| 302 || 740 || Shaw Telecom || [[Shaw Communications]] || Not operational || Unknown || <ref name=authority_ca/>
+| 302 || 740 || [[Rogers Wireless]] || [[Rogers Communications]] || Unknown || Unknown || Former [[Shaw Communications]]<ref name=authority_ca/><ref name=itu_ob_1268/>
+|-
+| 302 || 741 || [[Rogers Wireless]] || [[Rogers Communications]] || Unknown || Unknown || <ref name=itu_ob_1268/>
 |-
 | 302 || 750 || [[SaskTel]] || SaskTel Mobility || Unknown || Unknown || <ref name=authority_ca/>
 |-
@@ -215,25 +230,25 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 302 || 770 || TNW Wireless || TNW Wireless Inc. || Operational || UMTS 850 || Former Rural Com; national coverage based on iPCS technology and Wi-Nodes<ref name=itu_ob_1221/>
 |-
-| 302 || 780 || [[SaskTel]] || SaskTel Mobility || Operational || UMTS 850 / UMTS 1900 / LTE 600 / LTE 700 / LTE 850 / LTE 1700 / 5G 1700 || Saskatchewan<ref name=halberd/>
+| 302 || 780 || [[SaskTel]] || SaskTel Mobility || Operational || UMTS 850 / UMTS 1900 / LTE 600 / LTE 700 / LTE 850 / LTE 1900 / LTE 1700 / LTE 2600 / 5G 1700 / 5G 3500 || Saskatchewan<ref name=halberd/><ref>{{cite web |title=Supported frequencies on the SaskTel wireless network |url=https://support.sasktel.com/app/answers/detail/a_id/25812 |publisher=SaskTel |date=2023-07-25 |access-date=2023-08-01}}</ref><ref>{{cite web |title=Connecting your phone to the SaskTel 5G network |url=https://support.sasktel.com/app/answers/detail/a_id/26176/kw/5g |publisher=SaskTel |date=2023-07-11 |access-date=2023-08-01}}</ref>
 |-
-| 302 || 781 || [[SaskTel]] || SaskTel Mobility || Unknown || Unknown || <ref name=itu_ob_1205/>
+| 302 || 781 || [[SaskTel]] || SaskTel Mobility || Not operational || Unknown || <ref name=itu_ob_1205/> MNC withdrawn<ref name=authority_ca/>
 |-
-| 302 || 790 || || [http://netset1.ca NetSet Communications] || Operational || WiMAX / TD-LTE 3500 || Manitoba<ref name=gsa_lte/><ref name=authority_ca/>
+| 302 || 790 || || NetSet Communications || Operational || WiMAX / TD-LTE 3500 || Manitoba<ref name=gsa_lte/><ref name=authority_ca/>
 |-
 | 302 || 820 || [[Rogers Wireless]] || [[Rogers Communications]] || Unknown || Unknown || <ref name=authority_ca/>
 |-
-| 302 || 848 || || [https://www.vocom.com/ Vocom International Telecommunications, Inc] || Unknown || Unknown || <ref name=itu_ob_1254/>
+| 302 || 848 || || Vocom International Telecommunications, Inc || Unknown || Unknown || <ref name=itu_ob_1254/>
 |-
 | 302 || 860 || [[Telus]] || Telus Mobility || Unknown || Unknown || <ref name=authority_ca/>
 |-
 | 302 || 880 || [[Bell Canada|Bell]] / [[Telus]] / [[SaskTel]] || Shared Telus, Bell, and SaskTel || Operational || UMTS 850 / UMTS 1900 ||
 |-
-| 302 || 910 || || [[Halton Regional Police Service]] || Unknown || Unknown || Reserved<ref name=itu_ob_1221/>
+| 302 || 910 || || [[Halton Regional Police Service#Wireless networks|Halton Regional Police Service]] || Operational || LTE 700 || <ref name=itu_ob_1221/><ref name=itu_ob_1269/>
 |-
 | 302 || 920 || [[Rogers Wireless]] || [[Rogers Communications]] || Not operational || Unknown || MNC withdrawn<ref name=authority_ca/>
 |-
-| 302 || 940 || Wightman Mobility || [http://www.wightman.ca/ Wightman Telecom] || Operational || UMTS 850 / UMTS 1900 || <ref name=authority_ca/>
+| 302 || 940 || Wightman Mobility || Wightman Telecom || Operational || UMTS 850 / UMTS 1900 || <ref name=authority_ca/>
 |-
 | 302 || 990 || || Ericsson Canada || Unknown || Unknown || For testing<ref name=authority_ca/>
 |-
@@ -251,7 +266,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 338 || 05 || Digicel || Digicel Cayman Ltd. || Operational || UMTS 2100 / LTE 700 / LTE 1800 || LTE bands 13 / 3;<ref name=halberd/><ref name=gsa_hspa/><ref name="gsa_lte1800_101213"/> GSM shut down July 2020<ref>{{cite web |url=https://www.digicelgroup.com/ky/en/mobile/Why-Digicel/network/G-Network-Shut-Down.html |archive-url=https://web.archive.org/web/20200620094239/https://www.digicelgroup.com/ky/en/mobile/Why-Digicel/network/G-Network-Shut-Down.html |archive-date=2020-06-20 |access-date=2020-12-22 |title=2G Network Shut Down |publisher=Digicel}}</ref>
 |-
-| 346 || 001 || [https://www.logic.ky/ Logic] || WestTel Ltd. || Operational || LTE 2500 || LTE band 41; fixed wireless access<ref name=itu_ob_1183/>
+| 346 || 001 || Logic || WestTel Ltd. || Operational || LTE 2500 || LTE band 41; fixed wireless access<ref name=itu_ob_1183/>
 |-
 | 346 || 140 || [[Flow (brand)|FLOW]] || [[FLOW (brand)|Cable & Wireless (Cayman Islands) Limited]] || Operational || GSM 850 / GSM 1900 / UMTS 850 / LTE 700 / LTE 1900 || LTE bands 17 / 2<ref name=halberd/><ref name=gsa_lte/><ref name=gsa_hspa/> 
 |-
@@ -261,7 +276,7 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 ==== [[Cuba]] – CU ====
 {| {{MNC}}
 |-
-| 368 || 01 || CUBACEL || [[ETECSA|Empresa de Telecomunicaciones de Cuba, SA]] || Operational || GSM 900 / GSM 850 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 || GSM 850 only available in limited areas (Havana, Varadero, Trinidad and Cayo Coco)<ref>{{cite web |url=http://www.cubadebate.cu/noticias/2017/03/20/etecsa-anuncia-rebajas-en-la-telefonia-movil-y-nuevos-servicios-nauta/ |title=ETECSA anuncia rebajas en la telefonía móvil y nuevos servicios Nauta (+ Infografía) |publisher=Cubadebate |date=2017-03-21 |language=es |accessdate=2017-05-24}}</ref><ref name=halberd/>
+| 368 || 01 || CUBACEL || [[ETECSA|Empresa de Telecomunicaciones de Cuba, SA]] || Operational || GSM 900 / GSM 850 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1800 / LTE 2100 || GSM 850 only available in limited areas (Havana, Varadero, Trinidad and Cayo Coco)<ref>{{cite web |url=http://www.cubadebate.cu/noticias/2017/03/20/etecsa-anuncia-rebajas-en-la-telefonia-movil-y-nuevos-servicios-nauta/ |title=ETECSA anuncia rebajas en la telefonía móvil y nuevos servicios Nauta (+ Infografía) |publisher=Cubadebate |date=2017-03-21 |language=es |accessdate=2017-05-24}}</ref><ref name=halberd/>
 |}
 
 === D ===
@@ -309,7 +324,7 @@ includes
 |-
 | 340 || 09 || [[Free (ISP)|Free]] || Free Caraïbe || Upcoming || UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 ||<ref name=itu_ob_1146/><ref name=halberd/>
 |-
-| 340 || 10 || || Guadeloupe Téléphone Mobile || Not operational || Unknown || <ref name=itu_ob_1056/>
+| 340 || 10 || SRIR || SOCIETE DE REALISATION D'INFRASTRUCTURES DE RESEAUX || Unknown || Unknown || Former Guadeloupe Téléphone Mobile<ref name=itu_ob_1056/><ref name=authority_fr/>
 |-
 | 340 || 11 || || Guyane Téléphone Mobile || Not operational || Unknown || <ref name=itu_ob_1056/> MNC withdrawn<ref name=itu_ob_1243/>
 |-
@@ -330,23 +345,23 @@ includes
 ==== [[Guam]] ([[United States of America]]) – GU ====
 {| {{MNC}}
 |-
-| 310 || 032 || [http://www.ite.net IT&E Wireless] || IT&E Overseas, Inc || Operational || CDMA 1900 / GSM 1900 / UMTS 1900 / LTE 700 || <ref name=itu_ob_779/><ref name=mwlive/><ref name=halberd_asia/>
+| 310 || 032 || IT&E Wireless || PTI Pacifica Inc. || Operational || CDMA 1900 / GSM 1900 / UMTS 1900 / LTE 700 || <ref name=itu_ob_779/><ref name=mwlive/><ref name=halberd_asia/>
 |-
 | 310 || 033 || || Guam Telephone Authority || Unknown || Unknown || <ref name=itu_ob_837/>
 |-
-| 310 || 140 || [http://www.gta.net/ GTA Wireless] || Teleguam Holdings, LLC || Operational || GSM 850 / GSM 1900 / UMTS 850 / LTE 1700 || Previously called Guam Telephone Authority mPulse<ref name=itu_ob_871/><ref name=gsa_lte/><ref name=mwlive/>
+| 310 || 140 || GTA Wireless || Teleguam Holdings, LLC || Operational || GSM 850 / GSM 1900 / UMTS 850 / LTE 1700 / 5G 2500 / 5G 3500 / 5G 26000 || Previously called Guam Telephone Authority mPulse<ref name=itu_ob_871/><ref name=gsa_lte/><ref name=mwlive/>
 |-
-| 310 || 370 || Docomo || NTT [[DoCoMo Pacific]] || Operational || GSM 1900 / UMTS 850 / LTE 700 || Formerly HafaTEL, then Guamcell;<ref name=itu_ob_871/><ref name=itu_ob_1019/> CDMA 850 shut down in late 2010
+| 310 || 370 || Docomo || NTT [[DoCoMo Pacific]] || Operational || GSM 1900 / UMTS 850 / LTE 700 / 5G || Formerly HafaTEL, then Guamcell;<ref name=itu_ob_871/><ref name=itu_ob_1019/> CDMA 850 shut down in late 2010
 |-
-| 310 || 400 || [http://www.ite.net IT&E Wireless] || IT&E Overseas, Inc || Operational || GSM 1900 / UMTS 1900 / LTE 700 || Former [[Instant connect telecommunications|iConnect]], Wave Runner LLC<ref name=icon_ite_gu>{{cite web |url=https://www.pncguam.com/ite-buys-out-iconnects-telecommunication-assets/ |title=IT&E buys out iCONNECT's telecommunication assets |publisher=Pacific News Center |date=2020-10-05 |accessdate=2020-10-13}}</ref><ref name=itu_ob_871/><ref name=gsa_lte/><ref name=mwlive/>
+| 310 || 400 || IT&E Wireless || PTI Pacifica Inc. || Not operational || GSM 1900 / UMTS 1900 / LTE 700 || Former [[Instant connect telecommunications|iConnect]], Wave Runner LLC;<ref name=icon_ite_gu>{{cite web |url=https://www.pncguam.com/ite-buys-out-iconnects-telecommunication-assets/ |title=IT&E buys out iCONNECT's telecommunication assets |publisher=Pacific News Center |date=2020-10-05 |accessdate=2020-10-13}}</ref><ref name=itu_ob_871/><ref name=gsa_lte/><ref name=mwlive/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
 | 310 || 470 || Docomo || NTT [[DoCoMo Pacific]] || Unknown || Unknown || <ref name=authority_us_20180417>{{cite web |url=http://imsiadmin.com/assignments |title=HNI assignments|archive-url=https://web.archive.org/web/20180417084901/http://imsiadmin.com/assignments|archive-date=17 April 2018}}</ref>
 |-
-| 310 || 480 || [http://www.ite.net IT&E Wireless] || IT&E Overseas, Inc || Operational || iDEN || Former [[Instant connect telecommunications|iConnect]], Wave Runner LLC<ref name=icon_ite_gu/><ref name=itu_ob_779/><ref name=itu_ob_1112/>
+| 310 || 480 || IT&E Wireless || PTI Pacifica Inc. || Operational || iDEN || Former [[Instant connect telecommunications|iConnect]], Wave Runner LLC<ref name=icon_ite_gu/><ref name=itu_ob_779/><ref name=itu_ob_1112/><ref name=itu_ob_1270/>
 |-
-| 311 || 120 || [http://www.ite.net IT&E Wireless] || IT&E Overseas, Inc || Operational || Unknown || Former [[Instant connect telecommunications|iConnect]], Wave Runner LLC<ref name=icon_ite_gu/><ref name=itu_ob_801/><ref name=itu_ob_1112/>
+| 311 || 120 || IT&E Wireless || PTI Pacifica Inc. || Operational || Unknown || Former [[Instant connect telecommunications|iConnect]], Wave Runner LLC<ref name=icon_ite_gu/><ref name=itu_ob_801/><ref name=itu_ob_1112/><ref name=itu_ob_1270/>
 |-
-| 311 || 250 || [http://www.ite.net IT&E Wireless] || IT&E Overseas, Inc || Operational || Unknown || Former [[Instant connect telecommunications|iConnect]], Wave Runner LLC<ref name=icon_ite_gu/><ref name=itu_ob_871/>
+| 311 || 250 || IT&E Wireless || PTI Pacifica Inc. || Not operational || Unknown || Former [[Instant connect telecommunications|iConnect]], Wave Runner LLC;<ref name=icon_ite_gu/><ref name=itu_ob_871/> MNC withdrawn<ref name=itu_ob_1270/>
 |}
 
 === H ===
@@ -368,15 +383,15 @@ includes
 |-
 | 338 || 040 || [[Caricel]] || Symbiote Investment Limited || Not operational || LTE || <ref name=itu_ob_1114/> MNC withdrawn<ref name=itu_ob_1231/>
 |-
-| 338 || 05 || [[Digicel]] || Digicel (Jamaica) Limited || Operational || GSM 900 / GSM 1900 / UMTS 850 / LTE 700 / LTE 1700 / LTE 1900 ||
+| 338 || 05 || [[Digicel]] || Digicel (Jamaica) Limited || Operational || GSM 900 / GSM 1900 / UMTS 850 / LTE 700 / LTE 850 / LTE 1700 / LTE 1900 ||
 |-
 | 338 || 070 || [[Claro Americas#Jamaica|Claro]] || Oceanic Digital Jamaica Limited || Not operational || GSM / UMTS / CDMA || shut down 2012
 |-
 | 338 || 080 || || Rock Mobile Limited || Unknown || LTE 700 || <ref name=itu_ob_1231/>
 |-
-| 338 || 110 || [[FLOW (Brand)|FLOW]] || [[Cable & Wireless Communications]] || Operational || Unknown || <ref name=itu_ob_1019/>
+| 338 || 110 || [[FLOW (Brand)|FLOW]] || [[Cable & Wireless Communications]] || Not operational || Unknown || <ref name=itu_ob_1019/>
 |-
-| 338 || 180 || [[FLOW (Brand)|FLOW]] || [[Cable & Wireless Communications]] || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 1900 ||
+| 338 || 180 || [[FLOW (Brand)|FLOW]] || [[Cable & Wireless Communications]] || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 1900 || GSM shutdown started in 2022<ref>{{cite web |url=https://www.commsupdate.com/articles/2022/08/05/flow-jamaica-2g-shutdown-underway/ |title=Flow Jamaica 2G shutdown underway |publisher=TeleGeography |date=2022-08-05 |access-date=2022-12-08}}</ref>
 |}
 
 === M ===
@@ -387,13 +402,13 @@ includes
 |-
 | 334 || 010 || AT&T || [[AT&T Mexico]] || Not operational || iDEN 800 || Former [[NII Holdings|Nextel]]; shut down 2017<ref name=att_mx_2g>{{cite web |url=https://www.commsupdate.com/articles/2019/01/16/att-mexico-2g-switch-off-imminent-report-says/ |title=AT&T Mexico 2G switch-off imminent, report says |publisher=TeleGeography |date=2019-01-16 |accessdate=2020-05-12}}</ref><ref name=itu_ob_1206/>
 |-
-| 334 || 020 || [[Telcel]] || [[América Móvil]] || Operational || UMTS 850 / UMTS 1900 / LTE 850 / LTE 1700 / LTE 2600 / 5G || former Radiomóvil Dipsa;<ref name=authority_mx/><ref name=gsa_lte/> GSM shut down Sep 2020<ref>{{cite web |url=https://www.commsupdate.com/articles/2019/03/07/movistar-2g-shutdown-to-start-on-31-march-process-to-conclude-in-september-2020/ |title=Movistar 2G shutdown to start on 31 March; process to conclude in September 2020 |publisher=TeleGeography |date=2019-03-07 |accessdate=2020-05-12}}</ref>
+| 334 || 020 || [[Telcel]] || [[América Móvil]] || Operational || UMTS 850 / UMTS 1900 / LTE 850 / LTE 1700 / LTE 2600 / 5G 3500 || former Radiomóvil Dipsa;<ref name=authority_mx/><ref name=gsa_lte/> GSM shut down Sep 2020<ref>{{cite web |url=https://www.commsupdate.com/articles/2019/03/07/movistar-2g-shutdown-to-start-on-31-march-process-to-conclude-in-september-2020/ |title=Movistar 2G shutdown to start on 31 March; process to conclude in September 2020 |publisher=TeleGeography |date=2019-03-07 |accessdate=2020-05-12}}</ref>
 |-
 | 334 || 030 || [[Movistar]] || [[Telefónica]] || Operational || MVNO  || former Pegaso PCS;<ref name=itu_ob_1206/> MVNO on AT&T,<ref>{{cite web |url=https://www.commsupdate.com/articles/2019/11/22/movistar-signs-wireless-capacity-deal-with-att-mexico/ |title=Movistar signs wireless capacity deal with AT&T Mexico |publisher=TeleGeography |date=2019-11-22 |accessdate=2020-02-28}}</ref> own spectrum returned<ref>{{cite web |url=https://www.commsupdate.com/articles/2020/02/28/telefonica-generates-eur95m-from-returned-mexican-spectrum-report-says/ |title=Telefonica generates EUR95m from returned Mexican spectrum, report says |publisher=TeleGeography |date=2020-02-28 |accessdate=2020-02-28}}</ref>
 |-
-| 334 || 040 || [[Unefon]] || [[AT&T Mexico]] || Not operational || CDMA 850 / CDMA 1900 || Shut down 2016<ref>{{cite web| url=https://www.telegeography.com/products/commsupdate/articles/2016/09/22/att-mexico-switches-off-legacy-iusacell-cdma-network-report-says/ |title=AT&T Mexico switches off legacy Iusacell CDMA network, report says |publisher=TeleGeography |date=22 September 2016 |accessdate=20 March 2018}}</ref><ref name=itu_ob_1206/>
+| 334 || 040 || [[Unefon]] || [[AT&T Mexico|AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V.]] || Not operational || CDMA 850 / CDMA 1900 || Shut down 2016<ref>{{cite web| url=https://www.telegeography.com/products/commsupdate/articles/2016/09/22/att-mexico-switches-off-legacy-iusacell-cdma-network-report-says/ |title=AT&T Mexico switches off legacy Iusacell CDMA network, report says |publisher=TeleGeography |date=22 September 2016 |accessdate=20 March 2018}}</ref><ref name=itu_ob_1206/><ref name=itu_ob_1287/>
 |-
-| 334 || 050 || AT&T / [[Unefon]] || [[AT&T Mexico]] || Operational || UMTS 850 / UMTS 1900 / UMTS 1700 / LTE 850 / LTE 1700 / LTE 2600 / TD-LTE 2600 / 5G 2600 / 5G 3500 || Former [[Iusacell]];<ref name=mwlive/> GSM shut down 2019<ref name=att_mx_2g/><ref name=itu_ob_1206/>
+| 334 || 050 || AT&T / [[Unefon]] || [[AT&T Mexico]] || Operational || UMTS 850 / UMTS 1900 / UMTS 1700 / LTE 850 / LTE 1700 / LTE 2600 / TD-LTE 2600 / 5G 2600 || Former [[Iusacell]];<ref name=mwlive/> GSM shut down 2019<ref name=att_mx_2g/><ref name=itu_ob_1206/>
 |-
 | 334 || 060 || || Servicios de Acceso Inalambrico, S.A. de C.V. || Unknown || Unknown || <ref name=itu_ob_1056/>
 |-
@@ -411,7 +426,7 @@ includes
 |-
 | 334 || 120 || || Quickly Phone, S.A. de C.V. || Unknown || MVNO || <ref name=itu_ob_1206/>
 |-
-| 334 || 130 || || [[Axtel]], S.A.B. de C.V. || Unknown || Unknown || <ref name=itu_ob_1206/>
+| 334 || 130 || || ALESTRA SERVICIOS MÓVILES, S.A. DE C.V. || Operational || Unknown || Division of [[Axtel]]<ref name=itu_ob_1206/><ref name=itu_ob_1287/>
 |-
 | 334 || 140 || [[Red Compartida]] || Altán Redes S.A.P.I. de C.V. || Operational || LTE 700 || <ref name=itu_ob_1206/>
 |-
@@ -424,12 +439,16 @@ includes
 | 334 || 180 || [[FreedomPop]] || FREEDOMPOP MÉXICO, S.A. DE C.V. || Operational || MVNO || <ref name=itu_ob_1230/>
 |-
 | 334 || 190 || [[Viasat (American company)|Viasat]] || VIASAT TECNOLOGÍA, S.A. DE C.V. || Operational || Satellite || <ref name=itu_ob_1230/>
+|-
+| 334 || 200 || [[Virgin Mobile#Virgin Mobile Mexico|Virgin Mobile]] || VIRGIN MOBILE MÉXICO, S. DE R.L. DE C.V. || Operational || MVNO || <ref name=itu_ob_1287/>
 |}
 
 ==== [[Montserrat]] ([[United Kingdom]]) – MS ====
 {| {{MNC}}
 |-
-| 354 || 860 || [[Flow (brand)|FLOW]] || Cable & Wireless || Operational || GSM 850 ||
+| 338 || 05 || [[Digicel]] || Digicel || Operational || GSM 850 / UMTS 850 / LTE || Uses Jamaica MCC
+|-
+| 354 || 860 || [[Flow (brand)|FLOW]] || Cable & Wireless || Operational || GSM 850 / UMTS 850 / LTE ||
 |}
 
 === N ===
@@ -440,29 +459,29 @@ includes
 * Sint Maarten – SX
 {| {{MNC}}
 |-
-| 362 || 31 || || [http://www.eutelnv.com Eutel N.V.] || Unknown || GSM || [[Sint Eustatius]]<ref name=mnc_nl_bes>{{cite web |title=Regeling nummerplan BES en tariefvoorschriften voor toegangsnummers en informatienummers BES |url=http://wetten.overheid.nl/BWBR0028614/geldigheidsdatum_21-05-2015#Bijlage3 |publisher=Overheid.nl |language=Dutch |date=21 May 2015 |accessdate=21 May 2015}}</ref>
+| 362 || 31 || || Eutel N.V. || Unknown || GSM || [[Sint Eustatius]]<ref name=mnc_nl_bes>{{cite web |title=Regeling nummerplan BES en tariefvoorschriften voor toegangsnummers en informatienummers BES |url=http://wetten.overheid.nl/BWBR0028614/geldigheidsdatum_21-05-2015#Bijlage3 |publisher=Overheid.nl |language=Dutch |date=21 May 2015 |accessdate=21 May 2015}}</ref>
 |-
 | 362 || 33 || || WICC N.V. || Unknown || GSM || <ref name=mnc_nl_bes/>
 |-
-| 362 || 51 || Telcell || Telcell N.V. || Operational || GSM 900 / UMTS 2100 / LTE 1800 || [[Sint Maarten]]
+| 362 || 51 || Telcell || Telcell N.V. || Operational || UMTS 2100 / LTE 1800 || [[Sint Maarten]]; GSM shut down Jan 2019<ref name="TelCell SX">{{cite web |url=https://www.commsupdate.com/articles/2018/12/20/out-with-the-old-on-new-years-eve-telem-shuts-2g/ |title=Out with the old on New Year's Eve: TelEm shuts 2G |publisher=TeleGeography |date=2018-12-20 |access-date=2022-02-19}}</ref>
 |-
 | 362 || 54 || ECC || East Caribbean Cellular || Operational || GSM 900 / GSM 1800 || <ref name=mnc_nl_bes/>
 |-
-| 362 || 59 || [[Flow (brand)|FLOW]] || Liberty Latin America || Operational || GSM 900 / GSM 1800 || [[Bonaire]], [[Saba (island)|Saba]], [[Sint Eustatius]], [[Sint Maarten]]; former Radcomm N.V., UTS<ref name=mnc_nl_bes/>
+| 362 || 59 || [[Flow (brand)|FLOW]] || Liberty Latin America || Not operational || GSM 900 / GSM 1800 || [[Bonaire]], [[Saba (island)|Saba]], [[Sint Eustatius]], [[Sint Maarten]]; former Radcomm N.V., UTS;<ref name=mnc_nl_bes/> shut down Sep 2017<ref name="UTS SX">{{cite web |url=https://www.commsupdate.com/articles/2017/09/26/uts-not-turning-2g-network-back-on-post-hurricane-irma/ |title=UTS: not turning 2G network back on post-Hurricane Irma |publisher=TeleGeography |date=2017-09-26 |access-date=2022-02-19}}</ref>
 |-
 | 362 || 60 || [[Flow (brand)|FLOW]] || Liberty Latin America || Operational || UMTS 2100 / LTE 1800 || [[Bonaire]], [[Saba (island)|Saba]], [[Sint Eustatius]], [[Sint Maarten]]; former Radcomm N.V., UTS<ref name=gsa_lte/><ref name=mnc_nl_bes/>
 |-
 | 362 || 63 || || CSC N.V. || Unknown || Unknown || <ref name=mnc_nl_bes/>
 |-
-| 362 || 68 || Digicel || Curaçao Telecom N.V. || Operational || UMTS 2100 / LTE 1800 || [[Curaçao]]<ref name=gsa_hspa/><ref name=mnc_nl_bes/>
+| 362 || 68 || [[Digicel]] || Curaçao Telecom N.V. || Operational || UMTS 2100 / LTE 1800 || [[Curaçao]]<ref name=gsa_hspa/><ref name=mnc_nl_bes/>
 |-
-| 362 || 69 || Digicel || Curaçao Telecom N.V. || Operational || GSM 900 / GSM 1800 || [[Curaçao]]
+| 362 || 69 || [[Digicel]] || Curaçao Telecom N.V. || Operational || GSM 900 / GSM 1800 || [[Curaçao]]
 |-
 | 362 || 74 || || PCS N.V. || Unknown || Unknown || <ref name=mnc_nl_bes/>
 |-
-| 362 || 76 || Digicel || Antiliano Por N.V. || Operational || GSM 900 / UMTS 2100 / LTE 1800 || [[Bonaire]]<ref name=halberd/><ref name=gsa_hspa/><ref name=mnc_nl_bes/>
+| 362 || 76 || [[Digicel]] || Antiliano Por N.V. || Operational || GSM 900 / UMTS 2100 / LTE 1800 || [[Bonaire]]<ref name=halberd/><ref name=gsa_hspa/><ref name=mnc_nl_bes/>
 |-
-| 362 || 78 || [http://www.telbo.net Telbo] || Telefonia Bonairiano N.V. || Operational || UMTS 900 / LTE 1800 || [[Bonaire]]<ref name=gsa_lte/><ref name=mwlive/><ref name=mnc_nl_bes/>
+| 362 || 78 || Telbo || Telefonia Bonairiano N.V. || Operational || UMTS 900 / LTE 1800 || [[Bonaire]]<ref name=gsa_lte/><ref name=mwlive/><ref name=mnc_nl_bes/>
 |-
 | 362 || 91 || [[Flow (brand)|FLOW]] ||Liberty Latin America || Operational || GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800 || [[Curaçao]]; former Setel N.V., UTS<ref>{{cite web |title=Enjoy even faster data connection on your mobile device with LTE |url=https://www.uts.cw/personal/chippie/prepaid/mobile-data/prepaid-lte |publisher=UTS |accessdate=22 May 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20150522174440/https://www.uts.cw/personal/chippie/prepaid/mobile-data/prepaid-lte |archivedate=22 May 2015 |df=dmy-all }}</ref>
 |-
@@ -474,7 +493,7 @@ includes
 ==== [[Northern Mariana Islands]] ([[United States of America]]) – MP ====
 {| {{MNC}}
 |-
-| 310 || 110 || [http://www.pticom.com/ IT&E Wireless] || PTI Pacifica Inc. || Operational || CDMA / GSM 850 / UMTS 1900 / LTE 700 || <ref name=itu_ob_901/><ref name=gsa_lte/><ref name=mwlive/><ref name=halberd_asia/>
+| 310 || 110 || IT&E Wireless || PTI Pacifica Inc. || Operational || CDMA / GSM 850 / UMTS 1900 / LTE 700 || <ref name=itu_ob_901/><ref name=gsa_lte/><ref name=mwlive/><ref name=halberd_asia/><ref name=itu_ob_1270/>
 |-
 | 310 || 370 || Docomo || NTT [[DoCoMo Pacific]] || Operational || GSM 1900 / UMTS / LTE || <ref name=mwlive/><ref>{{cite web |title=DOCOMO Pacific launches 3G in Saipan |url=https://www.telegeography.com/products/commsupdate/articles/2014/07/11/docomo-pacific-launches-3g-in-saipan/ |publisher=TeleGeography |date=11 July 2014 |accessdate=13 August 2015}}</ref>
 |}
@@ -485,17 +504,17 @@ includes
 |-
 | 310 || 017 || ProxTel || North Sight Communications Inc. || Not operational || iDEN || US MCC;<ref name=itu_ob_837>{{cite web |title=ITU Operational Bulletin No. 837 |url=https://www.itu.int/pub/T-SP-OB.837-2005 |publisher=ITU |date=1 June 2005 |accessdate=20 August 2015}}</ref> MNC withdrawn<ref name=itu_ob_1112/>
 |-
-| 310 || 260 || T-Mobile || [[T-Mobile US]] || Operational || GSM 1900 / UMTS 1900 / UMTS 1700 / LTE 600 / LTE 1900 / LTE 1700 / 5G 600 / 5G 2500 || US MCC
+| 310 || 260 || T-Mobile || [[T-Mobile US]] || Operational || GSM 1900 / LTE 600 / LTE 1900 / LTE 1700 / 5G 600 / 5G 2500 || US MCC; UMTS shut down July 2022<ref name=liberty_pr_3g/>
 |-
 | 310 || 280 || AT&T || [[AT&T Mobility]] || Not operational || GSM 1900 || Former [[Centennial Communications|Centennial Puerto Rico]]; US MCC<ref name=itu_ob_871/><ref name=itu_ob_1112/>
 |-
 | 313 || 510 || || Puerto Rico Telecom Company || Unknown || Unknown || Uses US MCC<ref name=authority_us_20190607/><ref name=itu_ob_1198/>
 |-
-| 313 || 790 || Liberty || [[Liberty Puerto Rico|Liberty Cablevision of Puerto Rico LLC]] || Operational || UMTS 850 / UMTS 1900 / LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / LTE 2300 / 5G 850 || Uses US MCC<ref name=authority_us_20200927/>
+| 313 || 790 || Liberty || [[Liberty Puerto Rico|Liberty Cablevision of Puerto Rico LLC]] || Operational || LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / LTE 2300 / 5G 850 || Uses US MCC;<ref name=authority_us_20200927/> UMTS shut down Feb 2022<ref name=liberty_pr_3g>{{cite web |url=https://www.commsupdate.com/articles/2022/01/31/liberty-to-switch-off-puerto-rican-3g-network-on-22-february/ |title=Liberty to switch off Puerto Rican 3G network on 22 February |publisher=TeleGeography |date=2022-01-31 |access-date=2022-11-30}}</ref><ref name=itu_ob_1270/>
 |-
 | 330 || 000 || [[Open Mobile]] || PR Wireless || Operational || CDMA 1900 ||
 |-
-| 330 || 110 || Claro Puerto Rico|| [[América Móvil]] || Operational || GSM 850 / GSM 1900 / UMTS 850 / LTE 700 / LTE 1700 ||
+| 330 || 110 || Claro Puerto Rico|| [[América Móvil]] || Operational || GSM 850 / GSM 1900 / UMTS 850 / LTE 700 / LTE 1700 / 5G 28000 ||
 |-
 | 330 || 120 || [[Open Mobile]] || PR Wireless || Operational || LTE 700 ||
 |}
@@ -527,6 +546,8 @@ includes
 | 308 || 02 || GLOBALTEL || GLOBALTEL || Operational || GSM 900 / LTE 800 || <ref name=itu_ob_1087/>
 |-
 | 308 || 03 || Ameris || St. Pierre-et-Miquelon Télécom || Unknown || Unknown || <ref name=itu_ob_1243/>
+|-
+| 308 || 04 || GLOBALTEL || GLOBALTEL || Unknown || Unknown || <ref name=authority_fr/>
 |}
 
 ==== [[Saint Vincent and the Grenadines]] – VC ====
@@ -536,7 +557,7 @@ includes
 |-
 | 360  || 100 || Cingular Wireless ||  || Unknown || GSM 850 ||
 |-
-| 360  || 110 || [[Flow (brand)|FLOW]] || Cable & Wireless (St. Vincent & the Grenadines) Ltd || Operational || GSM 850 / LTE 700 ||
+| 360  || 110 || [[Flow (brand)|FLOW]] || Cable & Wireless (St. Vincent & the Grenadines) Ltd || Operational || LTE 700 || GSM shut down Sep 2023<ref>{{cite web |url=https://www.datacenterdynamics.com/en/news/flow-to-retire-2g-network-in-saint-vincent-and-the-grenadines/ |title=Flow to retire 2G network in Saint Vincent and the Grenadines |author=Paul Lipscombe |publisher=Data Centre Dynamics |date=2023-08-23 |access-date=2023-10-04}}</ref>
 |}
 
 === T ===
@@ -545,7 +566,7 @@ includes
 |-
 | 374 || 01 || [[bmobile]] || [[TSTT]] || Not operational || GSM 850 / GSM 1900 || Withdrawn{{Citation needed|date=September 2020}}
 |-
-| 374 || 12 || [[bmobile]] || [[TSTT]] || Operational || GSM 850 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1900 / TD-LTE 2500 / 5G 2500 || <ref name=itu_ob_837/> LTE bands 2 / 28 / 41; band 41 used for FWA
+| 374 || 12 || [[bmobile]] || [[TSTT]] || Operational || GSM 850 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 1900 / TD-LTE 2500 / 5G 2500 || <ref name=itu_ob_837/> LTE bands 2 / 4 / 28 / 41; band 41 used for FWA
 |-
 | 374 || 13 || [[Digicel]] ||Digicel (Trinidad & Tobago) Limited || Not operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 || Withdrawn{{Citation needed|date=September 2020}}
 |-
@@ -580,7 +601,7 @@ includes
 |-
 | 310 || 004 || Verizon || [[Verizon Wireless]] || Operational || Unknown ||
 |-
-| 310 || 005 || Verizon || [[Verizon Wireless]] || Operational || CDMA2000 850 / CDMA2000 1900 ||
+| 310 || 005 || Verizon || [[Verizon Wireless]] || Not operational || CDMA2000 850 / CDMA2000 1900 || CDMA shut down Dec 2022<ref name="verizon_cdma">{{Cite web |date=2021-03-30 |title=3G CDMA Network Shut off date set for December 31, 2022 |url=https://www.verizon.com/about/news/3g-cdma-network-shut-date-set-december-31-2022 |access-date=2023-01-01 |website=www.verizon.com |language=en}}</ref>
 |-
 | 310 || 006 || Verizon || [[Verizon Wireless]] || Operational || Unknown ||
 |-
@@ -598,19 +619,19 @@ includes
 |-
 | 310 || 017 || ProxTel || North Sight Communications Inc. || Not operational || iDEN || Puerto Rico;<ref name=itu_ob_837/> MNC withdrawn<ref name=itu_ob_1112/>
 |-
-| 310 || 020 || [https://www.unionwireless.com/ Union Wireless] || Union Telephone Company || Operational || GSM 850 / GSM 1900 / UMTS || <ref name=itu_ob_801/>
+| 310 || 020 || Union Wireless || Union Telephone Company || Operational || UMTS / LTE || <ref name=itu_ob_801/> GSM shut down in 2015<ref>{{cite web |url=https://www.unionwireless.com/union-wireless-to-phase-out-2g-network-provide-customers-with-better-wireless-experience |title=Union Wireless to Phase Out 2G Network - Provide Customers with Better Wireless Experience |publisher=Union Wireless |date=2015-08-03 |access-date=2023-10-04}}</ref>
 |-
-| 310 || 030 || AT&T || [[AT&T Mobility]] || Operational|| GSM 850 || Former [[Centennial Communications#Centennial Wireless|Centennial Wireless]]<ref name=itu_ob_801/><ref name=itu_ob_1112/>
+| 310 || 030 || AT&T || [[AT&T Mobility]] || Not operational || GSM 850 || Former [[Centennial Communications#Centennial Wireless|Centennial Wireless]];<ref name=itu_ob_801/><ref name=itu_ob_1112/> MNC withdrawn<ref name=itu_ob_1280/>
 |-
-| 310 || 032 || [http://www.ite.net IT&E Wireless] || IT&E Overseas, Inc || Operational || CDMA 1900 / GSM 1900 / UMTS 1900 / LTE 700 || Guam<ref name=itu_ob_779/><ref name=mwlive>{{cite web |title=GSM Roaming and Coverage Maps |url=http://maps.mobileworldlive.com |publisher=GSMA |accessdate=17 December 2014}}</ref><ref name=halberd_asia/>
+| 310 || 032 ||IT&E Wireless || PTI Pacifica Inc. || Operational || CDMA 1900 / GSM 1900 / UMTS 1900 / LTE 700 || Guam<ref name=itu_ob_779/><ref name=mwlive>{{cite web |title=GSM Roaming and Coverage Maps |url=http://maps.mobileworldlive.com |publisher=GSMA |accessdate=17 December 2014}}</ref><ref name=halberd_asia/>
 |-
 | 310 || 033 || || Guam Telephone Authority || Unknown || Unknown || <ref name=itu_ob_837/>
 |-
-| 310 || 034 || Airpeak || [http://www.airpeak.com/ Airpeak] || Operational || iDEN || Former Nevada Wireless<ref name=itu_ob_779/>
+| 310 || 034 || Airpeak || Airpeak || Operational || iDEN || Former Nevada Wireless<ref name=itu_ob_779/>
 |-
-| 310 || 035 || ETEX Wireless || [http://www.etex.net/ ETEX Communications, LP] || Unknown || Unknown || <ref name=itu_ob_932/>
+| 310 || 035 || ETEX Wireless ||  ETEX Communications, LP || Unknown || Unknown || <ref name=itu_ob_932/>
 |-
-| 310 || 040 || MTA || [https://www.mtasolutions.com/ Matanuska Telephone Association, Inc.] || Not operational || CDMA || Formerly Concho Cellular Telephone Co.;<ref name=itu_ob_801/> then Alaska,<ref name=itu_ob_901>{{cite web |title=ITU Operational Bulletin No. 901 |url=https://www.itu.int/pub/T-SP-OB.901-2008 |publisher=ITU |date=1 February 2008 |accessdate=5 August 2015}}</ref> shut down 2017;<ref>{{cite web |url=http://www.frontiersman.com/news/mta-continues-transitioning-out-of-cell-phone-service/article_23f3f454-cfbf-11e6-838f-8fae1c96bf09.html |title=MTA continues transitioning out of cell phone service |first=Chris |last=Ford |publisher=Mat-Su Valley Frontiersman |date=1 January 2017 |accessdate=15 January 2018}}</ref> MNC withdrawn<ref name=authority_us_20170626>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20170626212840/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=26 June 2017}}</ref><ref name=itu_ob_1198/>
+| 310 || 040 || [[Mobi (company)|Mobi]] || [[Mobi (company)|Mobi, Inc.]] || Unknown || Unknown || Formerly Concho Cellular Telephone Co.;<ref name=itu_ob_801/> then Alaska,<ref name=itu_ob_901>{{cite web |title=ITU Operational Bulletin No. 901 |url=https://www.itu.int/pub/T-SP-OB.901-2008 |publisher=ITU |date=1 February 2008 |accessdate=5 August 2015}}</ref> Matanuska Telephone Association, Inc. shut down 2017;<ref>{{cite web |url=http://www.frontiersman.com/news/mta-continues-transitioning-out-of-cell-phone-service/article_23f3f454-cfbf-11e6-838f-8fae1c96bf09.html |title=MTA continues transitioning out of cell phone service |first=Chris |last=Ford |publisher=Mat-Su Valley Frontiersman |date=1 January 2017 |accessdate=15 January 2018}}</ref><ref name=authority_us_20170626>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20170626212840/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=26 June 2017}}</ref><ref name=itu_ob_1198/><ref name=itu_ob_1270/>
 |-
 | 310 || 050 || [[GCI (company)#Wireless Telephone|GCI]] || [[Alaska Communications]] || Operational || CDMA || Former ACS Wireless Inc.<ref name=itu_ob_871>{{cite web |title=ITU Operational Bulletin No. 871 |url=https://www.itu.int/pub/T-SP-OB.871-2006 |publisher=ITU |date=1 November 2006 |accessdate=11 February 2015}}</ref>
 |-
@@ -618,7 +639,7 @@ includes
 |-
 | 310 || 054 ||  || Alltel US || Operational || Unknown || Uses Sprint's network 
 |-
-| 310 || 060 ||  || [https://www.ctctel.com/ Consolidated Telcom] || Not operational || 1900 || North Dakota;<ref name=itu_ob_779/> MNC withdrawn<ref name=authority_us_20181207/><ref name=itu_ob_1198/>
+| 310 || 060 ||  || Karrier One || Unknown || 5G || Former Consolidated Telcom, North Dakota<ref name=itu_ob_779/><ref name=authority_us_20181207/><ref name=itu_ob_1198/><ref name=authority_us_20231206>{{cite web |url=https://imsiadmin.com/assignments/hni/ |title=HNI assignments |archive-url=https://web.archive.org/web/20231206015327/https://imsiadmin.com/assignments/hni/ |archive-date=6 December 2023 |access-date=14 March 2024}}</ref>
 |-
 | 310 || 066 || U.S. Cellular || [[U.S. Cellular]] || Operational || GSM / CDMA ||
 |-
@@ -628,15 +649,15 @@ includes
 |-
 | 310 || 090 || AT&T || [[AT&T Mobility]] || Operational || GSM 1900 || Former [[Edge Wireless]],<ref name=itu_ob_779/> Cingular,<ref name=itu_ob_932/> [[Cricket Wireless]]<ref name=itu_ob_1019/><ref name=itu_ob_1112/>
 |-
-| 310 || 100 || [http://www.plateautel.com Plateau Wireless] || New Mexico RSA 4 East LP || Operational || GSM 850 / UMTS 850 / UMTS 1700 || Acquired by AT&T<ref name=itu_ob_801/><ref>{{cite web |url=http://www.fiercewireless.com/story/att-scoops-40000-customers-spectrum-assets-plateau-wireless/2014-06-24 |title=AT&T scoops up 40,000 customers, spectrum assets of Plateau Wireless |publisher=FierceWireless |date=24 June 2014 |accessdate=26 August 2015}}</ref>
+| 310 || 100 || Plateau Wireless || New Mexico RSA 4 East LP || Operational || GSM 850 / UMTS 850 / UMTS 1700 || Acquired by AT&T<ref name=itu_ob_801/><ref>{{cite web |url=http://www.fiercewireless.com/story/att-scoops-40000-customers-spectrum-assets-plateau-wireless/2014-06-24 |title=AT&T scoops up 40,000 customers, spectrum assets of Plateau Wireless |publisher=FierceWireless |date=24 June 2014 |accessdate=26 August 2015}}</ref>
 |-
-| 310 || 110 || [http://www.pticom.com/ IT&E Wireless] || PTI Pacifica Inc. || Operational || CDMA / GSM 850 / UMTS 1900 / LTE 700 || Northern Mariana Islands<ref name=itu_ob_901/><ref name=gsa_lte/><ref name=mwlive/><ref name=halberd_asia/>
+| 310 || 110 || IT&E Wireless || PTI Pacifica Inc. || Operational || CDMA / GSM 850 / UMTS 1900 / LTE 700 || Northern Mariana Islands<ref name=itu_ob_901/><ref name=gsa_lte/><ref name=mwlive/><ref name=halberd_asia/><ref name=itu_ob_1270/>
 |-
-| 310 || 120 ||  || [[T-Mobile US]] || Operational || CDMA2000 1900 / LTE 850 / LTE 1900 || Former [[Sprint Corporation]]<ref name=itu_ob_871/><ref name=authority_us_20210529/>
+| 310 || 120 || T-Mobile || [[T-Mobile US]] || Operational || LTE 850 / LTE 1900 || Former [[Sprint Corporation]];<ref name=itu_ob_871/><ref name=authority_us_20210529/> CDMA shut down May 2022<ref name="TM CDMA Shutdown US 2">{{cite web |url=https://www.commsupdate.com/articles/2022/03/31/t-mobile-us-commences-cdma-shutdown-expands-5g-home-internet-footprint/ |title=T-Mobile US commences CDMA shutdown; expands 5G Home Internet footprint |publisher=TeleGeography |date=2022-03-31 |access-date=2022-04-18}}</ref>
 |-
-| 310 || 130 || Carolina West Wireless || [https://www.carolinawest.com/ Carolina West Wireless] || Operational || CDMA2000 1900 || North Carolina <ref name=itu_ob_901/>
+| 310 || 130 || Carolina West Wireless || Carolina West Wireless || Operational || CDMA2000 1900 || North Carolina <ref name=itu_ob_901/>
 |-
-| 310 || 140 || [http://www.gta.net/ GTA Wireless] || Teleguam Holdings, LLC || Operational || GSM 850 / GSM 1900 / UMTS 850 / LTE 1700 || Previously called Guam Telephone Authority mPulse<ref name=itu_ob_871/><ref name=gsa_lte/><ref name=mwlive/>
+| 310 || 140 || GTA Wireless || Teleguam Holdings, LLC || Operational || GSM 850 / GSM 1900 / UMTS 850 / LTE 1700 || Previously called Guam Telephone Authority mPulse<ref name=itu_ob_871/><ref name=gsa_lte/><ref name=mwlive/>
 |-
 | 310 || 150 || AT&T || [[AT&T Mobility]] || Operational || GSM 850 / UMTS 850 / UMTS 1900 || Originally [[BellSouth Mobility DCS]], then [[Cingular Wireless]],<ref name=itu_ob_779/> then [[Aio Wireless]], then rebranded as the new GSM [[Cricket Wireless]]
 |-
@@ -644,7 +665,7 @@ includes
 |-
 | 310 || 170 || AT&T || [[AT&T Mobility]] || Operational ||  GSM 1900 || Formerly [[Pacific Bell Wireless]], then [[Cingular Wireless]]<ref name=itu_ob_779/> CA/NV known as "Cingular Orange"
 |-
-| 310 || 180 || West Central || [[West Central Wireless]] || Operational || GSM 850 / UMTS 850 / UMTS 1900 || <ref name=itu_ob_837/>
+| 310 || 180 || West Central || [[West Central Wireless]] || Not operational || GSM 850 / UMTS 850 / UMTS 1900 || <ref name=itu_ob_837/> shut down Aug 2023<ref name="WCW_VZW US">{{cite web |url=https://www.commsupdate.com/articles/2023/08/15/west-central-wireless-to-shut-down-on-31-august-following-verizon-takeover/ |title=West Central Wireless to shut down on 31 August following Verizon takeover |publisher=TeleGeography |date=2023-08-15 |access-date=2023-09-01}}</ref>
 |-
 | 310 || 190 || [[GCI (company)#Wireless Telephone|GCI]] || [[Alaska Communications]] || Operational || GSM 850 || Dutch Harbor, Alaska<ref name=itu_ob_779/><ref name=mwlive/>
 |-
@@ -660,53 +681,53 @@ includes
 |-
 | 310 || 250 || || T-Mobile || Not operational || GSM 1900 || Hawaii<ref name=itu_ob_779/>
 |-
-| 310 || 260 || T-Mobile || [[T-Mobile US]] || Operational || GSM 1900 / LTE 600 / LTE 700 / LTE 850 / LTE 1900 / LTE 1700 / LTE 2500 / 5G 600 / 5G 2500 / 5G 26000 / 5G 28000 / 5G 39000 || Former Cook Inlet West Wireless, Voicestream;<ref name="Cook Inlet W.Wireless">{{cite web |url=http://www.gsmworld.com/gsminfo/net_usci.htm |title=Cook Inlet W.Wireless |publisher=GSM Association |date=18 April 1999 |accessdate=20 August 2015 |url-status=dead |archiveurl=https://web.archive.org/web/19990420111519/http://www.gsmworld.com/gsminfo/net_usci.htm |archivedate=20 April 1999}}</ref> now universal USA code. Also used for Mint Mobile,<ref>{{cite web |url=https://bestmvno.com/mvnos/mint-sim/ |title=Mint Mobile In 2021: What You Need To Know |website=bestmvno |access-date=20 September 2021}}</ref> [[Ting Inc.|Ting]].<ref name=itu_ob_779/> UMTS shut down July 2022.<ref name=tmo_us_3g>{{cite web |url=https://www.t-mobile.com/support/coverage/t-mobile-network-evolution |title=T-Mobile Network Evolution |publisher=T-Mobile |access-date=2022-07-07}}</ref>
+| 310 || 260 || T-Mobile || [[T-Mobile US]] || Operational || GSM 1900 / LTE 600 / LTE 700 / LTE 850 / LTE 1900 / LTE 1700 / LTE 2500 / 5G 600 / 5G 2500 / 5G 26000 / 5G 28000 / 5G 39000 || Former Cook Inlet West Wireless, Voicestream;<ref name="Cook Inlet W.Wireless">{{cite web |url=http://www.gsmworld.com/gsminfo/net_usci.htm |title=Cook Inlet W.Wireless |publisher=GSM Association |date=18 April 1999 |accessdate=20 August 2015 |url-status=dead |archiveurl=https://web.archive.org/web/19990420111519/http://www.gsmworld.com/gsminfo/net_usci.htm |archivedate=20 April 1999}}</ref> now universal USA code. Also used for Mint Mobile,<ref>{{cite web |url=https://bestmvno.com/mvnos/mint-sim/ |title=Mint Mobile In 2021: What You Need To Know |website=bestmvno |access-date=20 September 2021}}</ref> [[Ting Inc.|Ting]].<ref name=itu_ob_779/> UMTS shut down July 2022,<ref name=tmo_us_3g>{{cite web |url=https://www.t-mobile.com/support/coverage/t-mobile-network-evolution |title=T-Mobile Network Evolution |publisher=T-Mobile |access-date=2022-07-07}}</ref> GSM to shut down Apr 2024.<ref>{{cite web |url=https://www.t-mobile.com/support/coverage/t-mobile-network-evolution |title=T-Mobile Network Evolution |publisher=T-Mobile Support |access-date=2023-01-03}}</ref>
 |-
 | 310 || 270 || || T-Mobile || Not operational || GSM 1900 || Formerly Powertel<ref name=itu_ob_779/>
 |-
 | 310 || 280 || AT&T || [[AT&T Mobility]] || Not operational || GSM 1900 || Former [[Centennial Communications|Centennial Puerto Rico]]<ref name=itu_ob_871/><ref name=itu_ob_1112/>
 |-
-| 310 || 290 || nep || [[NEP Telephone|NEP Cellcorp Inc.]] || Not operational || GSM 1900 || Shut down 22 September 2015<ref name=itu_ob_871/><ref>{{cite web |url=http://www.nep.net/index.php/support/news/important_nep_wireless_customer_information |title=Important NEP Wireless Customer Information |publisher=NEP |date=8 June 2015 |archive-url=https://web.archive.org/web/20150909203908/http://www.nep.net/index.php/support/news/important_nep_wireless_customer_information |archive-date=9 September 2015 |accessdate=12 June 2019 |url-status=live }}</ref>
+| 310 || 290 || nep || [[NEP Telephone|NEP Cellcorp Inc.]] || Not operational || GSM 1900 || Shut down 22 September 2015;<ref name=itu_ob_871/><ref>{{cite web |url=http://www.nep.net/index.php/support/news/important_nep_wireless_customer_information |title=Important NEP Wireless Customer Information |publisher=NEP |date=8 June 2015 |archive-url=https://web.archive.org/web/20150909203908/http://www.nep.net/index.php/support/news/important_nep_wireless_customer_information |archive-date=9 September 2015 |accessdate=12 June 2019 |url-status=live }}</ref> MNC withdrawn<ref name=authority_us_20240223>{{cite web |url=https://imsiadmin.com/assignments/hni/ |title=HNI assignments |archive-url=https://web.archive.org/web/20240223224005/https://imsiadmin.com/assignments/hni/ |archive-date=23 February 2024 |access-date=14 March 2024}}</ref>
 |-
-| 310 || 300 || [http://www.bigskymobile.com/ Big Sky Mobile] || iSmart Mobile, LLC || Not operational || GSM 1900 || Montana; former Get Mobile Inc.,<ref name=itu_ob_871/> [http://www.smartcall.us SmartCall, LLC]; acquired by T-Mobile in 2017;<ref>{{cite web|url=http://www.wirelessnoise.com/2017/08/lost-carriers-in-montana-and-tennessee.html |title=Lost Carriers in Montana, North Dakota & Tennessee |publisher=Wireless Noise |date=2017-08-25 |accessdate=2018-03-07}}</ref> MNC withdrawn<ref name=itu_ob_1198/>
+| 310 || 300 || Big Sky Mobile || iSmart Mobile, LLC || Not operational || GSM 1900 || Montana; former Get Mobile Inc.,<ref name=itu_ob_871/> [http://www.smartcall.us SmartCall, LLC]; acquired by T-Mobile in 2017;<ref>{{cite web|url=http://www.wirelessnoise.com/2017/08/lost-carriers-in-montana-and-tennessee.html |title=Lost Carriers in Montana, North Dakota & Tennessee |publisher=Wireless Noise |date=2017-08-25 |accessdate=2018-03-07}}</ref> MNC withdrawn<ref name=itu_ob_1198/>
 |-
 | 310 || 310 || || T-Mobile || Not operational || GSM 1900 || Formerly Aerial Communications<ref name=itu_ob_779/>
 |-
 | 310 || 311 || || Farmers Wireless || Not operational || GSM 1900 || NE Alabama; acquired by AT&T in 2008
 |-
-| 310 || 320 || [[Cellular One]] || [http://www.cellularoneonline.com/ Smith Bagley, Inc.] || Operational || GSM 850 / GSM 1900 / UMTS || Arizona / New Mexico<ref name=itu_ob_901/>
+| 310 || 320 || [[Cellular One]] || Smith Bagley, Inc. || Operational || GSM 850 / GSM 1900 / UMTS / LTE || Arizona / New Mexico<ref name=itu_ob_901/>
 |-
-| 310 || 330 ||  || [http://www.wireless-partnersllc.com/ Wireless Partners, LLC] || Unknown || LTE || Former AN Subsidiary LLC,<ref name=itu_ob_871/> [[Allied Wireless|AWCC]],<ref name=itu_ob_992>{{cite web |title=ITU Operational Bulletin No. 992 |url=https://www.itu.int/pub/T-SP-OB.992-2011 |publisher=ITU |date=15 November 2011 |accessdate=5 August 2015}}</ref> acquired by AT&T, CDMA shut down February 2015<ref name=authority_us_20170626/><ref name=itu_ob_1198/>
+| 310 || 330 ||  || Wireless Partners, LLC || Unknown || LTE || Former AN Subsidiary LLC,<ref name=itu_ob_871/> [[Allied Wireless|AWCC]],<ref name=itu_ob_992>{{cite web |title=ITU Operational Bulletin No. 992 |url=https://www.itu.int/pub/T-SP-OB.992-2011 |publisher=ITU |date=15 November 2011 |accessdate=5 August 2015}}</ref> acquired by AT&T, CDMA shut down February 2015<ref name=authority_us_20170626/><ref name=itu_ob_1198/>
 |-
-| 310 || 340 || Limitless Mobile || [http://limitlessmobile.com/ Limitless Mobile, LLC] || Operational || GSM 1900 || Kansas; Former High Plains Midwest LLC dba Westlink Communications,<ref name=itu_ob_779/> acquired by [[United Wireless]] in 2013<ref>{{cite web |url=http://www.wirelessnoise.com/2013/12/westlink-wireless-gives-up.html |title=Westlink Wireless Gives Up |publisher=Wireless Noise |date=6 December 2013 |accessdate=1 September 2015}}</ref><ref name=authority_us_20180216>{{cite web |url=http://imsiadmin.com/assignments |title=HNI assignments|archive-url=https://web.archive.org/web/20180216030907/http://imsiadmin.com/assignments|archive-date=16 February 2018}}</ref><ref name=itu_ob_1198/>
+| 310 || 340 || Limitless Mobile || Limitless Mobile, LLC || Operational || GSM 1900 || Kansas; Former High Plains Midwest LLC dba Westlink Communications,<ref name=itu_ob_779/> acquired by [[United Wireless]] in 2013<ref>{{cite web |url=http://www.wirelessnoise.com/2013/12/westlink-wireless-gives-up.html |title=Westlink Wireless Gives Up |publisher=Wireless Noise |date=6 December 2013 |accessdate=1 September 2015}}</ref><ref name=authority_us_20180216>{{cite web |url=http://imsiadmin.com/assignments |title=HNI assignments|archive-url=https://web.archive.org/web/20180216030907/http://imsiadmin.com/assignments|archive-date=16 February 2018}}</ref><ref name=itu_ob_1198/>
 |-
 | 310 || 350 || Verizon || [[Verizon Wireless]] || Not operational || CDMA || Former Mohave Cellular L.P.<ref name=itu_ob_871/><ref name=itu_ob_1112/><ref>{{cite web |url=http://www.verizonwireless.com/news/article/2013/04/pr2013-04-01j.html |title=News Release Verizon Wireless Completes Purchase Of Mohave Wireless |publisher=Verizon |date=1 April 2013 |accessdate=1 September 2015}}</ref>
 |-
-| 310 || 360 || [https://www.wirelesspioneer.com/ Pioneer Cellular] || Cellular Network Partnership || Operational || CDMA || Oklahoma <ref name=itu_ob_871/>
+| 310 || 360 || Pioneer Cellular || Cellular Network Partnership || Not operational || CDMA || Oklahoma;<ref name=itu_ob_871/> shut down summer 2023;<ref name=pioneer_shutdown>{{cite web |url=https://www.lightreading.com/digital-divide/pioneer-indigo-tap-out-of-us-wireless-market |title=Pioneer, Indigo tap out of US wireless market |author=Mike Dano |date=2023-07-18 |publisher=LightReading |access-date=2023-10-30}}</ref> MNC withdrawn<ref name=authority_us_20240223/>
 |-
 | 310 || 370 || Docomo || NTT [[DoCoMo Pacific]] || Operational || GSM 1900 / UMTS 850 / LTE 700 || Guam, Northern Mariana Islands; former Guamcell<ref name=itu_ob_871/><ref name=itu_ob_1019/>
 |-
 | 310 || 380 || AT&T || [[AT&T Mobility]] || Not operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 || Former [[AT&T Wireless Services]],<ref name=itu_ob_779/> then [[Cingular Wireless]] (known as "Cingular Blue")<ref name=itu_ob_901/><ref name=itu_ob_1112/>
 |-
-| 310 || 390 || [https://www.cellonenation.com/ Cellular One of East Texas] || TX-11 Acquisition, LLC || Operational || GSM 850 / LTE 700 / CDMA || Former Yorkville Telephone Cooperative<ref name=itu_ob_779/><ref name=itu_ob_871/>
+| 310 || 390 || Cellular One of East Texas || TX-11 Acquisition, LLC || Operational || GSM 850 / LTE 700 / CDMA || Former Yorkville Telephone Cooperative<ref name=itu_ob_779/><ref name=itu_ob_871/>
 |-
-| 310 || 400 || [http://www.ite.net IT&E Wireless] || IT&E Overseas, Inc || Operational || GSM 1900 / UMTS 1900 / LTE 700 || Guam; former [[Instant connect telecommunications|iConnect]], Wave Runner LLC<ref name=icon_ite_gu/><ref name=itu_ob_871/><ref name=gsa_lte/>
+| 310 || 400 || IT&E Wireless || IT&E Overseas, Inc || Not operational || GSM 1900 / UMTS 1900 / LTE 700 || Guam; former [[Instant connect telecommunications|iConnect]], Wave Runner LLC;<ref name=icon_ite_gu/><ref name=itu_ob_871/><ref name=gsa_lte/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
 | 310 || 410 || AT&T || [[AT&T Mobility]] || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / LTE 2300 / 5G 850 / 5G 3700 / 5G 39000 || Formerly [[Cingular Wireless]]<ref name=itu_ob_779/><ref name=itu_ob_1112/>
 |-
-| 310 || 420 || [[Cincinnati Bell]] || Cincinnati Bell Wireless || Not operational || GSM 1900 / UMTS 1700 || Shut down 28 February 2015;<ref name=itu_ob_801/><ref>{{cite news |title=As MetroPCS, Leap and Cincinnati Bell networks shut down, it's regional trench warfare for carriers |first=Phil |last=Goldstein |work=Fierce Wireless |date=21 October 2014 |accessdate=9 December 2014 |url=http://www.fiercewireless.com/story/metropcs-leap-and-cincinnati-bell-networks-shut-down-its-regional-trench-wa/2014-10-21}}</ref> MNC withdrawn<ref name=itu_ob_1112/>
+| 310 || 420 || World Mobile || World Mobile Networks, LLC || Operational || LTE 600 / TD-LTE 3500 CBRS || Former Cincinnati Bell<ref name=itu_ob_801/> (until Feb 2015);<ref>{{cite news |title=As MetroPCS, Leap and Cincinnati Bell networks shut down, it's regional trench warfare for carriers |first=Phil |last=Goldstein |work=Fierce Wireless |date=21 October 2014 |accessdate=9 December 2014 |url=http://www.fiercewireless.com/story/metropcs-leap-and-cincinnati-bell-networks-shut-down-its-regional-trench-wa/2014-10-21}}</ref><ref name=itu_ob_1112/><ref name=itu_ob_1276/>
 |-
 | 310 || 430 || [[GCI (company)#Wireless Telephone|GCI]] || GCI Communications Corp. || Operational || GSM 1900 / UMTS 1900 || Former Alaska Digitel<ref name=itu_ob_801/><ref name=itu_ob_1019/>
 |-
 | 310 || 440 || || [[Numerex]] || Operational || MVNO || Former Dobson / Cellular One;<ref name=itu_ob_801/><ref name=itu_ob_871/> [[Machine to machine|M2M]] only
 |-
-| 310 || 450 || Viaero || [http://www.viaero.com/ Viaero Wireless] || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 || Formerly North East Cellular Inc.,<ref name=itu_ob_801/> CellONE; Colorado / Kansas / Nebraska<ref name=mwlive/>
+| 310 || 450 || Viaero || Viaero Wireless || Operational || UMTS 850 / UMTS 1900 || Formerly North East Cellular Inc.,<ref name=itu_ob_801/> CellONE; GSM shut down May 2018;<ref>{{cite web |url=https://www.emnify.com/blog/global-2g-3g-phase-out |title=2G and 3G Sunsets: When They’ll Happen and How to Prepare |author=Jean-Eudes Ambroise |publisher=emnify |date=2022-04-26 |access-date=2023-10-03}}</ref> Colorado / Kansas / Nebraska<ref name=mwlive/>
 |-
-| 310 || 460 || [https://cnc.to/ Conecto] || [http://www.newcorewireless.net/ NewCore Wireless LLC]|| Operational || MVNO || Former Simmetry / TMP Corporation (shut down 30 June 2012)<ref name=itu_ob_779/><ref name=itu_ob_1019/><ref name=mwlive/><ref>{{cite web |url=http://quincyjournal.com/u.s.-cellular-buys-simmetry-wireless-spectrum1334092564.html |title=Simmetry Wireless informs customers of U.S. Cellular sale |publisher=Quincy Journal |accessdate=20 August 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20120415034031/http://quincyjournal.com/u.s.-cellular-buys-simmetry-wireless-spectrum1334092564.html |archivedate=15 April 2012 |df=dmy-all }}</ref>
+| 310 || 460 || || Eseye || Unknown || MVNO || Former Simmetry / TMP Corporation (shut down 30 June 2012),<ref name=itu_ob_779/><ref name=itu_ob_1019/><ref name=mwlive/><ref>{{cite web |url=http://quincyjournal.com/u.s.-cellular-buys-simmetry-wireless-spectrum1334092564.html |title=Simmetry Wireless informs customers of U.S. Cellular sale |publisher=Quincy Journal |accessdate=20 August 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20120415034031/http://quincyjournal.com/u.s.-cellular-buys-simmetry-wireless-spectrum1334092564.html |archivedate=15 April 2012 |df=dmy-all }}</ref> Conecto / NewCore Wireless LLC<ref name=itu_ob_1270/>
 |-
 | 310 || 470 ||  || NTT [[DoCoMo Pacific]] || Unknown || Unknown || Former Guam Wireless,<ref name=itu_ob_837/> [[nTelos]],<ref name=itu_ob_932/> [[Shentel]],<ref name=itu_ob_1112/> Sprint<ref name=authority_us_20180417/><ref name=itu_ob_1198/>
 |-
-| 310 || 480 || [http://www.ite.net IT&E Wireless] || IT&E Overseas, Inc || Operational || iDEN || Guam; former Choice Phone LLC, [[Instant connect telecommunications|iConnect]], Wave Runner LLC<ref name=icon_ite_gu/><ref name=itu_ob_779/><ref name=itu_ob_1112/>
+| 310 || 480 || IT&E Wireless || PTI Pacifica Inc. || Operational || iDEN || Guam; former Choice Phone LLC, [[Instant connect telecommunications|iConnect]], Wave Runner LLC<ref name=icon_ite_gu/><ref name=itu_ob_779/><ref name=itu_ob_1112/><ref name=itu_ob_1270/>
 |-
 | 310 || 490 || || T-Mobile || Operational || GSM 850 / GSM 1900 || Former Triton PCS,<ref name=itu_ob_779/> [[SunCom]]<ref name=itu_ob_901/>
 |-
@@ -714,11 +735,11 @@ includes
 |-
 | 310 || 510 || [[Cellcom (United States)|Cellcom]] || Nsight || Unknown || Unknown || Formerly Airtel Wireless LLC (iDEN, Montana)<ref name=itu_ob_779/><ref name=itu_ob_1019/>
 |-
-| 310 || 520 || [[Transaction Network Services|TNS]] || [http://www.tnsi.com/ Transaction Network Services] || Unknown || Unknown || Formerly [[Verisign]]<ref name=itu_ob_779/><ref name=itu_ob_958/>
+| 310 || 520 || [[Transaction Network Services|TNS]] || Transaction Network Services || Unknown || Unknown || Formerly [[Verisign]]<ref name=itu_ob_779/><ref name=itu_ob_958/>
 |-
 | 310 || 530 || || T-Mobile || Unknown || Unknown || Formerly West Virginia Wireless,<ref name=itu_ob_779/> [[iWireless]]<ref name=itu_ob_932/><ref name=authority_us_20211130/>
 |-
-| 310 || 540 || Phoenix || [http://hillcom.net/ Hilliary Communications] || Operational || GSM 850 / GSM 1900 || Oklahoma<ref name=itu_ob_779/><ref name=mwlive/><ref>{{cite web|url=http://www.wirelessnoise.com/2018/05/phoenix-communications-may-not-rise.html|title=Phoenix Communications May Not Rise Again |date=2018-05-18|accessdate=2018-06-13}}</ref>
+| 310 || 540 || Phoenix || Hilliary Communications || Not operational || GSM 850 / GSM 1900 || Oklahoma;<ref name=itu_ob_779/><ref name=mwlive/><ref>{{cite web|url=http://www.wirelessnoise.com/2018/05/phoenix-communications-may-not-rise.html|title=Phoenix Communications May Not Rise Again |date=2018-05-18|accessdate=2018-06-13}}</ref> MNC withdrawn<ref name=itu_ob_1270/>
 |-
 | 310 || 550 || || [[Syniverse]] Technologies || Unknown || Unknown || Former Wireless Solutions International<ref name=itu_ob_901/><ref name=itu_ob_1112/>
 |-
@@ -726,9 +747,9 @@ includes
 |-
 | 310 || 570 ||  || Broadpoint, LLC || Operational || GSM 850 / LTE 700 || Former TX-10, LLC and Central Louisiana Cellular, LLC (MTPCS) dba [[Cellular One]]; Montana network (former Chinook Wireless) shut down in 2014<ref name=itu_ob_871/><ref name=gsa_lte/><ref name=itu_ob_1198/>
 |-
-| 310 || 580 || || [http://inlandcellular.com/ Inland Cellular Telephone Company] || Operational || CDMA2000 || Former PCS One<ref name=itu_ob_779/><ref name=itu_ob_901/>
+| 310 || 580 || || Inland Cellular Telephone Company || Operational || CDMA2000 || Former PCS One<ref name=itu_ob_779/><ref name=itu_ob_901/>
 |-
-| 310 || 590 || || [[Verizon Wireless]] || Unknown || GSM 850 / GSM 1900 || Former [[Western Wireless Corporation]],<ref name=itu_ob_801/> [[Alltel]], then Verizon<ref name=itu_ob_992/>
+| 310 || 590 || || [[Verizon Wireless]] || Unknown || GSM 850 / GSM 1900 || Former [[Western Wireless Corporation]],<ref name=itu_ob_801/> [[Alltel]]<ref name=itu_ob_992/>
 |-
 | 310 || 591 || || [[Verizon Wireless]] || Unknown || Unknown || <ref name=itu_ob_1198/>
 |-
@@ -748,13 +769,13 @@ includes
 |-
 | 310 || 599 || || [[Verizon Wireless]] || Unknown || Unknown || <ref name=itu_ob_1198/>
 |-
-| 310 || 600 || [[Cellcom (United States)|Cellcom]] || NewCell Inc. || Operational || CDMA2000 850 / CDMA2000 1900 || Wisconsin<ref name=itu_ob_871/>
+| 310 || 600 || [[Cellcom (United States)|Cellcom]] || NewCell Inc. || Not operational || CDMA 850 / CDMA 1900 || Wisconsin;<ref name=itu_ob_871/> network shut down Dec 2023<ref name=cellcom_cdma>{{cite web |url=https://fox11online.com/news/local/cellcom-announces-retirement-dates-for-2g-and-3g-networks-cell-phone-green-bay-4g-5g-data-usage-wireless-internet-voice-calling-apple-android-customers-technology-devices |title=Cellcom announces retirement dates for 2G and 3G networks |publisher= Sinclair Broadcast Group, Inc. |date=2022-10-27 |access-date=2022-12-24}}</ref>
 |-
 | 310 || 610 || || [[Mavenir]] Systems Inc || Unknown || Unknown || Former Epic PCS, shut down 30 April 2015, sold to PTCI and United Wireless;<ref name=itu_ob_779/><ref>{{cite web |url=http://www.leaderandtimes.com/index.php?option=com_content&id=19172:epic-pcs-announces-mergers-relocations&Itemid=40 |title=Epic PCS announces mergers, relocations |publisher=Leader & Times |date=6 December 2014 |accessdate=25 January 2016 |archive-url=https://web.archive.org/web/20160201033033/http://www.leaderandtimes.com/index.php?option=com_content&id=19172:epic-pcs-announces-mergers-relocations&Itemid=40 |archive-date=1 February 2016 |url-status=dead }}</ref><ref name=authority_us_20180216/><ref name=itu_ob_1198/><ref name=authority_us_20211130/>
 |-
 | 310 || 620 || [[Cellcom (United States)|Cellcom]] || Nsighttel Wireless LLC || Unknown || Unknown || Formerly Coleman County Telecom<ref name=itu_ob_779/><ref name=itu_ob_992/><ref name=itu_ob_1198/>
 |-
-| 310 || 630 || [http://mispot.net/ miSpot] || Agri-Valley Communications || Not operational || LTE 700 || Shut down 30 November 2014<ref name=itu_ob_992/>
+| 310 || 630 || Choice Wireless || [[Commnet Wireless]] LLC || Unknown || Unknown || Former miSpot / Agri-Valley Communications<ref name=itu_ob_992/><ref name=authority_us_20220807>{{cite web |url=http://imsiadmin.com/assignments |title=HNI assignments |archive-url=https://web.archive.org/web/20220807184027/https://imsiadmin.com/assignments |archive-date=7 August 2022 |accessdate=17 January 2023}}</ref>
 |-
 | 310 || 640 || || [[Numerex]] || Operational || MVNO || [[Machine to machine|M2M]] only; formerly Einstein PCS, AirFire / Airadigm,<ref name=itu_ob_779/><ref name=itu_ob_1112/> shut down 2 September 2014 <ref>{{cite news |title=Wisconsin's AirFire Mobile to shut down, will sell spectrum, tower assets to U.S. Cellular for $91.5M |first=Phil |last=Goldstein |work=Fierce Wireless |date=30 May 2014 |accessdate=9 December 2014 |url=http://www.fiercewireless.com/story/wisconsins-airfire-mobile-shut-down-will-sell-spectrum-tower-assets-us-cell/2014-05-30}}</ref>
 |-
@@ -766,19 +787,19 @@ includes
 |-
 | 310 || 680 || AT&T || [[AT&T Mobility]] || Operational || GSM 850 / GSM 1900 || Formerly Cellular One DCS, NPI Wireless,<ref name=itu_ob_779/> Cingular<ref name=itu_ob_932/><ref name=itu_ob_1019/>
 |-
-| 310 || 690 || Limitless Mobile || [http://limitlessmobile.com/ Limitless Mobile, LLC] || Operational || GSM 1900 / LTE 1900 || Pennsylvania; former Conestoga Wireless,<ref name=itu_ob_779/> Keystone Wireless d/b/a Immix Wireless<ref name=itu_ob_932/><ref name=itu_ob_1198/>
+| 310 || 690 || Limitless Mobile || Limitless Mobile, LLC || Operational || GSM 1900 / LTE 1900 || Pennsylvania; former Conestoga Wireless,<ref name=itu_ob_779/> Keystone Wireless d/b/a Immix Wireless<ref name=itu_ob_932/><ref name=itu_ob_1198/>
 |-
 | 310 || 700 || Bigfoot Cellular || Cross Valiant Cellular Partnership || Unknown || GSM || <ref name=itu_ob_871/>
 |-
-| 310 || 710 || ASTAC || [http://www.astac.net/ Arctic Slope Telephone Association Cooperative] || Operational || UMTS 850 / LTE || Alaska;<ref name=itu_ob_871/> GSM shut down January 2017<ref>{{cite web |url=https://www.astac.net/4g-faqs/ |title=4G FAQs |publisher=ASTAC |accessdate=2018-05-11|date=2017-08-28 }}</ref>
+| 310 || 710 || ASTAC || Arctic Slope Telephone Association Cooperative || Operational || UMTS 850 / LTE || Alaska;<ref name=itu_ob_871/> GSM shut down January 2017<ref>{{cite web |url=https://www.astac.net/4g-faqs/ |title=4G FAQs |publisher=ASTAC |accessdate=2018-05-11|date=2017-08-28 }}</ref>
 |-
 | 310 || 720 || || [[Syniverse]] Technologies || Unknown || Unknown || Former Wireless Solutions International<ref name=itu_ob_871/><ref name=itu_ob_1112/>
 |-
-| 310 || 730 || U.S. Cellular || [[U.S. Cellular]] || Unknown || Unknown || Formerly Sea Mobile<ref name=itu_ob_871/><ref name=itu_ob_958/>
+| 310 || 730 || U.S. Cellular || [[U.S. Cellular]] || Not operational || Unknown || Formerly Sea Mobile;<ref name=itu_ob_871/><ref name=itu_ob_958/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
-| 310 || 740 || Viaero || [http://www.viaero.com/ Viaero Wireless] || Operational || LTE 700 / LTE 1700 / LTE 1900 || Former Telemetrix Technologies,<ref name=itu_ob_779/> Convey Communications Inc.,<ref name=itu_ob_932/> Green Eagle Communications, Inc.<ref name=itu_ob_1112/><ref name=mwlive/>
+| 310 || 740 || Viaero || Viaero Wireless || Operational || LTE 700 / LTE 1700 / LTE 1900 || Former Telemetrix Technologies,<ref name=itu_ob_779/> Convey Communications Inc.,<ref name=itu_ob_932/> Green Eagle Communications, Inc.<ref name=itu_ob_1112/><ref name=mwlive/>
 |-
-| 310 || 750 || [http://www.appalachianwireless.com/ Appalachian Wireless] || East Kentucky Network, LLC || Operational || CDMA2000 850 / CDMA2000 1900 || <ref name=itu_ob_871/>
+| 310 || 750 || Appalachian Wireless || East Kentucky Network, LLC || Not operational || CDMA 850 / CDMA 1900 || <ref name=itu_ob_871/> shut down Feb 2023<ref>{{Cite web |last= |first= |date=2023-01-04 |title=Appalachian Wireless to shut down 3G/CDMA service this month |url=https://mountain-topmedia.com/appalachian-wireless-to-shut-down-3g-cdma-service-this-month/ |access-date=2023-03-18 |website=Mountain Top Media |language=en-US}}</ref>
 |-
 | 310 || 760 || || Lynch 3G Communications Corporation || Not operational || Unknown || <ref name=itu_ob_958/>
 |-
@@ -792,116 +813,122 @@ includes
 |-
 | 310 || 810 || || Pacific Lightwave Inc. || Unknown || 1900 || Formerly Brazos Cellular Communications Ltd.,<ref name=itu_ob_871/> LCFR LLC (owned by [http://newdimensionwireless.com/ New Dimension Wireless]);<ref name=itu_ob_958/><ref name=authority_us_20180822>{{cite web |url=http://imsiadmin.com/assignments |title=HNI assignments |archive-url=https://web.archive.org/web/20180822011604/http://imsiadmin.com/assignments |archive-date=22 August 2018 |accessdate=6 June 2019}}</ref><ref name=itu_ob_1198/>
 |-
-| 310 || 820 || || Verizon Wireless || Unknown || Unknown || Former South Canaan Cellular<ref name=itu_ob_901/><ref name=itu_ob_1112/>
+| 310 || 820 || || [[Verizon Wireless]] || Unknown || Unknown || Former South Canaan Cellular<ref name=itu_ob_901/><ref name=itu_ob_1112/>
 |-
-| 310 || 830 ||  || [[T-Mobile US]] || Not operational || WiMAX || Former Caprock Cellular (GSM, sold to AT&T in 2010),<ref name=itu_ob_801/> [[Clearwire]],<ref name=itu_ob_1019/> [[Sprint Corporation]]<ref name=itu_ob_1112/><ref name=authority_us_20210529/>
+| 310 || 830 || T-Mobile || [[T-Mobile US]] || Not operational || WiMAX || Former Caprock Cellular (GSM, sold to AT&T in 2010),<ref name=itu_ob_801/> [[Clearwire]],<ref name=itu_ob_1019/> [[Sprint Corporation]]<ref name=itu_ob_1112/><ref name=authority_us_20210529/>
 |-
 | 310 || 840 || telna Mobile || [[Telecom North America Mobile, Inc.]] || Operational || MVNO || Formerly Edge Mobile LLC<ref name=itu_ob_871/><ref name=itu_ob_958/>
 |-
-| 310 || 850 || Aeris || [http://www.aeris.com/ Aeris Communications, Inc.] || Operational || MVNO || [[Machine to machine|M2M]] only;<ref name=itu_ob_801/> is a [[MVNO#Types|Full MVNO]] despite marketing claims to the contrary<ref>{{Cite web | url=http://blog.aeris.com/Is-Aeris-An-MVNO | title=Is Aeris an MVNO?}}</ref>
+| 310 || 850 || Aeris || Aeris Communications, Inc. || Operational || MVNO || [[Machine to machine|M2M]] only;<ref name=itu_ob_801/> is a [[MVNO#Types|Full MVNO]] despite marketing claims to the contrary<ref>{{Cite web | url=http://blog.aeris.com/Is-Aeris-An-MVNO | title=Is Aeris an MVNO?}}</ref>
 |-
-| 310 || 860 || Five Star Wireless || TX RSA 15B2, LP || Operational || CDMA || Owned by [[West Central Wireless]]<ref name=itu_ob_901/>
+| 310 || 860 || Five Star Wireless || TX RSA 15B2, LP || Not operational || CDMA || Owned by [[West Central Wireless]];<ref name=itu_ob_901/> shut down Aug 2023;<ref name="WCW_VZW US"/> MNC withdrawn<ref name=itu_ob_1280/>
 |-
-| 310 || 870 || PACE || [http://ktcpace.com/ Kaplan Telephone Company] || Not operational || GSM 850 || Louisiana; spectrum sold to AT&T in 2014;<ref name=itu_ob_801/><ref name=mwlive/><ref>{{cite web |url=https://www.fcc.gov/document/att-kaplan-telephone-company-assignment-application-accepted |title=AT&T-Kaplan Telephone Company Assignment Application Accepted |publisher=FCC |date=30 September 2014 |accessdate=5 February 2016}}</ref> MNC withdrawn<ref name=itu_ob_1112/>
+| 310 || 870 || PACE || Kaplan Telephone Company || Not operational || GSM 850 || Louisiana; spectrum sold to AT&T in 2014;<ref name=itu_ob_801/><ref name=mwlive/><ref>{{cite web |url=https://www.fcc.gov/document/att-kaplan-telephone-company-assignment-application-accepted |title=AT&T-Kaplan Telephone Company Assignment Application Accepted |publisher=FCC |date=30 September 2014 |accessdate=5 February 2016}}</ref> MNC withdrawn<ref name=itu_ob_1112/>
 |-
-| 310 || 880 || DTC Wireless || [http://www.dtcwireless.com/ Advantage Cellular Systems, Inc.] || Operational || LTE || Tennessee; owned by DeKalb Telephone Cooperative;<ref name=itu_ob_801/><ref name=mwlive/> fixed wireless only, GSM 850 discontinued January 2017<ref>{{cite web|url=http://www.smithvillereview.com/archives/9871/preview/|title=DTC to discontinue cell service|publisher=Smithville Review|archive-url=https://web.archive.org/web/20180308103209/http://www.smithvillereview.com/archives/9871/preview/ |archive-date=8 March 2018 |accessdate=11 June 2019}}</ref>
+| 310 || 880 || DTC Wireless || Advantage Cellular Systems, Inc. || Operational || LTE || Tennessee; owned by DeKalb Telephone Cooperative;<ref name=itu_ob_801/><ref name=mwlive/> fixed wireless only, GSM 850 discontinued January 2017<ref>{{cite web|url=http://www.smithvillereview.com/archives/9871/preview/|title=DTC to discontinue cell service|publisher=Smithville Review|archive-url=https://web.archive.org/web/20180308103209/http://www.smithvillereview.com/archives/9871/preview/ |archive-date=8 March 2018 |accessdate=11 June 2019}}</ref>
 |-
-| 310 || 890 || || Verizon Wireless || Unknown || GSM 850 / GSM 1900 || Former [[Unicel]] / Rural Cellular Corporation<ref name=itu_ob_801/><ref name=itu_ob_1019/>
+| 310 || 890 || || [[Verizon Wireless]] || Unknown || GSM 850 / GSM 1900 || Former [[Unicel]] / Rural Cellular Corporation<ref name=itu_ob_801/><ref name=itu_ob_1019/>
 |-
-| 310 || 891 || || Verizon Wireless || Unknown || Unknown || <ref name=itu_ob_1198/>
+| 310 || 891 || || [[Verizon Wireless]] || Unknown || Unknown || <ref name=itu_ob_1198/>
 |-
-| 310 || 892 || || Verizon Wireless || Unknown || Unknown || <ref name=itu_ob_1198/>
+| 310 || 892 || || [[Verizon Wireless]] || Unknown || Unknown || <ref name=itu_ob_1198/>
 |-
-| 310 || 893 || || Verizon Wireless || Unknown || Unknown || <ref name=itu_ob_1198/>
+| 310 || 893 || || [[Verizon Wireless]] || Unknown || Unknown || <ref name=itu_ob_1198/>
 |-
-| 310 || 894 || || Verizon Wireless || Unknown || Unknown || <ref name=itu_ob_1198/>
+| 310 || 894 || || [[Verizon Wireless]] || Unknown || Unknown || <ref name=itu_ob_1198/>
 |-
-| 310 || 895 || || Verizon Wireless || Unknown || Unknown || <ref name=itu_ob_1198/>
+| 310 || 895 || || [[Verizon Wireless]] || Unknown || Unknown || <ref name=itu_ob_1198/>
 |-
-| 310 || 896 || || Verizon Wireless || Unknown || Unknown || <ref name=itu_ob_1198/>
+| 310 || 896 || || [[Verizon Wireless]] || Unknown || Unknown || <ref name=itu_ob_1198/>
 |-
-| 310 || 897 || || Verizon Wireless || Unknown || Unknown || <ref name=itu_ob_1198/>
+| 310 || 897 || || [[Verizon Wireless]] || Unknown || Unknown || <ref name=itu_ob_1198/>
 |-
-| 310 || 898 || || Verizon Wireless || Unknown || Unknown || <ref name=itu_ob_1198/>
+| 310 || 898 || || [[Verizon Wireless]] || Unknown || Unknown || <ref name=itu_ob_1198/>
 |-
-| 310 || 899 || || Verizon Wireless || Unknown || Unknown || <ref name=itu_ob_1198/>
+| 310 || 899 || || [[Verizon Wireless]] || Unknown || Unknown || <ref name=itu_ob_1198/>
 |-
-| 310 || 900 || [http://www.midrivers.com/ Mid-Rivers Wireless] || Cable & Communications Corporation || Operational || CDMA2000 850 / CDMA2000 1900 || Montana;<ref name=itu_ob_958/> network to shut down 1 August 2019<ref name=mid_rivers_end>{{cite web|url=https://www.midrivers.com/cellular-q-a.html |title=CELLULAR TRANSITION QUESTIONS & ANSWERS |publisher=Mid-Rivers Wireless |accessdate=2019-06-11}}</ref>
+| 310 || 900 || Mid-Rivers Wireless || Cable & Communications Corporation || Not operational || CDMA 850 / CDMA 1900 || Montana;<ref name=itu_ob_958/> network shut down August 2019;<ref name=mid_rivers_end>{{cite web|url=https://www.midrivers.com/cellular-q-a.html |title=CELLULAR TRANSITION QUESTIONS & ANSWERS |publisher=Mid-Rivers Wireless |accessdate=2019-06-11}}</ref> MNC withdrawn<ref name=itu_ob_1270/>
 |-
-| 310 || 910 || || Verizon Wireless || Unknown || GSM 850 || Former [[First Cellular of Southern Illinois]],<ref name=itu_ob_801/> Alltel<ref name=itu_ob_932/><ref name=itu_ob_958/>
+| 310 || 910 || || [[Verizon Wireless]] || Unknown || GSM 850 || Former [[First Cellular of Southern Illinois]],<ref name=itu_ob_801/> Alltel<ref name=itu_ob_932/><ref name=itu_ob_958/>
 |-
-| 310 || 920 || || [http://www.jamesvalley.com/ James Valley Wireless, LLC] || Operational || CDMA || South Dakota;<ref name=itu_ob_1019/> includes [http://nvc.net/ NVC]
+| 310 || 920 || || James Valley Wireless, LLC || Operational || CDMA || South Dakota;<ref name=itu_ob_1019/> includes [http://nvc.net/ NVC]
 |-
-| 310 || 930 || || [http://www.cvinternet.net/ Copper Valley Wireless] || Operational || CDMA || Alaska <ref name=itu_ob_901/>
+| 310 || 930 || || Copper Valley Wireless || Not operational || CDMA || Alaska;<ref name=itu_ob_901/> shut down Sep 2022<ref>{{cite web |url=https://www.cvtc.org/news/cdma-sunset/ |title=CDMA Sunset |publisher=Copper Valley Telecom |access-date=2024-02-22}}</ref>
 |-
 | 310 || 940 || || [[Tyntec]] Inc. || Unknown || MVNO || Formerly Poka Lambro Telecommunications Ltd.,<ref name=itu_ob_801/> Iris Wireless LLC<ref name=itu_ob_932/><ref name=authority_us_20170209>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20170209142508/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=9 February 2017}}</ref><ref name=itu_ob_1198/>
 |-
 | 310 || 950 || AT&T || [[AT&T Mobility]] || Operational || GSM 850 || Former Texas RSA 1 d/b/a XIT Cellular<ref name=itu_ob_801/><ref name=itu_ob_1112/>
 |-
-| 310 || 960 || [http://www.stratanetworks.com/ STRATA] || [http://www.ubta-ubet.com/ UBET Wireless] || Operational || CDMA || Utah<ref name=itu_ob_901/>
+| 310 || 960 || STRATA || UBET Wireless || Not operational || CDMA || Utah;<ref name=itu_ob_901/> CDMA shut down Dec 2022<ref>{{cite web |url=https://www.ubta-ubet.com/component/content/article/27-2021/229-strata-announces-plans-to-retire-3g-network?Itemid=101 |title=STRATA Announces Plans to Retire 3G Network |date=2021-08-05 |access-date=2023-11-02}}</ref>
 |-
 | 310 || 970 || || [[Globalstar]] || Operational || Satellite || <ref name=itu_ob_779/>
 |-
-| 310 || 980 || [http://peoplescom.net/ Peoples Telephone] || Texas RSA 7B3 || Not operational || CDMA / LTE 700 || Texas;<ref name=itu_ob_958/> spectrum sold to AT&T;<ref>{{cite web |url=https://apps.fcc.gov/edocs_public/attachmatch/DA-16-48A1.pdf |title=MEMORANDUM OPINION AND ORDER DA 16-48 |publisher=FCC |date=14 January 2016 |accessdate=5 February 2016}}</ref> MNC withdrawn<ref name=itu_ob_1112/>
+| 310 || 980 || Peoples Telephone || Texas RSA 7B3 || Not operational || CDMA / LTE 700 || Texas;<ref name=itu_ob_958/> spectrum sold to AT&T;<ref>{{cite web |url=https://apps.fcc.gov/edocs_public/attachmatch/DA-16-48A1.pdf |title=MEMORANDUM OPINION AND ORDER DA 16-48 |publisher=FCC |date=14 January 2016 |accessdate=5 February 2016}}</ref> MNC withdrawn<ref name=itu_ob_1112/>
 |-
-| 310 || 990 || [http://www.evolvebroadband.com/ Evolve Broadband] || Evolve Cellular Inc. || Operational || LTE 700 || LTE band 17; former Worldcall Interconnect Inc.<ref name=itu_ob_932/><ref name=gsa_lte/><ref name=authority_us_20180822/>
+| 310 || 990 || Evolve Broadband || Evolve Cellular Inc. || Operational || LTE 700 || LTE band 17; former Worldcall Interconnect Inc.<ref name=itu_ob_932/><ref name=gsa_lte/><ref name=authority_us_20180822/>
 |-
 | {{TOC tab|311|United States of America - US - 311}}
-| 000 || [[West Central Wireless]] || Mid-Tex Cellular Ltd. || Operational || CDMA2000 850 / CDMA2000 1900 || Texas<ref name=itu_ob_801/>
+| 000 || [[West Central Wireless]] || Mid-Tex Cellular Ltd. || Not operational || CDMA 850 / CDMA 1900 || Texas;<ref name=itu_ob_801/> shut down Aug 2023;<ref name="WCW_VZW US"/> MNC withdrawn<ref name=itu_ob_1280/>
 |-
-| 311 || 010 || [http://www.cvalley.net/ Chariton Valley] || Chariton Valley Communications || Operational || CDMA2000 850 / CDMA2000 1900 || Missouri;<ref name=itu_ob_837/><ref name=cvalley>{{cite web |url=http://www.globecommsystems.com/pdf/techforum/2013/Ryan-Johnson-2013-chariton-valley.pdf |title=Chariton Valley Wireless |accessdate=10 March 2016 |url-status=dead |archiveurl=https://web.archive.org/web/20160311035640/http://www.globecommsystems.com/pdf/techforum/2013/Ryan-Johnson-2013-chariton-valley.pdf |archivedate=11 March 2016 |df=dmy-all }}</ref><ref name=itu_ob_1198/> being acquired by Verizon Wireless<ref name=cvalley_verizon>{{cite web|url=https://www.lightreading.com/5g/verizon-snaps-up-another-small-wireless-network-operator/d/d-id/772463?|title=Verizon snaps up another small wireless network operator|date=2021-09-30|access-date=2021-10-04}}</ref>
+| 311 || 010 || Chariton Valley || Chariton Valley Communications || Not operational || CDMA 850 / CDMA 1900 || Missouri;<ref name=itu_ob_837/><ref name=cvalley>{{cite web |url=http://www.globecommsystems.com/pdf/techforum/2013/Ryan-Johnson-2013-chariton-valley.pdf |title=Chariton Valley Wireless |accessdate=10 March 2016 |url-status=dead |archiveurl=https://web.archive.org/web/20160311035640/http://www.globecommsystems.com/pdf/techforum/2013/Ryan-Johnson-2013-chariton-valley.pdf |archivedate=11 March 2016 |df=dmy-all }}</ref><ref name=itu_ob_1198/> acquired by Verizon Wireless;<ref name=cvalley_verizon>{{cite web|url=https://www.lightreading.com/5g/verizon-snaps-up-another-small-wireless-network-operator/d/d-id/772463?|title=Verizon snaps up another small wireless network operator|date=2021-09-30|access-date=2021-10-04}}</ref> CDMA shut down Dec 2022;<ref name="verizon_cdma"/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
-| 311 || 012 || Verizon || [[Verizon Wireless]] || Operational || CDMA2000 850 / CDMA2000 1900 ||
+| 311 || 012 || Verizon || [[Verizon Wireless]] || Not operational || CDMA 850 / CDMA 1900 || CDMA shut down Dec 2022<ref name="verizon_cdma"/>
 |-
-| 311 || 020 || [http://www.cvalley.net/ Chariton Valley] || Missouri RSA 5 Partnership || Operational || GSM 850 || Missouri;<ref name=itu_ob_837/><ref name=mwlive/><ref name=cvalley/> being acquired by Verizon Wireless<ref name=cvalley_verizon/>
+| 311 || 020 || Chariton Valley || Missouri RSA 5 Partnership || Not operational || GSM 850 || Missouri;<ref name=itu_ob_837/><ref name=mwlive/><ref name=cvalley/> acquired by Verizon Wireless;<ref name=cvalley_verizon/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
-| 311 || 030 || [[Indigo Wireless]] || Americell PA 3 Partnership || Operational || GSM 850 / GSM 1900 / UMTS 850 || Pennsylvania<ref name=itu_ob_837/><ref name=mwlive/>
+| 311 || 030 || [[Indigo Wireless]] || Americell PA 3 Partnership || Not operational || GSM 850 / GSM 1900 / UMTS 850 || Pennsylvania;<ref name=itu_ob_837/><ref name=mwlive/> shut down 2023<ref name=pioneer_shutdown/>
 |-
-| 311 || 040 || [https://www.choice-wireless.com/ Choice Wireless] || [http://www.commnetwireless.com/ Commnet Wireless] || Operational || GSM 850 / GSM 1900 / CDMA 2000 / UMTS || <ref name=itu_ob_837/><ref name=mwlive/>
+| 311 || 040 || Choice Wireless || [[Commnet Wireless]] || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 || <ref name=itu_ob_837/><ref name=mwlive/> CDMA shut down Dec 2022<ref name=us_choice_cdma>{{cite web |url=https://www.choice-wireless.com/upgrade-today.html |title=Upgrade Your Device Today |publisher=Choice Wireless |access-date=2024-02-05}}</ref>
 |-
-| 311 || 050 || || [http://www.thumbcellular.com/ Thumb Cellular LP] || Operational || CDMA2000 850 || Michigan <ref name=itu_ob_901/>
+| 311 || 050 || || Thumb Cellular LP || Operational || CDMA2000 850 || Michigan <ref name=itu_ob_901/>
 |-
-| 311 || 060 || || [http://www.spacedata.net/ Space Data Corporation] || Operational || Unknown || Former Farmers Cellular Telephone Inc.<ref name=itu_ob_837/><ref name=itu_ob_901/>
+| 311 || 060 || || Space Data Corporation || Operational || Unknown || Former Farmers Cellular Telephone Inc.<ref name=itu_ob_837/><ref name=itu_ob_901/>
 |-
 | 311 || 070 || AT&T || [[AT&T Mobility]] || Operational || GSM 850 || Former Easterbrooke Cellular Corporation,<ref name=itu_ob_837/> [[Element Mobile|Wisconsin RSA #7 Limited Partnership]]<ref name=itu_ob_992/><ref name=itu_ob_1112/>
 |-
-| 311 || 080 || Pine Cellular || [http://www.pinecellular.com/ Pine Telephone Company] || Operational || GSM 850 / LTE || Oklahoma<ref name=itu_ob_837/>
+| 311 || 080 || Pine Cellular || Pine Telephone Company || Operational || GSM 850 / LTE || Oklahoma<ref name=itu_ob_837/>
 |-
-| 311 || 090 || AT&T || AT&T Mobility || Operational || GSM 1900 || Former Siouxland PCS,<ref name=itu_ob_837/> Long Lines Wireless,<ref name=itu_ob_958/> acquired by AT&T Dec. 2013<ref>{{cite web |url=http://www.longlines.com/about-us |title=Our History |publisher=Long Lines |accessdate=21 October 2016}}</ref>
+| 311 || 090 || AT&T || [[AT&T Mobility]] || Operational || GSM 1900 || Former Siouxland PCS,<ref name=itu_ob_837/> Long Lines Wireless,<ref name=itu_ob_958/> acquired by AT&T Dec. 2013<ref>{{cite web |url=http://www.longlines.com/about-us |title=Our History |publisher=Long Lines |accessdate=21 October 2016}}</ref>
 |-
 | 311 || 100 ||  || [https://www.nex-techwireless.com/ Nex-Tech Wireless] || Operational || CDMA2000 || Kansas; former High Plains Wireless L.P.<ref name=itu_ob_837/><ref name=itu_ob_932/>
 |-
 | 311 || 110 || Verizon || [[Verizon Wireless]] || Unknown || Unknown || Former High Plains Wireless L.P.,<ref name=itu_ob_837/> [[Alltel]]<ref name=itu_ob_901/><ref name=itu_ob_958/>
 |-
-| 311 || 120 || [http://www.ite.net IT&E Wireless] || IT&E Overseas, Inc || Operational || Unknown || Guam; former Choice Phone LLC, [[Instant connect telecommunications|iConnect]], Wave Runner LLC<ref name=icon_ite_gu/><ref name=itu_ob_779/><ref name=itu_ob_1112/>
+| 311 || 120 || IT&E Wireless || PTI Pacifica Inc. || Operational || Unknown || Guam; former Choice Phone LLC, [[Instant connect telecommunications|iConnect]], Wave Runner LLC<ref name=icon_ite_gu/><ref name=itu_ob_779/><ref name=itu_ob_1112/><ref name=itu_ob_1270/>
 |-
-| 311 || 130 || || [[Black & Veatch]] || Unknown || Unknown || Former Cell One Amarillo (Amarillo License L.P.),<ref name=itu_ob_837/> [[Lightsquared]]<ref name=itu_ob_1019/><ref name=itu_ob_1112/><ref name=authority_us_20211130/>
+| 311 || 130 || || [[Black & Veatch]] || Not operational || Unknown || Former Cell One Amarillo (Amarillo License L.P.),<ref name=itu_ob_837/> [[Lightsquared]];<ref name=itu_ob_1019/><ref name=itu_ob_1112/><ref name=authority_us_20211130/> MNC withdrawn<ref name=authority_us_20220807/>
 |-
 | 311 || 140 || [https://bravadowireless.com/ Bravado Wireless] || Cross Telephone Company || Operational || CDMA || Oklahoma; former MBO Wireless, Sprocket Wireless <ref name=itu_ob_801/>
 |-
-| 311 || 150 ||  || [http://www.nu-z.net/about_us.php Wilkes Cellular] || Operational || GSM 850 || Georgia<ref name=itu_ob_837/><ref name=mwlive/>
+| 311 || 150 ||  || Wilkes Cellular || Not operational || GSM 850 || Georgia;<ref name=itu_ob_837/><ref name=mwlive/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
 | 311 || 160 ||  || [[Lightsquared]] L.P. || Not operational || LTE || Former Endless Mountains Wireless<ref name=itu_ob_837/> (acquired by [[Dobson Cellular]] in 2005<ref>{{cite web |url=https://forums.wirelessadvisor.com/threads/dobson-purchases-endless-mountains-wireless-in-northern-pennsylvania.11244/ |title=Dobson Purchases Endless Mountains Wireless, in Northern Pennsylvania |publisher=Wireless Advisor |date=14 September 2005 |accessdate=24 October 2016}}</ref>)<ref name=itu_ob_1019/> MNC withdrawn<ref name=itu_ob_1112/>
 |-
 | 311 || 170 ||  || Tampnet || Operational || GSM 850 / LTE || Gulf of Mexico; former PetroCom,<ref name=itu_ob_901/> [http://www.broadpointinc.com/ Broadpoint Inc.]<ref name=itu_ob_1112/><ref name=authority_us_20181207/><ref name=itu_ob_1198/>
 |-
-| 311 || 180 || AT&T || AT&T Mobility || Not operational || GSM 850 / UMTS 850 / UMTS 1900 || Former Pacific Telesis, Cingular Wireless<ref name=itu_ob_837/><ref name=itu_ob_1112/>
+| 311 || 180 || AT&T || [[AT&T Mobility]] || Not operational || GSM 850 / UMTS 850 / UMTS 1900 || Former Pacific Telesis, Cingular Wireless<ref name=itu_ob_837/><ref name=itu_ob_1112/>
 |-
-| 311 || 190 || AT&T || AT&T Mobility || Unknown || Unknown || Former Cellular Properties Inc.<ref name=itu_ob_871/><ref name=itu_ob_1112/>
+| 311 || 190 || AT&T || [[AT&T Mobility]] || Unknown || Unknown || Former Cellular Properties Inc.<ref name=itu_ob_871/><ref name=itu_ob_1112/>
 |-
-| 311 || 200 ||  || [[Dish Wireless]] || Unknown || 5G || Former [[ARINC]]<ref name=itu_ob_871/><ref name=authority_us_20180216/><ref name=itu_ob_1198/><ref name=authority_us_20211130/>
+| 311 || 200 ||  || [[Dish Wireless]] || Unknown || 5G || Former [[ARINC]]<ref name=itu_ob_871/><ref name=authority_us_20180216/><ref name=itu_ob_1198/><ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
-| 311 || 210 ||  || [https://telnyx.com/ Telnyx LLC] || Operational || MVNO || Former Farmers Cellular Telephone,<ref name=itu_ob_837/> Emery Telcom Wireless<ref name=itu_ob_992/><ref name=authority_us_20170209/><ref name=itu_ob_1198/>
+| 311 || 210 ||  || Telnyx LLC || Operational || MVNO || Former Farmers Cellular Telephone,<ref name=itu_ob_837/> Emery Telcom Wireless<ref name=itu_ob_992/><ref name=authority_us_20170209/><ref name=itu_ob_1198/>
 |-
-| 311 || 220 || U.S. Cellular || [[U.S. Cellular]] || Operational || CDMA || <ref name=itu_ob_958/>
+| 311 || 220 || U.S. Cellular || [[U.S. Cellular]] || Not operational || CDMA || <ref name=itu_ob_958/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
-| 311 || 230 || [[C Spire]] || Cellular South Inc. || Operational || CDMA 850 / CDMA 1900 / LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / TD-LTE 2500 || <ref name=itu_ob_871/><ref name=gsa_lte/>
+| 311 || 225 || U.S. Cellular || [[U.S. Cellular]] || Unknown || Unknown || <ref name=itu_ob_1270/>
 |-
-| 311 || 240 ||  || [http://www.ctcak.net Cordova Wireless] || Operational || GSM / UMTS 850 / WiMAX || Alaska<ref name=itu_ob_901/><ref name=mwlive/>
+| 311 || 228 || U.S. Cellular || [[U.S. Cellular]] || Unknown || Unknown || <ref name=itu_ob_1270/>
 |-
-| 311 || 250 || [http://www.ite.net IT&E Wireless] || IT&E Overseas, Inc || Operational || Unknown || Guam; former [[Instant connect telecommunications|iConnect]], Wave Runner LLC<ref name=icon_ite_gu/><ref name=itu_ob_871/>
+| 311 || 229 || U.S. Cellular || [[U.S. Cellular]] || Unknown || Unknown || <ref name=itu_ob_1270/>
 |-
-| 311 || 260 ||  || [[T-Mobile US]] || Not operational || WiMAX || Former CellularOne of San Luis Obispo<ref name=itu_ob_871/> (sold to AT&T in 2010,<ref>{{cite web |url=http://www.att.com/gen/press-room?pid=18771&cdvn=news&newsarticleid=31371 |title=Cellular One Customers in San Luis Obispo County to Join AT&T |publisher=AT&T |date=17 November 2010 |accessdate=24 October 2016}}</ref> [[Clearwire]],<ref name=itu_ob_1019/> [[Sprint Corporation]]<ref name=itu_ob_1112/><ref name=authority_us_20210529/>
+| 311 || 230 || [[C Spire]] || Cellular South Inc. || Operational || LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / TD-LTE 2500 || <ref name=itu_ob_871/><ref name=gsa_lte/> CDMA shut down May 2022<ref>{{cite web |url=http://blog.cspire.com/corporate/upgrade-alert-3g-network-to-shut-down-in-2022 |title=Upgrade Alert: 3G Network to Shut Down in 2022 |publisher=C Spire |date=2021-10-11 |access-date=2022-09-04}}</ref>
+|-
+| 311 || 240 ||  || Cordova Wireless || Operational || GSM / UMTS 850 / WiMAX || Alaska<ref name=itu_ob_901/><ref name=mwlive/>
+|-
+| 311 || 250 || IT&E Wireless || IT&E Overseas, Inc || Not operational || Unknown || Guam; former [[Instant connect telecommunications|iConnect]], Wave Runner LLC;<ref name=icon_ite_gu/><ref name=itu_ob_871/> MNC withdrawn<ref name=itu_ob_1270/>
+|-
+| 311 || 260 || T-Mobile || [[T-Mobile US]] || Not operational || WiMAX || Former CellularOne of San Luis Obispo<ref name=itu_ob_871/> (sold to AT&T in 2010,<ref>{{cite web |url=http://www.att.com/gen/press-room?pid=18771&cdvn=news&newsarticleid=31371 |title=Cellular One Customers in San Luis Obispo County to Join AT&T |publisher=AT&T |date=17 November 2010 |accessdate=24 October 2016}}</ref> [[Clearwire]],<ref name=itu_ob_1019/> [[Sprint Corporation]]<ref name=itu_ob_1112/><ref name=authority_us_20210529/>
 |-
 | 311 || 270 || Verizon || [[Verizon Wireless]] || Unknown || Unknown || Former [[Alltel]]<ref name=itu_ob_871/><ref name=itu_ob_958/>
 |-
@@ -943,43 +970,43 @@ includes
 |-
 | 311 || 289 || Verizon || [[Verizon Wireless]] || Unknown || Unknown || <ref name=itu_ob_871/>
 |-
-| 311 || 290 || [http://www.blaze-wireless.com/ BLAZE] || [http://www.pnpt.com/ PinPoint Communications Inc.] || Not operational || GSM 1900 / UMTS / LTE || Nebraska;<ref name=itu_ob_871/> discontinued Dec 2020; MNC withdrawn<ref name=authority_us_20211130/>
+| 311 || 290 || BLAZE || PinPoint Communications Inc. || Not operational || GSM 1900 / UMTS / LTE || Nebraska;<ref name=itu_ob_871/> discontinued Dec 2020; MNC withdrawn<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
 | 311 || 300 || || Nexus Communications, Inc. || Not operational || Unknown || Former Rutal Cellular Corporation;<ref name=itu_ob_901/><ref name=itu_ob_992/> MNC withdrawn<ref name=authority_us_20170209/><ref name=itu_ob_1198/>
 |-
-| 311 || 310 || NMobile || [https://www.leaco.net/ Leaco Rural Telephone Company Inc.] || Not operational || CDMA2000 || New Mexico;<ref name=itu_ob_901/> shut down June 2018<ref>{{cite web|url=http://www.wirelessnoise.com/2018/08/nmobile-in-new-mexico-calls-it-quits.html|title=NMobile in New Mexico Calls it Quits|date=2018-08-20|accessdate=2018-08-26}}</ref>
+| 311 || 310 || NMobile || Leaco Rural Telephone Company Inc. || Not operational || CDMA || New Mexico;<ref name=itu_ob_901/> shut down June 2018;<ref>{{cite web|url=http://www.wirelessnoise.com/2018/08/nmobile-in-new-mexico-calls-it-quits.html|title=NMobile in New Mexico Calls it Quits|date=2018-08-20|accessdate=2018-08-26}}</ref> MNC withdrawn<ref name=itu_ob_1270/>
 |-
-| 311 || 320 || [https://www.choice-wireless.com/ Choice Wireless] || [http://www.commnetwireless.com/ Commnet Wireless] || Operational || GSM 850 / GSM 1900 / CDMA 2000 / UMTS || <ref name=itu_ob_871/>
+| 311 || 320 || Choice Wireless || [[Commnet Wireless]] || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 || <ref name=itu_ob_871/> CDMA shut down Dec 2022<ref name=us_choice_cdma/>
 |-
-| 311 || 330 || Bug Tussel Wireless || [http://www.bugtusselwireless.com/ Bug Tussel Wireless LLC] || Operational || GSM 1900 / LTE 1700 / WiMAX 3700 || Wisconsin<ref name=itu_ob_901/><ref name=mwlive/>
+| 311 || 330 || Bug Tussel Wireless || Bug Tussel Wireless LLC || Operational || GSM 1900 / LTE 1700 / WiMAX 3700 || Wisconsin<ref name=itu_ob_901/><ref name=mwlive/>
 |-
-| 311 || 340 || || [http://www.ivcel.com/ Illinois Valley Cellular ] || Operational || CDMA2000 / LTE 850 || Illinois<ref name=itu_ob_871/><ref name=mwlive/>
+| 311 || 340 || || Illinois Valley Cellular || Operational || CDMA2000 / LTE 850 || Illinois;<ref name=itu_ob_871/><ref name=mwlive/> network to shut down Dec 2023<ref>{{Cite web |title=IV Cellular to shut down wireless network and become AT&T reseller |url=https://www.lightreading.com/digital-divide/iv-cellular-to-shut-down-wireless-network-and-become-at-t-reseller |author=Mike Dano |date=2023-10-06 |publisher=LightReading |access-date=2023-10-30}}</ref>
 |-
-| 311 || 350 || [http://nemont.net/ Nemont] || Sagebrush Cellular, Inc. || Operational || CDMA2000 || Former Torrestar Networks Inc.; Montana<ref name=itu_ob_901/><ref name=itu_ob_932/>
+| 311 || 350 || Nemont || Sagebrush Cellular, Inc. || Operational || CDMA2000 || Former Torrestar Networks Inc.; Montana<ref name=itu_ob_901/><ref name=itu_ob_932/>
 |-
 | 311 || 360 || || Stelera Wireless || Not operational || UMTS 1700 || shut down 30 April 2013<ref name=itu_ob_901/><ref>{{cite news |title=Verizon wins heated OKC bankruptcy auction for Stelera assets |first=Brianna |last=Bayley |work=The Oklahoman |date=15 October 2013 |accessdate=May 16, 2022 |url=https://www.oklahoman.com/story/business/2013/10/15/verizon-wins-heated-okc-bankruptcy-auction-for-stelera-assets/60874710007/}}</ref>
 |-
 | 311 || 370 || [[GCI (company)#Wireless Telephone|GCI Wireless]] || General Communication Inc. || Operational || LTE 1700 || Former Alaska Communications<ref name=itu_ob_901/>
 |-
-| 311 || 380 || || [http://newdimensionwireless.com/ New Dimension Wireless Ltd.] || Operational || MVNO || <ref name=itu_ob_871/>
+| 311 || 380 || || New Dimension Wireless Ltd. || Operational || MVNO || <ref name=itu_ob_871/>
 |-
 | 311 || 390 || Verizon || [[Verizon Wireless]] || Unknown || Unknown || Former Midwest Wireless Holdings LLC,<ref name=itu_ob_871/> [[Alltel]]<ref name=itu_ob_932/><ref name=itu_ob_958/>
 |-
 | 311 || 400 || || || Unknown || Unknown || Former Salmon PCS LLC,<ref name=itu_ob_871/> New Cingular Wireless PCS LLC;<ref name=itu_ob_901/> for testing<ref name=itu_ob_1112/>
 |-
-| 311 || 410 || [http://www.chatmobility.com/ Chat Mobility] || Iowa RSA No. 2 LP || Operational || CDMA || Iowa <ref name=itu_ob_871/>
+| 311 || 410 || Chat Mobility || Iowa RSA No. 2 LP || Not operational || CDMA || Iowa;<ref name=itu_ob_871/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
-| 311 || 420 || [http://www.nwmcell.com/ NorthwestCell] || Northwest Missouri Cellular LP || Operational || CDMA || Missouri<ref name=itu_ob_871/><ref name=gsa_lte/>
+| 311 || 420 || NorthwestCell || Northwest Missouri Cellular LP || Operational || CDMA || Missouri<ref name=itu_ob_871/><ref name=gsa_lte/>
 |-
-| 311 || 430 || [http://www.chatmobility.com/ Chat Mobility] || RSA 1 LP || Unknown || CDMA || Former Cellular 29 Plus;<ref name=itu_ob_871/> acquired by Chat Mobility in 2009;<ref>{{cite web |url=https://forums.wirelessadvisor.com/threads/lyrix-wireless-cellular-29-plus-no-more.74638/ |title=CENTRAL U.S. -- Lyrix Wireless Cellular 29 Plus no more |publisher=Wireless Advisor |date=15 May 2009 |accessdate=26 October 2016}}</ref> Iowa
+| 311 || 430 || Chat Mobility || RSA 1 LP || Unknown || CDMA || Former Cellular 29 Plus;<ref name=itu_ob_871/> acquired by Chat Mobility in 2009;<ref>{{cite web |url=https://forums.wirelessadvisor.com/threads/lyrix-wireless-cellular-29-plus-no-more.74638/ |title=CENTRAL U.S. -- Lyrix Wireless Cellular 29 Plus no more |publisher=Wireless Advisor |date=15 May 2009 |accessdate=26 October 2016}}</ref> Iowa
 |-
-| 311 || 440 || || [https://bluegrasscellular.com/ Bluegrass Cellular LLC] || Operational || CDMA || Kentucky<ref name=itu_ob_871/>
+| 311 || 440 || || [[Verizon Wireless]] || Not operational || CDMA || Former Bluegrass Cellular; Kentucky<ref name=itu_ob_871/><ref name=authority_us_20220807/>
 |-
-| 311 || 450 || [http://www.ptci.net/ PTCI] || Panhandle Telecommunication Systems Inc. || Operational || GSM 1900 / LTE 700 || Also known as Panhandle Telephone Cooperative, Inc.; Oklahoma <ref name=itu_ob_871/><ref name=gsa_lte/>
+| 311 || 450 || PTCI || Panhandle Telecommunication Systems Inc. || Operational || GSM 1900 / LTE 700 || Also known as Panhandle Telephone Cooperative, Inc.; Oklahoma <ref name=itu_ob_871/><ref name=gsa_lte/>
 |-
-| 311 || 460 || || [https://electricimp.com/ Electric Imp Inc.] || Not operational || Unknown || Former [http://www.fisherwireless.com/ Fisher Wireless Services Inc.];<ref name=itu_ob_901/><ref name=authority_us_20170209/><ref name=itu_ob_1198/> MNC withdrawn<ref name=authority_us_20211130/>
+| 311 || 460 || ||Electric Imp Inc. || Not operational || Unknown || Former Fisher Wireless Services Inc.;<ref name=itu_ob_901/><ref name=authority_us_20170209/><ref name=itu_ob_1198/> MNC withdrawn<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
-| 311 || 470 || [http://www.viyavi.com/ Viya] || Vitelcom Cellular Inc. || Operational || GSM 850 / GSM 1900 / TD-LTE 2500 || Former Innovative Wireless; US Virgin Islands<ref name=itu_ob_901/>
+| 311 || 470 || Viya || Vitelcom Cellular Inc. || Operational || GSM 850 / GSM 1900 / TD-LTE 2500 || Former Innovative Wireless; US Virgin Islands<ref name=itu_ob_901/>
 |-
 | 311 || 480 || Verizon || [[Verizon Wireless]] || Operational || LTE 700 || C Block<ref name=itu_ob_901/>
 |-
@@ -1001,59 +1028,63 @@ includes
 |-
 | 311 || 489 || Verizon || [[Verizon Wireless]] || Not operational || LTE 700 || C Block for future use<ref name=itu_ob_901/>
 |-
-| 311 || 490 ||  || [[T-Mobile US]] || Operational || LTE 850 / LTE 1900 / TD-LTE 2500 || Former Wirefree Partners LLC,<ref name=itu_ob_901/> acquired by [[Sprint Corporation|Sprint]] in 2010;<ref name=itu_ob_992/><ref>{{cite web |url=http://www.fiercewireless.com/wireless/sprint-to-buy-wirefree-s-spectrum-for-105m |title=Sprint to buy Wirefree's spectrum for $105M |first=Mike |last=Dano |publisher=FierceWireless |date=10 August 2010 |accessdate=26 October 2016}}</ref> LTE bands 25, 26, 41 <ref name=gsa_lte/><ref name=authority_us_20210529/>
+| 311 || 490 || T-Mobile || [[T-Mobile US]] || Operational || LTE 850 / LTE 1900 / TD-LTE 2500 || Former Wirefree Partners LLC,<ref name=itu_ob_901/> acquired by [[Sprint Corporation|Sprint]] in 2010;<ref name=itu_ob_992/><ref>{{cite web |url=http://www.fiercewireless.com/wireless/sprint-to-buy-wirefree-s-spectrum-for-105m |title=Sprint to buy Wirefree's spectrum for $105M |first=Mike |last=Dano |publisher=FierceWireless |date=10 August 2010 |accessdate=26 October 2016}}</ref> LTE bands 25, 26, 41<ref name=gsa_lte/><ref name=authority_us_20210529/>
 |-
-| 311 || 500 || || [http://www.mosaictelecom.com/ Mosaic Telecom] || Not operational || UMTS / LTE 700 / LTE 1700 || Former CTC Telecom Inc.;<ref name=itu_ob_901/><ref name=itu_ob_1019/><ref name=gsa_hspa>{{cite web |title=HSPA Operator Commitments |url=http://gsacom.com/wp-content/uploads/2015/10/151011-HSPA_operator_commitments.pdf |publisher=GSA |date=11 October 2015 |accessdate=13 January 2016}}{{registration required}}</ref> discontinued cellular service in 2016;<ref>{{cite web |url=http://www.mountainwireless.com/reviews/great_lakes.shtml |title=Reviews of Cellular Networks in the Great Lakes Region |accessdate=2016-04-27}}</ref> MNC withdrawn<ref name=authority_us_20180216/><ref name=itu_ob_1198/>
+| 311 || 500 || [[Mobi (company)|Mobi]] || [[Mobi (company)|Mobi, Inc.]] || Unknown || Unknown || Former CTC Telecom Inc.;<ref name=itu_ob_901/><ref name=itu_ob_1019/><ref name=gsa_hspa>{{cite web |title=HSPA Operator Commitments |url=http://gsacom.com/wp-content/uploads/2015/10/151011-HSPA_operator_commitments.pdf |publisher=GSA |date=11 October 2015 |accessdate=13 January 2016}}{{registration required}}</ref> Mosaic Telecom discontinued cellular service in 2016;<ref>{{cite web |url=http://www.mountainwireless.com/reviews/great_lakes.shtml |title=Reviews of Cellular Networks in the Great Lakes Region |accessdate=2016-04-27}}</ref><ref name=authority_us_20180216/><ref name=itu_ob_1198/><ref name=itu_ob_1270/>
 |-
 | 311 || 510 || || [[Ligado Networks]] || Not operational || LTE || Former Benton-Lian Wireless,<ref name=itu_ob_901/> [[Lightsquared]] L.P.<ref name=itu_ob_992/><ref name=authority_us_20170209/><ref name=itu_ob_1198/>
 |-
 | 311 || 520 || || [[Lightsquared]] L.P. || Not operational || LTE || Former Crossroads Wireless Inc.;<ref name=itu_ob_901/><ref name=itu_ob_992/> MNC withdrawn<ref name=itu_ob_1112/>
 |-
-| 311 || 530 || [http://www.newcorewireless.net/ NewCore] || NewCore Wireless LLC || Operational || LTE 1900 || Former Wireless Communications Venture<ref name=itu_ob_901/><ref name=itu_ob_1019/><ref name=mwlive/>
+| 311 || 530 ||  || [[WorldCell]] Solutions LLC || Operational || LTE 1900 || Former Wireless Communications Venture,<ref name=itu_ob_901/> NewCore Wireless LLC<ref name=itu_ob_1019/><ref name=mwlive/><ref name=itu_ob_1270/>
 |-
-| 311 || 540 || || [https://www.coeur.com/operations/mines/rochester-nevada/ Coeur Rochester, Inc] || Unknown || Unknown || Former Keystone Wireless,<ref name=itu_ob_901/> Proximiti Mobility<ref name=itu_ob_992/><ref name=mwlive/><ref name=itu_ob_1112/><ref name=authority_us_20211130/>
+| 311 || 540 || || Coeur Rochester, Inc || Unknown || Unknown || Former Keystone Wireless,<ref name=itu_ob_901/> Proximiti Mobility<ref name=itu_ob_992/><ref name=mwlive/><ref name=itu_ob_1112/><ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
-| 311 || 550 || [https://www.choice-wireless.com/ Choice Wireless] || [http://www.commnetwireless.com/ Commnet Wireless LLC] || Operational || GSM 850 / GSM 1900 / CDMA 2000 / UMTS || <ref name=itu_ob_901/><ref name=itu_ob_1198/>
+| 311 || 550 || Choice Wireless || [[Commnet Wireless]] LLC || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 || <ref name=itu_ob_901/><ref name=itu_ob_1198/> CDMA shut down Dec 2022<ref name=us_choice_cdma/>
 |-
-| 311 || 560 || OTZ Cellular || [http://www.otz.net/ OTZ Communications, Inc.] || Operational || GSM 850 || Alaska<ref name=itu_ob_932/><ref name=mwlive/>
+| 311 || 560 || OTZ Cellular || OTZ Communications, Inc. || Operational || GSM 850 || Alaska<ref name=itu_ob_932/><ref name=mwlive/>
 |-
-| 311 || 570 ||  || [[Mediacom]] || Unknown || Unknown || Former [[BendBroadband]], shut down 25-July-2014;<ref name=itu_ob_932/><ref>{{cite news |title=BendBroadband sells spectrum |work=The Bend Bulletin |date=25 February 2014 |accessdate=9 December 2014 |url=http://www.bendbulletin.com/home/1822574-151/business-briefing}}</ref><ref name=itu_ob_1112/><ref name=authority_us_20210529/>
+| 311 || 570 ||  || [[Mediacom]] || Unknown || Unknown || Former [[BendBroadband]], shut down 25-July-2014;<ref name=itu_ob_932/><ref>{{cite news |title=BendBroadband sells spectrum |work=The Bend Bulletin |date=25 February 2014 |accessdate=9 December 2014 |url=http://www.bendbulletin.com/home/1822574-151/business-briefing}}</ref><ref name=itu_ob_1112/><ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
-| 311 || 580 || U.S. Cellular || [[U.S. Cellular]] || Operational || LTE 700 / LTE 850 || <ref name=itu_ob_932/>
+| 311 || 580 || U.S. Cellular || [[U.S. Cellular]] || Operational || LTE 700 / LTE 850 / 5G 600 / 5G 3700 / 5G 28000 / 5G 39000 || <ref name=itu_ob_932/>
+|-
+| 311 || 588 || U.S. Cellular || [[U.S. Cellular]] || Unknown || Unknown || <ref name=itu_ob_1270/>
+|-
+| 311 || 589 || U.S. Cellular || [[U.S. Cellular]] || Unknown || Unknown || <ref name=itu_ob_1270/>
 |-
 | 311 || 590 || Verizon || [[Verizon Wireless]] || Unknown || Unknown || Former California RSA No3 Ltd Partnership d/b/a Golden State Cellular, acquired by Verizon in 2014<ref name=itu_ob_932/><ref name=itu_ob_1112/><ref name="verizon_golden_mobi">{{cite web |url=http://www.fiercewireless.com/story/verizon-wireless-consumes-golden-state-cellular-and-mobi-pcs/2014-04-21 |title=Verizon Wireless consumes Golden State Cellular and Mobi PCS |first=Mike |last=Dano |publisher=FierceWireless |date=2014-04-21 |accessdate=2014-09-30}}</ref>
 |-
 | 311 || 600 || Limitless Mobile || [http://limitlessmobile.com/ Limitless Mobile, LLC] || Operational || LTE 1900 || Former [[Cox Communications#Defunct Cox Wireless|Cox Wireless]],<ref name=itu_ob_932/> shut down in 2012<ref name=authority_us_20170511>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20170511160417/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=11 May 2017}}</ref><ref name=itu_ob_1198/>
 |-
-| 311 || 610 || [[SRT Communications]] || North Dakota Network Co. || Not operational || CDMA || North Dakota;<ref name=itu_ob_932/> shut down in 2017<ref name=srt_shutdown>{{cite web |url=http://www.srt.com/onlinestore/mNewsView.do?newsID=24512542 |title=SRT Wireless Transition |publisher=SRT communications |date=2017-04-17 |archive-url=https://web.archive.org/web/20181215121309/http://www.srt.com/onlinestore/mNewsView.do?newsID=24512542 |archive-date=2018-12-15 |accessdate=2019-06-11}}</ref>
+| 311 || 610 || [[SRT Communications]] || North Dakota Network Co. || Not operational || CDMA || North Dakota;<ref name=itu_ob_932/> shut down in 2017;<ref name=srt_shutdown>{{cite web |url=http://www.srt.com/onlinestore/mNewsView.do?newsID=24512542 |title=SRT Wireless Transition |publisher=SRT communications |date=2017-04-17 |archive-url=https://web.archive.org/web/20181215121309/http://www.srt.com/onlinestore/mNewsView.do?newsID=24512542 |archive-date=2018-12-15 |accessdate=2019-06-11}}</ref> MNC withdrawn<ref name=itu_ob_1270/>
 |-
 | 311 || 620 || || [[TerreStar Networks]], Inc. || Not operational || Satellite || <ref name=itu_ob_958/>
 |-
 | 311 || 630 || [[C Spire]] || Cellular South Inc. || Unknown || Unknown || Former Corr Wireless Communications <ref name=itu_ob_958/><ref name=itu_ob_1112/>
 |-
-| 311 || 640 || Rock Wireless || [http://www.standingrocktelecom.com/ Standing Rock Telecommunications] || Operational || LTE 700 || A Block; covering an American Indian reservation straddling remote parts of North and South Dakota<ref name=itu_ob_958/>
+| 311 || 640 || Rock Wireless || Standing Rock Telecommunications || Operational || LTE 700 || A Block; covering an American Indian reservation straddling remote parts of North and South Dakota<ref name=itu_ob_958/>
 |-
 | 311 || 650 || United Wireless || [[United Wireless]] || Operational || CDMA / LTE 700 / WiMAX 3700 || Kansas<ref name=itu_ob_958/><ref name=gsa_lte/>
 |-
 | 311 || 660 || Metro || [[Metro by T-Mobile]] || Operational || MVNO || Former MetroPCS; CDMA2000 1900 / CDMA2000 1700 shut down in 2015; LTE 1700 merged with T-Mobile US<ref name=itu_ob_958/>
 |-
-| 311 || 670 || Pine Belt Wireless || [http://www.pinebelt.net/ Pine Belt Cellular Inc.] || Operational || CDMA / LTE 700 || Alabama<ref name=itu_ob_958/>
+| 311 || 670 || Pine Belt Wireless || Pine Belt Cellular Inc. || Operational || LTE 700 || Alabama;<ref name=itu_ob_958/> CDMA shut down<ref>{{cite web |url=https://www.blackbeltnewsnetwork.com/news/pine-belt-wireless-completes-15th-tower-replacement/article_da091024-84cd-11ee-bc36-2fc6af705ee0.html |title=Pine Belt Wireless completes 15th tower replacement |author=Nathan Prewett |date=2023-11-17 |publisher=Black Belt News Network |access-date=2024-02-22}}</ref>
 |-
-| 311 || 680 || || [http://www.greenflyllc.com GreenFly LLC] || Unknown || GSM 1900 || Iowa<ref name=itu_ob_958/><ref name=mwlive/>
+| 311 || 680 || || GreenFly LLC || Unknown || GSM 1900 || Iowa<ref name=itu_ob_958/><ref name=mwlive/>
 |-
-| 311 || 690 || || [http://02b7a7f.netsolhost.com/index.html TeleBEEPER of New Mexico] || Operational || paging || New Mexico; 850&nbsp;MHz band never used<ref name=itu_ob_958/>
+| 311 || 690 || || TeleBEEPER of New Mexico || Operational || paging || New Mexico; 850&nbsp;MHz band never used<ref name=itu_ob_958/>
 |-
-| 311 || 700 || || Midwest Network Solutions Hub LLC || Not operational || MVNO || Former TotalSolutions Telecom LLC,<ref name=itu_ob_958/> [http://www.aspenta.com/ Aspenta International, Inc.];<ref name=itu_ob_1112/><ref name=authority_us_20180216/><ref name=itu_ob_1198/> MNC withdrawn<ref name=authority_us_20211130/>
+| 311 || 700 || || Midwest Network Solutions Hub LLC || Not operational || MVNO || Former TotalSolutions Telecom LLC,<ref name=itu_ob_958/> Aspenta International, Inc.;<ref name=itu_ob_1112/><ref name=authority_us_20180216/><ref name=itu_ob_1198/> MNC withdrawn<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
-| 311 || 710 || || [http://newirelessnetworks.com/ Northeast Wireless Networks LLC] || Not operational || Unknown || <ref name=itu_ob_958/> MNC withdrawn<ref name=authority_us_20211130/>
+| 311 || 710 || || Northeast Wireless Networks LLC || Not operational || Unknown || <ref name=itu_ob_958/> MNC withdrawn<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
 | 311 || 720 || || MainePCS LLC || Not operational || GSM 1900 || Bankrupt in 2009<ref name=itu_ob_958/>
 |-
-| 311 || 730 || || Proximiti Mobility Inc. || Not opearational || GSM 850 || Former Keystone Wireless;<ref name=itu_ob_992/><ref name=mwlive/> MNC withdrawn<ref name=authority_us_20211130/>
+| 311 || 730 || || Proximiti Mobility Inc. || Not opearational || GSM 850 || Former Keystone Wireless;<ref name=itu_ob_992/><ref name=mwlive/> MNC withdrawn<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
 | 311 || 740 || || [http://telalaska.com/cellular Telalaska Cellular] || Operational || GSM 850 / LTE || Alaska<ref name=itu_ob_992/><ref name=mwlive/>
 |-
-| 311 || 750 || [http://www.cleartalkwireless.com/ ClearTalk] || Flat Wireless LLC || Not operational || Unknown || Former [http://www.netamericaalliance.com/ NetAmerica Alliance];<ref name=itu_ob_992/><ref name=itu_ob_1112/> MNC withdrawn<ref name=authority_us_20211130/>
+| 311 || 750 || [http://www.cleartalkwireless.com/ ClearTalk] || Flat Wireless LLC || Not operational || Unknown || Former [http://www.netamericaalliance.com/ NetAmerica Alliance];<ref name=itu_ob_992/><ref name=itu_ob_1112/> MNC withdrawn<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
 | 311 || 760 || || Edigen Inc. || Not operational || Unknown ||  MNC withdrawn<ref name=itu_ob_992/><ref name=itu_ob_1112/>
 |-
@@ -1063,11 +1094,11 @@ includes
 |-
 | 311 || 790 || || [http://www.cctelco.org/ Coleman County Telephone Cooperative, Inc.] || Unknown || Unknown || Former Cellular Network Partnership d/b/a Pioneer Cellular<ref name=itu_ob_992/><ref name=itu_ob_1112/>
 |-
-| 311 || 800 || || [https://bluegrasscellular.com/ Bluegrass Cellular LLC] || Operational || LTE 700 || Kentucky<ref name=itu_ob_992/>
+| 311 || 800 || || [[Verizon Wireless]] || Operational || LTE 700 || Former Bluegrass Cellular; Kentucky<ref name=itu_ob_992/><ref name=authority_us_20220528>{{cite web |url=http://imsiadmin.com/assignments |title=HNI assignments |archive-url=https://web.archive.org/web/20220528192549/https://imsiadmin.com/assignments |archive-date=28 May 2022 |accessdate=17 January 2023}}</ref>
 |-
-| 311 || 810 || || [https://bluegrasscellular.com/ Bluegrass Cellular LLC] || Operational || LTE 700 || Kentucky<ref name=itu_ob_992/>
+| 311 || 810 || || [[Verizon Wireless]] || Operational || LTE 700 || Former Bluegrass Cellular; Kentucky<ref name=itu_ob_992/><ref name=authority_us_20220528/>
 |-
-| 311 || 820 || || [http://www.sonus.net/ Sonus Networks] || Unknown || Unknown || Former Kineto Wireless Inc.<ref name=itu_ob_992/><ref name=itu_ob_1112/>
+| 311 || 820 || || [[Ribbon Communications]] || Unknown || Unknown || Former Kineto Wireless Inc,<ref name=itu_ob_992/> Sonus Networks<ref name=itu_ob_1112/><ref name=itu_ob_1270/>
 |-
 | 311 || 830 || || [http://www.thumbcellular.com/ Thumb Cellular LP] || Operational || LTE 700 || Michigan <ref name=itu_ob_992/><ref name=gsa_lte/>
 |-
@@ -1077,36 +1108,36 @@ includes
 |-
 | 311 || 860 || [http://www.stratanetworks.com/ STRATA] || [http://www.ubta-ubet.com/ Uintah Basin Electronic Telecommunications ] || Operational || LTE 700 || Utah<ref name=itu_ob_992/><ref name=gsa_lte/>
 |-
-| 311 || 870 || [[Boost Mobile (United States)|Boost Mobile]] || [[Dish Wireless]] || Operational || MVNO || Former [[Sprint Corporation]]<ref name=itu_ob_992/><ref name=authority_us_20210529/>
+| 311 || 870 || T-Mobile || [[T-Mobile US]] || Unknown || MVNO || Former [[Sprint Corporation]]<ref name=itu_ob_992/><ref name=authority_us_20210529/><ref name=authority_us_20220528/>
 |-
-| 311 || 880 ||  || [[T-Mobile US]] || Unknown || Unknown || Former [[Sprint Corporation]]<ref name=itu_ob_992/><ref name=authority_us_20210529/>
+| 311 || 880 || T-Mobile || [[T-Mobile US]] || Unknown || Unknown || Former [[Sprint Corporation]]<ref name=itu_ob_992/><ref name=authority_us_20210529/>
 |-
-| 311 || 882 ||  || [[T-Mobile US]] || Operational || Unknown || Former [[Sprint Corporation]]<ref name=authority_us_20181207/><ref name=itu_ob_1198/><ref name=authority_us_20210529/>
+| 311 || 882 || T-Mobile || [[T-Mobile US]] || Operational || Unknown || Former [[Sprint Corporation]]<ref name=authority_us_20181207/><ref name=itu_ob_1198/><ref name=authority_us_20210529/>
 |-
 | 311 || 890 || || [http://www.globecommsystems.com/ Globecomm Network Services Corporation ] || Unknown || Unknown || <ref name=itu_ob_992/>
 |-
 | 311 || 900 || || [[GigSky]] || Operational || MVNO || <ref name=itu_ob_992/>
 |-
-| 311 || 910 || [http://mymobilenation.com/ MobileNation] || SI Wireless LLC || Not operational || CDMA / LTE || Tennessee;<ref name=itu_ob_992/><ref name=gsa_lte/> shut down Jan 2020;<ref>{{cite web |url=https://www.lightreading.com/rural-carrier-mobilenation-apparently-shutting-down-in-january/d/d-id/755572 |title=Rural Carrier MobileNation Apparently Shutting Down in January |author=Sue Marek |publisher=Light Reading |date=2019-11-12 |accessdate=2020-10-28}}</ref> MNC withdrawn<ref name=authority_us_20211130/>
+| 311 || 910 || [http://mymobilenation.com/ MobileNation] || SI Wireless LLC || Not operational || CDMA / LTE || Tennessee;<ref name=itu_ob_992/><ref name=gsa_lte/> shut down Jan 2020;<ref>{{cite web |url=https://www.lightreading.com/rural-carrier-mobilenation-apparently-shutting-down-in-january/d/d-id/755572 |title=Rural Carrier MobileNation Apparently Shutting Down in January |author=Sue Marek |publisher=Light Reading |date=2019-11-12 |accessdate=2020-10-28}}</ref> MNC withdrawn<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
-| 311 || 920 || [http://www.cvalley.net/ Chariton Valley] || Missouri RSA 5 Partnership || Unknown || Unknown || Missouri;<ref name=itu_ob_992/><ref name=cvalley/><ref name=itu_ob_1198/> being acquired by Verizon Wireless<ref name=cvalley_verizon/>
+| 311 || 920 || [http://www.cvalley.net/ Chariton Valley] || Missouri RSA 5 Partnership || Not operational || Unknown || Missouri;<ref name=itu_ob_992/><ref name=cvalley/><ref name=itu_ob_1198/> acquired by Verizon Wireless;<ref name=cvalley_verizon/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
-| 311 || 930 || || [[Cox Communications]] || Unknown || Unknown 3500 || Former Cablevision Systems Corporation,<ref name=itu_ob_992/> Syringa Wireless (shut down Dec 2015)<ref>{{cite web |url=http://www.puc.idaho.gov/fileroom/cases/tele/SYR/SYRT0801/ordnotc/20160108FINAL_ORDER_NO_33448.PDF |title=NOTICE OF RELINQUISHMENT |publisher=IDAHO PUBLIC UTILITIES COMMISSION |date=2016-01-08 |accessdate=2016-11-03}}</ref><ref name=authority_us_20181207/><ref name=authority_us_20211130/>
+| 311 || 930 || || [[Cox Communications]] || Unknown || Unknown 3500 || Former Cablevision Systems Corporation,<ref name=itu_ob_992/> Syringa Wireless (shut down Dec 2015)<ref>{{cite web |url=http://www.puc.idaho.gov/fileroom/cases/tele/SYR/SYRT0801/ordnotc/20160108FINAL_ORDER_NO_33448.PDF |title=NOTICE OF RELINQUISHMENT |publisher=IDAHO PUBLIC UTILITIES COMMISSION |date=2016-01-08 |accessdate=2016-11-03}}</ref><ref name=authority_us_20181207/><ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
-| 311 || 940 ||  || [[T-Mobile US]] || Not operational || WiMAX || Former [[Clearwire]],<ref name=itu_ob_1019/> [[Sprint Corporation]]<ref name=itu_ob_1112/><ref name=authority_us_20210529/>
+| 311 || 940 || T-Mobile || [[T-Mobile US]] || Not operational || WiMAX || Former [[Clearwire]],<ref name=itu_ob_1019/> [[Sprint Corporation]]<ref name=itu_ob_1112/><ref name=authority_us_20210529/>
 |-
-| 311 || 950 || [http://www.etczone.com/ ETC] || Enhanced Telecommmunications Corp. || Operational || CDMA / LTE 700 || Former Sunman Telecommunications Corp.; Indiana; fixed broadband<ref name=itu_ob_1019/><ref name=gsa_lte/>
+| 311 || 950 || [http://www.etczone.com/ ETC] || Enhanced Telecommunications Corp. || Operational || CDMA / LTE 700 || Former Sunman Telecommunications Corp.; Indiana; fixed broadband<ref name=itu_ob_1019/><ref name=gsa_lte/>
 |-
 | 311 || 960 || [[Lycamobile]] || Lycamobile USA Inc. || Not operational || MVNO || used T-Mobile;<ref name=itu_ob_1019/> MNC withdrawn<ref name=itu_ob_1198/>
 |-
 | 311 || 970 || Big River Broadband || [[Big River Telephone|Big River Broadband, LLC]] || Operational || LTE 1700 || Utilizing 20&nbsp;MHz in A block<ref name=itu_ob_1019/>
 |-
-| 311 || 980 || || [http://www.ligtel.com/ LigTel Communications] || Unknown || Unknown || <ref name=itu_ob_1019/>
+| 311 || 980 || || [http://www.ligtel.com/ LigTel Communications] || Not operational || Unknown || <ref name=itu_ob_1019/> MNC withdrawn<ref name=itu_ob_1280/>
 |-
 | 311 || 990 || || [http://www.vtelwireless.com/ VTel Wireless] || Operational || LTE 700 / LTE 1700 || <ref name=itu_ob_1019/><ref name=gsa_lte/>
 |-
 | {{TOC tab|312|United States of America - US - 312}}
-| 010 || [http://www.cvalley.net/ Chariton Valley] || Chariton Valley Communications Corporation, Inc || Unknown || Unknown || Missouri;<ref name=itu_ob_1019/><ref name=cvalley/><ref name=itu_ob_1198/> being acquired by Verizon Wireless<ref name=cvalley_verizon/>
+| 010 || [http://www.cvalley.net/ Chariton Valley] || Chariton Valley Communications Corporation, Inc || Not operational || Unknown || Missouri;<ref name=itu_ob_1019/><ref name=cvalley/><ref name=itu_ob_1198/> acquired by Verizon Wireless;<ref name=cvalley_verizon/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
 | 312 || 020 || || [http://www.inetlte.com/ Infrastructure Networks, LLC] || Operational || LTE 700 || Focused on oil & gas industries<ref name=itu_ob_1019/><ref name=gsa_lte/>
 |-
@@ -1116,13 +1147,13 @@ includes
 |-
 | 312 || 050 || || [https://web.archive.org/web/20140221082055/http://www.fuegowireless.com/ Fuego Wireless] || Not operational || LTE 700 || fixed broadband; New Mexico; shut down in 2016, spectrum sold to AT&T and Infrastructure Networks;<ref name=itu_ob_1019/><ref>{{cite web |url=https://ecfsapi.fcc.gov/file/107192769713256/Fuego%20Response%20to%20Informal%20FCC%20Inquiry%20WT%20Docket%2016-159%20-%20as%20filed.pdf |title=Application of AT&T Mobility Spectrum LLC and Fuego Wireless, LLC for Consent to Assign Licenses |publisher=FCC |date=2016-07-19 |accessdate=2016-08-02}}</ref> MNC withdrawn<ref name=authority_us_20180216/><ref name=itu_ob_1198/>
 |-
-| 312 || 060 || || [http://www.coverageco.com/ CoverageCo] || Not operational || CDMA / GSM || Vermont<ref name=itu_ob_1019/> MNC withdrawn<ref name=authority_us_20211130/>
+| 312 || 060 || || [http://www.coverageco.com/ CoverageCo] || Not operational || CDMA / GSM || Vermont<ref name=itu_ob_1019/> MNC withdrawn<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
 | 312 || 070 || || [http://www.adams.net Adams Networks Inc] || Not operational || LTE 700 || C block fixed broadband; Illinois;<ref name=itu_ob_1019/><ref>{{cite web |url=http://www.globecommsystems.com/pdf/techforum/2013/Tim-Hightower-GSI.pdf |title=Adams Telephone Fixed Wireless 4G LTE Real World Implementation |first=Tim |last=Hightower |publisher=Globecomm |date=6 August 2013 |accessdate=5 March 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20150402112053/http://www.globecommsystems.com/pdf/techforum/2013/Tim-Hightower-GSI.pdf |archivedate=2 April 2015 |df=dmy-all }}</ref> MNC withdrawn<ref name=itu_ob_1198/>
 |-
 | 312 || 080 || SyncSouth || [http://www.sgrita.org/ South Georgia Regional Information Technology Authority] || Operational || UMTS-TDD 700 || LTE 700 planned<ref name=itu_ob_1019/>
 |-
-| 312 || 090 || AT&T || AT&T Mobility || Unknown || Unknown || Former [[Allied Wireless]]<ref name=itu_ob_1019/><ref name=itu_ob_1112/>
+| 312 || 090 || AT&T || [[AT&T Mobility]] || Unknown || Unknown || Former [[Allied Wireless]]<ref name=itu_ob_1019/><ref name=itu_ob_1112/>
 |-
 | 312 || 100 || || [http://www.csky.com/ ClearSky Technologies, Inc.] || Unknown || Unknown || <ref name=itu_ob_1019/>
 |-
@@ -1138,29 +1169,29 @@ includes
 |-
 | 312 || 160 || [http://www.chatmobility.com/ Chat Mobility] || RSA1 Limited Partnership || Operational || LTE 700 || Iowa<ref name=itu_ob_1019/><ref name=gsa_lte/>
 |-
-| 312 || 170 || [http://www.chatmobility.com/ Chat Mobility] || Iowa RSA No. 2 LP || Operational || LTE 700 || Iowa<ref name=itu_ob_1019/><ref name=gsa_lte/>
+| 312 || 170 || [http://www.chatmobility.com/ Chat Mobility] || Iowa RSA No. 2 LP || Not operational || LTE 700 || Iowa;<ref name=itu_ob_1019/><ref name=gsa_lte/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
 | 312 || 180 || || [http://limitlessmobile.com/ Limitless Mobile LLC] || Operational || LTE 1900 || Former Keystone Wireless LLC<ref name=itu_ob_1019/><ref name=itu_ob_1198/>
 |-
-| 312 || 190 ||  || [[T-Mobile US]] || Unknown || Unknown || Former [[Sprint Corporation]]<ref name=itu_ob_1019/><ref name=authority_us_20210529/>
+| 312 || 190 || T-Mobile || [[T-Mobile US]] || Unknown || Unknown || Former [[Sprint Corporation]]<ref name=itu_ob_1019/><ref name=authority_us_20210529/>
 |-
 | 312 || 200 || || Voyager Mobility LLC || Not operational || MVNO || Shut down 2015;<ref name=itu_ob_1019/><ref>{{cite web |url=https://bestmvno.com/all/voyager-mobile-closing-down/ |title=Voyager Mobile Closing Down |publisher=BestMVNO |date=9 August 2015 |accessdate=4 November 2016}}</ref> MNC withdrawn<ref name=itu_ob_1112/>
 |-
 | 312 || 210 || || [http://www.aspenta.com/ Aspenta International, Inc.] || Operational || MVNO || <ref name=authority_us_20141225>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20121225230707/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=25 December 2012}}</ref>
 |-
-| 312 || 220 || [https://web.archive.org/web/20150215120318/http://www.cv4g.com/ Chariton Valley] || Chariton Valley Communications Corporation, Inc. || Operational || LTE 700 || <ref name=authority_us_20141225/><ref name=itu_ob_1198/> being acquired by Verizon Wireless<ref name=cvalley_verizon/>
+| 312 || 220 || [https://web.archive.org/web/20150215120318/http://www.cv4g.com/ Chariton Valley] || Chariton Valley Communications Corporation, Inc. || Not operational || LTE 700 || <ref name=authority_us_20141225/><ref name=itu_ob_1198/> acquired by Verizon Wireless;<ref name=cvalley_verizon/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
-| 312 || 230 || [[SRT Communications]] || North Dakota Network Co. || Not operational || Unknown || North Dakota;<ref name=authority_us_20141225/> shut down in 2017<ref name=srt_shutdown/>
+| 312 || 230 || [[SRT Communications]] || North Dakota Network Co. || Not operational || Unknown || North Dakota;<ref name=authority_us_20141225/> shut down in 2017;<ref name=srt_shutdown/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
-| 312 || 240 || Sprint || [[Sprint Corporation]] || Not operational || Unknown || Former Clearwire;<ref name=authority_us_20130530>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20130530122115/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=30 May 2013}}</ref><ref name=authority_us_20160627/> MNC withdrawn<ref name=authority_us_20210529/>
+| 312 || 240 || Sprint || [[Sprint Corporation]] || Not operational || Unknown || Former Clearwire;<ref name=authority_us_20130530>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20130530122115/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=30 May 2013}}</ref><ref name=authority_us_20160627/> MNC withdrawn<ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
 | 312 || 250 || T-Mobile || [[T-Mobile US]] || Operational || LTE 850 / LTE 1900 / TD-LTE 2500 || Former Clearwire,<ref name=authority_us_20130530/> [[Sprint Corporation]]<ref name=authority_us_20160627/><ref name=authority_us_20210529/>
 |-
-| 312 || 260 || [http://www.newcorewireless.net/ NewCore] || Central LTE Holdings || Operational || LTE 1900 || <ref name=mwlive/><ref name=authority_us_20130530/>
+| 312 || 260 ||  || [[WorldCell]] Solutions LLC || Unknown || LTE 1900 || Former NewCore, Central LTE Holdings<ref name=mwlive/><ref name=authority_us_20130530/><ref name=authority_us_20220119>{{cite web |url=http://imsiadmin.com/assignments |title=HNI assignments |archive-url=https://web.archive.org/web/20220119162413/https://imsiadmin.com/assignments |archive-date=19 January 2022 |accessdate=17 January 2023}}</ref><ref name=itu_ob_1270/>
 |-
-| 312 || 270 || [https://www.wirelesspioneer.com/ Pioneer Cellular] || Cellular Network Partnership || Operational || LTE 700 || Oklahoma <ref name=gsa_lte/><ref name=authority_us_20130530/>
+| 312 || 270 || Pioneer Cellular || Cellular Network Partnership || Not operational || LTE 700 || Oklahoma;<ref name=gsa_lte/><ref name=authority_us_20130530/> shut down summer 2023;<ref name=pioneer_shutdown/> MNC withdrawn<ref name=authority_us_20240223/>
 |-
-| 312 || 280 || [https://www.wirelesspioneer.com/ Pioneer Cellular] || Cellular Network Partnership || Operational || LTE 700 || Oklahoma <ref name=gsa_lte/><ref name=authority_us_20130530/>
+| 312 || 280 || Pioneer Cellular || Cellular Network Partnership || Not operational || LTE 700 || Oklahoma;<ref name=gsa_lte/><ref name=authority_us_20130530/> shut down summer 2023<ref name=pioneer_shutdown/>
 |-
 | 312 || 290 || [http://www.stratanetworks.com/ STRATA] || [http://www.ubta-ubet.com/ Uintah Basin Electronic Telecommunications ] || Unknown || Unknown || <ref name=authority_us_20130530/>
 |-
@@ -1174,23 +1205,23 @@ includes
 |-
 | 312 || 340 || MTA || [https://www.mtasolutions.com/ Matanuska Telephone Association, Inc.] || Not operational || LTE 700 || Alaska;<ref name=gsa_lte/><ref name=authority_us_20130530/> MNC withdrawn<ref name=authority_us_20181207/><ref name=itu_ob_1198/>
 |-
-| 312 || 350 || || [http://www.itstrianglemobile.com/ Triangle Communication System Inc.] || Operational || LTE 700 || Montana;<ref name=authority_us_20130530/> being acquired by Verizon Wireless<ref name=triangle_verizon>{{cite web|url=https://www.lightreading.com/security/verizon-to-buy-tiny-montana-operator-but-will-ditch-huaweis-equipment-first/d/d-id/768060|title=Verizon to buy tiny Montana operator, but will ditch Huawei's equipment first|date=2021-03-12|access-date=2021-10-04}}</ref>
+| 312 || 350 || || Triangle Communication System Inc. || Not operational || LTE 700 || Montana;<ref name=authority_us_20130530/> acquired by Verizon Wireless,<ref name=triangle_verizon>{{cite web|url=https://www.lightreading.com/security/verizon-to-buy-tiny-montana-operator-but-will-ditch-huaweis-equipment-first/d/d-id/768060|title=Verizon to buy tiny Montana operator, but will ditch Huawei's equipment first|date=2021-03-12|access-date=2021-10-04}}</ref> shut down Dec 2021<ref name=triangle_final>{{cite web |archive-url=https://web.archive.org/web/20211206104125/https://www.itstrianglemobile.com/ |url=https://www.itstrianglemobile.com/ |archive-date=2021-12-06 |title=Triangle Mobile |date=2021-12-06}}</ref>
 |-
 | 312 || 360 || || [http://www.westex.coop/ Wes-Tex Telecommunications, Ltd.] || Unknown || Unknown || Texas<ref name=authority_us_20130530/>
 |-
-| 312 || 370 || [https://www.choice-wireless.com/ Choice Wireless] || [http://www.commnetwireless.com/ Commnet Wireless] || Operational || LTE || <ref name=authority_us_20130530/>
+| 312 || 370 || [https://www.choice-wireless.com/ Choice Wireless] || [[Commnet Wireless]] || Operational || LTE 700 / LTE 1700 || <ref name=authority_us_20130530/>
 |-
 | 312 || 380 || || [http://www.cvinternet.net/ Copper Valley Wireless] || Operational || LTE 700 || Alaska <ref name=gsa_lte/><ref name=authority_us_20130530/>
 |-
 | 312 || 390 || FTC Wireless || [http://www.ftc-i.net/ FTC Communications LLC] || Operational || UMTS / LTE || South Carolina; owned by Farmers Telephone Cooperative<ref name=authority_us_20130530/>
 |-
-| 312 || 400 || [http://www.midrivers.com/ Mid-Rivers Wireless] || Mid-Rivers Telephone Cooperative || Operational || LTE 700 || Montana;<ref name=gsa_lte/><ref name=authority_us_20130530/> network to shut down 1 August 2019<ref name=mid_rivers_end/>
+| 312 || 400 || [http://www.midrivers.com/ Mid-Rivers Wireless] || Mid-Rivers Telephone Cooperative || Not operational || LTE 700 || Montana;<ref name=gsa_lte/><ref name=authority_us_20130530/> network shut down August 2019;<ref name=mid_rivers_end/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
 | 312 || 410 || || [http://www.eltopia.com/ Eltopia Communications, LLC] || Unknown || Unknown || <ref name=authority_us_20130530/>
 |-
 | 312 || 420 || || [http://www.nex-techwireless.com/ Nex-Tech Wireless] || Operational || LTE 700 / 5G 600 || Kansas<ref name=authority_us_20130530/>
 |-
-| 312 || 430 || || [http://www.silverstarwireless.com/ Silver Star Communications] || Operational || CDMA / LTE 700 || Wyoming<ref name=authority_us_20130530/>
+| 312 || 430 || || Silver Star Communications || Operational || LTE 700 || Wyoming;<ref name=authority_us_20130530/> fixed wireless, CDMA shut down Dec 2022<ref>{{cite web |url=https://www.silverstar.com/wireless-exit-faqs/ |title=Wireless Exit FAQs |publisher=Silver Star |date=2022-04-20 |access-date=2023-01-25}}</ref>
 |-
 | 312 || 440 || || [[Kajeet]], Inc. || Unknown || Unknown || Former Consolidated Telcom<ref name=authority_us_20130530/><ref name=authority_us_20181207/><ref name=itu_ob_1198/><ref name=authority_us_20211130/>
 |-
@@ -1202,7 +1233,7 @@ includes
 |-
 | 312 || 480 || [http://www.nemont.net/ Nemont] || Sagebrush Cellular, Inc. || Unknown || Unknown || <ref name=authority_us_20140714/>
 |-
-| 312 || 490 || || [http://www.trustcomm.com/ TrustComm, Inc.] || Not operational || Satellite || <ref name=authority_us_20140714/> MNC withdrawn<ref name=authority_us_20211130/>
+| 312 || 490 || || [http://www.trustcomm.com/ TrustComm, Inc.] || Not operational || Satellite || <ref name=authority_us_20140714/> MNC withdrawn<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
 | 312 || 500 || || AB Spectrum LLC || Not operational || LTE 700 || <ref name=authority_us_20140714/> MNC withdrawn<ref name=authority_us_20161112/>
 |-
@@ -1210,11 +1241,11 @@ includes
 |-
 | 312 || 520 || || ANIN || Not operational || Unknown || <ref name=authority_us_20140714/> MNC withdrawn<ref name=authority_us_20160925/>
 |-
-| 312 || 530 ||  || [[T-Mobile US]] || Operational || Unknown || Former [[Sprint Corporation]]<ref name=authority_us_20140714/><ref name=authority_us_20210529/>
+| 312 || 530 || T-Mobile || [[T-Mobile US]] || Operational || Unknown || Former [[Sprint Corporation]]<ref name=authority_us_20140714/><ref name=authority_us_20210529/>
 |-
 | 312 || 540 || || [http://www.broadbandinhand.com/ Broadband In Hand LLC] || Not operational || Unknown || <ref name=authority_us_20140714/> MNC withdrawn<ref name=authority_us_20160526>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20160526112024/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=26 May 2016}}</ref>
 |-
-| 312 || 550 || || [https://www.gpcom.com/ Great Plains Communications, Inc.] || Unknown || Unknown || <ref name=authority_us_20140714/>
+| 312 || 550 || || [https://www.gpcom.com/ Great Plains Communications, Inc.] || Not operational || Unknown || <ref name=authority_us_20140714/> MNC withdrawn<ref name=itu_ob_1280/>
 |-
 | 312 || 560 || || NHLT Inc. || Not operational || MVNO || <ref name=authority_us_20140714/> MNC withdrawn<ref name=authority_us_20160627/>
 |-
@@ -1226,7 +1257,7 @@ includes
 |-
 | 312 || 600 || [http://www.nemont.net/ Nemont] || Sagebrush Cellular, Inc. || Unknown || Unknown || <ref name=authority_us_20140714/>
 |-
-| 312 || 610 ||  || [https://www.shawntech.com/ ShawnTech Communications] || Unknown || Unknown || Former [[nTelos]]<ref name=gsa_lte/><ref name=authority_us_20140714/><ref name=authority_us_20160925/><ref name=authority_us_20211130/>
+| 312 || 610 ||  || [https://www.shawntech.com/ ShawnTech Communications] || Unknown || Unknown || Former [[nTelos]]<ref name=gsa_lte/><ref name=authority_us_20140714/><ref name=authority_us_20160925/><ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
 | 312 || 620 || || [http://www.globetouch.com/ GlobeTouch Inc.] || Operational || MVNO || Former Fogg Mobile, Inc.<ref name=authority_us_20140714/><ref name=authority_us_20151231/>
 |-
@@ -1242,7 +1273,7 @@ includes
 |-
 | 312 || 680 || AT&T || [[AT&T Mobility]] || Unknown || Unknown || <ref name=authority_us_20140714/>
 |-
-| 312 || 690 || || [http://www.tecore.com/ TGS, LLC] || Operational || MVNO/MVNE || <ref name=authority_us_20140714/><ref name=itu_ob_1198/>
+| 312 || 690 || || [http://www.tecore.com/ Tecore Global Services, LLC] || Operational || MVNO || <ref name=authority_us_20140714/><ref name=itu_ob_1198/><ref name=authority_us_20240223/>
 |-
 | 312 || 700 || || [http://www.wireless-partnersllc.com/ Wireless Partners, LLC] || Operational || LTE 700 || Maine<ref name=authority_us_20150218>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20150218172131/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=18 February 2015}}</ref>
 |-
@@ -1250,13 +1281,13 @@ includes
 |-
 | 312 || 720 || [[Southern LINC]] || Southern Communications Services || Operational || LTE 850 || <ref name=authority_us_20150218/>
 |-
-| 312 || 730 || || [http://www.itstrianglemobile.com/ Triangle Communication System Inc.] || Operational || CDMA || Montana;<ref name=authority_us_20150218/> being acquired by Verizon Wireless<ref name=triangle_verizon/>
+| 312 || 730 || || Triangle Communication System Inc. || Not operational || CDMA || Montana;<ref name=authority_us_20150218/> acquired by Verizon Wireless,<ref name=triangle_verizon/> shut down Dec 2021<ref name=triangle_final/>
 |-
 | 312 || 740 || Locus Telecommunications || [[KDDI]] America, Inc. || Unknown || MVNO || <ref name=authority_us_20150218/><ref name=authority_us_20181207/><ref name=itu_ob_1198/><ref name=authority_us_20211130/>
 |-
 | 312 || 750 || || [http://artemis.com/ Artemis Networks LLC] || Unknown || Unknown || <ref name=authority_us_20150218/>
 |-
-| 312 || 760 || ASTAC || [http://www.astac.net/ Arctic Slope Telephone Association Cooperative] || Unknown || Unknown || Alaska<ref name=authority_us_20150218/>
+| 312 || 760 || ASTAC || [http://www.astac.net/ Arctic Slope Telephone Association Cooperative] || Not operational || Unknown || Alaska;<ref name=authority_us_20150218/> MNC withdrawn<ref name=authority_us_20240223/>
 |-
 | 312 || 770 || Verizon || [[Verizon Wireless]] || Unknown || Unknown || <ref name=authority_us_20150218/>
 |-
@@ -1268,7 +1299,7 @@ includes
 |-
 | 312 || 810 || BBCP || [http://www.bristolbay.com/ Bristol Bay Telephone Cooperative] || Operational || CDMA / LTE || Alaska<ref name=authority_us_20150513>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20150513050249/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=13 May 2015}}</ref>
 |-
-| 312 || 820 || || [https://www.santel.net/ Santel Communications Cooperative, Inc.] || Unknown || Unknown || South Dakota<ref name=authority_us_20150513/>
+| 312 || 820 || || [https://www.santel.net/ Santel Communications Cooperative, Inc.] || Not operational || Unknown || South Dakota;<ref name=authority_us_20150513/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
 | 312 || 830 || || Kings County Office of Education || Operational || WiMAX || California<ref name=authority_us_20150513/>
 |-
@@ -1276,7 +1307,7 @@ includes
 |-
 | 312 || 850 || || [http://www.onvoy.com/ Onvoy Spectrum, LLC] || Unknown || MVNO || Former Emergency Networks LLC<ref name=itu_ob_1112/><ref name=authority_us_20150513/>
 |-
-| 312 || 860 || [http://www.cleartalkwireless.com/ ClearTalk] || Flat Wireless, LLC || Not operational || CDMA / LTE 1900 / LTE 1700 || Texas;<ref name=gsa_lte/><ref name=authority_us_20151006>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20151006094720/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=6 October 2015}}</ref> MNC withdrawn<ref name=authority_us_20211130/>
+| 312 || 860 || [http://www.cleartalkwireless.com/ ClearTalk] || Flat Wireless, LLC || Not operational || CDMA / LTE 1900 / LTE 1700 || Texas;<ref name=gsa_lte/><ref name=authority_us_20151006>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20151006094720/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=6 October 2015}}</ref> MNC withdrawn<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
 | 312 || 870 || || [https://www.gigsky.com/ GigSky Mobile, LLC] || Operational || MVNO || <ref name=authority_us_20151006/>
 |-
@@ -1288,34 +1319,34 @@ includes
 |-
 | 312 || 910 || [http://www.appalachianwireless.com/ Appalachian Wireless] || East Kentucky Network, LLC || Unknown || Unknown || <ref name=authority_us_20151006/>
 |-
-| 312 || 920 || || [http://newirelessnetworks.com/ Northeast Wireless Networks LLC] || Not operational || Unknown || <ref name=authority_us_20151006/> MNC withdrawn<ref name=authority_us_20211130/>
+| 312 || 920 || || [http://newirelessnetworks.com/ Northeast Wireless Networks LLC] || Not operational || Unknown || <ref name=authority_us_20151006/> MNC withdrawn<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
 | 312 || 930 || || Hewlett-Packard Communication Services, LLC || Unknown || Unknown || <ref name=authority_us_20151109>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20151109235829/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=9 November 2015}}</ref>
 |-
-| 312 || 940 || || [http://www.webformix.com/ Webformix] || Operational || Unknown || Oregon<ref name=authority_us_20151109/>
+| 312 || 940 || || [http://www.webformix.com/ Webformix] || Not operational || Unknown || Oregon;<ref name=authority_us_20151109/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
 | 312 || 950 || || [http://www.custertel.net/ Custer Telephone Co-op] (CTCI) || Operational || CDMA || Idaho<ref name=authority_us_20151109/>
 |-
-| 312 || 960 || || M&A Technology, Inc. || Unknown || Unknown || <ref name=authority_us_20151109/>
+| 312 || 960 || || M&A Technology, Inc. || Not operational || Unknown || <ref name=authority_us_20151109/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
 | 312 || 970 || || IOSAZ Intellectual Property LLC || Unknown || Unknown || <ref name=authority_us_20151231>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20151231204637/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=31 December 2015}}</ref>
 |-
 | 312 || 980 || || [http://www.marktwain.net/ Mark Twain Communications Company] || Unknown || Unknown || <ref name=authority_us_20160424>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20160424131152/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=24 April 2016}}</ref>
 |-
-| 312 || 990 || Premier Broadband || Premier Holdings LLC || Unknown || Unknown || <ref name=authority_us_20160424/><ref name=itu_ob_1198/>
+| 312 || 990 || Premier Broadband || Premier Holdings LLC || Not operational || Unknown || <ref name=authority_us_20160424/><ref name=itu_ob_1198/> MNC withdrawn<ref name=itu_ob_1280/>
 |-
 | {{TOC tab|313|United States of America - US - 313}}
-| 000 || || [http://tennesseewireless.com/ Tennessee Wireless ] || Operational || Unknown || <ref name=authority_us_20160424/>
+| 000 || || [http://tennesseewireless.com/ Tennessee Wireless ] || Not operational || Unknown || <ref name=authority_us_20160424/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
-| 313 || 010 || [https://bravadowireless.com/ Bravado Wireless] || Cross Wireless LLC || Unknown || Unknown || Former Sprocket Wireless<ref name=authority_us_20160424/>
+| 313 || 010 || [https://bravadowireless.com/ Bravado Wireless] || Cross Wireless LLC || Unknown || Unknown || Former Sprocket Wireless<ref name=authority_us_20160424/><ref name=itu_ob_1280/>
 |-
 | 313 || 020 || [http://ctcweb.net/ CTC Wireless] || Cambridge Telephone Company Inc. || Operational || CDMA || Idaho<ref name=authority_us_20161112>{{cite web |url=http://www.imsiadmin.com/ByHNIns.cfm |title=HNI codes|archive-url=https://web.archive.org/web/20161112014328/http://www.imsiadmin.com/ByHNIns.cfm|archive-date=12 November 2016}}</ref>
 |-
-| 313 || 030 || || AT&T Mobility || Unknown || Unknown || Former Snake River PCS <ref name=authority_us_20161112/><ref name=authority_us_20211130/>
+| 313 || 030 || || [[AT&T Mobility]] || Unknown || Unknown || Former Snake River PCS <ref name=authority_us_20161112/><ref name=authority_us_20211130/>
 |-
 | 313 || 040 || [http://www.nntc.bz/ NNTC Wireless] || Nucla-Naturita Telephone Company || Operational || CDMA || Colorado<ref name=authority_us_20161112/>
 |-
-| 313 || 050 || [http://www.manti.com/cellular/ Breakaway Wireless] || Manti Tele Communications Company, Inc. || Not operational || CDMA || Utah;<ref name=authority_us_20161112/> shut down 2018;<ref>{{cite web|url=http://www.wirelessnoise.com/2018/08/breakaway-wireless-breaks-away-in-utah.html|title=Breakaway Wireless Breaks Away in Utah|date=2018-08-21|accessdate=2018-08-26}}</ref> MNC withdrawn<ref name=authority_us_20211130/>
+| 313 || 050 || [http://www.manti.com/cellular/ Breakaway Wireless] || Manti Tele Communications Company, Inc. || Not operational || CDMA || Utah;<ref name=authority_us_20161112/> shut down 2018;<ref>{{cite web|url=http://www.wirelessnoise.com/2018/08/breakaway-wireless-breaks-away-in-utah.html|title=Breakaway Wireless Breaks Away in Utah|date=2018-08-21|accessdate=2018-08-26}}</ref> MNC withdrawn<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
 | 313 || 060 || || [http://www.countrywireless.com/ Country Wireless] || Operational || Unknown || Wisconsin<ref name=authority_us_20161112/>
 |-
@@ -1347,7 +1378,7 @@ includes
 |-
 | 313 || 190 || [[FirstNet]] || 700&nbsp;MHz Public Safety Broadband || Unknown || LTE || D Block for future use<ref name=authority_us_20160424/><ref name=itu_ob_1198/>
 |-
-| 313 || 200 || || [http://www.mercury.net/ Mercury Network Corporation] || Operational || Unknown || Michigan<ref name=authority_us_20161112/>
+| 313 || 200 || || [http://www.mercury.net/ Mercury Network Corporation] || Not operational || Unknown || Michigan;<ref name=authority_us_20161112/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
 | 313 || 210 || AT&T || [[AT&T Mobility]] || Unknown || Unknown || <ref name=authority_us_20161112/><ref name=itu_ob_1019/>
 |-
@@ -1367,9 +1398,9 @@ includes
 |-
 | 313 || 290 || || [http://www.gulfcoastbroadband.com/ Gulf Coast Broadband LLC] || Unknown || LTE || Fixed wireless; Louisiana<ref name=authority_us_20180216/><ref name=itu_ob_1198/>
 |-
-| 313 || 300 || || [http://www.cambiowifi.com/ Cambio WiFi of Delmarva, LLC] || Operational || LTE || Maryland<ref name=authority_us_20180216/><ref name=itu_ob_1198/>
+| 313 || 300 || || [[Southern California Edison]] || Unknown || Unknown || Former Cambio WiFi of Delmarva, LLC, Maryland<ref name=authority_us_20180216/><ref name=itu_ob_1198/><ref name=itu_ob_1270/>
 |-
-| 313 || 310 || || [https://www.cal.net/ CAL.NET, Inc.] || Unknown || Unknown || <ref name=authority_us_20180216/><ref name=itu_ob_1198/>
+| 313 || 310 || || [https://www.cal.net/ CAL.NET, Inc.] || Not operational || Unknown || <ref name=authority_us_20180216/><ref name=itu_ob_1198/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
 | 313 || 320 || || [http://www.paladinwireless.com/ Paladin Wireless] || Unknown || LTE 3500 || Fixed wireless; Georgia<ref name=authority_us_20180216/><ref name=itu_ob_1198/>
 |-
@@ -1389,15 +1420,15 @@ includes
 |-
 | 313 || 400 || || [http://www.texomacommunications.com/ Texoma Communications, LLC] || Unknown || Unknown || <ref name=authority_us_20180216/><ref name=itu_ob_1198/>
 |-
-| 313 || 410 || || [https://www.pdvwireless.com/ pdvWireless] || Unknown || Unknown || <ref name=authority_us_20180216/><ref name=itu_ob_1198/>
+| 313 || 410 || || Anterix || Unknown || Unknown || Former pdvWireless<ref name=authority_us_20180216/><ref name=itu_ob_1198/><ref name=itu_ob_1270/>
 |-
-| 313 || 420 || || [https://www.hvwisp.com/ Hudson Valley Wireless] || Unknown || LTE 3500 || [[Citizens Broadband Radio Service|CBRS]] fixed wireless; New York<ref name=authority_us_20181207/><ref name=itu_ob_1198/>
+| 313 || 420 || || [https://www.hvwisp.com/ Hudson Valley Wireless] || Unknown || TD-LTE 3500 || [[Citizens Broadband Radio Service|CBRS]] fixed wireless; New York<ref name=authority_us_20181207/><ref name=itu_ob_1198/>
 |-
 | 313 || 440 || || [https://www.arvig.com/ Arvig Enterprises, Inc.] || Unknown || Unknown || Minnesota<ref name=authority_us_20181207/><ref name=itu_ob_1198/>
 |-
 | 313 || 450 || || Spectrum Wireless Holdings, LLC || Unknown || Unknown 3500 || <ref name=authority_us_20181207/><ref name=itu_ob_1198/>
 |-
-| 313 || 460 || [[Mobi (company)|Mobi]] || [[Mobi (company)|Mobi, Inc.]] || Operational || LTE / [[Citizens Broadband Radio Service|CBRS]] || Hawaiʻi;<ref>{{cite web |url=https://docs.fcc.gov/public/attachments/DA-20-1009A2.pdf |title=FCC CBRS successful bidders |publisher=FCC}}</ref><ref name=authority_us_20181207/>CDMA network sold to Verizon in 2014<ref>{{cite web |url=https://mobi.com/about/ |title=About|publisher=Mobi |accessdate=2019-06-17}}</ref><ref name=itu_ob_1198/>
+| 313 || 460 || [[Mobi (company)|Mobi]] || [[Mobi (company)|Mobi, Inc.]] || Operational || TD-LTE 3500 (CBRS) || Hawaiʻi;<ref>{{cite web |url=https://docs.fcc.gov/public/attachments/DA-20-1009A2.pdf |title=FCC CBRS successful bidders |publisher=FCC}}</ref><ref name=authority_us_20181207/> CDMA network sold to Verizon in 2014<ref>{{cite web |url=https://mobi.com/about/ |title=About|publisher=Mobi |accessdate=2019-06-17}}</ref><ref name=itu_ob_1198/>
 |-
 | 313 || 470 || || [[San Diego Gas & Electric]] Company || Unknown || Unknown || <ref name=authority_us_20181207/><ref name=itu_ob_1198/>
 |-
@@ -1409,23 +1440,23 @@ includes
 |-
 | 313 || 510 || Claro || Puerto Rico Telephone Company || Operational || Unknown || <ref name=authority_us_20190607/><ref name=itu_ob_1198/><ref name=authority_us_20211130/>
 |-
-| 313 || 520 || || [http://floridabroadband.com/ Florida Broadband, Inc.] || Operational || Unknown || Fixed wireless; Florida<ref name=authority_us_20190607/><ref name=itu_ob_1198/>
+| 313 || 520 || || [http://floridabroadband.com/ Florida Broadband, Inc.] || Not operational || Unknown || Fixed wireless; Florida;<ref name=authority_us_20190607/><ref name=itu_ob_1198/> MNC withdrawn<ref name=itu_ob_1270/>
 |-
 | 313 || 540 || || Nokia Innovations US LLC || Unknown || Unknown || <ref name=authority_us_20190607/><ref name=itu_ob_1198/>
 |-
 | 313 || 550 || || [http://www.milehighnetworks.net/ Mile High Networks LLC] || Operational || Unknown || Fixed wireless; Arizona<ref name=authority_us_20190607/><ref name=itu_ob_1198/>
 |-
-| 313 || 560 || || [https://transitwireless.com/ Transit Wireless LLC] || Operational || Unknown || Network for [[Metropolitan Transportation Authority|MTA]] / [[New York City Transit Authority|NYCTA]]<ref name=authority_us_20190607/><ref name=itu_ob_1198/>
+| 313 || 560 || || Boldyn Networks Transit US LLC || Operational || Unknown || Network for [[Metropolitan Transportation Authority|MTA]] / [[New York City Transit Authority|NYCTA]]; former Transit Wireless LLC<ref name=authority_us_20190607/><ref name=itu_ob_1198/><ref name=itu_ob_1276/>
 |-
-| 313 || 570 || Pioneer Cellular || Cellular Network Partnership || Unknown || Unknown || <ref name=authority_us_20190731>{{cite web |url=http://imsiadmin.com/assignments |title=HNI assignments |archive-url=https://web.archive.org/web/20190731105701/http://imsiadmin.com/assignments |archive-date=31 July 2019 |accessdate=14 April 2020}}</ref><ref name=itu_ob_1198/>
+| 313 || 570 || Pioneer Cellular || Cellular Network Partnership || Not operational || Unknown || <ref name=authority_us_20190731>{{cite web |url=http://imsiadmin.com/assignments |title=HNI assignments |archive-url=https://web.archive.org/web/20190731105701/http://imsiadmin.com/assignments |archive-date=31 July 2019 |accessdate=14 April 2020}}</ref><ref name=itu_ob_1198/> shut down summer 2023;<ref name=pioneer_shutdown/> MNC withdrawn<ref name=authority_us_20240223/>
 |-
 | 313 || 580 || || Telecall Telecommunications Corp. || Unknown || Unknown || <ref name=authority_us_20190731/><ref name=itu_ob_1198/>
 |-
 | 313 || 590 || [[Southern LINC]] || Southern Communications Services, Inc. || Unknown || Unknown || <ref name=authority_us_20190731/><ref name=itu_ob_1198/>
 |-
-| 313 || 600 || || ST Engineering {{Proper name|iDirect}} || Unknown || Unknown || <ref name=authority_us_20190908/><ref name=itu_ob_1198/>
+| 313 || 600 || || ST Engineering {{Proper name|iDirect}} || Not operational || Unknown || <ref name=authority_us_20190908/><ref name=itu_ob_1198/> MNC withdrawn<ref name=authority_us_20240223/>
 |-
-| 313 || 610 || || Crystal Automation Systems, Inc. || Unknown || Unknown || <ref name=authority_us_20190908/><ref name=itu_ob_1198/>
+| 313 || 610 || || Point Broadband Fiber Holding, LLC || Unknown || Unknown || Former Crystal Automation Systems, Inc.<ref name=authority_us_20190908/><ref name=itu_ob_1198 /> <ref name=itu_ob_1270/>
 |-
 | 313 || 620 || || [https://www.omniprophis.com/ OmniProphis Corporation] || Unknown || Unknown 1700 || Former Screened Images, Inc.<ref name=authority_us_20200215>{{cite web |url=http://imsiadmin.com/assignments |title=HNI assignments |archive-url=https://web.archive.org/web/20200215130832/http://imsiadmin.com/assignments |archive-date=15 February 2020 |accessdate=15 April 2020}}</ref><ref name=itu_ob_1198/><ref name=authority_us_20211130/>
 |-
@@ -1435,11 +1466,11 @@ includes
 |-
 | 313 || 650 || || [[Chevron Corporation|Chevron USA, Inc.]] || Unknown || Unknown || <ref name=authority_us_20200215/><ref name=itu_ob_1198/>
 |-
-| 313 || 660 || || [https://www.hvwisp.com/ Hudson Valley Wireless] || Unknown || LTE 3500 || [[Citizens Broadband Radio Service|CBRS]] fixed wireless; New York<ref name=authority_us_20200215/><ref name=itu_ob_1198/>
+| 313 || 660 || || [https://www.hvwisp.com/ Hudson Valley Wireless] || Unknown || TD-LTE 3500 || [[Citizens Broadband Radio Service|CBRS]] fixed wireless; New York<ref name=authority_us_20200215/><ref name=itu_ob_1198/>
 |-
-| 313 || 670 || || [https://www.hvwisp.com/ Hudson Valley Wireless] || Unknown || LTE 3500 || [[Citizens Broadband Radio Service|CBRS]] fixed wireless; New York<ref name=authority_us_20200215/><ref name=itu_ob_1198/>
+| 313 || 670 || || [https://www.hvwisp.com/ Hudson Valley Wireless] || Unknown || TD-LTE 3500 || [[Citizens Broadband Radio Service|CBRS]] fixed wireless; New York<ref name=authority_us_20200215/><ref name=itu_ob_1198/>
 |-
-| 313 || 680 || || [https://www.hvwisp.com/ Hudson Valley Wireless] || Unknown || LTE 3500 || [[Citizens Broadband Radio Service|CBRS]] fixed wireless; New York<ref name=authority_us_20200215/><ref name=itu_ob_1198/>
+| 313 || 680 || || [https://www.hvwisp.com/ Hudson Valley Wireless] || Unknown || TD-LTE 3500 || [[Citizens Broadband Radio Service|CBRS]] fixed wireless; New York<ref name=authority_us_20200215/><ref name=itu_ob_1198/>
 |-
 | 313 || 690 || || [[Shentel|Shenandoah Cable Television, LLC]] || Operational || LTE || <ref name=authority_us_20200215/><ref name=itu_ob_1198/>
 |-
@@ -1457,51 +1488,51 @@ includes
 |-
 | 313 || 760 || || [https://hologram.io/ Hologram, Inc.] || Operational || MVNO || <ref name=authority_us_20200215/><ref name=itu_ob_1198/>
 |-
-| 313 || 770 || || [https://www.tango-networks.com/ Tango Networks] || Unknown || MVNO || <ref name=authority_us_20200215/><ref name=itu_ob_1198/>
+| 313 || 770 || Mobile-X || [https://www.tango-networks.com/ Tango Networks] || Operational || MVNO || <ref name=authority_us_20200215/><ref name=itu_ob_1198/>
 |-
-| 313 || 780 || || [[Windstream Holdings]] || Not operational || Unknown 3500 || <ref name=authority_us_20200927/> MNC withdrawn<ref name=authority_us_20211130/>
+| 313 || 780 || || [[Windstream Holdings]] || Unknown || Unknown 3500 || <ref name=authority_us_20200927/><ref name=authority_us_20211130/><ref name=authority_us_20220807/><ref name=itu_ob_1270/>
 |-
-| 313 || 790 || Liberty || [[Liberty Puerto Rico|Liberty Cablevision of Puerto Rico LLC]] || Not operational || UMTS 850 / UMTS 1900 / LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / LTE 2300 / 5G 850 || Puerto Rico;<ref name=authority_us_20200927/> MNC withdrawn<ref name=authority_us_20211130/>
+| 313 || 790 || Liberty || [[Liberty Puerto Rico|Liberty Cablevision of Puerto Rico LLC]] || Operational || LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / LTE 2300 / 5G 850 || Puerto Rico;<ref name=authority_us_20200927/><ref name=authority_us_20211130/><ref name=itu_ob_1270/> UMTS shut down Feb 2022<ref name=liberty_pr_3g/>
 |-
 | 313 || 800 || || [http://www.futuretech.net/Future Wireless Technologies of Nebraska] || Not operational || Unknown || Nebraska, Iowa;<ref name=authority_us_20200927/> MNC withdrawn<ref name=authority_us_20211130/>
 |-
-| 313 || 810 || || [https://watchcomm.net/ Watch Communications] || Not operational || Unknown || Illinois, Indiana, Kentucky & Ohio;<ref name=authority_us_20200927/> MNC withdrawn<ref name=authority_us_20211130/>
+| 313 || 810 || || [https://watchcomm.net/ Watch Communications] || Operational || LTE 3500 || Illinois, Indiana, Kentucky & Ohio;<ref name=authority_us_20200927/><ref name=authority_us_20211130/><ref name=authority_us_20220807/><ref name=itu_ob_1270/>
 |-
-| 313 || 820 || || [https://inlandcellular.com/ Inland Cellular Telephone Company] || Not operational || LTE || Washington;<ref name=authority_us_20200927/> MNC withdrawn<ref name=authority_us_20211130/>
+| 313 || 820 || || [https://inlandcellular.com/ Inland Cellular Telephone Company] || Operational || LTE || Washington;<ref name=authority_us_20200927/><ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
-| 313 || 830 || || 360 Communications || Not operational || Unknown || <ref name=authority_us_20200927/> MNC withdrawn<ref name=authority_us_20211130/>
+| 313 || 830 || || 360 Communications || Unknown || Unknown || <ref name=authority_us_20200927/><ref name=authority_us_20211130/><ref name=authority_us_20220807/><ref name=itu_ob_1270/>
 |-
-| 313 || 840 || || CellBlox Acqusitions || Unknown || Unknown || <ref name=authority_us_20200927/><ref name=authority_us_20201021/>
+| 313 || 840 || || CellBlox Acquisitions || Unknown || Unknown || <ref name=authority_us_20200927/><ref name=authority_us_20201021/><ref name=itu_ob_1270/>
 |-
-| 313 || 850 || || [https://www.softcom.net/ Softcom Internet Communications, Inc] || Operational || LTE || California<ref name=authority_us_20210529>{{cite web |url=http://imsiadmin.com/assignments |title=HNI assignments |archive-url=https://web.archive.org/web/20210529195951/https://imsiadmin.com/assignments |archive-date=29 May 2021 |accessdate=5 June 2021}}</ref>
+| 313 || 850 || || [https://www.softcom.net/ Softcom Internet Communications, Inc] || Operational || LTE || California<ref name=authority_us_20210529>{{cite web |url=http://imsiadmin.com/assignments |title=HNI assignments |archive-url=https://web.archive.org/web/20210529195951/https://imsiadmin.com/assignments |archive-date=29 May 2021 |accessdate=5 June 2021}}</ref><ref name=itu_ob_1270/>
 |-
-| 313 || 860 || [https://nextlinkinternet.com/ Nextlink] || AMG Technology Investment Group || Operational || Unknown 3500 || <ref name=authority_us_20210529/>
+| 313 || 860 || [https://nextlinkinternet.com/ Nextlink] || AMG Technology Investment Group || Operational || Unknown 3500 || <ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
-| 313 || 870 || || [https://www.elektrafi.com/ ElektraFi LLC] || Operational || 5G 3500 || Texas<ref name=authority_us_20210529/>
+| 313 || 870 || || [https://www.elektrafi.com/ ElektraFi LLC] || Operational || 5G 3500 || Texas<ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
-| 313 || 880 || || Shuttle wireless || Unknown || Unknown || <ref name=authority_us_20210529/>
+| 313 || 880 || || Shuttle Wireless || Unknown || Unknown || <ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
-| 313 || 890 || TCOE || [http://www.tcoe.org/ Tulare County Office of Education] || Operational || Unknown || California<ref name=authority_us_20210529/>
+| 313 || 890 || TCOE || [http://www.tcoe.org/ Tulare County Office of Education] || Operational || Unknown || California<ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
-| 313 || 900 || || Tribal Networks || Unknown || Unknown || <ref name=authority_us_20210529/>
+| 313 || 900 || || Tribal Networks || Unknown || Unknown || <ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
-| 313 || 910 || || [[San Diego Gas & Electric]] || Unknown || Unknown || <ref name=authority_us_20210529/>
+| 313 || 910 || || [[San Diego Gas & Electric]] || Unknown || Unknown || <ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
-| 313 || 920 || || JCI || Unknown || Unknown || <ref name=authority_us_20210529/>
+| 313 || 920 || || JCI || Unknown || Unknown || <ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
-| 313 || 930 || Rock Wireless || [https://www.standingrocktelecom.com/ Standing Rock Telecom] || Operational || LTE 2500 || North Dakota<ref name=authority_us_20210529/>
+| 313 || 930 || Rock Wireless || [https://www.standingrocktelecom.com/ Standing Rock Telecom] || Operational || LTE 2500 || North Dakota<ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
-| 313 || 940 || || [[Motorola Solutions]] || Unknown || Unknown || <ref name=authority_us_20210529/>
+| 313 || 940 || || [[Motorola Solutions]] || Unknown || Unknown || <ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
-| 313 || 950 || || Cheyenne and Arapaho Development Group || Unknown || 2500 || <ref name=authority_us_20210529/>
+| 313 || 950 || || Cheyenne and Arapaho Development Group || Unknown || 2500 || <ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
-| 313 || 960 || || Townes 5G, LLC || Unknown || Unknown || <ref name=authority_us_20210529/>
+| 313 || 960 || || Townes 5G, LLC || Unknown || Unknown || <ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
-| 313 || 970 || || Tycrhron || Unknown || Unknown || <ref name=authority_us_20210529/>
+| 313 || 970 || || Tychron || Unknown || Unknown || <ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
 | 313 || 980 || || Next Generation Application LLC || Not operational || Unknown || <ref name=authority_us_20210529/> MNC withdrawn<ref name=authority_us_20211130/>
 |-
-| 313 || 990 || || [[Ericsson]] US || Unknown || Unknown || EEC/ATL Private Networks<ref name=authority_us_20210529/>
+| 313 || 990 || || [[Ericsson]] US || Unknown || Unknown || EEC/ATL Private Networks<ref name=authority_us_20210529/><ref name=itu_ob_1270/>
 |-
 | {{TOC tab|314|United States of America - US - 314}}
 | 010 || || [[Boingo Wireless]] Inc. || Unknown || Unknown || <ref name=authority_us_20190731/><ref name=itu_ob_1198/>
@@ -1510,41 +1541,115 @@ includes
 |-
 | 314 || 030 || || Baicells Technologies North America Inc. || Unknown || LTE || <ref name=authority_us_20190731/><ref name=itu_ob_1198/>
 |-
-| 314 || 060 || || [[Texas A&M University]] || Unknown || Unknown || <ref name=authority_us_20211130/>
+| 314 || 060 || || [[Texas A&M University]] || Unknown || Unknown || RELLIS campus<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
-| 314 || 070 || || [[Texas A&M University]] || Unknown || Unknown || <ref name=authority_us_20211130/>
+| 314 || 070 || || [[Texas A&M University]] || Unknown || Unknown || RELLIS campus<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
-| 314 || 080 || || [[Texas A&M University]] || Unknown || Unknown || <ref name=authority_us_20211130/>
+| 314 || 080 || || [[Texas A&M University]] || Unknown || Unknown || RELLIS campus<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
-| 314 || 090 || || [[Southern LINC]] || Unknown || Unknown || <ref name=authority_us_20211130/>
+| 314 || 090 || || [[Southern LINC]] || Unknown || Unknown || <ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
 | 314 || 100 - 190 || || Reserved for Public Safety || Unknown || Unknown || <ref name=authority_us_20180216/><ref name=itu_ob_1198/>
 |-
-| 314 || 200 || || XF Wireless Investments, LLC || Unknown || Unknown 3500 || Owned by [[Comcast]]<ref name=authority_us_20211130/>
+| 314 || 200 || || XF Wireless Investments, LLC || Unknown || Unknown 3500 || Owned by [[Comcast]]<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
-| 314 || 210 || || Telecom Resource Center || Unknown || Unknown || <ref name=authority_us_20211130/>
+| 314 || 210 || || Telecom Resource Center || Unknown || Unknown || <ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
-| 314 || 220 || || [[Securus Technologies]] || Unknown || Unknown || <ref name=authority_us_20211130/>
+| 314 || 220 || || [[Securus Technologies]] || Unknown || Unknown || <ref name=authority_us_20211130/><ref name=itu_ob_1270/>
+|-
+| 314 || 230 || || Trace-Tek LLC || Unknown || Unknown || Use in correctional institutions<ref name=authority_us_20220528/><ref name=itu_ob_1270/>
+|-
+| 314 || 240 || || XF Wireless Investments, LLC || Unknown || Unknown 3500 || Owned by [[Comcast]]<ref name=authority_us_20220528/><ref name=itu_ob_1270/>
+|-
+| 314 || 260 || || [[AT&T Mobility]] || Unknown || Unknown || <ref name=authority_us_20220528/><ref name=itu_ob_1270/>
+|-
+| 314 || 270 || || [[AT&T Mobility]] || Unknown || Unknown || <ref name=authority_us_20220528/><ref name=itu_ob_1270/>
+|-
+| 314 || 280 || || Pollen Mobile LLC || Unknown || Unknown || Former [[AT&T Mobility]]; private networks<ref name=authority_us_20220528/><ref name=itu_ob_1270/>
+|-
+| 314 || 290 || || Wave || Unknown || Unknown || <ref name=authority_us_20220528/><ref name=itu_ob_1270/>
+|-
+| 314 || 300 || || [[Southern California Edison]] || Unknown || Unknown || <ref name=authority_us_20220528/>
+|-
+| 314 || 310 || || Terranet || Unknown || Unknown || <ref name=authority_us_20220528/><ref name=itu_ob_1270/>
+|-
+| 314 || 320 || || Agri-Valley Communications, Inc || Unknown || Unknown || <ref name=authority_us_20220528/><ref name=itu_ob_1270/>
+|-
+| 314 || 330 || || Nova Labs Inc || Unknown || Unknown || Former FreedomFi<ref name=authority_us_20220807/><ref name=itu_ob_1270/>
+|-
+| 314 || 340 || e/marconi || E-Marconi LLC || Unknown || MVNO || <ref name=authority_us_20220807/><ref name=itu_ob_1270/>
+|-
+| 314 || 350 || || [[Evergy]] || Unknown || Unknown || <ref name=itu_ob_1270/>
+|-
+| 314 || 360 || || Oceus Networks, LLC || Unknown || 5G || private networks<ref name=itu_ob_1270/>
+|-
+| 314 || 370 || ITEC || [[Texas A&M University]] || Unknown || Unknown || <ref name=itu_ob_1270/> Internet2 Technology Evaluation Center<ref name=itu_ob_1280/>
+|-
+| 314 || 380 || CCR || Circle Computer Resources, Inc. || Unknown || Unknown || <ref name=itu_ob_1270/>
+|-
+| 314 || 390 || || [[AT&T Mobility]] || Unknown || Unknown || <ref name=itu_ob_1270/>
+|-
+| 314 || 400 || [[C Spire]] || Cellular South Inc || Unknown || Unknown || <ref name=itu_ob_1270/>
+|-
+| 314 || 410 || || Peeringhub Inc || Unknown || Unknown || <ref name=itu_ob_1270/>
+|-
+| 314 || 420 || || [[Cox Communications]] || Unknown || Unknown || <ref name=itu_ob_1270/>
+|-
+| 314 || 430 || || Highway9 Networks, Inc || Unknown || 5G || <ref name=itu_ob_1270/>
+|-
+| 314 || 440 || || Tecore Global Services, LLC || Unknown || Unknown || <ref name=itu_ob_1270/>
+|-
+| 314 || 450 || || NUWAVE Communications, Inc. || Unknown || Unknown || <ref name=itu_ob_1276/>
+|-
+| 314 || 460 || || [[Texas A&M University]] || Unknown || Unknown || <ref name=itu_ob_1276/>
+|-
+| 314 || 470 || MetTel || Manhattan Telecommunications Corporation LLC || Unknown || Unknown || <ref name=itu_ob_1276/>
+|-
+| 314 || 480 || || [[Xcel Energy]] Services Inc. || Unknown || Unknown || <ref name=itu_ob_1276/>
+|-
+| 314 || 490 || UETN || Utah Education and Telehealth Network || Operational || TD-LTE 3500 || [[Citizens Broadband Radio Service|CBRS]]<ref name=itu_ob_1276/>
+|-
+| 314 || 500 || || Aetheros Inc. || Unknown || Unknown || <ref name=itu_ob_1280/>
+|-
+| 314 || 510 || || SI Wireless LLC || Unknown || Unknown || <ref name=itu_ob_1280/>
+|-
+| 314 || 520 || OG+E|| [[Oklahoma Gas & Electric]] Company || Unknown || Unknown || <ref name=itu_ob_1280/>
+|-
+| 314 || 530 || || Agile Networks || Operational || Unknown || <ref name=itu_ob_1280/>
+|-
+| 314 || 540 || RGTN || RGTN USA Inc. || Operational || Unknown || Used for two-way SMS services<ref name=itu_ob_1280/>
+|-
+| 314 || 550 || REALLY || Really Communications || Operational || 3G 3500 || <ref name=authority_us_20240223/>
+|-
+| 314 || 560 || Cape || Private Tech, Inc. || Unknown || Unknown || <ref name=authority_us_20240223/>
+|-
+| 314 || 570 || || [[Newmont]] Corporation || Unknown || Unknown || <ref name=authority_us_20240223/>
+|-
+| 314 || 580 || || [[Lower Colorado River Authority]] || Unknown || Unknown || <ref name=authority_us_20240223/>
+|-
+| 314 || 590 || || [[Lynk Global]], Inc. || Operational || Satellite || <ref name=authority_us_20240223/>
 |-
 | {{TOC tab|315|United States of America - US - 315}}
 | 010 || CBRS || [[Citizens Broadband Radio Service]] || Unknown || TD-LTE 3500 || LTE band 48<ref name=authority_us_cbrs_20190607>{{cite web |url=http://imsiadmin.com/cbrs-assignments |title=CBRS assignments |archive-url=https://web.archive.org/web/20190607003607/http://imsiadmin.com/cbrs-assignments |archive-date=7 June 2019 |accessdate=12 June 2019}}</ref>
 |-
 | {{TOC tab|316|United States of America - US - 316}}
-| 010 || Nextel || Nextel Communications || Not operational || iDEN 800 || Merged with Sprint forming Sprint Nextel; iDEN network shut down June 2013;<ref name=itu_ob_779/> MNC withdrawn<ref name=authority_us_20211130/>
+| 010 || Nextel || Nextel Communications || Not operational || iDEN 800 || Merged with Sprint forming Sprint Nextel; iDEN network shut down June 2013;<ref name=itu_ob_779/> MNC withdrawn<ref name=authority_us_20211130/><ref name=itu_ob_1270/>
 |-
-| 316 || 011 || [[Southern LINC]] || Southern Communications Services || Not operational || iDEN 800 || <ref name=itu_ob_779/> shut down 2019<ref>{{cite web |url=https://urgentcomm.com/2019/04/30/southern-linc-offers-basic-mcptt-and-high-performance-mcptt-shuts-down-legacy-iden-system-for-lte/ |title=Southern Linc offers 'Basic MCPTT' and 'High Performance MCPTT,' shuts down legacy iDEN system for LTE |first=Donny |last=Jackson |publisher=Urgent Comms |date=2019-04-30 |accessdate=2019-04-30}}</ref>
+| 316 || 011 || [[Southern LINC]] || Southern Communications Services || Not operational || iDEN 800 || <ref name=itu_ob_779/> shut down 2019;<ref>{{cite web |url=https://urgentcomm.com/2019/04/30/southern-linc-offers-basic-mcptt-and-high-performance-mcptt-shuts-down-legacy-iden-system-for-lte/ |title=Southern Linc offers 'Basic MCPTT' and 'High Performance MCPTT,' shuts down legacy iDEN system for LTE |first=Donny |last=Jackson |publisher=Urgent Comms |date=2019-04-30 |accessdate=2019-04-30}}</ref> MNC withdrawn<ref name=authority_us_20220807/><ref name=itu_ob_1270/>
+|-
+| 316 || 700 || || Mile High Networks LLC || Unknown || Unknown || Arizona<ref name=itu_ob_1270/>
 |}
 
 ==== [[United States Virgin Islands]] ([[United States of America]]) – VI ====
 {| {{MNC}}
 |-
-| 310 || 120 ||  || [[T-Mobile US]] || Operational || CDMA2000 1900 / LTE 850 / LTE 1900 || Former Sprint Corporation <ref name=itu_ob_871/>
+| 310 || 120 || T-Mobile || [[T-Mobile US]] || Operational || LTE 850 / LTE 1900 || Former Sprint Corporation;<ref name=itu_ob_871/> CDMA shut down May 2022<ref name="TM CDMA Shutdown US 2"/>
 |-
 | 310 || 260 || T-Mobile || [[T-Mobile US]] || Operational || GSM 1900 / UMTS 1900 / UMTS 1700 / LTE 850 / LTE 700 / LTE 1900 / LTE 1700 / 5G 600 || Former Cook Inlet West Wireless, Voicestream;<ref name="Cook Inlet W.Wireless"/> now universal USA code.  Also used for [[Ting Inc.|Ting]].<ref name=itu_ob_779/>
 |-
-| 310 || 410 || AT&T || [http://www.libertyvi.com/ Liberty] || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 || Formerly [[AT&T Mobility]];<ref>{{cite web|url=https://about.att.com/story/2020/att-liberty-latin-america.html|title=AT&T Inc. Closes Sale of Puerto Rico and U.S. Virgin Islands Operations|publisher=AT&T Inc.|date=2 November 2020|accessdate=23 December 2020|archiveurl=https://web.archive.org/web/20201102133508/https://about.att.com/story/2020/att-liberty-latin-america.html|archivedate=2 November 2020}}</ref> Formerly [[Cingular Wireless]]<ref name=itu_ob_779/><ref name=itu_ob_1112/>
+| 310 || 410 || Liberty || [[Liberty Puerto Rico|Liberty]] || Operational || GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / 5G 850 || Formerly [[AT&T Mobility]],<ref>{{cite web|url=https://about.att.com/story/2020/att-liberty-latin-america.html|title=AT&T Inc. Closes Sale of Puerto Rico and U.S. Virgin Islands Operations|publisher=AT&T Inc.|date=2 November 2020|accessdate=23 December 2020|archiveurl=https://web.archive.org/web/20201102133508/https://about.att.com/story/2020/att-liberty-latin-america.html|archivedate=2 November 2020}}</ref> [[Cingular Wireless]]<ref name=itu_ob_779/><ref name=itu_ob_1112/>
 |-
-| 311 || 470 || [http://www.viyavi.com/ Viya] || Vitelcom Cellular Inc. || Operational || GSM 850 / GSM 1900 / TD-LTE 2500 || Former Innovative Wireless; US Virgin Islands<ref name=itu_ob_901/>
+| 311 || 470 || Viya || Vitelcom Cellular Inc. || Operational || GSM 850 / GSM 1900 / TD-LTE 2500 || Former Innovative Wireless; US Virgin Islands<ref name=itu_ob_901/>
 |}
 
 ==See also==
@@ -1556,12 +1661,9 @@ includes
 <ref name="gsa_lte">{{cite web |title=Evolution to LTE Report |url=http://gsacom.com/download.php?id=4406 |publisher=GSA |date=2017-01-30 |accessdate=2017-03-01}}{{registration required}}</ref>
 <ref name=gsa_lte1800_101213>{{cite web |title=Status of the Global LTE 1800 Market |url=http://www.gsacom.com/downloads/pdf/GSA_status_of_the_global_LTE1800_market_220414.php4 |publisher=GSA |accessdate=24 April 2014}}{{registration required}}</ref>
 <ref name=authority_ca>{{cite web |title=IMSI Codes |url=http://www.cnac.ca/other_codes/imsi/imsi_codes.htm |publisher=CNA |accessdate=14 February 2018}}</ref>
+<ref name=authority_fr>{{cite web |title=Numérotation |url=https://extranet.arcep.fr/portail/Communications%C3%A9lectroniques/Num%C3%A9rotation.aspx |publisher=ARCEP |access-date=5 January 2022}}</ref>
 
-<!-- Not in use
-<ref name=authority_fr>{{cite web |title=Numérotation |url=https://extranet.arcep.fr/portail/Op%C3%A9rateursCE/Num%C3%A9rotation.aspx |publisher=ARCEP |date=12 February 2018 |accessdate=14 February 2018}}</ref>
-Not in use-->
-
-<ref name=authority_mx>{{cite web |title=MNC |url=http://www.ift.org.mx/sites/default/files/mnc_asignados.xlsx |publisher=IFT |date=2 February 2018 |access-date=8 September 2018}}</ref>
+<ref name=authority_mx>{{cite web |title=Marcación y números identificadores de región |url=https://www.ift.org.mx/usuarios-telefonia-fija/marcacion-y-numeros-identificadores-de-region |publisher=IFT |access-date=12 January 2023}}</ref>
 <ref name=halberd>{{cite web |title=The Americas |url=https://halberdbastion.com/intelligence/geographic-regions/americas |publisher=Halberd Bastion |access-date=5 November 2019}}</ref>
 <ref name=halberd_asia>{{cite web |title=Asia & Pacific |url=https://halberdbastion.com/intelligence/geographic-regions/asia-pacific |publisher=Halberd Bastion |accessdate=2019-11-07}}</ref>
 <ref name=itu_ob_1056>{{cite web |title=ITU Operational Bulletin No. 1056 |url=https://www.itu.int/pub/T-SP-OB.1056-2014 |publisher=ITU |date=15 July 2014 |accessdate=20 August 2014}}</ref>
@@ -1601,6 +1703,17 @@ Not in use-->
 <ref name=itu_ob_1243>{{cite web |title=ITU Operational Bulletin No. 1243 |url=https://www.itu.int/pub/T-SP-OB.1243-2022 |publisher=ITU |date=1 May 2022 |access-date=2 May 2022}}</ref>
 <ref name=itu_ob_1250>{{cite web |title=ITU Operational Bulletin No. 1250 |url=https://www.itu.int/pub/T-SP-OB.1250-2022 |publisher=ITU |date=15 August 2022 |access-date=22 August 2022}}</ref>
 <ref name=itu_ob_1254>{{cite web |title=ITU Operational Bulletin No. 1254 |url=https://www.itu.int/pub/T-SP-OB.1254-2022 |publisher=ITU |date=15 October 2022 |access-date=14 October 2022}}</ref>
+<ref name=itu_ob_1257>{{cite web |title=ITU Operational Bulletin No. 1257 |url=https://www.itu.int/pub/T-SP-OB.1257-2022 |publisher=ITU |date=1 December 2022 |access-date=30 November 2022}}</ref>
+<ref name=itu_ob_1261>{{cite web |title=ITU Operational Bulletin No. 1261 |url=https://www.itu.int/pub/T-SP-OB.1261-2023 |publisher=ITU |date=1 February 2023 |access-date=31 January 2023}}</ref>
+<ref name=itu_ob_1265>{{cite web |title=ITU Operational Bulletin No. 1265 |url=https://www.itu.int/pub/T-SP-OB.1265-2023 |publisher=ITU |date=1 April 2023 |access-date=31 March 2023}}</ref>
+<ref name=itu_ob_1268>{{cite web |title=ITU Operational Bulletin No. 1268 |url=https://www.itu.int/pub/T-SP-OB.1268-2023 |publisher=ITU |date=15 May 2023 |access-date=15 May 2023}}</ref>
+<ref name=itu_ob_1269>{{cite web |title=ITU Operational Bulletin No. 1269 |url=https://www.itu.int/pub/T-SP-OB.1269-2023 |publisher=ITU |date=1 June 2023 |access-date=31 May 2023}}</ref>
+<ref name=itu_ob_1270>{{cite web |title=ITU Operational Bulletin No. 1270 |url=https://www.itu.int/pub/T-SP-OB.1270-2023 |publisher=ITU |date=15 June 2023 |access-date=14 June 2023}}</ref>
+<ref name=itu_ob_1276>{{cite web |title=ITU Operational Bulletin No. 1276 |url=https://www.itu.int/pub/T-SP-OB.1276-2023 |publisher=ITU |date=15 September 2023 |access-date=3 October 2023}}</ref>
+<ref name=itu_ob_1278>{{cite web |title=ITU Operational Bulletin No. 1278 |url=https://www.itu.int/pub/T-SP-OB.1278-2023 |publisher=ITU |date=15 October 2023 |access-date=14 October 2023}}</ref>
+<ref name=itu_ob_1280>{{cite web |title=ITU Operational Bulletin No. 1280 |url=https://www.itu.int/pub/T-SP-OB.1280-2023 |publisher=ITU |date=15 November 2023 |access-date=14 November 2023}}</ref>
+<ref name=itu_ob_1286>{{cite web |title=ITU Operational Bulletin No. 1286 |url=https://www.itu.int/pub/T-SP-OB.1286-2024 |publisher=ITU |date=15 February 2024 |access-date=14 February 2024}}</ref>
+<ref name=itu_ob_1287>{{cite web |title=ITU Operational Bulletin No. 1287 |url=https://www.itu.int/pub/T-SP-OB.1287-2024 |publisher=ITU |date=1 March 2024 |access-date=1 March 2024}}</ref>
 }}
 
 [[Category:Telecommunications lists]]

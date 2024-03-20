@@ -1,3 +1,4 @@
+{{Use dmy dates|date=September 2023}}
 This list contains the [[mobile country code]]s and [[mobile network code]]s for networks with country codes between 500 and 599, inclusively – a region that covers [[Oceania]], [[Maritime South East Asia]], and [[#Thailand - TH|Thailand]]. [[Mobile Network Codes in ITU region 3xx (North America)#Guam (United States of America) - GU|Guam]] and the [[Mobile Network Codes in ITU region 3xx (North America)#Northern Mariana Islands (United States of America) - MP|Northern Mariana Islands]] as parts of the United States are listed under [[Mobile Network Codes in ITU region 3xx (North America)]].
 
 ==National operators==
@@ -18,11 +19,11 @@ includes
 *Christmas Island (Australia) – CX
 {| {{MNC}}
 |-
-| 505 || 01 || [[Telstra]] || [[Telstra|Telstra Corporation Limited]] || Operational || UMTS 850 / LTE 700 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 850 / 5G 3500 / 5G 28000 || LTE bands 28 / 8 / 3 / 1 / 7;<ref name=gsa_lte/> GSM shut down 1 December 2016;<ref>{{cite web |title=Our 2G Network has closed |url=https://crowdsupport.telstra.com.au/t5/Telstra-Product-Exits/Our-2G-Network-has-closed/ba-p/440992 |publisher=Telstra |date=1 December 2016 |accessdate=7 December 2016}}</ref> UMTS 2100 shut down 25 March 2019<ref name=shutdown2G3G/><ref name=halberd/>
+| 505 || 01 || [[Telstra]] || [[Telstra|Telstra Corporation Limited]] || Operational || UMTS 850 / LTE 700 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 850 / 5G 2600 / 5G 3500 / 5G 28000 || LTE bands 28 / 8 / 3 / 1 / 7;<ref name=gsa_lte/> GSM shut down Dec 2016,<ref>{{cite web |title=Our 2G Network has closed |url=https://crowdsupport.telstra.com.au/t5/Telstra-Product-Exits/Our-2G-Network-has-closed/ba-p/440992 |publisher=Telstra |date=1 December 2016 |accessdate=7 December 2016}}</ref> UMTS 2100 – Mar 2019<ref name=shutdown2G3G/><ref name=halberd/>
 |-
-| 505 || 02 || [[Optus]] || [[Optus|Singtel Optus Pty Ltd]] || Operational || UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / TD-LTE 2300 / LTE 2600 / 5G 1800 / 5G 2100 / TD-5G 2300 / 5G 3500 / 5G 28000 || LTE bands 28 / 3 / 1 / 7;<ref name=gsa_lte/> GSM shut down 1 August 2017;<ref>{{cite web|url=http://www.optus.com.au/shop/support/answer/2g-network-closure-update?requestType=NormalRequest&id=5873&typeId=5 |title=Answer Page |publisher=Optus.com.au |date= |accessdate=2018-06-12}}</ref><ref name=halberd/> UMTS 2100 to shut down May 2022<ref>{{cite web |url=https://www.optus.com.au/support/mobiles-tablets-wearables/important-changes-3g?id=20111#:~:text=Changes%20to%20our%203G%20network&text=Once%20the%203G%202100MHz%20spectrum,limited%20connectivity%2C%20from%20May%202022. |title=We're upgrading our network with some changes to 3G |publisher=Optus |accessdate=21 March 2022}}</ref>
+| 505 || 02 || [[Optus]] || [[Optus|Singtel Optus Pty Ltd]] || Operational || UMTS 900 / LTE 700 / LTE 1800 / LTE 2100 / TD-LTE 2300 / LTE 2600 / 5G 900 / 5G 1800 / 5G 2100 / TD-5G 2300 / 5G 3500 / 5G 28000 || LTE bands 28 / 3 / 1 / 7;<ref name=gsa_lte/> GSM shut down Aug 2017,<ref>{{cite web|url=http://www.optus.com.au/shop/support/answer/2g-network-closure-update?requestType=NormalRequest&id=5873&typeId=5 |title=Answer Page |publisher=Optus.com.au |date= |accessdate=2018-06-12}}</ref><ref name=halberd/> UMTS 2100 – May 2022,<ref>{{cite web |url=https://www.optus.com.au/support/mobiles-tablets-wearables/important-changes-3g?id=20111#:~:text=Changes%20to%20our%203G%20network&text=Once%20the%203G%202100MHz%20spectrum,limited%20connectivity%2C%20from%20May%202022. |title=We're upgrading our network with some changes to 3G |publisher=Optus |accessdate=21 March 2022}}</ref> UMTS 900 – Sep 2024<ref>{{cite web |url=https://www.optus.com.au/support/mobiles-tablets-wearables/important-changes-3g |title=We're upgrading our network with changes to 3G |publisher=Optus |access-date=2023-02-16}}</ref>
 |-
-| 505 || 03 || [[Vodafone]] || [[TPG Telecom|Vodafone Hutchison Australia Pty Ltd]] || Operational || UMTS 900 / UMTS 2100 / LTE 850 / LTE 1800 / LTE 2100 / 5G 700 / 5G 3500 || LTE bands 5 / 3 / 1;<ref name="gsa_lte"/> GSM shut down 30 April 2018<ref name=shutdown2G3G>{{cite web |title=2G and 3G networks are shutting down globally?! |url=https://1ot.mobi/blog/2g-and-3g-networks-are-shutting-down-globally |first=Heimar |last=Lecht |publisher=1oT |date=27 March 2018 |accessdate=7 January 2019}}</ref><ref name=halberd/>
+| 505 || 03 || [[Vodafone]] || [[TPG Telecom]] || Operational || LTE 850 / LTE 1800 / LTE 2100 / 5G 700 / 5G 2100 / 5G 3500 / 5G 28000 || LTE bands 5 / 3 / 1;<ref name="gsa_lte"/> GSM shut down Apr 2018,<ref name=shutdown2G3G>{{cite web |title=2G and 3G networks are shutting down globally?! |url=https://1ot.mobi/blog/2g-and-3g-networks-are-shutting-down-globally |first=Heimar |last=Lecht |publisher=1oT |date=27 March 2018 |accessdate=7 January 2019}}</ref><ref name=halberd/> UMTS – Dec 2023<ref name="TPG AU 2">{{cite web |url=https://www.commsupdate.com/articles/2023/12/14/vodafone-australia-poised-to-switch-off-its-3g-network-tomorrow/ |title=Vodafone Australia poised to switch off its 3G network tomorrow |publisher=TeleGeography |date=2023-12-14 |access-date=2023-12-14}}</ref>
 |-
 | 505 || 04 ||  || [[Department of Defence (Australia)|Department of Defence]] || Operational || Unknown || Private network
 |-
@@ -40,9 +41,9 @@ includes
 |- 
 | 505 || 11 || [[Telstra]] || Telstra Corporation Limited || Unknown || Unknown || <ref name=itu_ob_1019/>
 |-
-| 505 || 12 || [[Hutchison 3G|3]] || [[Vodafone Hutchison Australia|Vodafone Hutchison Australia Pty Ltd]] || Not operational || UMTS 2100 || See MNC 06
+| 505 || 12 || [[Hutchison 3G|3]] || [[TPG Telecom|Vodafone Hutchison Australia Pty Ltd]] || Not operational || UMTS 2100 || See MNC 06
 |-
-| 505 || 13 || [[RailCorp]] || Railcorp, [[Transport for NSW]] || Operational || GSM-R 1800 || For use by [[Sydney Trains]] Digital Train Radio System<ref>{{cite web|url=http://web.acma.gov.au/pls/radcom/spectrum_search.show_table?pLICENCE_TYPE_NAME=Spectrum&pLICENCE_CATEGORY_NAME=1800%20MHz%20Band |title=ACMA Register of Radiocommunications Licences (RRL) |publisher=Web.acma.gov.au |date= |accessdate=2018-06-12}}</ref><ref>http://www.transport.nsw.gov.au/projects-digital-train-radio-system {{Bare URL inline|date=August 2022}}</ref><ref>{{cite web |url=http://www.transportregulator.nsw.gov.au/publications/waterfall_reports/2015/waterfall-annual-report-april-2014-march-2015/at_download/file |title=Archived copy |website=www.transportregulator.nsw.gov.au |access-date=6 June 2022 |archive-url=https://web.archive.org/web/20160304114949/http://www.transportregulator.nsw.gov.au/publications/waterfall_reports/2015/waterfall-annual-report-april-2014-march-2015/at_download/file |archive-date=4 March 2016 |url-status=dead}}</ref>
+| 505 || 13 || [[RailCorp]] || Railcorp, [[Transport for NSW]] || Operational || GSM-R 1800 || For use by [[Sydney Trains]] Digital Train Radio System<ref>{{cite web|url=http://web.acma.gov.au/pls/radcom/spectrum_search.show_table?pLICENCE_TYPE_NAME=Spectrum&pLICENCE_CATEGORY_NAME=1800%20MHz%20Band |title=ACMA Register of Radiocommunications Licences (RRL) |publisher=Web.acma.gov.au |accessdate=2018-06-12}}</ref><ref>[http://www.transport.nsw.gov.au/projects-digital-train-radio-system Projects. Digital train radio system] transport.nsw.gov.au</ref><ref>{{cite web |url=http://www.transportregulator.nsw.gov.au/publications/waterfall_reports/2015/waterfall-annual-report-april-2014-march-2015/at_download/file |title=Archived copy |website=www.transportregulator.nsw.gov.au |access-date=6 June 2022 |archive-url=https://web.archive.org/web/20160304114949/http://www.transportregulator.nsw.gov.au/publications/waterfall_reports/2015/waterfall-annual-report-april-2014-march-2015/at_download/file |archive-date=4 March 2016 |url-status=dead}}</ref>
 |-
 | 505 || 14 || [[AAPT Limited|AAPT]] || [[TPG Telecom]] || Operational || MVNO || Wholesale from [[Vodafone Hutchison Australia]]
 |-
@@ -50,7 +51,7 @@ includes
 |-
 | 505 || 16 || [[VicTrack]] || Victorian Rail Track || Operational || GSM-R 1800 || Digital Train Radio System
 |-
-| 505 || 17 || || [[Optus]] || Operational || TD-LTE 2300 || Former Vivid Wireless Pty. Ltd.<ref name=itu_ob_1019/><ref name=gsa_lte/>
+| 505 || 17 || [[Optus]] || [[Optus|Singtel Optus Pty Ltd]] || Operational || TD-LTE 2300 || Former Vivid Wireless Pty. Ltd.<ref name=itu_ob_1019/><ref name=gsa_lte/>
 |-
 | 505 || 18 || Pactel || Pactel International Pty Ltd || Not operational || || MNC withdrawn<ref name=itu_ob_1209/>
 |-
@@ -86,7 +87,7 @@ includes
 |-
 | 505 || 35 || || MessageBird Pty Ltd || Unknown || Unknown || <ref name=itu_ob_1101/>
 |-
-| 505 || 36 || [[Optus]] || Optus Mobile Pty Ltd || Unknown || Unknown || <ref name=itu_ob_1104/>
+| 505 || 36 || [[Optus]] || [[Optus|Singtel Optus Pty Ltd]] || Unknown || Unknown || <ref name=itu_ob_1104/>
 |-
 | 505 || 37 || || [http://www.yancoal.com.au/ Yancoal Australia Ltd] || Unknown || Unknown || <ref name=itu_ob_1106/>
 |-
@@ -102,9 +103,9 @@ includes
 |-
 | 505 || 43 || || [https://www.arrowenergy.com.au/ Arrow Energy Pty Ltd] || Unknown || Unknown || <ref name=itu_ob_1141/>
 |-
-| 505 || 44 || || [[Roy Hill]] Iron Ore Pty Ltd || Unknown || Unknown || <ref name=itu_ob_1145/>
+| 505 || 44 || || [[Roy Hill mine|Roy Hill]] Iron Ore Pty Ltd || Unknown || Unknown || <ref name=itu_ob_1145/>
 |-
-| 505 || 45 || || [[Clermont, Queensland|Clermont]] Coal Operations Pty Ltd || Unknown || Unknown || <ref name=itu_ob_1157/>
+| 505 || 45 || || [[Clermont, Queensland|Clermont]] [[Glencore|Coal Operations Pty Ltd]] || Unknown || Unknown || <ref name=itu_ob_1157/>
 |-
 | 505 || 46 || || [[AngloGold Ashanti]] Australia Ltd || Unknown || Unknown || <ref name=itu_ob_1168/>
 |-
@@ -122,13 +123,23 @@ includes
 |-
 | 505 || 53 || || [[Shell Australia]] Pty Ltd || Unknown || Unknown || <ref name=itu_ob_1221/>
 |-
-| 505 || 54 || || [[Nokia]] Solutions and Networks Australia Pty Ltd || Unknown || Unknown || <ref name=itu_ob_1228/>
+| 505 || 54 || || [[Nokia]] Solutions and Networks Australia Pty Ltd || Not operational || Unknown || <ref name=itu_ob_1228/> MNC withdrawn<ref name=itu_ob_1272/>
 |-
-| 505 || 61 || [[CommTel NS]]|| [http://www.commtelns.com/ Commtel Network Solutions Pty Ltd] || Implement / Design || LTE 1800 / LTE 2100 || <ref name=itu_ob_1114/>
+| 505 || 55 || || New South Wales Government Telecommunications Authority || Unknown || Unknown || <ref name=itu_ob_1272/>
 |-
-| 505 || 62 || [[National Broadband Network|NBN]] || [[National Broadband Network]] Co. || Operational || TD-LTE 2300 / TD-LTE 3500 || LTE band 40 / 42<ref name=gsa_lte/><ref name=halberd/>
+| 505 || 56 || || [[Nokia]] Solutions and Networks Pty Ltd || Unknown || Unknown || <ref name=itu_ob_1272/>
 |-
-| 505 || 68 || [[National Broadband Network|NBN]] || [[National Broadband Network]] Co. || Operational || TD-LTE 2300 / TD-LTE 3500 || LTE band 40 / 42<ref name=gsa_lte/><ref name=halberd/>
+| 505 || 57 || CiFi || [[Internet in Christmas Island|Christmas Island Fibre Internet]] Pty Ltd || Unknown || Unknown || <ref name=itu_ob_1279/>
+|-
+| 505 || 58 || || Wi-Sky (NSW) Pty Ltd || Operational || Unknown || <ref name=itu_ob_1282/>
+|-
+| 505 || 59 || || [[Starlink]] Internet Services Pte Ltd || Operational || Satellite || <ref name=itu_ob_1288/>
+|-
+| 505 || 61 || CommTel NS || [http://www.commtelns.com/ Commtel Network Solutions Pty Ltd] || Implement / Design || LTE 1800 / LTE 2100 || <ref name=itu_ob_1114/>
+|-
+| 505 || 62 || [[National Broadband Network|NBN]] || [[NBN_Co|National Broadband Network Co.]] || Operational || TD-LTE 2300 / TD-LTE 3500 / 5G 28000 || LTE band 40 / 42<ref name=gsa_lte/><ref name=halberd/>
+|-
+| 505 || 68 || [[National Broadband Network|NBN]] || [[NBN_Co|National Broadband Network Co.]] || Operational || TD-LTE 2300 / TD-LTE 3500 / 5G 28000 || LTE band 40 / 42<ref name=gsa_lte/><ref name=halberd/>
 |-
 | 505 || 71 || [[Telstra]] || [[Telstra|Telstra Corporation Limited]] || Operational || Unknown ||
 |-
@@ -136,7 +147,7 @@ includes
 |-
 | 505 || 88 || || Pivotel Group Pty Ltd || Operational || Satellite || <ref name=itu_ob_1136/> Former Localstar Holding Pty. Ltd.
 |-
-| 505 || 90 || [[Optus]] || [[Optus|Singtel Optus Proprietary Ltd]] || Operational || Unknown ||
+| 505 || 90 || || UE Access Pty Ltd || Unknown || Unknown || Former [[Optus]]<ref name=itu_ob_1275/>
 |-
 | 505 || 99 || [[One.Tel]] || [[One.Tel]] || Not operational || GSM 1800 || Brand was dissolved. Rail operators purchased 1800 spectrum.
 |}
@@ -149,9 +160,9 @@ includes
 |-
 | 528 || 02 || PCSB || [[Progresif Cellular]] Sdn Bhd || Operational || UMTS 2100 || Former [[B-Mobile]]<ref name=itu_ob_1181/>
 |-
-| 528 || 03 || UNN || Unified National Networks Sdn Bhd || Unknown || Unknown || <ref name=itu_ob_1181/>
+| 528 || 03 || UNN || Unified National Networks Sdn Bhd || Operational || 5G || <ref name=itu_ob_1181/>
 |-
-| 528 || 11 || DST || Data Stream Technology Sdn Bhd || Operational || GSM 900 / UMTS 2100 / LTE 1800 || <ref name="gsa_lte1800_101213"/>
+| 528 || 11 || DST || Data Stream Technology Sdn Bhd || Operational || UMTS 2100 / LTE 1800 || <ref name="gsa_lte1800_101213"/> GSM shut down June 2021<ref name="2G Shutdown BN 1">{{cite web |url=https://unn.com.bn/storage/news/faq-cessation-of-2g-gsm-services.pdf |title=Cessation of 2G GSM services in Brunei Darussalam |publisher=UNN Brunei |date=2021-04-16 |access-date=2021-12-08}}</ref>
 |}
 
 === C ===
@@ -201,7 +212,7 @@ includes
 |-
 | 510 || 00 || PSN || PT Pasifik Satelit Nusantara || Operational || Satellite ||
 |-
-| 510 || 01 || [[Indosat Ooredoo Hutchison]] || PT Indosat Tbk || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / 5G 1800 || Former PT Satelindo <ref name=gsa_lte/><ref>{{cite web | url=http://www.indosat.com/Personal/Internet/SUPER_4GLTE | title=IM3 - Provider Internet Selular Indonesia Indosat Ooredoo Hutchison }}</ref>
+| 510 || 01 || [[Indosat]] || PT Indosat Tbk || Operational || GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / 5G 1800 || Former PT Satelindo;<ref name=gsa_lte/><ref>{{cite web | url=http://www.indosat.com/Personal/Internet/SUPER_4GLTE | title=IM3 - Provider Internet Selular Indonesia Indosat Ooredoo Hutchison }}</ref> UMTS shut down Dec 2022<ref name="Indosat ID">{{cite web |url=https://inet.detik.com/telecommunication/d-6104195/siap-siap-indosat-matikan-sinyal-3g-di-akhir-2022|title=Siap-Siap Indosat Matikan Sinyal 3G Di Akhir 2022 |publisher=detikcom |date=2022-05-31 |access-date=2022-07-16}}</ref>
 |-
 | 510 || 03 || StarOne || PT Indosat Tbk || Not operational || CDMA 800 || Shut down on 30 June 2015
 |-
@@ -211,29 +222,28 @@ includes
 |-
 | 510 || 09 || [[Smartfren]] || PT Smartfren Telecom || Operational || LTE 850 / TD-LTE 2300 || <ref name=gsa_lte/> CDMA 1900 shut down December 2016,<ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2016/12/14/smartfren-switches-off-1900mhz-cdma-service/ |title=Smartfren switches off 1900MHz CDMA service |publisher=TeleGeography |date=2016-12-14 |accessdate=2016-12-14}}</ref> CDMA 850 shut down November 2017<ref name="kumparan1">{{cite web|url=https://kumparan.com/jofie-yordan/13-november-smartfren-tutup-sepenuhnya-jaringan-cdma|title=13 November, Smartfren Tutup Sepenuhnya Jaringan CDMA|website=kumparan.com}}</ref>
 |-
-| 510 || 10 || [[Telkomsel]] || PT Telekomunikasi Selular || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / TD-LTE 2300 / 5G 2300 || <ref name=gsa_lte/>
+| 510 || 10 || [[Telkomsel]] || PT Telekomunikasi Selular || Operational || GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / TD-LTE 2300 / 5G 2100 / 5G 2300 || <ref name=gsa_lte/> UMTS shut down Dec 2022<ref name="Telkomsel_ID">{{cite web |url=https://www.commsupdate.com/articles/2022/07/07/telkomsel-switches-off-3g-network-in-jakarta/ |title=Telkomsel switches off 3G network in Jakarta |publisher=TeleGeography |date=2022-07-07 |access-date=2022-07-09}}</ref> 
 |-
-| 510 || 11 || [[Excelcomindo|XL]] || PT XL Axiata Tbk|| Operational || GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / 5G 1800 / 5G 2100 || UMTS shut down on 31 March 2022<ref>{{Cite web |last=Media |first=Kompas Cyber |date=2022-02-24 |title=XL Matikan Seluruh Sinyal 3G Akhir Maret 2022 Halaman all |url=https://tekno.kompas.com/read/2022/02/24/17450077/xl-matikan-seluruh-sinyal-3g-akhir-maret-2022 |access-date=2022-04-06 |website=KOMPAS.com |language=id}}</ref>
-<ref name=gsa_lte/><ref>{{in lang|id}} http://www.xl.co.id/id/4g-lte</ref>
+| 510 || 11 || [[Excelcomindo|XL]] || PT XL Axiata Tbk|| Operational || GSM 900 / GSM 1800 / LTE 900 / LTE 1800 / 5G 1800 / 5G 2100 || UMTS shut down on 31 March 2022<ref>{{Cite web |last=Media |first=Kompas Cyber |date=2022-02-24 |title=XL Matikan Seluruh Sinyal 3G Akhir Maret 2022 Halaman all |url=https://tekno.kompas.com/read/2022/02/24/17450077/xl-matikan-seluruh-sinyal-3g-akhir-maret-2022 |access-date=2022-04-06 |website=KOMPAS.com |language=id}}</ref><ref name=gsa_lte/><ref>{{in lang|id}} http://www.xl.co.id/id/4g-lte</ref>
 |-
-| 510 || 20 || TELKOMMobile || PT Telkom Indonesia Tbk|| Not operational || GSM 1800 || Merged with Telkomsel
+| 510 || 20 || TelkomMobile || PT Telkom Indonesia Tbk|| Not operational || GSM 1800 || Merged with Telkomsel
 |-
-| 510 || 21 || [[Indosat Ooredoo Hutchison]] || PT Indosat Tbk || Operational || GSM 900 / GSM 1800 || Former Indosat-M3; merged with Indosat (MNC 01)
+| 510 || 21 || [[Indosat]] || PT Indosat Tbk || Operational || GSM 900 / GSM 1800 || Former Indosat-M3; merged with Indosat (MNC 01)
 |-
-| 510 || 27 || [[Net 1]] || PT Net Satu Indonesia || Not operational || LTE 450 || Former Ceria, Sampoerna Telekomunikasi; CDMA 450 shut down 2017;<ref name=halberd/> license revoked on 30 November 2021<ref>{{cite web |url=https://inet.detik.com/telecommunication/d-5837122/net1-indonesia-sudah-tidak-beroperasi-sejak-30-november-2021|title=Net1 Indonesia Sudah Tidak Beroperasi Sejak 30 November 2021
+| 510 || 27 || Net1 || PT Net Satu Indonesia || Not operational || LTE 450 || Former Ceria, Sampoerna Telekomunikasi; CDMA 450 shut down 2017;<ref name=halberd/> license revoked on 30 November 2021<ref>{{cite web |url=https://inet.detik.com/telecommunication/d-5837122/net1-indonesia-sudah-tidak-beroperasi-sejak-30-november-2021|title=Net1 Indonesia Sudah Tidak Beroperasi Sejak 30 November 2021
 |publisher=Detik.com
 |language=id
 |date=2021-12-03 |access-date=2021-12-03}}</ref>
 |-
 | 510 || 28 || [[Mobile8|Fren/Hepi]] || PT Mobile-8 Telecom || Operational || LTE 850 / TD-LTE 2300 || Merged with SMART (MNC 09), CDMA 850 shut down November 2017<ref name="kumparan1"/>
 |-
-| 510 || 78 || Hinet || PT Berca Hardayaperkasa|| Operational || TD-LTE 2300 || Denpasar, Pekanbaru and Makassar
+| 510 || 78 || hinet || PT Berca Hardayaperkasa|| Not operational || TD-LTE 2300 || Shut down on 16 November 2022<ref>{{cite web |url=https://m.bisnis.com/amp/read/20221115/101/1598271/berca-tutup-layanan-internet-hinet-mulai-besok-16-november-2022|title=Berca Tutup Layanan Internet Hinet Mulai Besok 16 November 2022|lang=id|website=Bisnis.com|date=15 November 2022 }}</ref>
 |-
-| 510 || 88 || BOLT! 4G LTE || PT Internux || Not operational || TD-LTE 2300 || Shut down on 28 December 2018<ref name="Smartfren Bolt! ID">{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2019/01/03/smartfren-to-take-on-bolts-4g-operations-in-indonesia-paper-says/ |title=Smartfren to take on Bolt!'s 4G operations in Indonesia, paper says |publisher=TeleGeography |date=2019-01-03 |accessdate=2019-01-03}}</ref>
+| 510 || 88 || Bolt! || PT Internux || Not operational || TD-LTE 2300 || Shut down on 28 December 2018<ref name="Smartfren Bolt! ID">{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2019/01/03/smartfren-to-take-on-bolts-4g-operations-in-indonesia-paper-says/ |title=Smartfren to take on Bolt!'s 4G operations in Indonesia, paper says |publisher=TeleGeography |date=2019-01-03 |accessdate=2019-01-03}}</ref>
 |-
-| 510 || 89 || [[Hutchison 3G|3]] || PT Hutchison 3 Indonesia || Operational || GSM 1800 / UMTS 2100 / LTE 1800 || Merged with Indosat (MNC 01)<ref name=gsa_lte/>
+| 510 || 89 || [[Hutchison 3G|3]] || PT Hutchison 3 Indonesia || Operational || GSM 1800 / LTE 1800 || Merged with Indosat (MNC 01);<ref name=gsa_lte/> UMTS shut down Dec 2022<ref name="Indosat ID"/>
 |-
-| 510 || 99 || [[Bakrie Telecom|Esia]]|| [https://web.archive.org/web/20091029013457/http://www.bakrietelecom.com/ PT Bakrie Telecom]|| Not Operational || CDMA 800 || Merged with Smartfren (MNC 09)
+| 510 || 99 || Esia || [https://web.archive.org/web/20091029013457/http://www.bakrietelecom.com/ PT Bakrie Telecom]|| Not Operational || CDMA 800 || Merged with Smartfren (MNC 09)
 |}
 
 === K ===
@@ -253,25 +263,25 @@ includes
 |-
 | 502 || 01 || ATUR 450 || [[Telekom Malaysia]] Bhd || Not operational || CDMA2000 450 ||
 |-
-| 502 || 10 || || Maxis, DiGi, Celcom, XOX || Operational ||GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600 ||<ref name="authority_my"/> Former Celcom
+| 502 || 10 || || [[Celcom]], DiGi, Maxis, Tune Talk, U Mobile, Unifi, XOX, Yes || Operational ||GSM 900 / GSM 1800 / LTE 1800 / LTE 2600 ||<ref name="authority_my"/> Former Celcom; UMTS shut down Dec 2021<ref name="3G Shutdown MY"/>
 |-
 | 502 || 11 || TM Homeline || [[Telekom Malaysia]] Bhd || Operational || CDMA2000 850 / LTE 850 || <ref name=gsa_lte/><ref name="authority_my"/><ref>{{cite web |title=CDMA - Wireless Services |url=https://www.tm.com.my/Home/voice/access/Pages/CDMA.aspx |publisher=Telekom Malaysia |accessdate=13 February 2015}}</ref>
 |-
-| 502 || 12 || Maxis || [[Maxis Communications]] Berhad || Operational || GSM 900 / LTE 1800 / LTE 2100 / LTE 2600 || Used by MVNO Kartu As; LTE 2600 in co-operation with REDtone;<ref name=gsa_lte/><ref name=gsa_umts900/> UMTS shut down Dec 2021<ref name="3G Shutdown MY">{{cite web |url=https://www.nst.com.my/news/nation/2021/11/748653/3g-network-be-terminated-dec-31-users-advised-switch-4g |title=3G network to be terminated on Dec 31, users advised to switch to 4G |publisher=New Straits Times |date=2021-11-25 |access-date=2022-02-16}}</ref>
+| 502 || 12 || Maxis || [[Maxis Communications]] Berhad || Operational || GSM 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 / 5G 28000 || Used by MVNO Kartu As; LTE 2600 in co-operation with REDtone;<ref name=gsa_lte/><ref name=gsa_umts900/> UMTS shut down Dec 2021;<ref name="3G Shutdown MY">{{cite web |url=https://www.nst.com.my/news/nation/2021/11/748653/3g-network-be-terminated-dec-31-users-advised-switch-4g |title=3G network to be terminated on Dec 31, users advised to switch to 4G |publisher=New Straits Times |date=2021-11-25 |access-date=2022-02-16}}</ref> 5G provided by [[Digital Nasional Berhad|DNB]]
 |-
-| 502 || 13 || [[Celcom]] || Celcom Axiata Berhad || Operational || GSM 900 / LTE 1800 / LTE 2100 / LTE 2600 || Former Emartel, TMTouch; LTE 2600 in co-operation with Altel;<ref name=gsa_lte/><ref name="authority_my"/><ref name=CelcomAltel>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2013/09/25/celcom-inks-deal-with-nsn-for-klang-valley-network-transformation/ |title=Celcom inks deal with NSN for Klang Valley network transformation |publisher=TeleGeography |date=2013-09-25 |accessdate=2016-02-01}}</ref> UMTS shut down Dec 2021<ref name="3G Shutdown MY"/>
+| 502 || 13 || [[CelcomDigi]] || Celcom Axiata Berhad || Operational || GSM 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 / 5G 28000 || Former Emartel, TMTouch; LTE 2600 in co-operation with Altel;<ref name=gsa_lte/><ref name="authority_my"/><ref name=CelcomAltel>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2013/09/25/celcom-inks-deal-with-nsn-for-klang-valley-network-transformation/ |title=Celcom inks deal with NSN for Klang Valley network transformation |publisher=TeleGeography |date=2013-09-25 |accessdate=2016-02-01}}</ref> UMTS shut down Dec 2021;<ref name="3G Shutdown MY"/> reactivated in 2023 for [[Celcom]] and [[DiGi Telecommunications]] network integration;<ref name=CelcomDigi>{{cite web |url=https://soyacincau.com/2023/06/01/celcomdigi-users-to-experience-wider-98-population-coverage-and-faster-speeds-after-network-integration|title=CelcomDigi users to experience wider 98% population coverage and faster speeds after network integration |publisher=SoyaCincau |date=2023-06-01 |accessdate=2023-06-01}}</ref> 5G provided by [[Digital Nasional Berhad|DNB]]
 |-
 | 502 || 14 || || [[Telekom Malaysia]] Berhad for PSTN SMS || Unknown || ||<ref name="authority_my"/>
 |-
-| 502 || 150 || [[Tune Talk]] || Tune Talk Sdn Bhd || Operational || MVNO  || uses Celcom<ref name="authority_my"/>
+| 502 || 150 || [[Tune Talk]] || Tune Talk Sdn Bhd || Operational || MVNO  || uses [[Celcom]]<ref name="authority_my"/>
 |-
 | 502 || 151 || SalamFone || Baraka Telecom Sdn Bhd || Not operational || MVNO || <ref>{{cite web |url=http://www.salamfone.my/html/default.aspx?ID=4&PID=45 |title=Salamfone  |publisher=Salamfone.my |accessdate=14 November 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20121120141924/http://www.salamfone.my/html/default.aspx?ID=4&PID=45 |archivedate=20 November 2012 |df=dmy-all }}</ref> (MVNO)-MAXIS, previously using DiGi; MNC withdrawn<ref name="authority_my"/>
 |-
-| 502 || 152 || [[Yes 4G|Yes]] || YTL Communications Sdn Bhd || Operational || TD-LTE 2300 / TD-LTE 2600 / 5G 700 / 5G 3500 / 5G 28000 || WiMAX shut down 2019;<ref name="authority_my"/> 5G provided by [[Digital Nasional Berhad]]
+| 502 || 152 || [[Yes 4G|Yes]] || YTL Communications Sdn Bhd || Operational || TD-LTE 2300 / TD-LTE 2600 / 5G 700 / 5G 3500 / 5G 28000 || <ref name="authority_my"/> WiMAX shut down 2019;<ref>{{cite web |url=https://soyacincau.com/2019/10/01/yes-says-goodbye-to-wimax/ |title=Yes says goodbye to WiMAX |author=Alexander Wong |date=2019-10-01 |website=SoyaCincau.com |accessdate=2022-12-05}}</ref> 5G provided by [[Digital Nasional Berhad|DNB]]
 |-
-| 502 || 153 || unifi || Webe Digital Sdn Bhd || Operational || WiMAX 2300 / LTE 850 / TD-LTE 2300 / 5G 700 / 5G 3500 / 5G 28000 || Former [[Packet One Networks]]; subsidiary of [[Telekom Malaysia]];<ref name="authority_my"/> 5G provided by [[Digital Nasional Berhad]] 
+| 502 || 153 || unifi || TM Technology Services Sdn Bhd || Operational || WiMAX 2300 / LTE 850 / TD-LTE 2300 / 5G 700 / 5G 3500 / 5G 28000 || Former [[Packet One Networks]] and Webe Digital Sdn Bhd; subsidiary of [[Telekom Malaysia]];<ref name="authority_my"/> 5G provided by [[Digital Nasional Berhad|DNB]]; domestic roaming with [[Celcom]] and [[Maxis]]
 |-
-| 502 || 154 || Tron || Talk Focus Sdn Bhd || Operational || MVNO ||<ref name="authority_my"/> Uses Digi
+| 502 || 154 || Tron || Talk Focus Sdn Bhd || Not operational || MVNO ||<ref name="authority_my"/> Uses Digi, shut down on 17 Jan 2019<ref>{{cite web |url=https://soyacincau.com/2018/12/24/buzzme-tron-mvno-termination/ |title=MVNO Buzzme and TRON are shutting down |author=Alexander Wong |website=SoyaCinau.com |date=2018-12-24 |access-date=2022-12-13}}</ref>
 |-
 | 502 || 155 || Clixster || Clixster Mobile Sdn Bhd || Not operational || MVNO || Uses Digi; MNC withdrawn<ref name="authority_my"/>
 |-
@@ -281,11 +291,11 @@ includes
 |-
 | 502 || 16 || DiGi || [[DiGi Telecommunications]] || Operational || GSM 1800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 || LTE 2600 coverage limited to certain areas in the Klang Valley at the moment; former Mutiara Telecom; UMTS shut down Dec 2021<ref name="3G Shutdown MY"/>
 |-
-| 502 || 17 || [[Maxis]] || Maxis Communications Berhad || Operational || GSM 900 / LTE 1800 / LTE 2100 / LTE 2600 || Former TimeCel, Adam017; UMTS shut down Dec 2021<ref name="3G Shutdown MY"/>
+| 502 || 17 || [[Maxis_Communications|Maxis]] || Maxis Communications Berhad || Operational || GSM 900 / LTE 1800 / LTE 2100 / LTE 2600 || Former TimeCel, Adam017; UMTS shut down Dec 2021<ref name="3G Shutdown MY"/>
 |-
-| 502 || 18 || [[U Mobile]] || U Mobile Sdn Bhd || Operational || LTE 1800 / LTE 2100 / LTE 2600 || Domestic Roaming with Maxis, also for GSM; former Mobikom; UMTS shut down Dec 2021<ref name="3G Shutdown MY"/>
+| 502 || 18 || [[U Mobile]] || U Mobile Sdn Bhd || Operational || LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500 / 5G 28000 || Domestic Roaming with Maxis, also for GSM; former Mobikom; UMTS shut down Dec 2021;<ref name="3G Shutdown MY"/> 5G provided by [[Digital Nasional Berhad|DNB]]
 |-
-| 502 || 19 || [[Celcom]] || Celcom Axiata Berhad || Operational || GSM 900 / LTE 1800 / LTE 2100 / LTE 2600 || <ref name="authority_my"/> UMTS shut down Dec 2021<ref name="3G Shutdown MY"/>
+| 502 || 19 || [[Celcom]] || [[Celcom]] Axiata Berhad || Operational || GSM 900 / LTE 1800 / LTE 2100 / LTE 2600 || <ref name="authority_my"/> UMTS shut down Dec 2021<ref name="3G Shutdown MY"/>
 |-
 | 502 || 20 || Electcoms || Electcoms Berhad || Not operational || DMR || MNC withdrawn<ref name="authority_my"/>
 |}
@@ -307,32 +317,40 @@ includes
 {| {{MNC}}
 |-
 | 536 || 02 || Digicel || Digicel (Nauru) Corporation || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || Also uses MCC 542 MNC 02 (Fiji)<ref name=itu_ob_1056/>
+|-
+| 536 || 03 || || Nauru Telikom Corporation || Unknown || Unknown || <ref name=itu_ob_1285/>
 |}
 
 ==== [[New Caledonia]] ([[France]]) – NC ====
 {| {{MNC}}
 |-
-| 546 || 01 || Mobilis || OPT New Caledonia || Operational || GSM 900 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2600 || <ref name=gsa_lte/><ref name=gsa_umts900/>
+| 546 || 01 || Mobilis || [[OPT-NC|OPT New Caledonia]] || Operational || GSM 900 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2600 || <ref name=gsa_lte/><ref name=gsa_umts900/>
 |}
 
 ==== [[New Zealand]] – NZ ====
 {| {{MNC}}
 |-
-| 530 || 00 || Telecom || [[Spark New Zealand]] || Not operational || AMPS 800 / TDMA 800 || Shut down on 31 March 2007
+| 530 || 00 || Telecom || [[Telecom New Zealand]] || Not operational || AMPS 800 / TDMA 800 || Shut down on 31 March 2007
 |-
-| 530 || 01 || Vodafone || [[Vodafone New Zealand]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 ||
+| 530 || 01 || One NZ || [[One NZ]] || Operational || GSM 900 / UMTS 900 / LTE 700 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 || Former Vodafone New Zealand<ref name=itu_ob_1280/>
 |-
-| 530 || 02 || Telecom || [[Spark New Zealand]] || Not operational || CDMA2000 800 || Shut down on 31 July 2012
+| 530 || 02 || Telecom || [[Telecom New Zealand]] || Not operational || CDMA2000 800 || Shut down on 31 July 2012
 |-
 | 530 || 03 || Woosh || Woosh Wireless || Not operational || UMTS-TDD 2000 || Wireless broadband only
 |-
-| 530 || 04 || TelstraClear || [[TelstraClear]] || Not operational || UMTS 2100 ||
+| 530 || 04 || One NZ || [[One NZ]] || Not operational || UMTS 2100 || Former [[TelstraClear]], Vodafone<ref name=itu_ob_1280/>
 |-
-| 530 || 05 || Spark || [[Spark New Zealand]] || Operational || UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / TD-LTE 2300 / LTE 2600 / 5G 2600 / 5G 3500 || Formerly Telecom New Zealand
+| 530 || 05 || Spark || [[Spark New Zealand]] || Operational || UMTS 850 / LTE 700 / LTE 1800 / LTE 2100 / TD-LTE 2300 / LTE 2600 / 5G 3500 || Former Telecom New Zealand
 |-
 | 530 || 06 || || FX Networks || Unknown ||  Unknown || <ref name=itu_ob_1056/>
 |-
 | 530 || 07 || || Dense Air New Zealand || Unknown || Unknown || Former Bluereach Limited<ref name=itu_ob_1056/><ref name=itu_ob_1237/>
+|-
+| 530 || 11 || || Interim Māori Spectrum Commission || Unknown || Unknown || <ref name=itu_ob_1280/>
+|-
+| 530 || 12 || || Broadband & Internet New Zealand Limited || Unknown || Unknown || <ref name=itu_ob_1286/>
+|-
+| 530 || 13 || One NZ || [[One NZ]] ||  Unknown || Unknown || <ref name=itu_ob_1287/>
 |-
 | 530 || 24 || 2degrees || [[2degrees]] || Operational ||  UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1800 / LTE 2100 / 5G 3500 || GSM shut down on 15 March 2018<ref>{{cite news|url=https://www.stuff.co.nz/business/industries/102279812/2degrees-shuts-down-2g-network|accessdate=5 January 2019|title=2degrees shuts down 2G network|date=15 March 2018|work=[[Stuff.co.nz]]}}</ref>
 |}
@@ -393,7 +411,7 @@ includes
 |-
 | 515 || 66 || DITO || [[Dito Telecommunity]] Corp. || Operational || LTE 700 / LTE 2100 / TD-LTE 2500 / 5G 3500 ||
 |-
-| 515 || 88 ||  || Next Mobile Inc. || Operational || iDEN || Former Nextel Philippines
+| 515 || 88 ||  || Next Mobile Inc. || Operational || iDEN || Former [[NII Holdings#Discontinuation and divestiture of Nextel Philippines|Nextel Philippines]]
 |}
 
 === S ===
@@ -426,7 +444,7 @@ includes
 |-
 | 525 || 09 || [[Circles.Life]] || Liberty Wireless Pte Ltd || Operational || MVNO || <ref name=itu_ob_1128/>
 |-
-| 525 || 10 || SIMBA || [https://www.simba.sg/ SIMBA Telecom Pte Ltd] || Operational || LTE 900 / TD-LTE 2300 / TD-LTE 2500 || Former TPG Telecom<ref name=itu_ob_1128/>
+| 525 || 10 || SIMBA || [[Simba Telecom]] Pte Ltd || Operational || LTE 900 / TD-LTE 2300 / TD-LTE 2500 / 5G 2100 / 5G 26000 / 5G 28000 || Former TPG Telecom<ref name=itu_ob_1128/>
 |-
 | 525 || 11 || M1 || M1 Limited || Unknown || Unknown || <ref name=authority_sg/>
 |-
@@ -449,7 +467,7 @@ includes
 |-
 | 520 || 01 || AIS  || [[Advanced Info Service]] || Operational || GSM 900 || UMTS 900 shut down in 2013<ref name=itu_ob_779/><ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2013/07/11/ais-to-migrate-remaining-umts-900-users-to-2100mhz-in-two-months/ |title=AIS to migrate remaining UMTS-900 users to 2100MHz 'in two months' |publisher=TeleGeography |date=2013-07-11 |accessdate=2015-12-22}}</ref><ref name=Thai2GNoShutdown>{{cite web |url=https://www.mobileworldlive.com/asia/asia-news/thai-operators-keep-2g-alive/ |title=Thai operators keep 2G alive |publisher=GSMA |author=Joseph Waring |date=2019-11-12 |accessdate=2020-07-06}}</ref>
 |-
-| 520 || 02 || CAT CDMA || [[CAT Telecom]] || Not operational || CDMA 800 || Shut down in April 2013;<ref name=itu_ob_1029/><ref>{{cite web |url=http://www.telegeography.com/products/commsupdate/articles/2013/02/01/cdma-switch-off-delayed-to-april/ |title=CDMA switch-off delayed to April |publisher=TeleGeography |date=2013-02-01 |accessdate=2014-07-24}}</ref> frequency re-farmed for UMTS 850 network 520-00
+| 520 || 02 || NT Mobile || [[National Telecom Public Company Limited]] || Operational || UMTS 850 || Former [[CAT Telecom]]; CDMA shut down in April 2013<ref name=itu_ob_1029/><ref>{{cite web |url=http://www.telegeography.com/products/commsupdate/articles/2013/02/01/cdma-switch-off-delayed-to-april/ |title=CDMA switch-off delayed to April |publisher=TeleGeography |date=2013-02-01 |accessdate=2014-07-24}}</ref>
 |-
 | 520 || 03 || AIS || [[Advanced Info Service|Advanced Wireless Network Company Ltd.]] || Operational || UMTS 2100 / LTE 700 / LTE 900 / LTE 1800 / LTE 2100 / 5G 700 / 5G 2500 || <ref name=itu_ob_1029/><ref name=gsa_lte/>
 |-
@@ -461,7 +479,7 @@ includes
 |-
 | 520 || 15 || AIS-T / NT Mobile || [[National Telecom Public Company Limited]] || Operational || UMTS 2100 / LTE 2100 || Former Thaimobile 1900, ACT Mobile, [[TOT Public Company Limited]];<ref name=itu_ob_779/><ref name=itu_ob_1029/> used for NT Mobile, AIS-T and MVNO
 |-
-| 520 || 17 || NT Mobile || [[National Telecom Public Company Limited]] || Operational  || TD-LTE 2300 || Former [[TOT Public Company Limited]]; LTE band 40; for NT Mobile and MVNO except dtac-T uses 520-47
+| 520 || 17 || NT Mobile || [[National Telecom Public Company Limited]] || Operational  || TD-LTE 2300 || Former [[TOT Public Company Limited]]; LTE band 40; for NT Mobile and MVNO except dtac-T uses 520-47, UMTS 850 uses 520-02
 |-
 | 520 || 18 || dtac || [[DTAC|Total Access Communications Public Company Ltd.]] || Operational || GSM 1800 || <ref name=itu_ob_1029/><ref name=Thai2GNoShutdown/>
 |-
@@ -471,7 +489,7 @@ includes
 |-
 | 520 || 25 || WE PCT || [[True Corporation]] || Not operational || PHS 1900 || In Bangkok area
 |-
-| 520 || 47 || dtac-T || [[National Telecom Public Company Limited]] || Operational  || TD-LTE 2300 || Former [[TOT Public Company Limited]]; LTE band 40; for dtac Only <ref name=itu_ob_1029/>
+| 520 || 47 || dtac-T || [[National Telecom Public Company Limited]] || Operational  || TD-LTE 2300 || Former [[TOT Public Company Limited]]; LTE band 40; for dtac only<ref name=itu_ob_1029/>
 |-
 | 520 || 99 || TrueMove || [[True Corporation]] || Operational || GSM 1800 || <ref name=itu_ob_1029/><ref name=Thai2GNoShutdown/>
 |}
@@ -577,6 +595,15 @@ includes
 <ref name=itu_ob_1227>{{cite web |title=ITU Operational Bulletin No. 1227 |url=https://www.itu.int/pub/T-SP-OB.1227-2021 |publisher=ITU |date=1 September 2021 |accessdate=1 September 2021}}</ref>
 <ref name=itu_ob_1228>{{cite web |title=ITU Operational Bulletin No. 1228 |url=https://www.itu.int/pub/T-SP-OB.1228-2021 |publisher=ITU |date=15 September 2021 |accessdate=15 September 2021}}</ref>
 <ref name=itu_ob_1237>{{cite web |title=ITU Operational Bulletin No. 1237 |url=https://www.itu.int/pub/T-SP-OB.1237-2022 |publisher=ITU |date=1 February 2022 |accessdate=1 February 2022}}</ref>
+<ref name=itu_ob_1272>{{cite web |title=ITU Operational Bulletin No. 1272 |url=https://www.itu.int/pub/T-SP-OB.1272-2023 |publisher=ITU |date=15 July 2023 |access-date=15 July 2023}}</ref>
+<ref name=itu_ob_1275>{{cite web |title=ITU Operational Bulletin No. 1275 |url=https://www.itu.int/pub/T-SP-OB.1275-2023 |publisher=ITU |date=1 September 2023 |access-date=1 September 2023}}</ref>
+<ref name=itu_ob_1279>{{cite web |title=ITU Operational Bulletin No. 1279 |url=https://www.itu.int/pub/T-SP-OB.1279-2023 |publisher=ITU |date=1 November 2023 |access-date=31 October 2023}}</ref>
+<ref name=itu_ob_1280>{{cite web |title=ITU Operational Bulletin No. 1280 |url=https://www.itu.int/pub/T-SP-OB.1280-2023 |publisher=ITU |date=15 November 2023 |access-date=14 November 2023}}</ref>
+<ref name=itu_ob_1282>{{cite web |title=ITU Operational Bulletin No. 1282 |url=https://www.itu.int/pub/T-SP-OB.1282-2023 |publisher=ITU |date=15 December 2023 |access-date=14 December 2023}}</ref>
+<ref name=itu_ob_1285>{{cite web |title=ITU Operational Bulletin No. 1285 |url=https://www.itu.int/pub/T-SP-OB.1285-2024 |publisher=ITU |date=1 February 2024 |access-date=1 February 2024}}</ref>
+<ref name=itu_ob_1286>{{cite web |title=ITU Operational Bulletin No. 1286 |url=https://www.itu.int/pub/T-SP-OB.1286-2024 |publisher=ITU |date=15 February 2024 |access-date=14 February 2024}}</ref>
+<ref name=itu_ob_1287>{{cite web |title=ITU Operational Bulletin No. 1287 |url=https://www.itu.int/pub/T-SP-OB.1287-2024 |publisher=ITU |date=1 March 2024 |access-date=1 March 2024}}</ref>
+<ref name=itu_ob_1288>{{cite web |title=ITU Operational Bulletin No. 1288 |url=https://www.itu.int/pub/T-SP-OB.1288-2024 |publisher=ITU |date=15 March 2024 |access-date=14 March 2024}}</ref>
 }}
 
 [[Category:Telecommunications lists]]

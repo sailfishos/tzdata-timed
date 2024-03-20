@@ -1,6 +1,6 @@
 Name:       tzdata-timed
 Summary:    Data files for the time daemon, timed
-Version:    2021a
+Version:    2024a
 Release:    1
 License:    Public Domain
 BuildArch:  noarch
@@ -14,7 +14,7 @@ Timed daemon datafiles that combine information about time zones,
 and mobile country codes.
 
 %prep
-%setup -q -n %{name}-%{version}
+%autosetup -n %{name}-%{version}
 
 %build
 %make_build
