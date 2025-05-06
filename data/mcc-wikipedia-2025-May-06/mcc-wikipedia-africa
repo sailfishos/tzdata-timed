@@ -44,6 +44,8 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 | 616 || 04 || BBCOM || Bell Benin Communications || Operational || GSM 900 / GSM 1800 || <ref name=gsma_benin/>
 |-
 | 616 || 05 || [[Globacom|Glo]] || Glo Communication Benin || Not operational || GSM 900 / GSM 1800 || Licence revoked in 2017<ref name=halberd/>
+|-
+| 616 || 07 || [https://celtiis.bj/ Celtiis] || SBIN || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 || {{Citation needed|date=May 2024}}
 |}
 
 ==== [[Botswana]] – BW ====
@@ -53,15 +55,15 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 652 || 02 || Orange || [http://www.orange.co.bw Orange (Botswana) Pty Limited] || Operational || GSM 900 / UMTS 2100 / LTE 1800 / LTE 2100 / TD-LTE / 5G || formerly Vista Cellular<ref name=gsa_lte/><ref>{{cite web |title=Botswana |url=http://maps.mobileworldlive.com/network.php?cid=78&cname=Botswana |publisher=GSMA |accessdate=29 April 2014}}</ref>
 |-
-| 652 || 04 || beMobile || [[Botswana Telecommunications Corporation]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || <ref name=halberd/>
+| 652 || 04 || BTC Mobile || [[Botswana Telecommunications Corporation]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 || rebranded in 2017 (was beMobile)<ref name=halberd/>
 |}
 
 ==== [[Burkina Faso]] – BF ====
 {| {{MNC}}
 |-
-| 613 || 01 || Telmob || [https://web.archive.org/web/20190720220002/http://www.onatel.bf/ Onatel] || Operational || GSM 900 / UMTS 2100 / LTE 1800 || <ref name=gsa_hspa/><ref name=halberd/>
+| 613 || 01 || Moov || [[:fr:Moov Africa Burkina Faso|Moov Africa Burkina Faso]] || Operational || GSM 900 / UMTS 2100 / LTE 1800 || Former Onatel<ref name=gsa_hspa/><ref name=halberd/>
 |-
-| 613 || 02 || [http://www.orange.bf Orange] || Orange Burkina Faso || Operational || GSM 900 / UMTS 2100 / LTE 1800 || Previously Zain/Celtel,<ref name=gsa_hspa/><ref name="cellular-news.com">{{cite web |url=http://www.cellular-news.com/story/32799.php |title=Celtel to Rebrand As Zain Throughout Africa |publisher=Cellular News |date=31 July 2008 |accessdate=14 October 2016}}</ref> Airtel<ref name="www.orange.com">{{cite web |url=https://www.orange.com/en/Press-Room/press-releases/press-releases-2016/Orange-completes-acquisition-of-mobile-operator-Airtel-in-Burkina-Faso |title=Orange completes acquisition of mobile operator Airtel in Burkina Faso}}</ref>
+| 613 || 02 || [http://www.orange.bf Orange] || Orange Burkina Faso || Operational || GSM 900 / UMTS 2100 / LTE 1800 || Former Zain/Celtel,<ref name=gsa_hspa/><ref name="cellular-news.com">{{cite web |url=http://www.cellular-news.com/story/32799.php |title=Celtel to Rebrand As Zain Throughout Africa |publisher=Cellular News |date=31 July 2008 |accessdate=14 October 2016}}</ref> Airtel<ref name="www.orange.com">{{cite web |url=https://www.orange.com/en/Press-Room/press-releases/press-releases-2016/Orange-completes-acquisition-of-mobile-operator-Airtel-in-Burkina-Faso |title=Orange completes acquisition of mobile operator Airtel in Burkina Faso}}</ref>
 |-
 | 613 || 03 || Telecel Faso || Telecel Faso SA || Operational || GSM 900 / LTE 1800 ||
 |}
@@ -73,11 +75,11 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 |-
 | 642 || 02 || Tempo || VTEL MEA || Not operational || GSM 900 || Former Safaris; not related to Africell;<ref>{{cite web|url=https://www.telegeography.com/products/commsupdate/articles/2015/04/01/africell-holding-issues-statement-to-clarify-it-has-no-connection-to-burundis-tempo/ |title=Africell Holding issues statement to clarify it has no connection to Burundi's TEMPO |publisher=Telegeography.com |date=2015-04-01 |accessdate=2018-06-12}}</ref> suspended in 2015;<ref>{{cite web|url=http://www.agenceecofin.com/operateur/1903-27452-burundi-tempo-africell-ferme-pour-cause-de-dette-fiscale |title=Burundi : Tempo Africell fermé pour cause de dette fiscale |publisher=Agenceecofin.com |date= |accessdate=2018-06-12}}</ref> MNC withdrawn<ref name=authority_bi/>
 |-
-| 642 || 03 || Onatel || Onatel || Operational || GSM 900 || <ref name=authority_bi/>
+| 642 || 03 || Onatel || [[Onatel Burundi]] || Operational || GSM 900 || <ref name=authority_bi/>
 |-
-| 642 || 07 || Smart Mobile || LACELL SU || Not operational || GSM 1800 / UMTS 2100 || <ref name=gsa_hspa/><ref name=halberd/><ref name=authority_bi/> suspended in 2022<ref>{{cite web |url=https://www.commsupdate.com/articles/2022/09/06/arct-shuts-down-smart-burundi-over-tax-arrears-and-expired-licence/ |title=ARCT shuts down Smart Burundi over 'tax arrears' and expired licence |publisher=TeleGeography |date=2022-09-06 |access-date=2022-12-09}}</ref>
+| 642 || 07 || Smart Mobile || [[LACELL SU]] || Not operational || GSM 1800 / UMTS 2100 || <ref name=gsa_hspa/><ref name=halberd/><ref name=authority_bi/> suspended in 2022<ref>{{cite web |url=https://www.commsupdate.com/articles/2022/09/06/arct-shuts-down-smart-burundi-over-tax-arrears-and-expired-licence/ |title=ARCT shuts down Smart Burundi over 'tax arrears' and expired licence |publisher=TeleGeography |date=2022-09-06 |access-date=2022-12-09}}</ref>
 |-
-| 642 || 08 || [[Lumitel]] || [[Viettel]] Burundi || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 || Formerly HiTs Telecom<ref name=gsa_lte/><ref name=mwlive/><ref name=authority_bi/><ref>{{cite web |title=Government licenses sixth mobile operator – HiTs Telecom |url=https://www.telegeography.com/products/commsupdate/articles/2008/01/18/government-licenses-sixth-mobile-operator-hits-telecom/ |publisher=TeleGeography |date=18 January 2008 |accessdate=26 May 2015}}</ref><ref>{{cite web |url=http://www.telegeography.com/products/commsupdate/articles/2012/09/19/arct-burundi-withdraws-licences-from-hits-and-comium |title=ARCT Burundi withdraws licences from HiTS and Comium |publisher=TeleGeography |date=19 September 2012 |accessdate=28 July 2013}}</ref>
+| 642 || 08 || [[Lumitel]] || [[Viettel Burundi]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 || Formerly HiTs Telecom<ref name=gsa_lte/><ref name=mwlive/><ref name=authority_bi/><ref>{{cite web |title=Government licenses sixth mobile operator – HiTs Telecom |url=https://www.telegeography.com/products/commsupdate/articles/2008/01/18/government-licenses-sixth-mobile-operator-hits-telecom/ |publisher=TeleGeography |date=18 January 2008 |accessdate=26 May 2015}}</ref><ref>{{cite web |url=http://www.telegeography.com/products/commsupdate/articles/2012/09/19/arct-burundi-withdraws-licences-from-hits-and-comium |title=ARCT Burundi withdraws licences from HiTS and Comium |publisher=TeleGeography |date=19 September 2012 |accessdate=28 July 2013}}</ref>
 |-
 | 642 || 82 || econet Leo || [[Econet Wireless]] Burundi PLC || Operational || GSM 900 / GSM 1800 / UMTS 2100 || Formerly Telecel, then U-COM Burundi<ref name=authority_bi/>
 |}
@@ -211,6 +213,8 @@ This list contains the [[mobile country code]]s and [[mobile network code]]s for
 {| {{MNC}}
 |-
 | 636 || 01 || MTN || [[Ethio Telecom]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G || <ref name=itu_ob_1019/><ref name=gsa_lte/>
+|-
+| 636 || 02 || Safari || [[Safaricom Telecommunications Ethiopia]] || Operational || GSM900 / UMTS 2100 / LTE 1800 ||
 |}
 
 === F ===
@@ -502,7 +506,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 ==== [[Mozambique]] – MZ ====
 {| {{MNC}}
 |-
-| 643 || 01 || mCel || Mocambique Celular S.A. || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / 5G || <ref name=gsa_umts900/><ref name=gsma_mozambique/>
+| 643 || 01 || tmCel || [[:pt:Moçambique Telecom|Moçambique Telecom]] S.A. || Operational || GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / 5G || Former Mocambique Celular (mCel)<ref name=gsa_umts900/><ref name=gsma_mozambique/>
 |-
 | 643 || 03 || Movitel || [[Movitel, SA]] || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 ||<ref name=itu_ob_997/><ref name=gsma_mozambique>{{cite web |title=GSM Coverage Map Mozambique |url=http://maps.mobileworldlive.com/network.php?cid=94&cname=Mozambique |publisher=GSMA |accessdate=12 December 2012}}</ref> 
 |-
@@ -521,11 +525,11 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 649 || 04 || || [http://www.paratustelco.com Paratus Telecommunications (Pty)] || Operational || WiMAX 2500 / TD-LTE || former ITN/WTN<ref name=itu_ob_1085/><ref>{{cite web |url=https://www.telegeography.com/products/commsupdate/articles/2012/11/15/internet-technologies-group-chooses-alvarion-for-wireless-broadband/ |title=Internet Technologies Group chooses Alvarion for wireless broadband |publisher=TeleGeography |date=15 November 2012 |accessdate=8 October 2015}}</ref>
 |-
-| 649 || 05 || || Demshi Investments CC || Unknown || Unknown || <ref name=itu_ob_1090/>
+| 649 || 05 || || Demshi Investments CC || Not operational || Unknown || <ref name=itu_ob_1090/> MNC withdrawn<ref name=itu_ob_1312/>
 |-
 | 649 || 06 || || MTN Namibia || Operational || LTE || LTE fixed wireless, MVNO<ref name=itu_ob_1154/>
 |-
-| 649 || 07 || || Capricorn Connect || Unknown || Unknown || <ref name=itu_ob_1197/>
+| 649 || 07 || || Loc Eight Mobile (Pty) Ltd || Unknown || Unknown || former Capricorn Connect<ref name=itu_ob_1197/><ref name=itu_ob_1307/><ref name=itu_ob_1312/>
 |}
 
 ==== [[Niger]] – NE ====
@@ -633,7 +637,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 619 || 04 || Comium || Comium (Sierra Leone) Ltd. || Not operational || GSM 900 / GSM 1800 ||
 |-
-| 619 || 05 || [[Africell]] || Lintel Sierra Leone Limited || Operational || GSM 900 ||
+| 619 || 05 || [[Africell]] || Lintel Sierra Leone Limited || Operational || GSM 900 / UMTS 900 || <ref>{{cite web |title=Africell - Sierra Leone |url=https://www.frequencycheck.com/carriers/africell-sierra-leone |website=Frequency Check |access-date=20 Mar 2025}}</ref> <ref>{{cite web |title=OpenCelliD |url=https://opencellid.org/ |website=OpenCelliD |publisher=Unwired Labs|access-date=20 Mar 2025}}</ref>
 |-
 | 619 || 06 || SierraTel || Sierra Leone Telephony || Operational || CDMA 800 / LTE ||
 |-
@@ -691,11 +695,15 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 655 || 06 || || [[Sentech|Sentech (Pty) Ltd]] || Operational || Unknown ||
 |-
-| 655 || 07 || [[Cell C]] || [[Cell C|Cell C (Pty) Ltd]]|| Operational || GSM 900 / GSM 1800 / UMTS 900 / LTE 1800 / LTE 2100 ||
+| 655 || 07 || [[Cell C]] || [[Cell C|Cell C (Pty) Ltd]] || Operational || GSM 900 / GSM 1800 / UMTS 900 / LTE 1800 / LTE 2100 ||
+|-
+| 655 || 08 || [[Cell C]] || [[Cell C|Cell C (Pty) Ltd]] || Unknown || Unknown || <ref name=itu_ob_1301/>
+|-
+| 655 || 09 || [[Cell C]] || [[Cell C|Cell C (Pty) Ltd]] || Unknown || Unknown || <ref name=itu_ob_1301/>
 |-
 | 655 || 10 || MTN || [[MTN Group]] || Operational || GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / 5G 700 / 5G 1800 / 5G 2100 / 5G 3500 / 5G 28000 ||
 |-
-| 655 || 11 || || [[South African Police Service]] Gauteng || Not operational || TETRA 410 || <ref name=itu_ob_1176/>
+| 655 || 11 || MTN || [[MTN Group]] || Unknown || Unknown || Former [[South African Police Service]] Gauteng<ref name=itu_ob_1176/><ref name=itu_ob_1301/>
 |-
 | 655 || 12 || MTN || [[MTN Group]] || Unknown || Unknown || <ref name=itu_ob_1056/>
 |-
@@ -706,6 +714,8 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 | 655 || 16 || || Phoenix System Integration (Pty) Ltd || Not operational || Unknown || MNC withdrawn <ref name=itu_ob_1057/><ref name=itu_ob_1059/>
 |-
 | 655 || 17 || || [[Sishen mine|Sishen Iron Ore Company (Ltd) Pty]] || Not operational || Unknown || <ref name=itu_ob_1077/><ref name=itu_ob_1176/>
+|-
+| 655 || 18 || MTN || [[MTN Group]] || Unknown || Unknown || <ref name=itu_ob_1301/>
 |-
 | 655 || 19 || [[Rain (telecommunications)|rain]] || Wireless Business Solutions (Pty) Ltd || Operational || LTE 1800 / TD-LTE 2600 / TD-5G 2600 || 
 |-
@@ -761,11 +771,13 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 ==== [[South Sudan]] – SS ====
 {| {{MNC}}
 |-
-| 659 || 02 || MTN || MTN South Sudan || Operational || GSM 900 / GSM 1800 / UMTS 2100 ||<ref name=gsma-ss>{{cite web |title=GSMA - South Sudan |url=http://maps.mobileworldlive.com/network.php?cid=64&cname=South%20Sudan |accessdate=26 November 2012}}</ref><ref name=itu-ss>{{cite web |title=ITU - Numbering Plan South Sudan |url=http://www.itu.int/dms_pub/itu-t/oth/02/02/T02020000F90001PDFE.pdf |accessdate=26 November 2012}}</ref> 
+| 659 || 02 || MTN || MTN South Sudan || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE ||<ref name=gsma-ss>{{cite web |title=GSMA - South Sudan |url=http://maps.mobileworldlive.com/network.php?cid=64&cname=South%20Sudan |accessdate=26 November 2012}}</ref><ref name=itu-ss>{{cite web |title=ITU - Numbering Plan South Sudan |url=http://www.itu.int/dms_pub/itu-t/oth/02/02/T02020000F90001PDFE.pdf |accessdate=26 November 2012}}</ref> 
 |-
 | 659 || 03 || Gemtel || Gemtel || Operational || GSM 900 / GSM 1800 ||<ref name=gsma-ss/><ref name=itu-ss/> 
 |-
-| 659 || 04 || Vivacell || Network of the World (NOW) || Not operational || GSM 900 / GSM 1800||<ref name=gsma-ss/><ref name=itu-ss/> shut down Mar 2018<ref>{{cite web |url=https://southsudannewsagency.org/index.php/2018/03/20/south-sudan-communication-authority-suspends-mobile-operator-vivacell/ |title=South Sudan communication authority suspends mobile operator Vivacell |publisher=South Sudan News Agency |date=20 March 2018 |accessdate= 25 November 2019}}</ref>
+| 659 || 04 || Vivacell || Network of the World (NOW) || Not operational || GSM 900 / GSM 1800||<ref name=gsma-ss/><ref name=itu-ss/> shut down Mar 2018<ref>{{cite web |url=https://southsudannewsagency.org/index.php/2018/03/20/south-sudan-communication-authority-suspends-mobile-operator-vivacell/ |archive-url=https://web.archive.org/web/20180323022918/http://southsudannewsagency.org/index.php/2018/03/20/south-sudan-communication-authority-suspends-mobile-operator-vivacell/ |url-status=usurped |archive-date=23 March 2018 |title=South Sudan communication authority suspends mobile operator Vivacell |publisher=South Sudan News Agency |date=20 March 2018 |accessdate= 25 November 2019}}</ref>
+|-
+| 659 || 05 || DIGITEL || DIGITEL Holdings Ltd. || Operational || LTE || {{citation needed|date=July 2024}}
 |-
 | 659 || 06 || Zain || Zain South Sudan || Operational || GSM 900 / GSM 1800 / UMTS 2100 / LTE 2100 ||<ref name=gsma-ss/><ref name=itu-ss/>
 |-
@@ -810,7 +822,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |- 
 | 640 || 09 || [[Viettel Tanzania|Halotel]] || [[Viettel]] Tanzania Limited || Operational || GSM 900 / GSM 1800 / UMTS 2100 || Former ExcellentCom Tanzania Limited (Hits)<ref name=itu_ob_1106/><ref name=mwlive/><ref name=authority_tz/><ref name=halberd/>
 |-
-| 640 || 11 || [[Smile Communications Tanzania|SmileCom]] || [http://www.smilecoms.com Smile Telecoms Holdings Ltd. ] || Operational || LTE 800 ||<ref name=itu_ob_1106/><ref name=authority_tz/>
+| 640 || 11 || [[Smile Communications Tanzania|Smile]] || [http://www.smilecoms.com Smile Telecoms Holdings Ltd. ] || Operational || LTE 800 ||<ref name=itu_ob_1106/><ref name=authority_tz/>
 |-
 | 640 || 12 || || MyCell Limited || Not operational || Unknown || MNC withdrawn<ref name=itu_ob_1106/><ref name=authority_tz/>
 |-
@@ -886,6 +898,8 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 |-
 | 645 || 03 || ZAMTEL || Zambia Telecommunications Company Ltd || Operational || GSM 900 / UMTS 2100 / TD-LTE 2300 || <ref name=gsa_lte/><ref name=halberd/>
 |-
+| 645 || 04 || Zedmobile || Beeline Telecoms Limited || Unknown || LTE || <ref name=itu_ob_1293/>
+|-
 | 645 || 07 || || Liquid Telecom Zambia Limited || Unknown || Unknown || <ref name=itu_ob_1230/>
 |}
 
@@ -911,7 +925,7 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 <ref name=authority_bi>{{cite web |title=Ressource attribuée |url=http://www.arct.gov.bi/index.php/2016-08-07-17-44-04/numerotage/ressources-attribuees |publisher=ARCT |language=French |accessdate=14 February 2018 |df=dmy-all }}</ref>
 <ref name=authority_fr>{{cite web |title=Numérotation |url=https://extranet.arcep.fr/portail/Communications%C3%A9lectroniques/Num%C3%A9rotation.aspx |publisher=ARCEP |access-date=5 January 2022}}</ref>
 <ref name=authority_gh>{{cite web |title=Numbering |url=https://www.nca.org.gh/licensing-authorisation/numbering/ |publisher=NCA |accessdate=20 January 2020}}</ref>
-<ref name=authority_ke>{{cite web |url=https://ca.go.ke/industry/numbering/national-numbering-plan/ |title=National Numbering Plan |publisher=CA |date=Oct 2020 |access-date=2 November 2020}}</ref>
+<ref name=authority_ke>{{cite web |url=https://www.ca.go.ke/sites/default/files/CA/Numbering%20Plan/Telecommunication%20Numbering%20Plan%20for%20Kenya%20April%202024.pdf |title=National Numbering Plan |publisher=CA |date=Apr 2024 |access-date=16 June 2024}}</ref>
 <ref name=authority_rw>{{cite web |title=RWANDA NATIONAL TELECOMMUNICATIONS NUMBERING PLAN. |url=http://www.rura.rw/fileadmin/docs/RWANDA_NATIONAL_NUMBERING_PLAN.pdf |publisher=RURA |accessdate=15 February 2018}}</ref>
 <ref name=authority_tz>{{cite web |title=Reports |url=http://www.tcra.go.tz/index.php/publication-and-statistics/reports |publisher=TCRA |date=June 2017 |accessdate=15 February 2018}}</ref>
 <ref name=halberd>{{cite web |title=Africa |url=https://halberdbastion.com/intelligence/geographic-regions/africa |publisher=Halberd Bastion |accessdate=2019-11-07}}</ref>
@@ -971,6 +985,10 @@ Former Only<ref name=halberd/><ref>{{cite web |url=https://www.telegeography.com
 <ref name=itu_ob_1248>{{cite web |title=ITU Operational Bulletin No. 1248 |url=https://www.itu.int/pub/T-SP-OB.1248-2022 |publisher=ITU |date=15 July 2022 |accessdate=14 July 2022}}</ref>
 <ref name=itu_ob_1258>{{cite web |title=ITU Operational Bulletin No. 1258 |url=https://www.itu.int/pub/T-SP-OB.1258-2022 |publisher=ITU |date=15 December 2022 |access-date=15 December 2022}}</ref>
 <ref name=itu_ob_1278>{{cite web |title=ITU Operational Bulletin No. 1278 |url=https://www.itu.int/pub/T-SP-OB.1278-2023 |publisher=ITU |date=15 October 2023 |access-date=14 October 2023}}</ref>
+<ref name=itu_ob_1293>{{cite web |title=ITU Operational Bulletin No. 1293 |url=https://www.itu.int/pub/T-SP-OB.1293-2024 |publisher=ITU |date=1 June 2024 |access-date=1 June 2024}}</ref>
+<ref name=itu_ob_1301>{{cite web |title=ITU Operational Bulletin No. 1301 |url=https://www.itu.int/pub/T-SP-OB.1301-2024 |publisher=ITU |date=1 October 2024 |access-date=22 October 2024}}</ref>
+<ref name=itu_ob_1307>{{cite web |title=ITU Operational Bulletin No. 1307 |url=https://www.itu.int/pub/T-SP-OB.1307-2025 |publisher=ITU |date=1 January 2025 |access-date=9 January 2025}}</ref>
+<ref name=itu_ob_1312>{{cite web |title=ITU Operational Bulletin No. 1312 |url=https://www.itu.int/pub/T-SP-OB.1312-2025 |publisher=ITU |date=15 March 2025 |access-date=18 March 2025}}</ref>
 }}
 
 [[Category:Telecommunications lists]]

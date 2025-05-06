@@ -1,6 +1,6 @@
 Name:       tzdata-timed
 Summary:    Data files for the time daemon, timed
-Version:    2024a
+Version:    2025b
 Release:    1
 License:    Public Domain
 BuildArch:  noarch
@@ -23,5 +23,4 @@ and mobile country codes.
 %make_install
 
 %files
-%defattr(-,root,root,-)
 %{_datadir}/tzdata-timed
