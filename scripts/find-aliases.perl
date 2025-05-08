@@ -249,7 +249,7 @@ print STDERR "WARNING: unsupported zones ", join(", ", sort keys %$unsupported),
 for my $z (sort keys %$table)
 {
   my $list = $table->{$z} ;
-  my $str = join " ", @$list if @$list ;
+  my $str = join " ", @$list[0], sort @$list[1..$#$list] ;
   print "$str\n" ;
 }
 
