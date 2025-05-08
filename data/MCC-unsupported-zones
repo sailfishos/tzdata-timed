@@ -99,3 +99,8 @@ MQ
 # so not a major issue.
 ^270.*77.*BE
 ^270.*99.*BE
+
+# France shares a network with Luxembourg, 270 07, even though most
+# of France uses MCC 208. (All of Luxembourg uses 270). Both are (UTC+01),
+# so not a major issue.
+^270.*07.*FR

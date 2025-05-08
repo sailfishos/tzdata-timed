@@ -9,7 +9,7 @@
 #
 # The main source for this list is the Wikipedia article on mobile
 # country codes: http://en.wikipedia.org/wiki/Mobile_country_code
-# Updated from Wikipedia on Mar 20, 2024 with the help of
+# Updated from Wikipedia on May 06, 2025 with the help of
 # scripts/create-mcc-country-mappings.sh
 
 213 03 AD Andorra
@@ -40,13 +40,17 @@
 631 04 AO Angola
 631 05 AO Angola
 722 010 AR Argentina
+722 01 AR Argentina
 722 020 AR Argentina
 722 034 AR Argentina
 722 040 AR Argentina
 722 070 AR Argentina
+722 07 AR Argentina
+722 210 AR Argentina
 722 310 AR Argentina
 722 320 AR Argentina
 722 330 AR Argentina
+722 340 AR Argentina
 722 341 AR Argentina
 722 350 AR Argentina
 311 780 AS American Samoa
@@ -233,6 +237,7 @@
 616 03 BJ Benin
 616 04 BJ Benin
 616 05 BJ Benin
+616 07 BJ Benin
 340 01 BL French Antilles
 340 02 BL French Antilles
 340 03 BL French Antilles
@@ -325,6 +330,7 @@
 702 68 BZ Belize
 702 69 BZ Belize
 702 99 BZ Belize
+302 060 CA Canada
 302 100 CA Canada
 302 130 CA Canada
 302 131 CA Canada
@@ -332,6 +338,7 @@
 302 150 CA Canada
 302 151 CA Canada
 302 152 CA Canada
+302 160 CA Canada
 302 220 CA Canada
 302 221 CA Canada
 302 222 CA Canada
@@ -340,6 +347,7 @@
 302 270 CA Canada
 302 290 CA Canada
 302 300 CA Canada
+302 301 CA Canada
 302 310 CA Canada
 302 320 CA Canada
 302 330 CA Canada
@@ -347,6 +355,7 @@
 302 350 CA Canada
 302 351 CA Canada
 302 352 CA Canada
+302 353 CA Canada
 302 360 CA Canada
 302 361 CA Canada
 302 370 CA Canada
@@ -387,6 +396,9 @@
 302 710 CA Canada
 302 720 CA Canada
 302 721 CA Canada
+302 722 CA Canada
+302 723 CA Canada
+302 724 CA Canada
 302 730 CA Canada
 302 740 CA Canada
 302 741 CA Canada
@@ -401,8 +413,11 @@
 302 860 CA Canada
 302 880 CA Canada
 302 910 CA Canada
+302 911 CA Canada
 302 920 CA Canada
 302 940 CA Canada
+302 970 CA Canada
+302 971 CA Canada
 302 990 CA Canada
 302 991 CA Canada
 302 996 CA Canada
@@ -455,6 +470,9 @@
 228 69 CH Switzerland
 228 70 CH Switzerland
 228 71 CH Switzerland
+228 72 CH Switzerland
+228 73 CH Switzerland
+228 74 CH Switzerland
 228 98 CH Switzerland
 228 99 CH Switzerland
 612 01 CI Ivory Coast
@@ -486,11 +504,14 @@
 730 18 CL Chile
 730 19 CL Chile
 730 20 CL Chile
+730 21 CL Chile
 730 22 CL Chile
 730 23 CL Chile
 730 26 CL Chile
 730 27 CL Chile
+730 29 CL Chile
 730 99 CL Chile
+740 24 CL Chile
 624 01 CM Cameroon
 624 02 CM Cameroon
 624 03 CM Cameroon
@@ -639,6 +660,7 @@
 238 73 DK Denmark
 238 77 DK Denmark
 238 88 DK Denmark
+238 95 DK Denmark
 238 96 DK Denmark
 366 020 DM Dominica
 366 110 DM Dominica
@@ -688,6 +710,10 @@
 248 31 EE Estonia
 248 32 EE Estonia
 248 33 EE Estonia
+248 34 EE Estonia
+248 35 EE Estonia
+248 36 EE Estonia
+248 37 EE Estonia
 248 71 EE Estonia
 602 01 EG Egypt
 602 02 EG Egypt
@@ -735,7 +761,15 @@
 214 51 ES Spain
 214 700 ES Spain
 214 701 ES Spain
+214 702 ES Spain
+214 703 ES Spain
+214 704 ES Spain
+214 705 ES Spain
+214 706 ES Spain
+214 707 ES Spain
+214 709 ES Spain
 636 01 ET Ethiopia
+636 02 ET Ethiopia
 244 03 FI Finland
 244 04 FI Finland
 244 05 FI Finland
@@ -799,6 +833,7 @@
 542 03 FJ Fiji
 750 001 FK Falkland Islands
 550 01 FM Federated States of Micronesia
+550 02 FM Federated States of Micronesia
 288 01 FO Faroe Islands
 288 02 FO Faroe Islands
 288 03 FO Faroe Islands
@@ -889,6 +924,7 @@
 208 96 FR France
 208 97 FR France
 208 98 FR France
+270 07 FR France
 628 01 GA Gabon
 628 02 GA Gabon
 628 03 GA Gabon
@@ -991,7 +1027,10 @@
 282 14 GE Georgia
 282 15 GE Georgia
 282 16 GE Georgia
+282 17 GE Georgia
+282 18 GE Georgia
 282 22 GE Georgia
+282 66 GE Georgia
 340 01 GF French Guiana
 340 02 GF French Guiana
 340 11 GF French Guiana
@@ -1037,6 +1076,7 @@
 611 05 GN Guinea
 627 01 GQ Equatorial Guinea
 627 03 GQ Equatorial Guinea
+202 00 GR Greece
 202 01 GR Greece
 202 02 GR Greece
 202 03 GR Greece
@@ -1044,6 +1084,7 @@
 202 05 GR Greece
 202 06 GR Greece
 202 07 GR Greece
+202 08 GR Greece
 202 09 GR Greece
 202 10 GR Greece
 202 11 GR Greece
@@ -1052,9 +1093,13 @@
 202 14 GR Greece
 202 15 GR Greece
 202 16 GR Greece
+202 17 GR Greece
+202 21 GR Greece
 704 01 GT Guatemala
 704 02 GT Guatemala
 704 03 GT Guatemala
+704 04 GT Guatemala
+704 05 GT Guatemala
 310 032 GU Guam
 310 033 GU Guam
 310 140 GU Guam
@@ -1101,12 +1146,17 @@
 454 24 HK Hong Kong
 454 25 HK Hong Kong
 454 26 HK Hong Kong
+454 290 HK Hong Kong
 454 29 HK Hong Kong
 454 30 HK Hong Kong
 454 31 HK Hong Kong
 454 32 HK Hong Kong
 454 35 HK Hong Kong
 454 36 HK Hong Kong
+454 380 HK Hong Kong
+454 382 HK Hong Kong
+454 383 HK Hong Kong
+454 390 HK Hong Kong
 708 001 HN Honduras
 708 002 HN Honduras
 708 030 HN Honduras
@@ -1131,6 +1181,7 @@
 216 03 HU Hungary
 216 04 HU Hungary
 216 20 HU Hungary
+216 25 HU Hungary
 216 30 HU Hungary
 216 70 HU Hungary
 510 00 ID Indonesia
@@ -1164,6 +1215,8 @@
 272 17 IE Ireland
 272 18 IE Ireland
 272 21 IE Ireland
+272 25 IE Ireland
+272 42 IE Ireland
 272 68 IE Ireland
 425 01 IL Israel
 425 02 IL Israel
@@ -1287,7 +1340,6 @@
 404 96 IN India
 404 97 IN India
 404 98 IN India
-405 01 IN India
 405 024 IN India
 405 025 IN India
 405 026 IN India
@@ -1369,6 +1421,7 @@
 405 817 IN India
 405 818 IN India
 405 819 IN India
+405 81 IN India
 405 820 IN India
 405 821 IN India
 405 822 IN India
@@ -1378,6 +1431,7 @@
 405 827 IN India
 405 828 IN India
 405 829 IN India
+405 82 IN India
 405 831 IN India
 405 832 IN India
 405 833 IN India
@@ -1387,6 +1441,7 @@
 405 837 IN India
 405 838 IN India
 405 839 IN India
+405 83 IN India
 405 840 IN India
 405 841 IN India
 405 842 IN India
@@ -1397,6 +1452,7 @@
 405 847 IN India
 405 848 IN India
 405 849 IN India
+405 84 IN India
 405 850 IN India
 405 851 IN India
 405 852 IN India
@@ -1407,6 +1463,7 @@
 405 857 IN India
 405 858 IN India
 405 859 IN India
+405 85 IN India
 405 860 IN India
 405 861 IN India
 405 862 IN India
@@ -1417,6 +1474,7 @@
 405 867 IN India
 405 868 IN India
 405 869 IN India
+405 86 IN India
 405 870 IN India
 405 871 IN India
 405 872 IN India
@@ -1484,6 +1542,7 @@
 418 40 IQ Iraq
 418 45 IQ Iraq
 418 62 IQ Iraq
+418 66 IQ Iraq
 418 92 IQ Iraq
 432 01 IR Iran
 432 02 IR Iran
@@ -1597,6 +1656,7 @@
 440 21 JP Japan
 440 22 JP Japan
 440 23 JP Japan
+440 24 JP Japan
 440 50 JP Japan
 440 51 JP Japan
 440 52 JP Japan
@@ -1610,6 +1670,10 @@
 440 75 JP Japan
 440 76 JP Japan
 440 78 JP Japan
+440 91 JP Japan
+440 92 JP Japan
+440 93 JP Japan
+440 94 JP Japan
 441 01 JP Japan
 441 10 JP Japan
 441 200 JP Japan
@@ -1626,6 +1690,9 @@
 441 211 JP Japan
 441 212 JP Japan
 441 213 JP Japan
+441 214 JP Japan
+441 215 JP Japan
+441 216 JP Japan
 441 91 JP Japan
 639 01 KE Kenya
 639 02 KE Kenya
@@ -1643,7 +1710,9 @@
 639 14 KE Kenya
 437 01 KG Kyrgyzstan
 437 03 KG Kyrgyzstan
+437 04 KG Kyrgyzstan
 437 05 KG Kyrgyzstan
+437 06 KG Kyrgyzstan
 437 09 KG Kyrgyzstan
 437 10 KG Kyrgyzstan
 437 11 KG Kyrgyzstan
@@ -1683,12 +1752,14 @@
 419 04 KW Kuwait
 338 05 KY Cayman Islands
 346 001 KY Cayman Islands
+346 007 KY Cayman Islands
 346 050 KY Cayman Islands
 346 140 KY Cayman Islands
 401 01 KZ Kazakhstan
 401 02 KZ Kazakhstan
 401 07 KZ Kazakhstan
 401 08 KZ Kazakhstan
+401 10 KZ Kazakhstan
 401 77 KZ Kazakhstan
 457 01 LA Laos
 457 02 LA Laos
@@ -1698,6 +1769,10 @@
 415 01 LB Lebanon
 415 03 LB Lebanon
 415 05 LB Lebanon
+415 36 LB Lebanon
+415 37 LB Lebanon
+415 38 LB Lebanon
+415 39 LB Lebanon
 338 05 LC Saint Lucia
 358 110 LC Saint Lucia
 295 01 LI Liechtenstein
@@ -1815,6 +1890,7 @@
 414 21 MM Myanmar
 414 22 MM Myanmar
 414 23 MM Myanmar
+428 33 MN Mongolia
 428 88 MN Mongolia
 428 91 MN Mongolia
 428 98 MN Mongolia
@@ -1871,6 +1947,9 @@
 334 180 MX Mexico
 334 190 MX Mexico
 334 200 MX Mexico
+334 210 MX Mexico
+334 220 MX Mexico
+334 230 MX Mexico
 502 01 MY Malaysia
 502 10 MY Malaysia
 502 11 MY Malaysia
@@ -2201,6 +2280,7 @@
 250 33 RU Russian Federation
 250 34 RU Russian Federation
 250 35 RU Russian Federation
+250 37 RU Russian Federation
 250 38 RU Russian Federation
 250 39 RU Russian Federation
 250 40 RU Russian Federation
@@ -2208,6 +2288,7 @@
 250 45 RU Russian Federation
 250 50 RU Russian Federation
 250 54 RU Russian Federation
+250 57 RU Russian Federation
 250 59 RU Russian Federation
 250 60 RU Russian Federation
 250 61 RU Russian Federation
@@ -2218,8 +2299,8 @@
 250 93 RU Russian Federation
 250 96 RU Russian Federation
 250 97 RU Russian Federation
+250 98 RU Russian Federation
 250 99 RU Russian Federation
-255 98 RU Russian Federation
 635 10 RW Rwanda
 635 11 RW Rwanda
 635 12 RW Rwanda
@@ -2231,6 +2312,8 @@
 420 04 SA Saudi Arabia
 420 05 SA Saudi Arabia
 420 06 SA Saudi Arabia
+420 09 SA Saudi Arabia
+420 10 SA Saudi Arabia
 420 21 SA Saudi Arabia
 540 01 SB Solomon Islands
 540 02 SB Solomon Islands
@@ -2295,12 +2378,14 @@
 240 49 SE Sweden
 240 50 SE Sweden
 240 51 SE Sweden
+240 59 SE Sweden
 240 60 SE Sweden
 240 61 SE Sweden
 240 63 SE Sweden
 525 01 SG Singapore
 525 02 SG Singapore
 525 03 SG Singapore
+525 04 SG Singapore
 525 05 SG Singapore
 525 06 SG Singapore
 525 07 SG Singapore
@@ -2309,6 +2394,12 @@
 525 10 SG Singapore
 525 11 SG Singapore
 525 12 SG Singapore
+525 200 SG Singapore
+525 201 SG Singapore
+525 202 SG Singapore
+525 203 SG Singapore
+525 204 SG Singapore
+525 205 SG Singapore
 658 01 SH Saint Helena, Ascension and Tristan da Cunha
 293 10 SI Slovenia
 293 11 SI Slovenia
@@ -2331,6 +2422,7 @@
 231 09 SK Slovakia
 231 10 SK Slovakia
 231 50 SK Slovakia
+231 51 SK Slovakia
 231 99 SK Slovakia
 619 01 SL Sierra Leone
 619 02 SL Sierra Leone
@@ -2367,6 +2459,7 @@
 659 02 SS South Sudan
 659 03 SS South Sudan
 659 04 SS South Sudan
+659 05 SS South Sudan
 659 06 SS South Sudan
 659 07 SS South Sudan
 626 01 ST São Tomé and Príncipe
@@ -2380,6 +2473,7 @@
 417 02 SY Syria
 417 03 SY Syria
 417 09 SY Syria
+417 50 SY Syria
 653 01 SZ Eswatini
 653 02 SZ Eswatini
 653 10 SZ Eswatini
@@ -2483,6 +2577,7 @@
 255 08 UA Ukraine
 255 09 UA Ukraine
 255 10 UA Ukraine
+255 11 UA Ukraine
 255 21 UA Ukraine
 255 23 UA Ukraine
 255 25 UA Ukraine
@@ -3031,6 +3126,7 @@
 434 07 UZ Uzbekistan
 434 08 UZ Uzbekistan
 434 09 UZ Uzbekistan
+434 10 UZ Uzbekistan
 360 050 VC Saint Vincent and the Grenadines
 360 100 VC Saint Vincent and the Grenadines
 360 110 VC Saint Vincent and the Grenadines
@@ -3046,8 +3142,8 @@
 348 770 VG British Virgin Islands
 310 120 VI United States Virgin Islands
 310 260 VI United States Virgin Islands
-310 410 VI United States Virgin Islands
 311 470 VI United States Virgin Islands
+313 790 VI United States Virgin Islands
 452 01 VN Vietnam
 452 02 VN Vietnam
 452 03 VN Vietnam
@@ -3088,6 +3184,8 @@
 655 05 ZA South Africa
 655 06 ZA South Africa
 655 07 ZA South Africa
+655 08 ZA South Africa
+655 09 ZA South Africa
 655 10 ZA South Africa
 655 11 ZA South Africa
 655 12 ZA South Africa
@@ -3095,6 +3193,7 @@
 655 14 ZA South Africa
 655 16 ZA South Africa
 655 17 ZA South Africa
+655 18 ZA South Africa
 655 19 ZA South Africa
 655 21 ZA South Africa
 655 24 ZA South Africa
@@ -3123,6 +3222,7 @@
 645 01 ZM Zambia
 645 02 ZM Zambia
 645 03 ZM Zambia
+645 04 ZM Zambia
 645 07 ZM Zambia
 648 01 ZW Zimbabwe
 648 03 ZW Zimbabwe
