@@ -103,5 +103,5 @@ zones=$(
 
 ( cd $output && md5sum $zones ) > $md5sum
 $signature $output $zones > $signatures
-cat $input | pcregrep '^\s*Link\s+' > $links
+cat $input | grep -E '^\s*Link\s+' > $links
 

@@ -4,7 +4,6 @@ Version:    2025b
 Release:    1
 License:    Public Domain
 BuildArch:  noarch
-BuildRequires: pcre
 URL:        https://github.com/sailfishos/tzdata-timed
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   tzdata
