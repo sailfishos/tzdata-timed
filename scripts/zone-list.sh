@@ -61,7 +61,7 @@ for continent in $input ; do
   test -f $continent
 done
 
-cat $input | pcregrep -v '^\s*Link\s+' | tee $build_dir/aaaa | $zic_cmd -d $output 2> $build_dir/stderr -
+cat $input | grep -E -v '^\s*Link\s+' | tee $build_dir/aaaa | $zic_cmd -d $output 2> $build_dir/stderr -
 cat $build_dir/stderr | grep -v "time zone abbreviation differs from POSIX standard" >&2 || true
 
 {
